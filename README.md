@@ -1,9 +1,9 @@
 # AwareIM Developer Resources
 Growing list of AwareIM resources.
 #### Software
+Written in 100% Java programming language.
   + [Home Page](http://www.awareim.com/)
   + [Video Tutorials](http://awareim.com/video-tutorials/) - Highly Recommended
-  + [Forum](http://www.awareim.com/phpBB2/index.php)  
   + [Documentation](http://awareim.com/documentation/)
       + [User Guide (PDF)](http://www.awareim.com/UserGuide.pdf)
       + [How To (PDF)](http://www.awareim.com/OnlineDoco/indexHowto.html)
@@ -34,13 +34,25 @@ Growing list of AwareIM resources.
       + **5.5** - Builds 1588-1617
         + [AwareIM 5.5 released](http://awareim.com/aware-im-5-5-is-released/)
 
+#### Developer Community
+  + [Developer Forum](http://www.awareim.com/phpBB2/index.php) 
+  + [Community Contributions](http://awareim.com/community-page/) - Plugins, themes, tips and tricks shanred by the developers
+  + [DevNet](http://www.awareim-devnet.com/) - AwareIM Developer Network (DevNet). Still relatively new.
+  + [Develop With AwareIM](https://twitter.com/DWAwareIM) - Unofficial twitter account.
+  + [Built With AwareIM](https://twitter.com/BWAwareIM) - Showcase of applications. Unofficial twitter account.
+
 #### Operating System
-+ Windows
-+ Mac
-+ Linux
+  + Windows
+  + Mac
+  + Linux
 
 #### Under the hood
-##### Tomcat 
-##### Java JDK 
+  + **Tomcat**
+  + **Java JDK**
 
-#### Databases 
+#### JavaScript Frameworks
+##### **Web Application**
+  + ExtJS
+
+##### **Mobile Web**
+  + Sencha Touch
