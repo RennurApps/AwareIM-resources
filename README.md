@@ -11,6 +11,10 @@ Growing list of AwareIM resources.
   + [Purchase a premium support ticket](http://awareim.com/WP_NEW/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support@awareim.com**
 
 #### Operating System
++ Windows
++ Mac
++ Linux
+
 #### Under the hood
 ##### Tomcat 
 ##### Java JDK 
