@@ -1,2 +1,1 @@
-AwareIM-resources
-=================
+AwareIM Developer Resources
