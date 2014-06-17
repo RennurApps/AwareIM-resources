@@ -56,7 +56,7 @@ Written in 100% Java programming language.
 
 #### **Web Application Framework**
   + **Ext JS** - v4.1.0 
-    + [Ext JS Docks](http://docs.sencha.com/extjs/4.1.0/)
+    + [Ext JS Docs](http://docs.sencha.com/extjs/4.1.0/)
     + [Ext JS Examples](http://try.sencha.com/extjs/4.1.0/)
 
 #### **Mobile Web Framework**
