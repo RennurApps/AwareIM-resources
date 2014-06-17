@@ -36,7 +36,7 @@ Written in 100% Java programming language.
 
 #### Developer Community
   + [Developer Forum](http://www.awareim.com/phpBB2/index.php) 
-  + [Community Contributions](http://awareim.com/community-page/) - Plugins, themes, tips and tricks shanred by the developers
+  + [Community Contributions](http://awareim.com/community-page/) - Plugins, themes, tips and tricks shared by the developers
   + [DevNet](http://www.awareim-devnet.com/) - AwareIM Developer Network (DevNet). Still relatively new.
   + [Develop With AwareIM](https://twitter.com/DWAwareIM) - Unofficial twitter account.
   + [Built With AwareIM](https://twitter.com/BWAwareIM) - Showcase of applications. Unofficial twitter account.
