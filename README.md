@@ -51,7 +51,7 @@ Written in 100% Java programming language.
   + **Java JDK**
 
 #### Javascript Framework
-  + [Programmers Reference (PDF)](http://bit.ly/AIMProgRef) - Java programmers can add extensions and plugins to the applications configured with Aware IM.
+  + [Programmers Reference (PDF)](http://bit.ly/U4TGIX) - Java programmers can add extensions and plugins to the applications configured with Aware IM.
   + [Sencha Fiddle](https://fiddle.sencha.com/)
 
 #### **Web Application Framework**
