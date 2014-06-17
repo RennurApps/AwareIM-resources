@@ -12,26 +12,26 @@ Written in 100% Java programming language.
       + [Ordering](http://www.awareim.com/sample_ordering.html)
       + [Issue Resolution](http://www.awareim.com/sample_issue_resolution.html)
       + [Document Management](http://www.awareim.com/sample_documents.html)
-      + [Project Management](http://www.awareim.com/sample_project_mgmt.html) - The application showcases Gantt chart. Gannt chart is an optional feature in version 5.9 an is available at additional cost.
+      + [Project Management](http://www.awareim.com/sample_project_mgmt.html) - The application showcases Gantt chart. Gannt chart is an optional feature in v5.9 and is available at additional cost.
       + [Library Management](http://www.awareim.com/sample_library.html)
       + [Photo Album](http://www.awareim.com/sample_photoalbum.html)
       + [**Mobile Applications**](http://50.62.145.173/AwareIM/samplesMobile.html) - Mobile option is available at additional cost. 
   + [**Download AwareIM**](http://awareim.com/try/) - 30 Day Evaluation Version
-      + [Version 5.9 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
-      + [Version 5.9 for Linux](http://awareim.com/WP_NEW/download?DownloadType=Linux) - The file is an archive containing Aware IM components.
-      + [Version 5.9 for Mac OS X](http://awareim.com/WP_NEW/download?DownloadType=Mac) - The file is a disk image containing installation program
+      + [v5.9 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
+      + [v5.9 for Linux](http://awareim.com/WP_NEW/download?DownloadType=Linux) - The file is an archive containing Aware IM components.
+      + [v5.9 for Mac OS X](http://awareim.com/WP_NEW/download?DownloadType=Mac) - The file is a disk image containing installation program
       + [Installation Guide](http://www.awareim.com/InstallationGuide.pdf)
   + [Purchase a premium support ticket](http://awareim.com/WP_NEW/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support@awareim.com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
-      + **5.9** - Builds 1881+
+      + **v5.9** - Builds 1881+
         + [AwareIM 5.9 released](http://awareim.com/aware-im-5-9-released/)
-      + **5.8** - Builds 1797-1814 
+      + **v5.8** - Builds 1797-1814 
         + [AwareIM 5.8 released](http://awareim.com/aware-im-5-8-is-released/)
-      + **5.7** - Builds 1691-1719
+      + **v5.7** - Builds 1691-1719
         + [AwareIM 5.7 released](http://awareim.com/aware-im-5-7-is-released/)
-      + **5.6** - Builds 1638-1671
+      + **v5.6** - Builds 1638-1671
         + [AwareIM 5.6 released](http://awareim.com/aware-im-5-6-is-released/)
-      + **5.5** - Builds 1588-1617
+      + **v5.5** - Builds 1588-1617
         + [AwareIM 5.5 released](http://awareim.com/aware-im-5-5-is-released/)
 
 #### Developer Community
@@ -50,9 +50,26 @@ Written in 100% Java programming language.
   + **Tomcat**
   + **Java JDK**
 
-#### JavaScript Frameworks
-##### **Web Application**
-  + ExtJS
+#### Javascript Framework
+  + [Programmers Reference](http://bit.ly/AIMProgRef) - Java programmers can add programming extensions to the applications configured with Aware IM.
+  + [Sencha Fiddle](https://fiddle.sencha.com/)
 
-##### **Mobile Web**
-  + Sencha Touch
+#### **Web Application Framework**
+  + **Ext JS** - v4.1.0 
+    + [Ext JS Docks](http://docs.sencha.com/extjs/4.1.0/)
+    + [Ext JS Examples](http://try.sencha.com/extjs/4.1.0/)
+
+#### **Mobile Web Framework**
+  + **Sencha Touch** v2.3.1 (latest)
+
+#### Front-end Framework
+  + [**Bootstrap**](http://getbootstrap.com/) - Currently v3.1.1
+    + **Integrating with AwareIM** 
+      + [Forum Posts](#)
+
+#### Hybrid Native Apps
+  + **Phonegap** support
+
+#### Features 
+
+# To be continued.....
