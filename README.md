@@ -3,6 +3,23 @@ Growing list of Aware IM developer tools, tips, news and resources. Contribution
 #### Software
 Written in 100% Java programming language.
   + [Home Page](http://www.awareim.com/)
+  + [**Download AwareIM**](http://awareim.com/try/) - 30 Day Evaluation Version
+      + [v5.9 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
+      + [v5.9 for Linux](http://awareim.com/WP_NEW/download?DownloadType=Linux) - The file is an archive containing Aware IM components.
+      + [v5.9 for Mac OS X](http://awareim.com/WP_NEW/download?DownloadType=Mac) - The file is a disk image containing installation program
+      + [Installation Guide](http://www.awareim.com/InstallationGuide.pdf)
+  + [Purchase a premium support ticket](http://awareim.com/WP_NEW/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support@awareim.com**
+  + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
+      + **v5.9** - Builds 1881+
+        + [AwareIM 5.9 released](http://awareim.com/aware-im-5-9-released/)
+      + **v5.8** - Builds 1797-1814 
+        + [AwareIM 5.8 released](http://awareim.com/aware-im-5-8-is-released/)
+      + **v5.7** - Builds 1691-1719
+        + [AwareIM 5.7 released](http://awareim.com/aware-im-5-7-is-released/)
+      + **v5.6** - Builds 1638-1671
+        + [AwareIM 5.6 released](http://awareim.com/aware-im-5-6-is-released/)
+      + **v5.5** - Builds 1588-1617
+        + [AwareIM 5.5 released](http://awareim.com/aware-im-5-5-is-released/)
   + [**Video Tutorials**](http://awareim.com/video-tutorials/) - Highly Recommended
     + **Core Tutorials**
       + **Getting Started**
@@ -55,23 +72,6 @@ Written in 100% Java programming language.
       + [Library Management](http://www.awareim.com/sample_library.html)
       + [Photo Album](http://www.awareim.com/sample_photoalbum.html)
       + [**Mobile Applications**](http://50.62.145.173/AwareIM/samplesMobile.html) - Mobile option is available at additional cost. 
-  + [**Download AwareIM**](http://awareim.com/try/) - 30 Day Evaluation Version
-      + [v5.9 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
-      + [v5.9 for Linux](http://awareim.com/WP_NEW/download?DownloadType=Linux) - The file is an archive containing Aware IM components.
-      + [v5.9 for Mac OS X](http://awareim.com/WP_NEW/download?DownloadType=Mac) - The file is a disk image containing installation program
-      + [Installation Guide](http://www.awareim.com/InstallationGuide.pdf)
-  + [Purchase a premium support ticket](http://awareim.com/WP_NEW/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support@awareim.com**
-  + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
-      + **v5.9** - Builds 1881+
-        + [AwareIM 5.9 released](http://awareim.com/aware-im-5-9-released/)
-      + **v5.8** - Builds 1797-1814 
-        + [AwareIM 5.8 released](http://awareim.com/aware-im-5-8-is-released/)
-      + **v5.7** - Builds 1691-1719
-        + [AwareIM 5.7 released](http://awareim.com/aware-im-5-7-is-released/)
-      + **v5.6** - Builds 1638-1671
-        + [AwareIM 5.6 released](http://awareim.com/aware-im-5-6-is-released/)
-      + **v5.5** - Builds 1588-1617
-        + [AwareIM 5.5 released](http://awareim.com/aware-im-5-5-is-released/)
 
 #### Developer Community
   + [Developer Forum](http://www.awareim.com/phpBB2/index.php) 
