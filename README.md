@@ -56,7 +56,7 @@ Written in 100% Java programming language.
 #### Under the hood
 > Caution: Installing AwareIM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced with during installation. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
-##### Windows Systems
+##### Windows Based Systems
 
   + [**Tomcat**](http://tomcat.apache.org/) - AwareIM installs **Tomcat 6.0.35 32bit** by default. 
     + [Tomcat **v6.0.41**](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains critical bug & security fixes.
@@ -67,9 +67,11 @@ Written in 100% Java programming language.
         + On windows, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
 
-##### Linux Systems  
+##### Linux Based Systems  
+  + TBA
 
-##### Mac OS X Systems  
+##### Mac OS X Based Systems  
+  + TBA
 
 #### Javascript Framework
   + [Programmers Reference (PDF)](http://bit.ly/U4TGIX) - Java programmers can add extensions and plugins to the applications configured with Aware IM.
