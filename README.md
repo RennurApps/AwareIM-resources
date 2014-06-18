@@ -50,10 +50,10 @@ Written in 100% Java programming language.
 > Caution: Installing AwareIM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced with during installation. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
   + [**Tomcat**](http://tomcat.apache.org/) - AwareIM installs **Tomcat 6.0.35 32bit** by default. 
-    + [Tomcat **v6.0.41**](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. 
+    + [Tomcat **v6.0.41**](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains critical bug & security fixes.
       + Installing AwareIM Tomcat - Search on the [forum](http://www.awareim.com/phpBB2/index.php). Posting the link soon.
   + **Java JDK**
-    + [Java Platform (JDK) 8u5](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64 bit JDK recommended. Default JDK installed by AwareIM is unknown.
+    + [Java Platform (JDK) 8u5](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. Default JDK installed by AwareIM is unknown. Java claims increase in performance with v8+.
       + **AwareIM JDK Installation**
         + On windows, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
