@@ -3,7 +3,46 @@ Growing list of Aware IM developer tools, tips, news and resources. Contribution
 #### Software
 Written in 100% Java programming language.
   + [Home Page](http://www.awareim.com/)
-  + [Video Tutorials](http://awareim.com/video-tutorials/) - Highly Recommended
+  + [**Video Tutorials**](http://awareim.com/video-tutorials/) - Highly Recommended
+    + **Core Tutorials**
+      + **Getting Started**
+        + [Getting Started](http://www.awareim.com/tutorials/getting_started/getting_started.html)
+        + [Creating Applications](http://www.awareim.com/tutorials/creating_applications/creating_applications.html)
+      + [**Relationships Between Business Objects**](http://www.awareim.com/tutorials/Relationships/Relationships.html)
+      + **Forms**
+        + [Forms - Introduction](http://www.awareim.com/tutorials/Forms/Forms.html)
+        + [Advanced Forms - Part 1](http://www.awareim.com/tutorials/Advanced_Forms/Advanced_Forms.html)
+        + [Advanced Forms - Part 2](http://www.awareim.com/tutorials/Advanced_Forms2/Advanced_Forms2.html)
+      + **Business Rules and Processes**
+        + [Busines Rules - Introduction](http://www.awareim.com/tutorials/Rules/Rules.html)
+        + [BusinesRule Execution](http://www.awareim.com/tutorials/Rule_Execution/Rule_Execution.html)
+        + [Processes](http://www.awareim.com/tutorials/Processes/Processes.html)
+      + **Queries**
+        + [Queries - Introduction](http://www.awareim.com/tutorials/Queries/Queries.html)
+        + [Query Results Presentation](http://www.awareim.com/tutorials/Query_Presentation/Query_Presentation.html)
+      + [**Visual Perspectives**](http://www.awareim.com/tutorials/VP1/VP1.html) 
+      + [**Access Control**](http://www.awareim.com/tutorials/Access/Access.html)
+      + [**Documents**](http://www.awareim.com/tutorials/Documents/Documents.html)
+      + [**Emails**](http://www.awareim.com/tutorials/Emails/Emails.html)
+      + [**Calendar and Scheduler**](http://www.awareim.com/tutorials/Calendar/Calendar.html)
+      + [**Trees**](http://www.awareim.com/tutorials/Trees/Trees.html)
+      + [**Charts**](http://www.awareim.com/tutorials/Charts/Charts.html)
+      + [**Google Maps**](http://www.awareim.com/tutorials/Google_Maps/Google_Maps.html)
+      + [**Mobile Applications**](http://www.awareim.com/tutorials/Mobile/Mobile.html)
+      + [**Web Services**](http://www.awareim.com/tutorials/WebServices/WebServices.html)
+      + [**User Defined Workflows (Processes)**](http://www.awareim.com/tutorials/UDP/UDP.html)
+    + **Version 5.9+**
+      + [**What's New in 5.9**](http://www.awareim.com/59/New/New%20In%205,9.html) - **Video tutorial**
+      + [Building Hybrid Native Apps with AwareIM](http://www.awareim.com/tutorials/NativeMobileApps/NativeMobileApps.html)
+      + [Working with Gantt Chart](http://www.awareim.com/tutorials/GanttChart/GanttChart.html)
+    + **Version 5.8+**
+      + [**What's New in 5.8**](http://awareim.com/58/New/NewIn58.html) - **Video tutorial**
+      + [User Tours/ In-place editing of documents](http://www.awareim.com/58/New/NewIn58.html)
+    + **Version 5.7+**
+      + [**What's New in 5.7**](http://www.awareim.com/57/NewIn57/NewIn57.html) - **Video tutorial**
+      + [Drag and Drop Support/ Image Galleries](http://www.awareim.com/57/NewIn57/NewIn57.html)
+    + **Version 5.6+**
+      + [Import/Export Templates](http://awareim.com/tutorials/UDIT/UDIT.html)
   + [Documentation](http://awareim.com/documentation/)
       + [User Guide (PDF)](http://www.awareim.com/UserGuide.pdf)
       + [How To (PDF)](http://www.awareim.com/OnlineDoco/indexHowto.html)
@@ -12,7 +51,7 @@ Written in 100% Java programming language.
       + [Ordering](http://www.awareim.com/sample_ordering.html)
       + [Issue Resolution](http://www.awareim.com/sample_issue_resolution.html)
       + [Document Management](http://www.awareim.com/sample_documents.html)
-      + [Project Management](http://www.awareim.com/sample_project_mgmt.html) - The application showcases Gantt chart. Gannt chart is an optional feature in v5.9 and is available at additional cost.
+      + [Project Management](http://www.awareim.com/sample_project_mgmt.html) - The application showcases Gantt chart. Gannt chart is an optional feature in v5.9 and is available at additional cost. 
       + [Library Management](http://www.awareim.com/sample_library.html)
       + [Photo Album](http://www.awareim.com/sample_photoalbum.html)
       + [**Mobile Applications**](http://50.62.145.173/AwareIM/samplesMobile.html) - Mobile option is available at additional cost. 
