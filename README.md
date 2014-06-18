@@ -44,7 +44,14 @@ Written in 100% Java programming language.
 #### Operating System
   + Windows
   + Mac
-  + Linux
+  + Linux 
+  
+
+#### Java
+  + **Java Downloads** - Operating system install only
+    + [**Version 7 Update 60**](https://www.java.com/en/download/) - (filesize: 29.5 MB)
+    + Java Downloads for All Operating Systems
+      + [Version 7 Update 60](https://www.java.com/en/download/manual.jsp) - Manual Download
 
 #### Under the hood
 > Caution: Installing AwareIM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced with during installation. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
