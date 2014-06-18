@@ -50,28 +50,25 @@ Written in 100% Java programming language.
 #### Java
   + **Java Downloads** - Operating system install only
     + [**Version 7 Update 60**](https://www.java.com/en/download/) - (filesize: 29.5 MB)
-    + Java Downloads for All Operating Systems
+    + Java Downloads for **All Operating Systems**
       + [Version 7 Update 60](https://www.java.com/en/download/manual.jsp) - Manual Download
 
 #### Under the hood
 > Caution: Installing AwareIM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced with during installation. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
-##### Windows Based Systems
-
   + [**Tomcat**](http://tomcat.apache.org/) - AwareIM installs **Tomcat 6.0.35 32bit** by default. 
-    + [Tomcat **v6.0.41**](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains critical bug & security fixes.
-      + Installing AwareIM Tomcat - Search on the [forum](http://www.awareim.com/phpBB2/index.php). Posting the link soon.
+    + [Tomcat **v6.0.41**](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains critical bug & security fixes. 
+      + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
+      + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
+        + **Windows Based Systems**
+          + Installing AwareIM Tomcat - Search on the [forum](http://www.awareim.com/phpBB2/index.php). Posting the link soon.
+        + **Linux Based Systems**
+          + [Tomcat on Linux](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt) - Release Notes
   + **Java JDK**
     + [Java Platform (JDK) 8u5](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. Default JDK installed by AwareIM is unknown. Java claims increase in performance with v8+.
       + **AwareIM JDK Installation**
-        + On windows, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
+        + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
-
-##### Linux Based Systems  
-  + TBA
-
-##### Mac OS X Based Systems  
-  + TBA
 
 #### Javascript Framework
   + [Programmers Reference (PDF)](http://bit.ly/U4TGIX) - Java programmers can add extensions and plugins to the applications configured with Aware IM.
