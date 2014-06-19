@@ -50,6 +50,17 @@ Written in 100% Java programming language.
       + [**User Defined Workflows (Processes)**](http://www.awareim.com/tutorials/UDP/UDP.html)
     + **Version 5.9+**
       + [**What's New in 5.9**](http://www.awareim.com/59/New/New%20In%205,9.html) - **Video tutorial**
+        + **Electronic Signatures** from 00:38min - Works on both mobile & web applications
+        + **Calendar and Scheduling** from 03:20min - Non-Mobile improvements
+        + **Query Browser Preview** from 05.:05min 
+        + **Save Online Charts** from 05:30min - Save charts as images using SAVE SCREEN action
+        + **Mobile Applications** Intro from 05:52min   
+          + **Mobile App: Display Charts** from 06:45min 
+          + **Slide-out Menu** from 07:01
+          + **Custom Query Templates** from 07:50min 
+          + **Mobile Themes** from 08:30
+          + **Document Support** from 08:50
+          + **Column Names for Grids** from 09:10
       + [Building Hybrid Native Apps with AwareIM](http://www.awareim.com/tutorials/NativeMobileApps/NativeMobileApps.html)
       + [Working with Gantt Chart](http://www.awareim.com/tutorials/GanttChart/GanttChart.html)
     + **Version 5.8+**
