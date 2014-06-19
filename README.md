@@ -21,7 +21,7 @@ Written in 100% Java programming language.
       + **v5.5** - Builds 1588-1617
         + [AwareIM 5.5 released](http://awareim.com/aware-im-5-5-is-released/)
   + [**Video Tutorials**](http://awareim.com/video-tutorials/) - Highly Recommended
-    + **Core Tutorials**
+    + **Core Tutorials** - Watch first if not familiar with AwareIM cncepts.
       + **Getting Started**
         + [Getting Started](http://www.awareim.com/tutorials/getting_started/getting_started.html)
         + [Creating Applications](http://www.awareim.com/tutorials/creating_applications/creating_applications.html)
@@ -65,7 +65,11 @@ Written in 100% Java programming language.
       + [Working with Gantt Chart](http://www.awareim.com/tutorials/GanttChart/GanttChart.html)
     + **Version 5.8+**
       + [**What's New in 5.8**](http://awareim.com/58/New/NewIn58.html) - **Video tutorial**
-      + [User Tours/ In-place editing of documents](http://www.awareim.com/58/New/NewIn58.html)
+        + **Screen Tours** from 00:20min
+        + **Edit Documents using Zoho.com** from 08:20min 
+        + **RESTful Services** from 11:20min
+        + **Auto Increment** improvements from 11:35min
+      + [User Tours / In-place editing of documents](http://www.awareim.com/58/New/NewIn58.html)
     + **Version 5.7+**
       + [**What's New in 5.7**](http://www.awareim.com/57/NewIn57/NewIn57.html) - **Video tutorial**
       + [Drag and Drop Support/ Image Galleries](http://www.awareim.com/57/NewIn57/NewIn57.html)
