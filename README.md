@@ -66,10 +66,9 @@ Written in 100% Java programming language.
     + **Version 5.8+**
       + [**What's New in 5.8**](http://awareim.com/58/New/NewIn58.html) - **Video tutorial**
         + **Screen Tours** from 00:20min
-        + **Edit Documents using Zoho.com** from 08:20min 
+        + **In-place Editing using Zoho.com** from 08:20min 
         + **RESTful Services** from 11:20min
         + **Auto Increment** improvements from 11:35min
-      + [User Tours / In-place editing of documents](http://www.awareim.com/58/New/NewIn58.html)
     + **Version 5.7+**
       + [**What's New in 5.7**](http://www.awareim.com/57/NewIn57/NewIn57.html) - **Video tutorial**
       + [Drag and Drop Support/ Image Galleries](http://www.awareim.com/57/NewIn57/NewIn57.html)
