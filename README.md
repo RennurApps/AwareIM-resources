@@ -71,7 +71,17 @@ Written in 100% Java programming language.
         + **Auto Increment** improvements from 11:35min
     + **Version 5.7+**
       + [**What's New in 5.7**](http://www.awareim.com/57/NewIn57/NewIn57.html) - **Video tutorial**
-      + [Drag and Drop Support/ Image Galleries](http://www.awareim.com/57/NewIn57/NewIn57.html)
+        + **Lightbox (JavaScript)** from 00:33min
+        + **Drag and Drop Support** from 01:50min
+        + **Multi File Upload** from 05:36min
+        + **Separate Database for a Business Space (BS)** from 07:45min - Assigning an separate database form a BS is optional.
+        + **Documents Storage Options** from 08:30min - Store documents in the server file system and in the database.
+        + **Multiple Email Accounts** from 09:15min
+        + **Database Scripts** from 10:15min
+        + **Config Tool Categories** from 11:20min - Group your Business Objects, Processes and Queries under different categories.
+        + **Re-order Tabs** from 12:30min
+        + **Input Fields Auto Focus** from 12:45min
+        + **Google Maps Polygon Areas** from 12:57min
     + **Version 5.6+**
       + [Import/Export Templates](http://awareim.com/tutorials/UDIT/UDIT.html)
   + [Documentation](http://awareim.com/documentation/)
