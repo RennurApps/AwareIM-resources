@@ -74,7 +74,7 @@ Written in 100% Java programming language.
         + **Lightbox (JavaScript)** from 00:33min
         + **Drag and Drop Support** from 01:50min
         + **Multi File Upload** from 05:36min
-        + **Separate Database for a Business Space (BS)** from 07:45min - Assigning an separate database form a BS is optional.
+        + **Separate Database for a Business Space (BS)** from 07:45min - Assigning an separate database for a BS is optional.
         + **Documents Storage Options** from 08:30min - Store documents in the server file system and in the database.
         + **Multiple Email Accounts** from 09:15min
         + **Database Scripts** from 10:15min
