@@ -134,7 +134,7 @@ Written in 100% Java programming language.
             4. Select all files and folders and press Crl+c to copy
             5. Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
             6. Press Ctrl+v to paste and replace all files and folders.
-            7. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\AwareIM\Tomcat\**lib** folder to replace the old one.
+            7. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\AwareIM\Tomcat\lib folder to replace the old one.
         + **Linux Based Systems**
           + [Tomcat on Linux](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt) - Release Notes
   + **Java JDK**
