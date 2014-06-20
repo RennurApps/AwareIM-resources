@@ -21,7 +21,7 @@ Written in 100% Java programming language.
       + **v5.5** - Builds 1588-1617
         + [AwareIM 5.5 released](http://awareim.com/aware-im-5-5-is-released/)
   + [**Video Tutorials**](http://awareim.com/video-tutorials/) - Highly Recommended
-    + **Core Tutorials** - Watch first if not familiar with AwareIM cncepts.
+    + **Core Tutorials** - Watch first if not familiar with AwareIM concepts.
       + **Getting Started**
         + [Getting Started](http://www.awareim.com/tutorials/getting_started/getting_started.html)
         + [Creating Applications](http://www.awareim.com/tutorials/creating_applications/creating_applications.html)
