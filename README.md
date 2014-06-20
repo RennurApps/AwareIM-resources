@@ -7,7 +7,6 @@ Written in 100% Java programming language.
       + [v5.9 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Linux](http://awareim.com/WP_NEW/download?DownloadType=Linux) - The file is an archive containing Aware IM components.
       + [v5.9 for Mac OS X](http://awareim.com/WP_NEW/download?DownloadType=Mac) - The file is a disk image containing installation program
-      + [Installation Guide](http://www.awareim.com/InstallationGuide.pdf)
   + [Purchase a premium support ticket](http://awareim.com/WP_NEW/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support@awareim.com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
       + **v5.9** - Builds 1881+
@@ -85,6 +84,7 @@ Written in 100% Java programming language.
     + **Version 5.6+**
       + [Import/Export Templates](http://awareim.com/tutorials/UDIT/UDIT.html)
   + [Documentation](http://awareim.com/documentation/)
+      + [Installation Guide (PDF)](http://www.awareim.com/InstallationGuide.pdf)
       + [User Guide (PDF)](http://www.awareim.com/UserGuide.pdf)
       + [How To (PDF)](http://www.awareim.com/OnlineDoco/indexHowto.html)
   + [**Sample Applications**](http://awareim.com/sample-applications/) - Live web & mobile applications 
