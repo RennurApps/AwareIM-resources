@@ -117,7 +117,7 @@ Written in 100% Java programming language.
       + [Version 7 Update 60](https://www.java.com/en/download/manual.jsp) - Manual Download
 
 #### Under the hood - Updates and Security Fixes
-> Disclaimer: Use this information and instructions at your own risk. There is no support provided for any uf the updates performed outside of default AwareIM installation. 
+> Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default AwareIM installation. 
 
 > Caution: Installing AwareIM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
