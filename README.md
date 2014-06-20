@@ -120,7 +120,7 @@ Written in 100% Java programming language.
 > Caution: Installing AwareIM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
   + [**Tomcat**](http://tomcat.apache.org/) - **Tomcat 6.0.35 32bit** installed by default. 
-    + [Tomcat **v6.0.41**](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains critical bug & security fixes. 
+    + [Tomcat **v6.0.41**](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains Important vulnerability fixes.
       + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
       + [Security](http://tomcat.apache.org/security-6.html) - This page lists all security vulnerabilities fixed in released versions of Apache Tomcat 6.x.
       + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
