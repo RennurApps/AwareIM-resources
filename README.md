@@ -116,7 +116,9 @@ Written in 100% Java programming language.
     + Java Downloads for **All Operating Systems**
       + [Version 7 Update 60](https://www.java.com/en/download/manual.jsp) - Manual Download
 
-#### Under the hood
+#### Under the hood - Updates and Security Fixes
+> Disclaimer: Use this information and instructions at your own risk. There is no support provided for any for the updrades outside of default AwareIM installation. 
+
 > Caution: Installing AwareIM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
   + [**Tomcat**](http://tomcat.apache.org/) - **Tomcat 6.0.35 32bit** installed by default. 
@@ -125,7 +127,10 @@ Written in 100% Java programming language.
       + [Security](http://tomcat.apache.org/security-6.html) - This page lists all security vulnerabilities fixed in released versions of Apache Tomcat 6.x.
       + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
         + **Windows Based Systems**
-          + Installing AwareIM Tomcat - Search on the [forum](http://www.awareim.com/phpBB2/index.php). Posting the link soon.
+          + Installing AwareIM Tomcat
+            1. Extract the archive and open the folder.
+            2. Open c:/Tomcat/**webapps** folder and rename or delete c:/Tomcat/webapps/**ROOT** - This is optional. You can use this folder to store store your own favicon.ico, error pages and other HTML/CSS/JS home page files. 
+            3. S
         + **Linux Based Systems**
           + [Tomcat on Linux](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt) - Release Notes
   + **Java JDK**
