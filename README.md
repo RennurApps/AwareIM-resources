@@ -150,8 +150,12 @@ Written in 100% Java programming language.
       + **AwareIM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
-  + [**Apache ActiveMQ**](http://activemq.apache.org/) 
-    + [5.10.0 Release](http://activemq.apache.org/activemq-5100-release.html)
+  + [**Apache ActiveMQ**](http://activemq.apache.org/) - v5.8.0 installed by default.
+    + [5.10.0 Release](http://activemq.apache.org/activemq-5100-release.html) 
+      + Installation (Always backup original files first)
+        + Extract, rename activemq-all-5.10.0.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib directory. 
+    + [5.9.0 Release](http://activemq.apache.org/activemq-590-release.html) 
+    + [5.8.0 Release](http://activemq.apache.org/activemq-580-release.html)
 
 #### Javascript Framework
   + [Programmers Reference (PDF)](http://bit.ly/U4TGIX) - Java programmers can add extensions and plugins to the applications configured with Aware IM.
