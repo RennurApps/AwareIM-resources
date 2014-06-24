@@ -110,11 +110,19 @@ Written in 100% Java programming language.
   + Linux 
   
 
-#### Java
-  + **Java Downloads** - Operating system install only
-    + [**Version 7 Update 60**](https://www.java.com/en/download/) - (filesize: 29.5 MB)
-    + Java Downloads for **All Operating Systems**
-      + [Version 7 Update 60](https://www.java.com/en/download/manual.jsp) - Manual Download
+#### Browser Support
+  + **Java**
+    + **Downloads** - Operating system Java update
+      + [**Version 7 Update 60**](https://www.java.com/en/download/) - (filesize: 29.5 MB)
+      + **All Operating Systems**
+        + [Version 7 Update 60](https://www.java.com/en/download/manual.jsp) - Manual Download
+  + **Chrome Browser** - Recommended
+    + [Desktop Computer](https://www.google.com/intl/en_au/chrome/browser/)
+    + [Phone and Tablet](http://g.co/ChromeApp)
+      + [Google Play](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en) - Available on Android 4.0, Ice Cream Sandwich, or later.
+      + [App Store](http://itunes.apple.com/us/app/chrome/id535886823?ls=1&mt=8) - Available for iOS 6.0 or later.
+    + [iPhone and iPad](https://www.google.com/chrome/browser/mobile/ios.html)
+      + [App Store](http://itunes.apple.com/us/app/chrome/id535886823?ls=1&mt=8) - Available for iOS 6.0 or later.
 
 #### Under the hood - Updates and Security Fixes
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default AwareIM installation. 
@@ -130,7 +138,7 @@ Written in 100% Java programming language.
           + Installing AwareIM Tomcat - Stop the AwareIM server before updating Tomcat.
             1. **Extract** the archive and open the folder.
             2. Open **webapps** folder.
-            3. Rename or delete **ROOT** folder - This is optional. You can use this folder to store store your own favicon.ico, error pages and other HTML/CSS/JS home page files. 
+            3. Rename or delete **ROOT** folder - This is optional. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files. 
             4. Select all files and folders and press Crl+c to copy
             5. Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
             6. Press Ctrl+v to paste and replace all files and folders.
