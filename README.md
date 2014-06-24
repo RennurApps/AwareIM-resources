@@ -134,8 +134,8 @@ Written in 100% Java programming language.
       + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
       + [Security](http://tomcat.apache.org/security-6.html) - This page lists all security vulnerabilities fixed in released versions of Apache Tomcat 6.x.
       + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
-        + **Windows Based Systems**
-          + Installing AwareIM Tomcat - Stop the AwareIM server before updating Tomcat.
+        + Windows Based Systems
+          + **Installation** - Stop the AwareIM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
             1. **Extract** the archive and open the folder.
             2. Open **webapps** folder.
             3. Rename or delete **ROOT** folder - This is optional. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files. 
@@ -143,8 +143,9 @@ Written in 100% Java programming language.
             5. Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
             6. Press Ctrl+v to paste and replace all files and folders.
             7. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\AwareIM\Tomcat\lib folder to replace the old one.
-        + **Linux Based Systems**
+        + **Linux Based Systems** - 
           + [Tomcat on Linux](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt) - Release Notes
+          + **Installation** - 
   + **Java JDK**
     + [Java Platform (JDK) 8u5](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + **AwareIM JDK Installation**
