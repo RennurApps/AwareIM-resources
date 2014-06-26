@@ -175,7 +175,7 @@ Written in 100% Java programming language.
     + Integrating with AwareIM* 
       + Manual configuration through Startup.html
     + [LayoutIt!](http://www.layoutit.com/build) - Drag & drop layout builder
-    + [Huge list of bootstrap resources](bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
+    + [Huge list of bootstrap resources](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
 
 #### Hybrid Native Apps
   + **Phonegap** support
