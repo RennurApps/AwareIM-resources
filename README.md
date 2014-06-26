@@ -172,8 +172,10 @@ Written in 100% Java programming language.
 
 #### Front-end Framework
   + [**Bootstrap**](http://getbootstrap.com/) - Currently v3.1.1
-    + **Integrating with AwareIM** 
-      + [Forum Posts](#)
+    + Integrating with AwareIM* 
+      + Manual configuration through Startup.html
+    + [LayoutIt!](http://www.layoutit.com/build) - Drag & drop layout builder
+    + [Huge list of bootstrap resources](bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
 
 #### Hybrid Native Apps
   + **Phonegap** support
