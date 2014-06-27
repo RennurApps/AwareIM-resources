@@ -1,26 +1,26 @@
-# AwareIM Developer Resources
+# Aware IM Developer Resources
 Growing list of Aware IM developer tools, tips, news and resources. Contributions and suggestions welcome.
 #### Software
 Written in 100% Java programming language.
   + [Home Page](http://www.awareim.com/)
-  + [**Download AwareIM**](http://awareim.com/try/) - 30 Day Evaluation Version
+  + [**Download Aware IM**](http://awareim.com/try/) - 30 Day Evaluation Version
       + [v5.9 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Linux](http://awareim.com/WP_NEW/download?DownloadType=Linux) - The file is an archive containing Aware IM components.
       + [v5.9 for Mac OS X](http://awareim.com/WP_NEW/download?DownloadType=Mac) - The file is a disk image containing installation program
   + [Purchase a premium support ticket](http://awareim.com/WP_NEW/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
       + **v5.9** - Builds 1881+
-        + [AwareIM 5.9 released](http://awareim.com/aware-im-5-9-released/)
+        + [Aware IM 5.9 released](http://awareim.com/aware-im-5-9-released/)
       + **v5.8** - Builds 1797-1814 
-        + [AwareIM 5.8 released](http://awareim.com/aware-im-5-8-is-released/)
+        + [Aware IM 5.8 released](http://awareim.com/aware-im-5-8-is-released/)
       + **v5.7** - Builds 1691-1719
-        + [AwareIM 5.7 released](http://awareim.com/aware-im-5-7-is-released/)
+        + [Aware IM 5.7 released](http://awareim.com/aware-im-5-7-is-released/)
       + **v5.6** - Builds 1638-1671
-        + [AwareIM 5.6 released](http://awareim.com/aware-im-5-6-is-released/)
+        + [Aware IM 5.6 released](http://awareim.com/aware-im-5-6-is-released/)
       + **v5.5** - Builds 1588-1617
-        + [AwareIM 5.5 released](http://awareim.com/aware-im-5-5-is-released/)
+        + [Aware IM 5.5 released](http://awareim.com/aware-im-5-5-is-released/)
   + [**Video Tutorials**](http://awareim.com/video-tutorials/) - Highly Recommended
-    + **Core Tutorials** - Watch first if not familiar with AwareIM concepts.
+    + **Core Tutorials** - Watch first if not familiar with Aware IM concepts.
       + **Getting Started**
         + [Getting Started](http://www.awareim.com/tutorials/getting_started/getting_started.html)
         + [Creating Applications](http://www.awareim.com/tutorials/creating_applications/creating_applications.html)
@@ -60,7 +60,7 @@ Written in 100% Java programming language.
           + **Mobile Themes** from 08:30
           + **Document Support** from 08:50
           + **Column Names for Grids** from 09:10
-      + [Building Hybrid Native Apps with AwareIM](http://www.awareim.com/tutorials/NativeMobileApps/NativeMobileApps.html)
+      + [Building Hybrid Native Apps with Aware IM](http://www.awareim.com/tutorials/NativeMobileApps/NativeMobileApps.html)
       + [Working with Gantt Chart](http://www.awareim.com/tutorials/GanttChart/GanttChart.html)
     + **Version 5.8+**
       + [**What's New in 5.8**](http://awareim.com/58/New/NewIn58.html) - **Video tutorial**
@@ -100,9 +100,9 @@ Written in 100% Java programming language.
 #### Developer Community
   + [Developer Forum](http://www.awareim.com/phpBB2/index.php) 
   + [Community Contributions](http://awareim.com/community-page/) - Plugins, themes, tips and tricks shared by the developers
-  + [DevNet](http://www.awareim-devnet.com/) - AwareIM Developer Network (DevNet). Still relatively new.
-  + [Develop With AwareIM](https://twitter.com/DWAwareIM) - Unofficial twitter account.
-  + [Built With AwareIM](https://twitter.com/BWAwareIM) - Showcase of applications. Unofficial twitter account.
+  + [DevNet](http://www.awareim-devnet.com/) - Aware IM Developer Network (DevNet). Still relatively new.
+  + [Develop With Aware IM](https://twitter.com/DWAwareIM) - Unofficial twitter account.
+  + [Built With Aware IM](https://twitter.com/BWAwareIM) - Showcase of applications. Unofficial twitter account.
 
 #### Operating System
   + Windows
@@ -125,9 +125,9 @@ Written in 100% Java programming language.
       + [App Store](http://itunes.apple.com/us/app/chrome/id535886823?ls=1&mt=8) - Available for iOS 6.0 or later.
 
 #### Under the hood - Updates and Security Fixes
-> Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default AwareIM installation. 
+> Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation. 
 
-> Caution: Installing AwareIM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
+> Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
   + [**Tomcat**](http://tomcat.apache.org/) - **Tomcat 6.0.35 32bit** installed by default. 
     + [Tomcat **v6.0.41**](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains Important vulnerability fixes.
@@ -135,20 +135,20 @@ Written in 100% Java programming language.
       + [Security](http://tomcat.apache.org/security-6.html) - This page lists all security vulnerabilities fixed in released versions of Apache Tomcat 6.x.
       + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
         + Windows Based Systems
-          + **Installation** - Stop the AwareIM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
+          + **Installation** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
             1. **Extract** the archive and open the folder.
             2. Open **webapps** folder.
             3. Rename or delete **ROOT** folder - This is optional. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files. 
             4. Select all files and folders and press Crl+c to copy
             5. Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
             6. Press Ctrl+v to paste and replace all files and folders.
-            7. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\AwareIM\Tomcat\lib folder to replace the old one.
+            7. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
         + **Linux Based Systems** - 
           + [Tomcat on Linux](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt) - Release Notes
           + **Installation** - 
   + **Java JDK**
     + [Java Platform (JDK) 8u5](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
-      + **AwareIM JDK Installation**
+      + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
   + [**Apache ActiveMQ**](http://activemq.apache.org/) - v5.8.0 installed by default.
@@ -172,7 +172,7 @@ Written in 100% Java programming language.
 
 #### Front-end Framework
   + [**Bootstrap**](http://getbootstrap.com/) - Currently v3.2.0
-    + Integrating with AwareIM* 
+    + Integrating with Aware IM* 
       + Manual configuration through Startup.html
     + [LayoutIt!](http://www.layoutit.com/build) - Drag & drop layout builder
     + [Huge list of bootstrap resources](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
