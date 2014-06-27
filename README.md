@@ -171,7 +171,7 @@ Written in 100% Java programming language.
   + **Sencha Touch** v2.3.1 (latest)
 
 #### Front-end Framework
-  + [**Bootstrap**](http://getbootstrap.com/) - Currently v3.1.1
+  + [**Bootstrap**](http://getbootstrap.com/) - Currently v3.2.0
     + Integrating with AwareIM* 
       + Manual configuration through Startup.html
     + [LayoutIt!](http://www.layoutit.com/build) - Drag & drop layout builder
