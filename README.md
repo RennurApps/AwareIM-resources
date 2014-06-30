@@ -87,7 +87,8 @@ Written in 100% Java programming language.
       + [Installation Guide (PDF)](http://www.awareim.com/InstallationGuide.pdf)
       + [User Guide (PDF)](http://www.awareim.com/UserGuide.pdf)
       + [How To (PDF)](http://www.awareim.com/OnlineDoco/indexHowto.html)
-  + [**Sample Applications**](http://awareim.com/sample-applications/) - Live web & mobile applications 
+  + [**Sample Applications**](http://awareim.com/sample-applications/) - 
+    + **Live web & mobile applications** 
       + [CRM](http://www.awareim.com/sample_crm.html)
       + [Ordering](http://www.awareim.com/sample_ordering.html)
       + [Issue Resolution](http://www.awareim.com/sample_issue_resolution.html)
@@ -96,6 +97,12 @@ Written in 100% Java programming language.
       + [Library Management](http://www.awareim.com/sample_library.html)
       + [Photo Album](http://www.awareim.com/sample_photoalbum.html)
       + [**Mobile Applications**](http://50.62.145.173/AwareIM/samplesMobile.html) - Mobile option is available at additional cost. 
+    + **More sample application available out-of-the-box**
+      + Customer Support app
+      + Event Registration app
+      + Greetings List app
+      + Project Management 
+      + Simplified CRM
 
 #### Developer Community
   + [Developer Forum](http://www.awareim.com/phpBB2/index.php) 
