@@ -124,12 +124,15 @@ Written in 100% Java programming language.
       + **All Operating Systems**
         + [Version 7 Update 60](https://www.java.com/en/download/manual.jsp) - Manual Download
   + **Chrome Browser** - Recommended
-    + [Desktop Computer](https://www.google.com/intl/en_au/chrome/browser/)
-    + [Phone and Tablet](http://g.co/ChromeApp)
-      + [Google Play](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en) - Available on Android 4.0, Ice Cream Sandwich, or later.
-      + [App Store](http://itunes.apple.com/us/app/chrome/id535886823?ls=1&mt=8) - Available for iOS 6.0 or later.
-    + [iPhone and iPad](https://www.google.com/chrome/browser/mobile/ios.html)
-      + [App Store](http://itunes.apple.com/us/app/chrome/id535886823?ls=1&mt=8) - Available for iOS 6.0 or later.
+    + Install
+      + [Desktop Computer](https://www.google.com/intl/en_au/chrome/browser/)
+      + [Phone and Tablet](http://g.co/ChromeApp)
+        + [Google Play](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en) - Available on Android 4.0, Ice Cream Sandwich, or later.
+        + [App Store](http://itunes.apple.com/us/app/chrome/id535886823?ls=1&mt=8) - Available for iOS 6.0 or later.
+      + [iPhone and iPad](https://www.google.com/chrome/browser/mobile/ios.html)
+        + [App Store](http://itunes.apple.com/us/app/chrome/id535886823?ls=1&mt=8) - Available for iOS 6.0 or later.
+    + Update
+      + [Keep Updated](https://support.google.com/chrome/answer/95414?hl=en)
 
 #### Under the hood - Updates and Security Fixes
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation. 
