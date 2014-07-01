@@ -168,6 +168,27 @@ Written in 100% Java programming language.
     + [5.9.0 Release](http://activemq.apache.org/activemq-590-release.html) 
     + [5.8.0 Release](http://activemq.apache.org/activemq-580-release.html)
 
+#### Database
+  + **MySQL**
+    + [**MySQL Community Server**](http://www.mysql.com/products/community/)
+      + Download
+        + [MySQL Community Server 5.6.19](http://dev.mysql.com/downloads/mysql/)
+        + [MySQL Community Server 5.5.38](http://dev.mysql.com/downloads/mysql/5.5.html)
+    + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/)
+      + [Connector/J](http://dev.mysql.com/downloads/connector/j/) - By default, a very old version (3.1.12 rel. 30/11/2005) is bundeled with the Aware IM installation to communicate with the database. 
+        + [Download v5.1.31](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the platform specific. 
+        + [Changes and Release Notes](http://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
+        + [Aware IM Forum post](http://www.awareim.com/phpBB2/viewtopic.php?t=5284)
+        + Installation - Install the platofrm specific version first
+          + Operating System 
+            + Install the latest of version of Conncetor/J for your platform e.g Windows
+          + Aware IM Server
+            1. Download platform independent version 
+            2. Extract the files and rename mysql-connector-java-x.x.xx-bin.jar to mysql-connector-java-3.1.12-bin.jar 
+            3. Copy and replace the existing file in C:\AwareIM\Tomcat\lib
+            4. Restart AwareIM server
+
+
 #### Javascript Framework
   + [Programmers Reference (PDF)](http://bit.ly/U4TGIX) - Java programmers can add extensions and plugins to the applications configured with Aware IM.
   + [Sencha Fiddle](https://fiddle.sencha.com/)
