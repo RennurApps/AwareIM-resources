@@ -204,10 +204,13 @@ Written in 100% Java programming language.
 
 #### Front-end Framework
   + [**Bootstrap**](http://getbootstrap.com/) - Currently v3.2.0
-    + Integrating with Aware IM* 
+    + Integrating with Aware IM
       + Manual configuration through Startup.html
     + [LayoutIt!](http://www.layoutit.com/build) - Drag & drop layout builder
     + [Huge list of bootstrap resources](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
+  + [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks
+  + [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources I collected over time.
+
 
 #### Hybrid Native Apps
   + **Phonegap** support
