@@ -102,7 +102,7 @@ Written in 100% Java programming language.
       + [Library Management](http://www.awareim.com/sample_library.html)
       + [Photo Album](http://www.awareim.com/sample_photoalbum.html)
       + [**Mobile Applications**](http://50.62.145.173/AwareIM/samplesMobile.html) - Mobile option is available at additional cost. 
-    + **More sample application available out-of-the-box**
+    + **More sample applications available out-of-the-box**
       + Customer Support app
       + Event Registration app
       + Greetings List app
