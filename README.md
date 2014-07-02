@@ -12,6 +12,10 @@ Written in 100% Java programming language.
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
       + **v5.9** - Builds 1881+
         + [Aware IM 5.9 released](http://awareim.com/aware-im-5-9-released/)
+          + Improvements
+            1 Ability for the administrator of end user to control access levels settings
+              + How To (PDF) - Page 47
+              + [Forum post](http://www.awareim.com/phpBB2/viewtopic.php?t=7091)
       + **v5.8** - Builds 1797-1814 
         + [Aware IM 5.8 released](http://awareim.com/aware-im-5-8-is-released/)
       + **v5.7** - Builds 1691-1719
