@@ -13,7 +13,7 @@ Written in 100% Java programming language.
       + **v5.9** - Builds 1881+
         + [Aware IM 5.9 released](http://awareim.com/aware-im-5-9-released/)
           + Improvements
-            + Ability for the administrator of end user to control access levels settings
+            + **User Defined Processes/Workflows** - Ability for the administrator of end user to control access levels settings
               + How To (PDF) - Page 47
               + [Forum post](http://www.awareim.com/phpBB2/viewtopic.php?t=7091)
       + **v5.8** - Builds 1797-1814 
