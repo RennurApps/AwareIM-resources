@@ -122,13 +122,15 @@ Written in 100% Java programming language.
   + Linux 
   
 
-#### Browser Support
+#### Java
   + **Java**
     + **Downloads** - Operating system Java update
       + [**Version 7 Update 60**](https://www.java.com/en/download/) - (filesize: 29.5 MB)
       + **All Operating Systems**
         + [Version 7 Update 60](https://www.java.com/en/download/manual.jsp) - Manual Download
-  + **Chrome Browser** - Recommended
+
+#### Browser Support
+  + **Chrome (PC & Mac)** - Recommended
     + Install
       + [Desktop Computer](https://www.google.com/intl/en_au/chrome/browser/)
       + [Phone and Tablet](http://g.co/ChromeApp)
@@ -138,6 +140,10 @@ Written in 100% Java programming language.
         + [App Store](http://itunes.apple.com/us/app/chrome/id535886823?ls=1&mt=8) - Available for iOS 6.0 or later.
     + Update
       + [Keep Updated](https://support.google.com/chrome/answer/95414?hl=en)
+  + IE8+ (standards mode only)
+  + Firefox (PC & Mac)
+  + Safari 6+
+  + Opera (PC & Mac)
 
 #### Under the hood - Updates and Security Fixes
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation. 
