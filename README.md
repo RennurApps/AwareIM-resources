@@ -93,12 +93,13 @@ Written in 100% Java programming language.
       + [User Guide (PDF)](http://www.awareim.com/UserGuide.pdf)
       + [How To (PDF)](http://www.awareim.com/OnlineDoco/indexHowto.html)
   + [**Sample Applications**](http://awareim.com/sample-applications/) - 
-    + **Live web & mobile applications** 
+    + **Live web & mobile applications** - Also available out-of-the-box.
       + [CRM](http://www.awareim.com/sample_crm.html)
       + [Ordering](http://www.awareim.com/sample_ordering.html)
       + [Issue Resolution](http://www.awareim.com/sample_issue_resolution.html)
       + [Document Management](http://www.awareim.com/sample_documents.html)
       + [Project Management](http://www.awareim.com/sample_project_mgmt.html) - The application showcases Gantt chart. Gannt chart is an optional feature in v5.9 and is available at additional cost. 
+      + [Event Registration](http://www.awareim.com/sample_events.html) 
       + [Library Management](http://www.awareim.com/sample_library.html)
       + [Photo Album](http://www.awareim.com/sample_photoalbum.html)
       + [**Mobile Applications**](http://50.62.145.173/AwareIM/samplesMobile.html) - Mobile option is available at additional cost. 
