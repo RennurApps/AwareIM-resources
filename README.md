@@ -203,12 +203,15 @@ Written in 100% Java programming language.
   + [Sencha Fiddle](https://fiddle.sencha.com/)
 
 #### **Web Application Framework**
-  + **Ext JS** - v4.1.0 
+  + **Ext JS** - Currently v4.1.0 
     + [Ext JS Docs](http://docs.sencha.com/extjs/4.1.0/)
     + [Ext JS Examples](http://try.sencha.com/extjs/4.1.0/)
-
+  + **Ext JS (soon!)** - v5.0.0 
+    + [Guide](http://docs.sencha.com/extjs/5.0.0/index.html)
+    + [Whats's New](http://docs.sencha.com/extjs/5.0.0/whats_new/5.0/whats_new.html)
 #### **Mobile Web Framework**
-  + **Sencha Touch** v2.3.1 (latest)
+  + [**Sencha Touch**](http://www.sencha.com/products/touch/) v2.3.1 (latest) HTML5 Mobile app development
+    + [Documentation](http://docs.sencha.com/touch/2.3.1/)
 
 #### Front-end Framework
   + [**Bootstrap**](http://getbootstrap.com/) - Currently v3.2.0
@@ -223,6 +226,4 @@ Written in 100% Java programming language.
 #### Hybrid Native Apps
   + **Phonegap** support
 
-#### Features 
 
-## To be continued.....
