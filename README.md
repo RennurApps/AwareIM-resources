@@ -134,7 +134,7 @@ Written in 100% Java programming language.
           + [App Store](http://itunes.apple.com/us/app/chrome/id535886823?ls=1&mt=8) - Available for iOS 6.0 or later.
       + Update
         + [Keep Updated](https://support.google.com/chrome/answer/95414?hl=en)
-    + IE8+ (standards mode only)
+    + IE8+ (standard mode only)
     + Firefox (PC & Mac)
     + Safari 6+
     + Opera (PC & Mac)
@@ -154,6 +154,7 @@ Written in 100% Java programming language.
       + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
       + [Security](http://tomcat.apache.org/security-6.html) - This page lists all security vulnerabilities fixed in released versions of Apache Tomcat 6.x.
       + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
+      + Installation with Aware IM
         + Windows Based Systems
           + **Installation** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
             1. **Extract** the archive and open the folder.
