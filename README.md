@@ -239,7 +239,7 @@ Written in 100% Java programming language.
         + onBegin - (function) Callback when stroke begin.
         + onEnd - (function) Callback when stroke end.
       + [Video Tutorial (approx. 3min)](http://www.awareim.com/59/New/New%20In%205,9.html) - from 00:38min 
-
+  + **Social Logins**
 
 #### Hybrid Native Apps
   + **Phonegap** support
