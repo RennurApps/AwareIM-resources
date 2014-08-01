@@ -223,6 +223,7 @@ Written in 100% Java programming language.
       + Manual configuration through Startup.html
     + [LayoutIt!](http://www.layoutit.com/build) - Drag & drop layout builder
     + [Huge list of bootstrap resources](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
+    + [Bootstrap Tutorial](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
   + [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks
   + [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources I collected over time.
 
