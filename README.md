@@ -211,6 +211,7 @@ Written in 100% Java programming language.
     + [Ext JS Examples](http://try.sencha.com/extjs/4.1.0/)
   + **Ext JS (soon!)** - v5.0.0 
     + [Guide](http://docs.sencha.com/extjs/5.0.0/index.html)
+      + [Ext JS 5 Examples](http://dev.sencha.com/ext/5.0.0/examples/index.html)
     + [Whats's New](http://docs.sencha.com/extjs/5.0.0/whats_new/5.0/whats_new.html)
 
 #### **Mobile Web Framework**
