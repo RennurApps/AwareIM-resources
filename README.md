@@ -140,9 +140,9 @@ Written in 100% Java programming language.
     + Opera (PC & Mac)
   + **Java**
     + **Downloads** - Operating system Java update
-      + [**Version 7 Update 65**](https://www.java.com/en/download/) - (filesize: 29.5 MB)
+      + [**Version 7 Update 67**](https://www.java.com/en/download/) - (filesize: 29.5 MB)
       + **All Operating Systems**
-        + [Version 7 Update 65](https://www.java.com/en/download/manual.jsp) - Manual Download
+        + [Version 7 Update 67](https://www.java.com/en/download/manual.jsp) - Manual Download
 
 #### Under the hood - Updates and Security Fixes
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation. 
