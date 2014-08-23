@@ -169,7 +169,7 @@ Written in 100% Java programming language.
       + [SSL Configuration HOW-TO](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html) 
         + [Forum Post](http://www.awareim.com/phpBB2/viewtopic.php?t=3554)
   + **Java JDK**
-    + [Java Platform (JDK) 8u11](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
+    + [Java Platform (JDK) 8u20](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
