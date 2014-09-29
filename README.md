@@ -184,11 +184,11 @@ Written in 100% Java programming language.
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        + [MySQL Community Server 5.6.20](http://dev.mysql.com/downloads/mysql/) - Some indexing changes/bugs still exist causing performance issues with AwareIM. 
-        + [MySQL Community Server 5.5.39](http://dev.mysql.com/downloads/mysql/5.5.html) - Recommended. 
+        + [MySQL Community Server 5.6.21](http://dev.mysql.com/downloads/mysql/) - Some indexing changes/bugs still exist causing performance issues with AwareIM. 
+        + [MySQL Community Server 5.5.40](http://dev.mysql.com/downloads/mysql/5.5.html) - Recommended. 
     + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/)
       + [Connector/J](http://dev.mysql.com/downloads/connector/j/) - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. 
-        + [Download v5.1.32](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the Platform Specific one. 
+        + [Download v5.1.33](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the Platform Specific one. 
         + [Changes and Release Notes](http://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
         + [Aware IM Forum post](http://www.awareim.com/phpBB2/viewtopic.php?t=5284)
         + **Installation** - Install the platform specific version first
