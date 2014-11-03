@@ -4,7 +4,7 @@ Growing list of Aware IM developer tools, tips, news and resources. Contribution
 Written in 100% Java programming language.
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://awareim.com/try/) - 30 Day Evaluation Version
-    + Currently v5.9 1904 (as of 22-Sep-2014)
+    + Currently v5.9 1908 (as of 26-Oct-2014)
       + [v5.9 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Linux](http://awareim.com/WP_NEW/download?DownloadType=Linux) - The file is an archive containing Aware IM components.
       + [v5.9 for Mac OS X](http://awareim.com/WP_NEW/download?DownloadType=Mac) - The file is a disk image containing installation program
@@ -140,9 +140,9 @@ Written in 100% Java programming language.
     + Opera (PC & Mac)
   + **Java**
     + **Downloads** - Operating system Java update
-      + [**Version 7 Update 67**](https://www.java.com/en/download/) 
+      + [**Version 8 Update 25**](https://www.java.com/en/download/) 
       + **All Operating Systems**
-        + [Version 7 Update 67](https://www.java.com/en/download/manual.jsp) - Manual Download 
+        + [Version 8 Update 25](https://www.java.com/en/download/manual.jsp) - Manual Download 
 
 #### Under the hood - Updates and Security Fixes
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation. 
@@ -169,7 +169,7 @@ Written in 100% Java programming language.
       + [SSL Configuration HOW-TO](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html) 
         + [Forum Post](http://www.awareim.com/phpBB2/viewtopic.php?t=3554)
   + **Java JDK**
-    + [Java Platform (JDK) 8u20](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
+    + [Java Platform (JDK) 8u25](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
