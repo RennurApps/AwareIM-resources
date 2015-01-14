@@ -151,8 +151,9 @@ Written in 100% Java programming language.
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation. 
 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
-
-  + [**Tomcat** - Aware IM v5.9 Only](http://tomcat.apache.org/) - **Tomcat 6.0.35 32bit** installed by default. 
+  
+  + [**Tomcat 8** - Aware IM v6.0 Only](http://tomcat.apache.org/) - **Tomcat 8.0.14 32bit** installed by default. 
+  + [**Tomcat 6** - Aware IM v5.9 Only](http://tomcat.apache.org/) - **Tomcat 6.0.35 32bit** installed by default. 
     + [Tomcat **v6.0.41** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains Important vulnerability fixes.
       + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
       + [Security](http://tomcat.apache.org/security-6.html) - This page lists all security vulnerabilities fixed in released versions of Apache Tomcat 6.x.
