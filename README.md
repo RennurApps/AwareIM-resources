@@ -4,7 +4,7 @@ Growing list of Aware IM developer tools, tips, news and resources. Contribution
 Written in 100% Java programming language.
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://awareim.com/try/) - 30 Day Evaluation Version - All platforms.
-    + Currently v6.0 2010 (as of 09-Jan-2015) 
+    + Currently v6.0 build 2010 (as of 09-Jan-2015) 
       + [v6.0 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - 150mb - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Linux](http://awareim.com/WP_NEW/download?DownloadType=Linux) - The file is an archive containing Aware IM components.
@@ -209,11 +209,11 @@ Written in 100% Java programming language.
   + [Sencha Fiddle](https://fiddle.sencha.com/)
 
 #### **Web Application Framework**
-  + **Ext JS - Aware IM v6.0 Only** - Currently v5.0.0 
+  + **Ext JS v5.0.0** - for Aware IM v6.0 Only
     + [Guide](http://docs.sencha.com/extjs/5.0.0/index.html)
       + [Ext JS 5 Examples](http://dev.sencha.com/ext/5.0.0/examples/index.html)
     + [Whats's New](http://docs.sencha.com/extjs/5.0.0/whats_new/5.0/whats_new.html)
-  + **Ext JS** - v4.1.0 - Aware IM v5.9 Only
+  + **Ext JS v4.1.0** for Aware IM v5.9 Only
     + [Ext JS Docs](http://docs.sencha.com/extjs/4.1.0/)
     + [Ext JS Examples](http://try.sencha.com/extjs/4.1.0/)
   
