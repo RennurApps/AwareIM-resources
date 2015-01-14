@@ -3,13 +3,16 @@ Growing list of Aware IM developer tools, tips, news and resources. Contribution
 #### Software
 Written in 100% Java programming language.
   + [Home Page](http://www.awareim.com/)
-  + [**Download Aware IM**](http://awareim.com/try/) - 30 Day Evaluation Version
-    + Currently v5.9 1908 (as of 26-Oct-2014)
+  + [**Download Aware IM**](http://awareim.com/try/) - 30 Day Evaluation Version - All platforms.
+    + Currently v6.0 2010 (as of 09-Jan-2015) 
+      + [v6.0 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - 150mb - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Linux](http://awareim.com/WP_NEW/download?DownloadType=Linux) - The file is an archive containing Aware IM components.
       + [v5.9 for Mac OS X](http://awareim.com/WP_NEW/download?DownloadType=Mac) - The file is a disk image containing installation program
   + [Purchase a premium support ticket](http://awareim.com/WP_NEW/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
+      + **v6.0** - Builds 2010+ 
+        + [Aware IM 6.0 released](http://awareim.com/aware-im-6-0-released/)
       + **v5.9** - Builds 1881+
         + [Aware IM 5.9 released](http://awareim.com/aware-im-5-9-released/)
           + Improvements
@@ -149,8 +152,8 @@ Written in 100% Java programming language.
 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
-  + [**Tomcat**](http://tomcat.apache.org/) - **Tomcat 6.0.35 32bit** installed by default. 
-    + [Tomcat **v6.0.41**](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains Important vulnerability fixes.
+  + [**Tomcat** - Aware IM v5.9 Only](http://tomcat.apache.org/) - **Tomcat 6.0.35 32bit** installed by default. 
+    + [Tomcat **v6.0.41** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains Important vulnerability fixes.
       + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
       + [Security](http://tomcat.apache.org/security-6.html) - This page lists all security vulnerabilities fixed in released versions of Apache Tomcat 6.x.
       + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
@@ -184,11 +187,11 @@ Written in 100% Java programming language.
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        + [MySQL Community Server 5.6.21](http://dev.mysql.com/downloads/mysql/) - Some indexing changes/bugs still exist causing performance issues with AwareIM. 
-        + [MySQL Community Server 5.5.40](http://dev.mysql.com/downloads/mysql/5.5.html) - Recommended. 
+        + [MySQL Community Server 5.6.22](http://dev.mysql.com/downloads/mysql/) - Some indexing changes/bugs still exist causing performance issues with AwareIM. 
+        + [MySQL Community Server 5.5.41](http://dev.mysql.com/downloads/mysql/5.5.html) - Recommended. 
     + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/)
       + [Connector/J](http://dev.mysql.com/downloads/connector/j/) - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. 
-        + [Download v5.1.33](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the Platform Specific one. 
+        + [Download v5.1.34](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the Platform Specific one. 
         + [Changes and Release Notes](http://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
         + [Aware IM Forum post](http://www.awareim.com/phpBB2/viewtopic.php?t=5284)
         + **Installation** - Install the platform specific version first
@@ -206,20 +209,20 @@ Written in 100% Java programming language.
   + [Sencha Fiddle](https://fiddle.sencha.com/)
 
 #### **Web Application Framework**
-  + **Ext JS** - Currently v4.1.0 
-    + [Ext JS Docs](http://docs.sencha.com/extjs/4.1.0/)
-    + [Ext JS Examples](http://try.sencha.com/extjs/4.1.0/)
-  + **Ext JS (soon!)** - v5.0.0 
+  + **Ext JS - Aware IM v6.0 Only** - Currently v5.0.0 
     + [Guide](http://docs.sencha.com/extjs/5.0.0/index.html)
       + [Ext JS 5 Examples](http://dev.sencha.com/ext/5.0.0/examples/index.html)
     + [Whats's New](http://docs.sencha.com/extjs/5.0.0/whats_new/5.0/whats_new.html)
-
+  + **Ext JS** - v4.1.0 - Aware IM v5.9 Only
+    + [Ext JS Docs](http://docs.sencha.com/extjs/4.1.0/)
+    + [Ext JS Examples](http://try.sencha.com/extjs/4.1.0/)
+  
 #### **Mobile Web Framework**
   + [**Sencha Touch**](http://www.sencha.com/products/touch/) v2.3.1 (latest) HTML5 Mobile app development
     + [Documentation](http://docs.sencha.com/touch/2.3.1/)
 
 #### Front-end Framework
-  + [**Bootstrap**](http://getbootstrap.com/) - Currently v3.2.0
+  + [**Bootstrap**](http://getbootstrap.com/) - Currently v3.3.1
     + Integrating with Aware IM
       + Manual configuration through Startup.html
     + [LayoutIt!](http://www.layoutit.com/build) - Drag & drop layout builder
