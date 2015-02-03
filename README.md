@@ -4,7 +4,7 @@ Growing list of Aware IM developer tools, tips, news and resources. Contribution
 Written in 100% Java programming language.
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://awareim.com/try/) - 30 Day Evaluation Version - All platforms.
-    + Currently v6.0 build 2010 (as of 09-Jan-2015) 
+    + Currently v6.0 build 2017
       + [v6.0 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - 150mb - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Linux](http://awareim.com/WP_NEW/download?DownloadType=Linux) - The file is an archive containing Aware IM components.
@@ -233,8 +233,10 @@ Written in 100% Java programming language.
   + [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time.
 
 #### Aware IM Features  
-  + **Electronic Signature Capture**
-    + [**Signature Pad**](http://bit.ly/eSignaturePad) - Available in v5.9+. Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers. 
+  + **Electronic Signature Capture** 
+    + [**Signature Pad**](http://bit.ly/eSignaturePad) - Available with Aware IM v5.9+. Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers. 
+    + **Version 1.3.4** - Open ../AwareIM/signature/signature_pad.js in Notepad and copy paste the 
+    + **Version 1.2.4** - Installed by default.  
       + **Options** - Editable via **signature_pad.js** found in **C:\AwareIM\Tomcat\webapps\AwareIM\signature** 
         + dotSize - (float or function) Radius of a single dot.
         + minWidth - (float) Minimum width of a line. Defaults to 0.5.
