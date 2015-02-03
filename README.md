@@ -235,7 +235,9 @@ Written in 100% Java programming language.
 #### Aware IM Features  
   + **Electronic Signature Capture** 
     + [**Signature Pad**](http://bit.ly/eSignaturePad) - Available with Aware IM v5.9+. Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers. 
-    + **Version 1.3.4** - Open ../AwareIM/signature/signature_pad.js in Notepad and copy paste the 
+    + **Version 1.3.4** 
+      + Installing the new version: 
+        + Replace the existing ../AwareIM/signature/signature_pad.js (v 1.2.4) with the RennurApps version found here [signature_pad.js](https://github.com/RennurApps/AwareIM-resources/blob/master/signature_pad.js)
     + **Version 1.2.4** - Installed by default.  
       + **Options** - Editable via **signature_pad.js** found in **C:\AwareIM\Tomcat\webapps\AwareIM\signature** 
         + dotSize - (float or function) Radius of a single dot.
