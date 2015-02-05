@@ -1,4 +1,4 @@
-# Aware IM Developer Resources
+# Aware IM Developer Resources 
 Growing list of Aware IM developer tools, tips, news and resources. Contributions and suggestions welcome.
 #### Software
 Written in 100% Java programming language.
@@ -236,6 +236,7 @@ Written in 100% Java programming language.
 #### Aware IM Features  
   + **Electronic Signature Capture** 
     + [**Signature Pad**](http://bit.ly/eSignaturePad) - Available with Aware IM v5.9+. Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers. 
+      + [**DEMO**](http://szimek.github.io/signature_pad/) 
     + **Version 1.3.4** 
       + Installing the new version: 
         + Replace the existing ../AwareIM/signature/signature_pad.js (v 1.2.4) with the RennurApps version found here [signature_pad.js](https://github.com/RennurApps/AwareIM-resources/blob/master/signature_pad.js)
