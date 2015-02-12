@@ -113,7 +113,7 @@ Written in 100% Java programming language.
       + Simplified CRM
 
 #### Developer Community
-  + [**Aware IM International Developers Conference**](http://www.awareimdevelopers.com) - Las Vegas.
+  + [**Aware IM International Developers Conference**](http://www.awareimdevelopers.com) - APRIL 13TH TO 15TH 2015 LAS VEGAS
   + [Developer Forum](http://www.awareim.com/phpBB2/index.php) 
   + [Community Contributions](http://awareim.com/community-page/) - Plugins, themes, tips and tricks shared by the developers
   + [DevNet](http://www.awareim-devnet.com/) - Aware IM Developer Network (DevNet). Still relatively new.
