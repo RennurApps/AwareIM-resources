@@ -4,7 +4,7 @@ Growing list of Aware IM developer tools, tips, news and resources. Contribution
 Written in 100% Java programming language.
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://awareim.com/try/) - 30 Day Evaluation Version - All platforms.
-    + Currently v6.0 build 2019
+    + Currently v6.0 build 2023
       + [v6.0 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - 150mb - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Linux](http://awareim.com/WP_NEW/download?DownloadType=Linux) - The file is an archive containing Aware IM components.
