@@ -181,7 +181,7 @@ Written in 100% Java programming language.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
   + [**Apache ActiveMQ**](http://activemq.apache.org/) - v5.8.0 installed by default.
     + [5.11.1 Release](http://activemq.apache.org/activemq-5111-release.html) - Apache ActiveMQ 5.11.0 & 5.11.1 resolves 136 issues, mostly bug fixes and improvements. It is build with and requires jdk 1.7.
-    + Installation (Always backup original files first)
+      + Installation (Always backup original files first)
         + Extract, rename activemq-all-5.11.1.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib  
     + [5.10.1 Release](http://activemq.apache.org/activemq-5101-release.html) - Apache ActiveMQ 5.10.1 resolves 33 issues, mostly bug fixes. 
     + [5.10.0 Release](http://activemq.apache.org/activemq-5100-release.html) 
