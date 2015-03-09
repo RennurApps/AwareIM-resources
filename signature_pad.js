@@ -1,12 +1,27 @@
+(function (root, factory) {
+  if (typeof define === 'function' && define.amd) {
+    // AMD. Register as an anonymous module unless amdModuleId is set
+    define([], function () {
+      return (root['SignaturePad'] = factory());
+    });
+  } else if (typeof exports === 'object') {
+    // Node. Does not work with strict CommonJS, but
+    // only CommonJS-like environments that support module.exports,
+    // like Node.
+    module.exports = factory();
+  } else {
+    root['SignaturePad'] = factory();
+  }
+}(this, function () {
 /*!
- * Signature Pad v1.3.4
- * https://github.com/szimek/signature_pad 
+ * Signature Pad v1.3.5
+ * https://github.com/szimek/signature_pad
+ *
+ * Copyright 2015 Szymon Nowak
+ * Released under the MIT license
  *
  * PREPARED FOR Aware IM by RennurApps https://github.com/RennurApps/AwareIM-resources 
  * Copy+paste the contents to ../AwareIM/signature/signature_pad.js 
- *
- * Copyright 2014 Szymon Nowak
- * Released under the MIT license
  *
  * The main idea and some parts of the code (e.g. drawing variable width Bézier curve) are taken from:
  * http://corner.squareup.com/2012/07/smoother-signatures.html
@@ -76,7 +91,8 @@ var SignaturePad = (function (document) {
         this._reset();
         image.src = dataUrl;
         image.onload = function () {
-		self._ctx.drawImage(image, 0, 0, self._canvas.width, self._canvas.height);
+            self._ctx.drawImage(image, 0, 0, width, height);
+		// 1.3.4: self._ctx.drawImage(image, 0, 0, self._canvas.width, self._canvas.height);
 		// 1.2.4:    self._ctx.drawImage(image, 0, 0, width, height);
         };
         this._isEmpty = false;
@@ -96,6 +112,10 @@ var SignaturePad = (function (document) {
         	this.onBegin.call (this.scope);
 
 		// 1.3.4: if (typeof this.onBegin === 'function') {
+        //    this.onBegin(event);
+        // } 
+		// 1.3.5
+		//        if (typeof this.onBegin === 'function') {
         //    this.onBegin(event);
         // }
     };
@@ -123,6 +143,10 @@ var SignaturePad = (function (document) {
         	this.onEnd.call (this.scope);
 
 		// 1.3.4: if (typeof this.onEnd === 'function') {
+        //    this.onEnd(event);
+        // }
+		// 1.3.5
+		//        if (typeof this.onEnd === 'function') {
         //    this.onEnd(event);
         // }
     };
@@ -362,3 +386,7 @@ var SignaturePad = (function (document) {
 
     return SignaturePad;
 })(document);
+
+return SignaturePad;
+
+}));
