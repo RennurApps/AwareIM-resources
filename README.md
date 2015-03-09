@@ -144,9 +144,9 @@ Written in 100% Java programming language.
     + Opera (PC & Mac)
   + **Java**
     + **Downloads** - Operating system Java update
-      + [**Version 8 Update 31**](https://www.java.com/en/download/) 
+      + [**Version 8 Update 40**](https://www.java.com/en/download/) 
       + **All Operating Systems**
-        + [Version 8 Update 31](https://www.java.com/en/download/manual.jsp) - Manual Download 
+        + [Version 8 Update 40](https://www.java.com/en/download/manual.jsp) - Manual Download 
 
 #### Under the hood - Updates and Security Fixes
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation. 
