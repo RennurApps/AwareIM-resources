@@ -4,7 +4,7 @@ Growing list of Aware IM developer tools, tips, news and resources. Contribution
 Written in 100% Java programming language.
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://awareim.com/try/) - 30 Day Evaluation Version - All platforms.
-    + Currently v6.0 build 2028
+    + Currently v6.0 build 2038
       + [v6.0 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - 150mb - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Linux](http://awareim.com/WP_NEW/download?DownloadType=Linux) - The file is an archive containing Aware IM components.
@@ -144,9 +144,9 @@ Written in 100% Java programming language.
     + Opera (PC & Mac)
   + **Java**
     + **Downloads** - Operating system Java update
-      + [**Version 8 Update 40**](https://www.java.com/en/download/) 
+      + [**Version 8 Update 45**](https://www.java.com/en/download/) 
       + **All Operating Systems**
-        + [Version 8 Update 40](https://www.java.com/en/download/manual.jsp) - Manual Download 
+        + [Version 8 Update 45](https://www.java.com/en/download/manual.jsp) - Manual Download 
 
 #### Under the hood - Updates and Security Fixes
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation. 
@@ -154,9 +154,9 @@ Written in 100% Java programming language.
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
   
   + [**Tomcat 8** - Aware IM v6.0 Only](http://tomcat.apache.org/) - **Tomcat 8.0.14 32bit** installed by default. 
-    + [Tomcat **v8.0.20**](http://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one. 
+    + [Tomcat **v8.0.22**](http://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one. 
   + [**Tomcat 6** - Aware IM v5.9 Only](http://tomcat.apache.org/) - **Tomcat 6.0.35 32bit** installed by default. 
-    + [Tomcat **v6.0.43** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains Important vulnerability fixes.
+    + [Tomcat **v6.0.44** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains Important vulnerability fixes.
       + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
       + [Security](http://tomcat.apache.org/security-6.html) - This page lists all security vulnerabilities fixed in released versions of Apache Tomcat 6.x.
       + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
@@ -175,7 +175,7 @@ Written in 100% Java programming language.
       + [SSL Configuration HOW-TO](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html) 
         + [Forum Post](http://www.awareim.com/phpBB2/viewtopic.php?t=3554)
   + **Java JDK**
-    + [Java Platform (JDK) 8u40](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
+    + [Java Platform (JDK) 8u45](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
@@ -194,11 +194,11 @@ Written in 100% Java programming language.
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        + [MySQL Community Server 5.6.23](http://dev.mysql.com/downloads/mysql/) - Some indexing changes/bugs still exist causing performance issues with AwareIM. 
-        + [MySQL Community Server 5.5.42](http://dev.mysql.com/downloads/mysql/5.5.html) - Recommended. 
+        + [MySQL Community Server 5.6.24](http://dev.mysql.com/downloads/mysql/) - Some indexing changes/bugs still exist causing performance issues with AwareIM. 
+        + [MySQL Community Server 5.5.43](http://dev.mysql.com/downloads/mysql/5.5.html) - Recommended. 
     + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/)
       + [Connector/J](http://dev.mysql.com/downloads/connector/j/) - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. 
-        + [Download v5.1.34](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the Platform Specific one. 
+        + [Download v5.1.35](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the Platform Specific one. 
         + [Changes and Release Notes](http://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
         + [Aware IM Forum post](http://www.awareim.com/phpBB2/viewtopic.php?t=5284)
         + **Installation** - Install the platform specific version first
@@ -229,7 +229,7 @@ Written in 100% Java programming language.
     + [Documentation](http://docs.sencha.com/touch/2.3.1/)
 
 #### Front-end Framework
-  + [**Bootstrap**](http://getbootstrap.com/) - Currently v3.3.1
+  + [**Bootstrap**](http://getbootstrap.com/) - Currently v3.3.4
     + Integrating with Aware IM
       + Manual configuration through Startup.html
     + [LayoutIt!](http://www.layoutit.com/build) - Drag & drop layout builder
