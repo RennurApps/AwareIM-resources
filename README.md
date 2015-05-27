@@ -20,13 +20,13 @@ Written in 100% Java programming language.
               + How To (PDF) - Page 47
               + [Forum post](http://www.awareim.com/phpBB2/viewtopic.php?t=7091)
       + **v5.8** - Builds 1797-1814 
-        + [Aware IM 5.8 released](http://awareim.com/aware-im-5-8-is-released/)
+        + [Aware IM 5.8 released](http://www.awareim.com/aware-im-5-8-released/)
       + **v5.7** - Builds 1691-1719
-        + [Aware IM 5.7 released](http://awareim.com/aware-im-5-7-is-released/)
+        + [Aware IM 5.7 released](#)
       + **v5.6** - Builds 1638-1671
-        + [Aware IM 5.6 released](http://awareim.com/aware-im-5-6-is-released/)
+        + [Aware IM 5.6 released](#)
       + **v5.5** - Builds 1588-1617
-        + [Aware IM 5.5 released](http://awareim.com/aware-im-5-5-is-released/)
+        + [Aware IM 5.5 released](#)
   + [**Video Tutorials**](http://awareim.com/video-tutorials/) - Highly Recommended
     + **Core Tutorials** - Watch first if not familiar with Aware IM concepts.
       + **Getting Started**
@@ -58,7 +58,7 @@ Written in 100% Java programming language.
     + **Version 6.0+**
       + [**What's New in 6.0**](http://www.awareim.com/tutorials/60/Version6.0.html) - **Video tutorial**
     + **Version 5.9+**
-      + [**What's New in 5.9**](http://www.awareim.com/59/New/New%20In%205,9.html) - **Video tutorial**
+      + [**What's New in 5.9**](http://www.awareim.com/tutorials/59/New%20In%205,9.html) - **Video tutorial**
         + **Electronic Signatures** from 00:38min - Works on both mobile & web applications
         + **Calendar and Scheduling** from 03:20min - Non-Mobile improvements
         + **Query Browser Preview** from 05.:05min 
@@ -73,13 +73,13 @@ Written in 100% Java programming language.
       + [Building Hybrid Native Apps with Aware IM](http://www.awareim.com/tutorials/NativeMobileApps/NativeMobileApps.html)
       + [Working with Gantt Chart](http://www.awareim.com/tutorials/GanttChart/GanttChart.html)
     + **Version 5.8+**
-      + [**What's New in 5.8**](http://awareim.com/58/New/NewIn58.html) - **Video tutorial**
+      + [**What's New in 5.8**](http://www.awareim.com/tutorials/58/NewIn58.html) - **Video tutorial**
         + **Screen Tours** from 00:20min
         + **In-place Editing using Zoho.com** from 08:20min 
         + **RESTful Services** from 11:20min
         + **Auto Increment** improvements from 11:35min
     + **Version 5.7+**
-      + [**What's New in 5.7**](http://www.awareim.com/57/NewIn57/NewIn57.html) - **Video tutorial**
+      + [**What's New in 5.7**](http://www.awareim.com/tutorials/57/NewIn57.html) - **Video tutorial**
         + **Lightbox (JavaScript)** from 00:33min
         + **Drag and Drop Support** from 01:50min
         + **Multi File Upload** from 05:36min
