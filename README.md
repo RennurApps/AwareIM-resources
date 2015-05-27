@@ -55,6 +55,8 @@ Written in 100% Java programming language.
       + [**Mobile Applications**](http://www.awareim.com/tutorials/Mobile/Mobile.html)
       + [**Web Services**](http://www.awareim.com/tutorials/WebServices/WebServices.html)
       + [**User Defined Workflows (Processes)**](http://www.awareim.com/tutorials/UDP/UDP.html)
+    + **Version 6.0+**
+      + [**What's New in 6.0**](http://www.awareim.com/tutorials/60/Version6.0.html) - **Video tutorial**
     + **Version 5.9+**
       + [**What's New in 5.9**](http://www.awareim.com/59/New/New%20In%205,9.html) - **Video tutorial**
         + **Electronic Signatures** from 00:38min - Works on both mobile & web applications
