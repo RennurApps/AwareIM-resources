@@ -22,11 +22,8 @@ Written in 100% Java programming language.
       + **v5.8** - Builds 1797-1814 
         + [Aware IM 5.8 released](http://www.awareim.com/aware-im-5-8-released/)
       + **v5.7** - Builds 1691-1719
-        + [Aware IM 5.7 released]
       + **v5.6** - Builds 1638-1671
-        + [Aware IM 5.6 released]
       + **v5.5** - Builds 1588-1617
-        + [Aware IM 5.5 released]
   + [**Video Tutorials**](http://awareim.com/video-tutorials/) - Highly Recommended
     + **Core Tutorials** - Watch first if not familiar with Aware IM concepts.
       + **Getting Started**
