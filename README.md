@@ -154,11 +154,6 @@ Written in 100% Java programming language.
   
   + [**Tomcat 8** - Aware IM v6.0 Only](http://tomcat.apache.org/) - **Tomcat 8.0.14 32bit** installed by default. 
     + [Tomcat **v8.0.22**](http://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one. 
-  + [**Tomcat 6** - Aware IM v5.9 Only](http://tomcat.apache.org/) - **Tomcat 6.0.35 32bit** installed by default. 
-    + [Tomcat **v6.0.44** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains Important vulnerability fixes.
-      + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
-      + [Security](http://tomcat.apache.org/security-6.html) - This page lists all security vulnerabilities fixed in released versions of Apache Tomcat 6.x.
-      + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
       + Installation with Aware IM
         + Windows Based Systems
           + **Installation** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
@@ -169,6 +164,11 @@ Written in 100% Java programming language.
             5. Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
             6. Press Ctrl+v to paste and replace all files and folders.
             7. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
+  + [**Tomcat 6** - Aware IM v5.9 Only](http://tomcat.apache.org/) - **Tomcat 6.0.35 32bit** installed by default. 
+    + [Tomcat **v6.0.44** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains Important vulnerability fixes.
+      + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
+      + [Security](http://tomcat.apache.org/security-6.html) - This page lists all security vulnerabilities fixed in released versions of Apache Tomcat 6.x.
+      + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
         + **Linux Based Systems** - 
           + [Tomcat on Linux](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt) - Release Notes
       + [SSL Configuration HOW-TO](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html) 
