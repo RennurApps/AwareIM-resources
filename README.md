@@ -208,7 +208,9 @@ Written in 100% Java programming language.
             2. Extract the files and rename mysql-connector-java-x.x.xx-bin.jar to mysql-connector-java-3.1.12-bin.jar 
             3. Copy and replace the existing file in C:\AwareIM\Tomcat\lib
             4. Restart AwareIM server
-
+  + **Apache Derby** - [Home](http://db.apache.org/derby/)
+    + [**Apache Derby 10.11.1.1**](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
+      + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib 
 
 #### Javascript Framework
   + [Programmers Reference (PDF)](http://bit.ly/U4TGIX) - Java programmers can add extensions and plugins to the applications configured with Aware IM.
