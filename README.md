@@ -18,7 +18,7 @@ Written in 100% Java programming language.
           + Improvements
             + **User Defined Processes/Workflows** - Ability for the administrator of end user to control access levels settings
               + How To (PDF) - Page 47
-              + [Forum post](http://www.awareim.com/phpBB2/viewtopic.php?t=7091)
+              + [Forum post](http://www.awareim.com/forum/viewtopic.php?t=7091)
       + **v5.8** - Builds 1797-1814 
         + [Aware IM 5.8 released](http://www.awareim.com/aware-im-5-8-released/)
       + **v5.7** - Builds 1691-1719
@@ -113,7 +113,7 @@ Written in 100% Java programming language.
 
 #### Developer Community
   + [**Aware IM International Developers Conference**](http://www.awareimdevelopers.com) - APRIL 13TH TO 15TH 2015 LAS VEGAS
-  + [Developer Forum](http://www.awareim.com/phpBB2/index.php) 
+  + [Developer Forum](http://www.awareim.com/forum/index.php) 
   + [Community Contributions](http://awareim.com/community-page/) - Plugins, themes, tips and tricks shared by the developers
   + [DevNet](http://www.awareim-devnet.com/) - Aware IM Developer Network (DevNet). Still relatively new.
   + [Develop With Aware IM](https://twitter.com/DWAwareIM) - Unofficial twitter account.
@@ -172,7 +172,7 @@ Written in 100% Java programming language.
         + **Linux Based Systems** - 
           + [Tomcat on Linux](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt) - Release Notes
       + [SSL Configuration HOW-TO](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html) 
-        + [Forum Post](http://www.awareim.com/phpBB2/viewtopic.php?t=3554)
+        + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
   + **Java JDK**
     + [Java Platform (JDK) 8u45](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + **Aware IM JDK Installation**
@@ -199,7 +199,7 @@ Written in 100% Java programming language.
       + [Connector/J](http://dev.mysql.com/downloads/connector/j/) - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. 
         + [Download v5.1.35](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the Platform Specific one. 
         + [Changes and Release Notes](http://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
-        + [Aware IM Forum post](http://www.awareim.com/phpBB2/viewtopic.php?t=5284)
+        + [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
         + **Installation** - Install the platform specific version first
           + Operating System 
             + Install the latest of version of Conncetor/J for your platform e.g Windows
