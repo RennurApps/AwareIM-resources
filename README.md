@@ -4,7 +4,7 @@ Growing list of Aware IM developer tools, tips, news and resources. Contribution
 Written in 100% Java programming language.
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://awareim.com/try/) - 30 Day Evaluation Version - All platforms.
-    + Currently v6.0 build 2039
+    + Currently v6.0 build 2042
       + [v6.0 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - 150mb - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Linux](http://awareim.com/WP_NEW/download?DownloadType=Linux) - The file is an archive containing Aware IM components.
@@ -124,7 +124,6 @@ Written in 100% Java programming language.
   + Mac
   + Linux 
   
-
 #### Browser Support
   + **Browsers**
     + **Chrome (PC & Mac)** - Recommended
@@ -143,9 +142,9 @@ Written in 100% Java programming language.
     + Opera (PC & Mac)
   + **Java**
     + **Downloads** - Operating system Java update
-      + [**Version 8 Update 45**](https://www.java.com/en/download/) 
+      + [**Version 8 Update 51**](https://www.java.com/en/download/) 
       + **All Operating Systems**
-        + [Version 8 Update 45](https://www.java.com/en/download/manual.jsp) - Manual Download 
+        + [Version 8 Update 51](https://www.java.com/en/download/manual.jsp) - Manual Download 
 
 #### Under the hood - Updates and Security Fixes
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation. 
@@ -153,7 +152,7 @@ Written in 100% Java programming language.
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
   
   + [**Tomcat 8** - Aware IM v6.0 Only](http://tomcat.apache.org/) - **Tomcat 8.0.14 32bit** installed by default. 
-    + [Tomcat **v8.0.23**](http://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one. 
+    + [Tomcat **v8.0.24**](http://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one. 
       + Installation with Aware IM
         + Windows Based Systems
           + **Installation** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
@@ -174,7 +173,7 @@ Written in 100% Java programming language.
       + [SSL Configuration HOW-TO](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html) 
         + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
   + **Java JDK**
-    + [Java Platform (JDK) 8u45](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
+    + [Java Platform (JDK) 8u51](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
