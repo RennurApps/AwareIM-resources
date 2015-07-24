@@ -229,7 +229,7 @@ Written in 100% Java programming language.
     + [Documentation](http://docs.sencha.com/touch/2.3.1/)
 
 #### Front-end Framework
-  + [**Bootstrap**](http://getbootstrap.com/) - Currently v3.3.4
+  + [**Bootstrap**](http://getbootstrap.com/) - Currently v3.3.5
     + Integrating with Aware IM
       + Manual configuration through Startup.html
     + [LayoutIt!](http://www.layoutit.com/build) - Drag & drop layout builder
