@@ -142,9 +142,9 @@ Written in 100% Java programming language.
     + Opera (PC & Mac)
   + **Java**
     + **Downloads** - Operating system Java update
-      + [**Version 8 Update 51**](https://www.java.com/en/download/) 
+      + [**Version 8 Update 60**](https://www.java.com/en/download/) 
       + **All Operating Systems**
-        + [Version 8 Update 51](https://www.java.com/en/download/manual.jsp) - Manual Download 
+        + [Version 8 Update 60](https://www.java.com/en/download/manual.jsp) - Manual Download 
 
 #### Under the hood - Updates and Security Fixes
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation. 
@@ -173,15 +173,17 @@ Written in 100% Java programming language.
       + [SSL Configuration HOW-TO](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html) 
         + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
   + **Java JDK**
-    + [Java Platform (JDK) 8u51](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
+    + [Java Platform (JDK) 8u60](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
   + [**Apache ActiveMQ**](http://activemq.apache.org/) - v5.8.0 installed by default.
-    + [5.11.1 Release](http://activemq.apache.org/activemq-5111-release.html) - Apache ActiveMQ 5.11.0 & 5.11.1 resolves 136 issues, mostly bug fixes and improvements. It is build with and requires jdk 1.7.
+    + [5.12.0 Release](http://activemq.apache.org/activemq-5120-release.html) - Apache ActiveMQ 5.12.0 resolves several issues, and provides significant improves to the AMQP and MQTT support in the broker as well as fixing issues with STOMP and MQTT over WebSockets plus much much more. It is build with and requires jdk 1.7.
       + Installation (Always backup original files first)
-        + Extract, rename activemq-all-5.11.1.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib  
-    + [5.10.1 Release](http://activemq.apache.org/activemq-5101-release.html) - Apache ActiveMQ 5.10.1 resolves 33 issues, mostly bug fixes. 
+        + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib  
+    + [5.11.2 Release](http://activemq.apache.org/activemq-5112-release.html) 
+    + [5.11.1 Release](http://activemq.apache.org/activemq-5111-release.html) 
+    + [5.10.1 Release](http://activemq.apache.org/activemq-5101-release.html) 
     + [5.10.0 Release](http://activemq.apache.org/activemq-5100-release.html) 
     + [5.9.0 Release](http://activemq.apache.org/activemq-590-release.html) 
     + [5.8.0 Release](http://activemq.apache.org/activemq-580-release.html) 
@@ -192,8 +194,8 @@ Written in 100% Java programming language.
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        + [MySQL Community Server 5.6.25](http://dev.mysql.com/downloads/mysql/) - Some indexing changes/bugs still exist causing performance issues with AwareIM. 
-        + [MySQL Community Server 5.5.44](http://dev.mysql.com/downloads/mysql/5.5.html) - Recommended. 
+        + [MySQL Community Server 5.6.26](http://dev.mysql.com/downloads/mysql/) - Some indexing changes/bugs still exist causing performance issues with AwareIM. 
+        + [MySQL Community Server 5.5.45](http://dev.mysql.com/downloads/mysql/5.5.html) - Recommended. 
     + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/)
       + [Connector/J](http://dev.mysql.com/downloads/connector/j/) - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. 
         + [Download v5.1.36](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the Platform Specific one. 
