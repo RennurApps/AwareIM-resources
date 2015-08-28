@@ -249,11 +249,10 @@ Written in 100% Java programming language.
   + **Electronic Signature Capture** 
     + [**Signature Pad**](https://github.com/szimek/signature_pad) - Available with Aware IM v5.9+. Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers. 
       + [**DEMO**](http://szimek.github.io/signature_pad/) 
-    + **Version 1.3.5** 
+    + **Version 1.4.0** 
       + Installing the new version: 
-        + Replace the existing ../AwareIM/signature/signature_pad.js (v 1.2.4) with the RennurApps version found here [signature_pad.js](https://github.com/RennurApps/AwareIM-resources/blob/master/signature_pad.js)
-    + **Version 1.2.4** - Installed by default.  
-      + **Options** - Editable via **signature_pad.js** found in **C:\AwareIM\Tomcat\webapps\AwareIM\signature** 
+        + Replace the default ../AwareIM/signature/signature_pad.js (v 1.2.4) with the RennurApps version (1.4.0) found here [signature_pad.js](https://github.com/RennurApps/AwareIM-resources/blob/master/signature_pad.js)
+      + **Options** - Edit **signature_pad.js** found in **C:\AwareIM\Tomcat\webapps\AwareIM\signature** 
         + dotSize - (float or function) Radius of a single dot.
         + minWidth - (float) Minimum width of a line. Defaults to 0.5.
         + maxWidth - (float) Maximum width of a line. Defaults to 2.5.
