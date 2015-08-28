@@ -151,8 +151,12 @@ Written in 100% Java programming language.
 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
   
-  + [**Tomcat 8** - Aware IM v6.0 Only](http://tomcat.apache.org/) - **Tomcat 8.0.14 32bit** installed by default. 
-    + [Tomcat **v8.0.24**](http://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one. 
+  + [**Tomcat 8** - Aware IM v6.0 Only](http://tomcat.apache.org/) - **Tomcat 8.0.14 32bit** installed by default. The notable changes since 8.0.24 include:
+    + Fix EOF handling in the AJP APR/native connector to avoid the tight loop that caused high CPU load
+    + Avoid an NPE when adding POJO WebSocket endpoints programmatically
+    + Improved handling of async timeouts
+    Full details of these changes, and all the other changes, are available in the [Tomcat 8 changelog](http://tomcat.apache.org/tomcat-8.0-doc/changelog.htm).
+    + [Tomcat **v8.0.26**](http://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one. 
       + Installation with Aware IM
         + Windows Based Systems
           + **Installation** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
