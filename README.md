@@ -268,7 +268,19 @@ Written in 100% Java programming language.
   + **REPORTING** 
     + **TIBCO Jaspersoft** 
       + [**JasperReports® Server**](http://community.jaspersoft.com/project/jasperreports-server) - Self-service Reporting and Analysis Server 
-      + [Jaspersoft® Studio](http://community.jaspersoft.com/project/jaspersoft-studio) - The Eclipse-based Report Development Tool for JasperReports and JasperReports Server 
-        +  Jaspersoft Studio is the free, open source, eclipse-based report designer for JasperReports and JasperReports Server. Create very sophisticated layouts containing charts, images, subreports, crosstabs and much more. Access your data through JDBC, TableModels, JavaBeans, XML, Hibernate, CSV, and custom sources. Then publish your reports as PDF, RTF, XML, XLS, CSV, HTML, XHTML, text, DOCX, or OpenOffice.
-        + **Forum posts**
-          + [AWARE'S REPORTING - JASPER REPORTS UPGRADE FOR NEXT RELEASE?](http://www.awareim.com/forum/viewtopic.php?f=1&t=7744) - Post by [yuri.rj](http://www.awareim.com/forum/memberlist.php?mode=viewprofile&u=604) 
+        + [Documentation](http://community.jaspersoft.com/documentation?version=15786)
+        + [Installation Guide](http://community.jaspersoft.com/documentation/tibco-jasperreports-server-installation-guide/v61/introduction)
+        + **Connect to MySQL database** 
+          + [Login to Jasper Reports Server](http://localhost:8081/jasperserver/login.html) - http://localhost:8081/jasperserver/login.html Login UserID: jasperadmin Password: jasperadmin (change password after login)
+          + Data Sources > Add Resource > Data Source > JDBC Data Source 
+            + MySQL (com.mysql.jdbs.Driver) 
+            + Click on 'Select Driver' > Choose File > C:\Program Files (x86)\MySQL\MySQL Connector J\mysql-connector-java-x.x.xx-bin.jar 
+            + localhost
+            + port is usually 3306 
+            + Databse name: BASDB (change if different)
+            + URL: jdbc:mysql://localhost:3306/BASDB 
+            + database username (default: root) & password 
+      + [**Jaspersoft® Studio**](http://community.jaspersoft.com/project/jaspersoft-studio) - The Eclipse-based Report Development Tool for JasperReports and JasperReports Server 
+        + [User Guide](http://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v610/getting-started-jaspersoft-studio)
+      + **Forum posts**
+          + [AWARE'S REPORTING - JASPER REPORTS UPGRADE FOR NEXT RELEASE?](http://www.awareim.com/forum/viewtopic.php?f=1&t=7744) - JasperRepoerts Server - Post by [yuri.rj](http://www.awareim.com/forum/memberlist.php?mode=viewprofile&u=604) 
