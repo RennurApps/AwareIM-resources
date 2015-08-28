@@ -4,7 +4,7 @@ Growing list of Aware IM developer tools, tips, news and resources. Contribution
 Written in 100% Java programming language.
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://awareim.com/try/) - 30 Day Evaluation Version - All platforms.
-    + Currently v6.0 build 2042
+    + Currently v6.0 build 2045
       + [v6.0 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - 150mb - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Linux](http://awareim.com/WP_NEW/download?DownloadType=Linux) - The file is an archive containing Aware IM components.
@@ -264,4 +264,11 @@ Written in 100% Java programming language.
 #### Hybrid Native Apps
   + **Phonegap** support
 
-
+#### Integrating with Aware IM 
+  + **REPORTING** 
+    + **TIBCO Jaspersoft** 
+      + [**JasperReports® Server**](http://community.jaspersoft.com/project/jasperreports-server) - Self-service Reporting and Analysis Server 
+      + [Jaspersoft® Studio](http://community.jaspersoft.com/project/jaspersoft-studio) - The Eclipse-based Report Development Tool for JasperReports and JasperReports Server 
+        +  Jaspersoft Studio is the free, open source, eclipse-based report designer for JasperReports and JasperReports Server. Create very sophisticated layouts containing charts, images, subreports, crosstabs and much more. Access your data through JDBC, TableModels, JavaBeans, XML, Hibernate, CSV, and custom sources. Then publish your reports as PDF, RTF, XML, XLS, CSV, HTML, XHTML, text, DOCX, or OpenOffice.
+        + **Forum posts**
+          + [AWARE'S REPORTING - JASPER REPORTS UPGRADE FOR NEXT RELEASE?](http://www.awareim.com/forum/viewtopic.php?f=1&t=7744) - Post by [yuri.rj](http://www.awareim.com/forum/memberlist.php?mode=viewprofile&u=604) 
