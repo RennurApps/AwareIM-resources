@@ -249,7 +249,7 @@ Written in 100% Java programming language.
   + **Electronic Signature Capture** 
     + [**Signature Pad**](https://github.com/szimek/signature_pad) - Available with Aware IM v5.9+. Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers. 
       + [**DEMO**](http://szimek.github.io/signature_pad/) 
-    + **Version 1.4.0** 
+    + **Version 1.5.0** 
       + Installing the new version: 
         + Replace the default ../AwareIM/signature/signature_pad.js (v 1.2.4) with the RennurApps version (1.4.0) found here [signature_pad.js](https://github.com/RennurApps/AwareIM-resources/blob/master/signature_pad.js)
       + **Options** - Edit **signature_pad.js** found in **C:\AwareIM\Tomcat\webapps\AwareIM\signature** 
