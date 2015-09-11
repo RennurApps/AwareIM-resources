@@ -15,7 +15,7 @@
 }(this, function () {
 
 /*!
- * Signature Pad v1.4.0
+ * Signature Pad v1.5.0
  * https://github.com/szimek/signature_pad
  *
  * Copyright 2015 Szymon Nowak
@@ -137,12 +137,6 @@ var SignaturePad = (function (document) {
     SignaturePad.prototype._strokeBegin = function (event) {
         this._reset();
         this._strokeUpdate(event);
-
-		// VS - (a) Disabled for testing RennurApps - Not sure why VS has chnaged this, works fine with original code
-//        if (this.onBegin)
-//        	this.onBegin.call (this.scope);
-
-		// Original 1.4.0 - (a) Enabled for testing RennurApps - Original code works fine 
         if (typeof this.onBegin === 'function') {
             this.onBegin(event);
         }
@@ -165,19 +159,12 @@ var SignaturePad = (function (document) {
         if (!canDrawCurve && point) {
             this._strokeDraw(point);
         }
-
-		// VS - (b) Disabled for testing RennurApps - Not sure why VS has chnaged this, works fine with original code
-//        if (this.onEnd)
-//        	this.onEnd.call (this.scope);
-
-		// Original 1.4.0 - (b) Enabled for testing RennurApps - Original code works fine
         if (typeof this.onEnd === 'function') {
             this.onEnd(event);
         }
     };
 
     SignaturePad.prototype._handleMouseEvents = function () {
-        var self = this;
         this._mouseButtonDown = false;
 
         this._canvas.addEventListener("mousedown", this._handleMouseDown);
@@ -186,14 +173,17 @@ var SignaturePad = (function (document) {
     };
 
     SignaturePad.prototype._handleTouchEvents = function () {
-        var self = this;
-
         // Pass touch events to canvas element on mobile IE.
         this._canvas.style.msTouchAction = 'none';
 
         this._canvas.addEventListener("touchstart", this._handleTouchStart);
         this._canvas.addEventListener("touchmove", this._handleTouchMove);
         document.addEventListener("touchend", this._handleTouchEnd);
+    };
+
+    SignaturePad.prototype.on = function () {
+        this._handleMouseEvents();
+        this._handleTouchEvents();
     };
 
     SignaturePad.prototype.off = function () {
