@@ -4,7 +4,7 @@ Growing list of Aware IM developer tools, tips, news and resources. Contribution
 Written in 100% Java programming language.
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://awareim.com/try/) - 30 Day Evaluation Version - All platforms.
-    + Currently v6.0 build 2045
+    + Currently v6.0 build 2046
       + [v6.0 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - 150mb - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Linux](http://awareim.com/WP_NEW/download?DownloadType=Linux) - The file is an archive containing Aware IM components.
@@ -112,7 +112,8 @@ Written in 100% Java programming language.
       + Simplified CRM
 
 #### Developer Community
-  + [**Aware IM International Developers Conference**](http://www.awareimdevelopers.com) - APRIL 13TH TO 15TH 2015 LAS VEGAS
+  + [**2nd Aware IM International Developers Conference**](http://www.awareimdevelopers.com) - January 2016 - Bali 
+  + [**1st Aware IM International Developers Conference**](http://www.awareimdevelopers.com) - APRIL 13TH TO 15TH 2015 LAS VEGAS
   + [Developer Forum](http://www.awareim.com/forum/index.php) 
   + [Community Contributions](http://awareim.com/community-page/) - Plugins, themes, tips and tricks shared by the developers
   + [DevNet](http://www.awareim-devnet.com/) - Aware IM Developer Network (DevNet). Still relatively new.
@@ -140,24 +141,20 @@ Written in 100% Java programming language.
     + Firefox (PC & Mac)
     + Safari 6+
     + Opera (PC & Mac)
-  + **Java**
+  + **Java Version 8 Update 65**
     + **Downloads** - Operating system Java update
-      + [**Version 8 Update 60**](https://www.java.com/en/download/) 
+      + [**Download*](https://www.java.com/en/download/) 
       + **All Operating Systems**
-        + [Version 8 Update 60](https://www.java.com/en/download/manual.jsp) - Manual Download 
+        + [Download](https://www.java.com/en/download/manual.jsp) - Manual Download 
 
 #### Under the hood - Updates and Security Fixes
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation. 
 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
   
-  + [**Tomcat 8** - Aware IM v6.0 Only](http://tomcat.apache.org/) - **Tomcat 8.0.14 32bit** installed by default. 
-    + The notable changes since 8.0.24 include:
-      + Fix EOF handling in the AJP APR/native connector to avoid the tight loop that caused high CPU load
-      + Avoid an NPE when adding POJO WebSocket endpoints programmatically
-      + Improved handling of async timeouts
+  + [**Tomcat 8** - Aware IM v6.0 Only](http://tomcat.apache.org/) - **Latest version v8.0.28** -  Tomcat 8.0.14 32bit installed by default. 
     + Full details of these changes, and all the other changes, are available in the [Tomcat 8 changelog](http://tomcat.apache.org/tomcat-8.0-doc/changelog.htm).
-    + [**Download Tomcat v8.0.26**](http://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
+    + [**Download Tomcat v8**](http://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
       + Installation with Aware IM
         + Windows Based Systems
           + **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
@@ -168,8 +165,8 @@ Written in 100% Java programming language.
             5. Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
             6. Press Ctrl+v to paste and replace all files and folders.
             7. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
-  + [**Tomcat 6** - Aware IM v5.9 Only](http://tomcat.apache.org/) - **Tomcat 6.0.35 32bit** installed by default. 
-    + [Tomcat **v6.0.44** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains Important vulnerability fixes.
+  + [**Tomcat 6** - Aware IM v5.9 Only](http://tomcat.apache.org/) - **Latest version Tomcat 6.0.44 32bit - Tomcat 6.0.35 32bit installed by default. 
+    + [Download Tomcat **v6** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains Important vulnerability fixes.
       + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
       + [Security](http://tomcat.apache.org/security-6.html) - This page lists all security vulnerabilities fixed in released versions of Apache Tomcat 6.x.
       + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
@@ -178,14 +175,15 @@ Written in 100% Java programming language.
       + [SSL Configuration HOW-TO](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html) 
         + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
   + **Java JDK**
-    + [Java Platform (JDK) 8u60](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
+    + [Java Platform (JDK) v8u65](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
   + [**Apache ActiveMQ**](http://activemq.apache.org/) - v5.8.0 installed by default.
-    + [5.12.0 Release](http://activemq.apache.org/activemq-5120-release.html) - Apache ActiveMQ 5.12.0 resolves several issues, and provides significant improves to the AMQP and MQTT support in the broker as well as fixing issues with STOMP and MQTT over WebSockets plus much much more. It is build with and requires jdk 1.7.
+    + [5.12.1 Release](http://activemq.apache.org/activemq-5121-release.html)
       + Installation (Always backup original files first)
         + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib  
+    + [5.12.0 Release](http://activemq.apache.org/activemq-5120-release.html)   
     + [5.11.2 Release](http://activemq.apache.org/activemq-5112-release.html) 
     + [5.11.1 Release](http://activemq.apache.org/activemq-5111-release.html) 
     + [5.10.1 Release](http://activemq.apache.org/activemq-5101-release.html) 
@@ -199,11 +197,12 @@ Written in 100% Java programming language.
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        + [MySQL Community Server 5.6.26](http://dev.mysql.com/downloads/mysql/) - Some indexing changes/bugs still exist causing performance issues with AwareIM. 
-        + [MySQL Community Server 5.5.45](http://dev.mysql.com/downloads/mysql/5.5.html) - Recommended. 
+        + [MySQL Community Server 5.7.9](http://dev.mysql.com/downloads/mysql/) 
+        + [MySQL Community Server 5.6.27](https://dev.mysql.com/downloads/mysql/5.6.html) 
+        + [MySQL Community Server 5.5.46](https://dev.mysql.com/downloads/mysql/5.5.html) 
     + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/)
       + [Connector/J](http://dev.mysql.com/downloads/connector/j/) - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. 
-        + [Download v5.1.36](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the Platform Specific one. 
+        + [Download v5.1.37](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the Platform Specific one. 
         + [Changes and Release Notes](http://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
         + [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
         + **Installation** - Install the platform specific version first
