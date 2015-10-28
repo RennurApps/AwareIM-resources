@@ -113,7 +113,7 @@ Written in 100% Java programming language.
 
 #### Developer Community
   + [**2nd Aware IM International Developers Conference**](http://www.awareimdevelopers.com) - January 2016 - Bali 
-  + [**1st Aware IM International Developers Conference**](http://www.awareimdevelopers.com) - APRIL 13TH TO 15TH 2015 LAS VEGAS
+  + [1st Aware IM International Developers Conference](http://www.awareimdevelopers.com) - APRIL 13TH TO 15TH 2015 LAS VEGAS
   + [Developer Forum](http://www.awareim.com/forum/index.php) 
   + [Community Contributions](http://awareim.com/community-page/) - Plugins, themes, tips and tricks shared by the developers
   + [DevNet](http://www.awareim-devnet.com/) - Aware IM Developer Network (DevNet). Still relatively new.
@@ -143,7 +143,7 @@ Written in 100% Java programming language.
     + Opera (PC & Mac)
   + **Java Version 8 Update 65**
     + **Downloads** - Operating system Java update
-      + [**Download*](https://www.java.com/en/download/) 
+      + [**Download**](https://www.java.com/en/download/) 
       + **All Operating Systems**
         + [Download](https://www.java.com/en/download/manual.jsp) - Manual Download 
 
@@ -165,7 +165,7 @@ Written in 100% Java programming language.
             5. Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
             6. Press Ctrl+v to paste and replace all files and folders.
             7. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
-  + [**Tomcat 6** - Aware IM v5.9 Only](http://tomcat.apache.org/) - **Latest version Tomcat 6.0.44 32bit - Tomcat 6.0.35 32bit installed by default. 
+  + [**Tomcat 6** - Aware IM v5.9 Only](http://tomcat.apache.org/) - **Latest version Tomcat 6.0.44** - 32bit - Tomcat 6.0.35 32bit installed by default. 
     + [Download Tomcat **v6** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains Important vulnerability fixes.
       + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
       + [Security](http://tomcat.apache.org/security-6.html) - This page lists all security vulnerabilities fixed in released versions of Apache Tomcat 6.x.
