@@ -113,6 +113,22 @@ Written in 100% Java programming language.
 
 #### Developer Community
   + [**2nd Aware IM International Developers Conference**](http://www.awareimdevelopers.com) - January 2016 - Bali 
+    + [**Forum Info**](http://www.awareim.com/forum/viewtopic.php?f=1&t=8136) 
+    + **Some Topics** 
+      + How to deploy your app in the cloud. 
+      + Linux, Windows, MySQL, SQL Server, Aurora, EC2, IAM and Cloudwatch.
+      + Setting Up SSL for you app.
+      + Automatically reconfiguring your Aware IM Customizations after an Update.
+      + Fast Track to a SaaS app. 
+      + Integrating cool Dashboards in Aware IM.
+      + Migrating you apps from V6 to V7.
+      + Offline Mode in V7
+      + Responsive Mobile/tablet apps in V7
+      + Using Theme Builder in V7
+      + Aware IM Plugins - What’s available and how to use them (Stripe, gravatar, Campaign Monitor and Xero
+      + Scaling your apps…. Java settings, load balancers, indexing 
+      + All about Context and Processes
+      + 10 Great Configuration examples for any Business App…. Template Emails, search layouts, parsing emails etc.
   + [1st Aware IM International Developers Conference](http://www.awareimdevelopers.com) - APRIL 13TH TO 15TH 2015 LAS VEGAS
   + [Developer Forum](http://www.awareim.com/forum/index.php) 
   + [Community Contributions](http://awareim.com/community-page/) - Plugins, themes, tips and tricks shared by the developers
