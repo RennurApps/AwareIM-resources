@@ -165,7 +165,7 @@ Written in 100% Java programming language.
             5. Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
             6. Press Ctrl+v to paste and replace all files and folders.
             7. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
-  + [**Tomcat 6** - Aware IM v5.9 Only](http://tomcat.apache.org/) - **Latest version Tomcat 6.0.44** - 32bit - Tomcat 6.0.35 32bit installed by default. 
+  + [**Tomcat 6** - Aware IM v5.9 Only](http://tomcat.apache.org/) - **Latest version Tomcat 6.0.44** - 32bit Tomcat v6.0.35 32bit installed by default. 
     + [Download Tomcat **v6** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains Important vulnerability fixes.
       + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
       + [Security](http://tomcat.apache.org/security-6.html) - This page lists all security vulnerabilities fixed in released versions of Apache Tomcat 6.x.
@@ -201,8 +201,8 @@ Written in 100% Java programming language.
         + [MySQL Community Server 5.6.27](https://dev.mysql.com/downloads/mysql/5.6.html) 
         + [MySQL Community Server 5.5.46](https://dev.mysql.com/downloads/mysql/5.5.html) 
     + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/)
-      + [Connector/J](http://dev.mysql.com/downloads/connector/j/) - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. 
-        + [Download v5.1.37](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the Platform Specific one. 
+      + [**Connector/J**](http://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.37** - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. 
+        + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the Platform Specific one. 
         + [Changes and Release Notes](http://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
         + [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
         + **Installation** - Install the platform specific version first
