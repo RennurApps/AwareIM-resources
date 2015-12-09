@@ -223,7 +223,7 @@ Written in 100% Java programming language.
         + [MySQL Community Server 5.6.28](https://dev.mysql.com/downloads/mysql/5.6.html) 
         + [MySQL Community Server 5.5.47](https://dev.mysql.com/downloads/mysql/5.5.html) 
     + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/)
-      + [**Connector/J**](http://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.37** - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. 
+      + [**Connector/J**](http://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.38** - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. 
         + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the Platform Specific one. 
         + [Changes and Release Notes](http://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
         + [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
