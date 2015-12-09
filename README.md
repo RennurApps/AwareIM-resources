@@ -190,11 +190,11 @@ Written in 100% Java programming language.
     + [Download Tomcat **v6** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Tested & working.
       + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
       + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
-    + **SSL Configuration HOW-TO**
-      + [**v9.0**]((http://tomcat.apache.org/tomcat-9.0-doc/ssl-howto.html)
-      + [**v8.0**]((http://tomcat.apache.org/tomcat-8.0-doc/ssl-howto.html)
-      + [**v6.0**]((http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
-      + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
+  + **Tomcat SSL Configuration - HOW-TO**
+    + [**v9.0**]((http://tomcat.apache.org/tomcat-9.0-doc/ssl-howto.html)
+    + [**v8.0**]((http://tomcat.apache.org/tomcat-8.0-doc/ssl-howto.html)
+    + [**v6.0**]((http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
+    + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
   + **Java JDK**
     + [Java Platform (JDK) v8u65](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + **Aware IM JDK Installation**
