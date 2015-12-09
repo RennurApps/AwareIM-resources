@@ -157,7 +157,7 @@ Written in 100% Java programming language.
     + Firefox (PC & Mac)
     + Safari 6+
     + Opera (PC & Mac)
-  + **Java Version 8 Update 65**
+  + **Java Version 8 Update 66**
     + **Downloads** - Operating system Java update
       + [**Download**](https://www.java.com/en/download/) 
       + **All Operating Systems**
@@ -196,14 +196,15 @@ Written in 100% Java programming language.
     + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
   + **Java JDK**
-    + [Java Platform (JDK) v8u65](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
+    + [Java Platform (JDK) v8u66](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
   + [**Apache ActiveMQ**](http://activemq.apache.org/) - v5.8.0 installed by default.
-    + [5.12.1 Release](http://activemq.apache.org/activemq-5121-release.html)
+    + [5.13.0 Release](http://activemq.apache.org/activemq-5130-release.html)
       + Installation (Always backup original files first)
         + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib  
+    + [5.12.1 Release](http://activemq.apache.org/activemq-5121-release.html)
     + [5.12.0 Release](http://activemq.apache.org/activemq-5120-release.html)   
     + [5.11.2 Release](http://activemq.apache.org/activemq-5112-release.html) 
     + [5.11.1 Release](http://activemq.apache.org/activemq-5111-release.html) 
@@ -218,9 +219,9 @@ Written in 100% Java programming language.
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        + [MySQL Community Server 5.7.9](http://dev.mysql.com/downloads/mysql/) 
-        + [MySQL Community Server 5.6.27](https://dev.mysql.com/downloads/mysql/5.6.html) 
-        + [MySQL Community Server 5.5.46](https://dev.mysql.com/downloads/mysql/5.5.html) 
+        + [MySQL Community Server 5.7.10](http://dev.mysql.com/downloads/mysql/) 
+        + [MySQL Community Server 5.6.28](https://dev.mysql.com/downloads/mysql/5.6.html) 
+        + [MySQL Community Server 5.5.47](https://dev.mysql.com/downloads/mysql/5.5.html) 
     + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/)
       + [**Connector/J**](http://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.37** - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. 
         + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the Platform Specific one. 
