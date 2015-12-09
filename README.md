@@ -1,7 +1,7 @@
-# Aware IM Developer Resources 
+# Aware IM Developer Resources
 Growing list of Aware IM developer tools, tips, news and resources. Contributions and suggestions welcome.
 #### Software
-Written in 100% Java programming language.
+Written in 100% Java programming language. Custom enterprise grade web application and mobile application development.  
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://awareim.com/try/) - 30 Day Evaluation Version - All platforms.
     + Currently v6.0 build 2056
