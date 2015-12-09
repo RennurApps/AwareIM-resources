@@ -4,7 +4,7 @@ Growing list of Aware IM developer tools, tips, news and resources. Contribution
 Written in 100% Java programming language.
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://awareim.com/try/) - 30 Day Evaluation Version - All platforms.
-    + Currently v6.0 build 2052
+    + Currently v6.0 build 2056
       + [v6.0 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - 150mb - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Windows](http://awareim.com/WP_NEW/download?DownloadType=Windows) - Runs on any Windows platform except Windows 95/98. The file is an executable setup program.
       + [v5.9 for Linux](http://awareim.com/WP_NEW/download?DownloadType=Linux) - The file is an archive containing Aware IM components.
@@ -168,9 +168,8 @@ Written in 100% Java programming language.
 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
   
-  + [**Tomcat 8** - Aware IM v6.0 Only](http://tomcat.apache.org/) - **Latest version v8.0.28** -  Tomcat 8.0.14 32bit installed by default. 
-    + Full details of these changes, and all the other changes, are available in the [Tomcat 8 changelog](http://tomcat.apache.org/tomcat-8.0-doc/changelog.htm).
-    + [**Download Tomcat v8**](http://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
+  + [**Tomcat 9** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version v9.0.0.M1** -  Tomcat 8.0.14 32bit installed by default. 
+    + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
       + Installation with Aware IM
         + Windows Based Systems
           + **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
@@ -181,15 +180,21 @@ Written in 100% Java programming language.
             5. Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
             6. Press Ctrl+v to paste and replace all files and folders.
             7. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
-  + [**Tomcat 6** - Aware IM v5.9 Only](http://tomcat.apache.org/) - **Latest version Tomcat 6.0.44** - 32bit Tomcat v6.0.35 32bit installed by default. 
-    + [Download Tomcat **v6** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Contains Important vulnerability fixes.
+    + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
+    + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
+  + [**Tomcat 8** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version Tomcat v8.0.30** -  Tomcat 8.0.14 32bit installed by default.
+    + [**Download Tomcat v8**](https://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working.
+    + [Tomcat 8 Documentation](https://tomcat.apache.org/tomcat-8.0-doc/index.html).
+    + [Tomcat 8 Changelog](https://tomcat.apache.org/tomcat-8.0-doc/changelog.html).
+  + [**Tomcat 6** - For Aware IM v5.9 Only](http://tomcat.apache.org/) - **Latest version Tomcat 6.0.44** - Tomcat v6.0.35 32bit installed by default. 
+    + [Download Tomcat **v6** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Tested & working.
       + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
-      + [Security](http://tomcat.apache.org/security-6.html) - This page lists all security vulnerabilities fixed in released versions of Apache Tomcat 6.x.
       + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
-        + **Linux Based Systems** - 
-          + [Tomcat on Linux](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt) - Release Notes
-      + [SSL Configuration HOW-TO](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html) 
-        + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
+    + **SSL Configuration HOW-TO**
+      + [**v9.0**]((http://tomcat.apache.org/tomcat-9.0-doc/ssl-howto.html)
+      + [**v8.0**]((http://tomcat.apache.org/tomcat-8.0-doc/ssl-howto.html)
+      + [**v6.0**]((http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
+      + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
   + **Java JDK**
     + [Java Platform (JDK) v8u65](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + **Aware IM JDK Installation**
