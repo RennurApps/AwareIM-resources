@@ -197,10 +197,10 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
   + [**Apache ActiveMQ**](http://activemq.apache.org/) - v5.8.0 installed by default.
-    + [5.13.0 Release](http://activemq.apache.org/activemq-5130-release.html)
+    + [5.13.0 Release](http://activemq.apache.org/activemq-5130-release.html) - Tested with Tomcat 9. **Server starts but the application will not load** 
+    + [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html)
       + Installation (Always backup original files first)
-        + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib  
-    + [5.12.1 Release](http://activemq.apache.org/activemq-5121-release.html)
+      + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib
     + [5.12.0 Release](http://activemq.apache.org/activemq-5120-release.html)   
     + [5.11.2 Release](http://activemq.apache.org/activemq-5112-release.html) 
     + [5.11.1 Release](http://activemq.apache.org/activemq-5111-release.html) 
