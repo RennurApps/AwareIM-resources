@@ -259,7 +259,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
   + [**Bootstrap v3**](http://getbootstrap.com/) - Currently v3.3.6 
     + Integrating with Aware IM
       + Manual configuration through Startup.html
-      + disable **legend** style with /* */ brackets as it seems to nonflict with ExtJS styles
+      + disable **legend** style with /* */ brackets as it seems to be in conflict with the ExtJS style
         + /* legend {
           display: block;
           width: 100%;
