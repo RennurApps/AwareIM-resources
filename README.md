@@ -255,7 +255,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + [Documentation](http://docs.sencha.com/touch/2.3.1/)
 
 #### Front-end Framework
-  + [Bootstrap v4-alpha](http://getbootstrap.com/) - Currently v4.0.0-alpha.2 - Not tested. some v3 features dropped.
+  + [Bootstrap v4-alpha](http://v4-alpha.getbootstrap.com/) - Currently v4.0.0-alpha.2 - Not tested. some v3 features dropped.
   + [**Bootstrap v3**](http://getbootstrap.com/) - Currently v3.3.6 
     + Integrating with Aware IM
       + Manual configuration through Startup.html
