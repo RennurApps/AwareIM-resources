@@ -255,9 +255,22 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + [Documentation](http://docs.sencha.com/touch/2.3.1/)
 
 #### Front-end Framework
-  + [**Bootstrap**](http://getbootstrap.com/) - Currently v3.3.5
+  + [Bootstrap v4-alpha](http://getbootstrap.com/) - Currently v4.0.0-alpha.2 - Not tested. some v3 features dropped.
+  + [**Bootstrap v3**](http://getbootstrap.com/) - Currently v3.3.6 
     + Integrating with Aware IM
       + Manual configuration through Startup.html
+      + disable **legend** style with /* */ brackets as it seems to nonflict with ExtJS styles
+        + /* legend {
+          display: block;
+          width: 100%;
+          padding: 0;
+          margin-bottom: 20px;
+          font-size: 21px;
+          line-height: inherit;
+          color: #333;
+          border: 0;
+          border-bottom: 1px solid #e5e5e5;
+          } */
     + [LayoutIt!](http://www.layoutit.com/build) - Drag & drop layout builder
     + [Huge list of bootstrap resources](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
     + [Bootstrap Tutorial](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
