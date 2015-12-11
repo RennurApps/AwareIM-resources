@@ -278,12 +278,11 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
   + [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time.
 
 #### Aware IM Features  
-  + **Electronic Signature Capture** 
-    + [**Signature Pad**](https://github.com/szimek/signature_pad) - Available with Aware IM v5.9+. Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers. 
+  + **Electronic Signature Capture** - Aware IM 5.9+
+    + [**Signature Pad** Download](https://github.com/szimek/signature_pad) - **Currently v1.5.2**. Bundled v1.2.4. Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers. 
       + [**DEMO**](http://szimek.github.io/signature_pad/) 
-    + **Version 1.5.0** 
-      + Installing the new version: 
-        + Replace the default ../AwareIM/signature/signature_pad.js (v 1.2.4) with the RennurApps version (1.4.0) found here [signature_pad.js](https://github.com/RennurApps/AwareIM-resources/blob/master/signature_pad.js)
+      + **Installation**: 
+        + Replace ../AwareIM/signature/signature_pad.js with the new version.
       + **Options** - Edit **signature_pad.js** found in **C:\AwareIM\Tomcat\webapps\AwareIM\signature** 
         + dotSize - (float or function) Radius of a single dot.
         + minWidth - (float) Minimum width of a line. Defaults to 0.5.
