@@ -153,7 +153,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + Firefox (PC & Mac)
     + Safari 6+
     + Opera (PC & Mac)
-  + **Java Version 8 Update 66**
+  + **Java Version 8 Update 66** - Java 8 the minimum required version to run Tomcat 9.
     + **Downloads** - Operating system Java update
       + [**Download**](https://www.java.com/en/download/) 
       + **All Operating Systems**
@@ -166,7 +166,8 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
   
   + [**Tomcat 9** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version v9.0.0.M1** -  Tomcat 8.0.14 32bit installed by default. 
     + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
-      + Installation with Aware IM
+      + Installation with Aware IM 
+        + Java 8 the minimum required version to run Tomcat 9.
         + Windows Based Systems
           + **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
             1. **Extract** the archive and open the folder.
@@ -200,7 +201,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + [5.13.0 Release](http://activemq.apache.org/activemq-5130-release.html) - Tested with Tomcat 9. **Server starts but the application will not load** 
     + [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - Tested and working with Tomcat 8 & 9.
       + Installation (Always backup original files first)
-      + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib
+        + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib
     + [5.12.0 Release](http://activemq.apache.org/activemq-5120-release.html) 
     + [5.11.2 Release](http://activemq.apache.org/activemq-5112-release.html) 
     + [5.11.1 Release](http://activemq.apache.org/activemq-5111-release.html) 
