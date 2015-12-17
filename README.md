@@ -7,7 +7,8 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + Currently v6.0 build 2056
   + [Purchase a premium support ticket](http://awareim.com/WP_NEW/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
-      + **v6.0** - Builds 2010+ 
+      + v7.0 - Scheduled for release in jan 2016. For a beta testing version, please contact Aware IM support.   
+      + Currently **v6.0** - Builds 2010+ 
         + [Aware IM 6.0 released](http://awareim.com/aware-im-6-0-released/)
       + **v5.9** - Builds 1881+
         + [Aware IM 5.9 released](http://awareim.com/aware-im-5-9-released/)
@@ -86,8 +87,8 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
         + **Google Maps Polygon Areas** from 12:57min
     + **Version 5.6+**
       + [Import/Export Templates](http://awareim.com/tutorials/UDIT/UDIT.html)
-  + [Documentation](http://awareim.com/documentation/) 
-      + [Quick Tour](http://www.awareim.com/wp-content/uploads/2015/01/QuickTour.pdf)
+  + [**Documentation**](http://awareim.com/documentation/) 
+      + [Quick Tour (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/QuickTour.pdf)
       + [Installation Guide (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/InstallationGuide.pdf) 
       + [User Guide (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/UserGuide.pdf)
       + [How To (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/HowTo.pdf) - How to perform certain common tasks in Aware IM.
