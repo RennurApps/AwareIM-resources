@@ -20,7 +20,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
       + **v5.7** - Builds 1691-1719
       + **v5.6** - Builds 1638-1671
       + **v5.5** - Builds 1588-1617
-  + [**Video Tutorials**](http://awareim.com/video-tutorials/) - Highly Recommended
+  + [**Video Tutorials**](http://www.awareim.com/video-tutorials/) - Highly Recommended
     + **Core Tutorials** - Watch first if not familiar with Aware IM concepts.
       + **Getting Started**
         + [Getting Started](http://www.awareim.com/tutorials/getting_started/getting_started.html)
@@ -86,10 +86,14 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
         + **Google Maps Polygon Areas** from 12:57min
     + **Version 5.6+**
       + [Import/Export Templates](http://awareim.com/tutorials/UDIT/UDIT.html)
-  + [Documentation](http://awareim.com/documentation/)
-      + [Installation Guide (PDF)](http://www.awareim.com/InstallationGuide.pdf)
-      + [User Guide (PDF)](http://www.awareim.com/UserGuide.pdf)
-      + [How To (PDF)](http://www.awareim.com/OnlineDoco/indexHowto.html)
+  + [Documentation](http://awareim.com/documentation/) 
+      + [Quick Tour](http://www.awareim.com/wp-content/uploads/2015/01/QuickTour.pdf)
+      + [Installation Guide (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/InstallationGuide.pdf) 
+      + [User Guide (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/UserGuide.pdf)
+      + [How To (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/HowTo.pdf) - How to perform certain common tasks in Aware IM.
+      + [Programmer’s Reference (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/ProgrammersReference.pdf) -  Application Programming Interface (API) to the Aware IM software system. 
+      + [Getting Started (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/GettingStarted.pdf)
+      + [Mobile Applications Guide (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/Mobile-Applications.pdf)  
   + [**Sample Applications**](http://awareim.com/sample-applications/) - 
     + **Live web & mobile applications** - Also available out-of-the-box.
       + [CRM](http://www.awareim.com/sample_crm.html)
