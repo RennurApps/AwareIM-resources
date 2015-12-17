@@ -8,7 +8,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
   + [Purchase a premium support ticket](http://awareim.com/WP_NEW/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
       + v7.0 - Scheduled for release in jan 2016. For a beta testing version, please contact Aware IM support.   
-      + Currently **v6.0** - Builds 2010+ 
+      + **Currently v6.0** - Builds 2010+ 
         + [Aware IM 6.0 released](http://awareim.com/aware-im-6-0-released/)
       + **v5.9** - Builds 1881+
         + [Aware IM 5.9 released](http://awareim.com/aware-im-5-9-released/)
