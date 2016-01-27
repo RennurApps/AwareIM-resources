@@ -249,7 +249,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 
 #### **Web Application Framework**
   + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - for Aware IM v7.0 Only 
-    + [**Demos**}(http://demos.telerik.com/kendo-ui/)
+    + [**Demos**](http://demos.telerik.com/kendo-ui/)
     + 70+ jQuery-based UI widgets in one powerful toolset.
     + AngularJS integration, Bootstrap support, mobile controls, offline data solution.
   + **Ext JS v5.0.0** - for Aware IM v6.0 Only
@@ -264,9 +264,9 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
   + [**Sencha Touch**](http://www.sencha.com/products/touch/) v2.3.1 (latest) HTML5 Mobile app development
     + [Documentation](http://docs.sencha.com/touch/2.3.1/)
 
-#### Front-end Framework
+#### Front-end Framework - For Aware IM version 5 & 6 only; Aware IM 7.0 has bootstrap integreted as part of Kendo UI.
   + [Bootstrap v4-alpha](http://v4-alpha.getbootstrap.com/) - Currently v4.0.0-alpha.2 - Not tested. some v3 features dropped.
-  + [**Bootstrap v3**](http://getbootstrap.com/) - Currently v3.3.6 
+  + [**Bootstrap v3**](http://getbootstrap.com/) - Currently v3.3.6 - 
     + Integrating with Aware IM
       + Manual configuration through Startup.html
       + disable **legend** style with /* */ brackets as it seems to be in conflict with the ExtJS style
