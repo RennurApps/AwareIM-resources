@@ -264,23 +264,24 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
   + [**Sencha Touch**](http://www.sencha.com/products/touch/) v2.3.1 (latest) HTML5 Mobile app development
     + [Documentation](http://docs.sencha.com/touch/2.3.1/)
 
-#### Front-end Framework - For Aware IM version 5 & 6 only; Aware IM 7.0 has bootstrap integreted as part of Kendo UI.
-  + [Bootstrap v4-alpha](http://v4-alpha.getbootstrap.com/) - Currently v4.0.0-alpha.2 - Not tested. some v3 features dropped.
-  + [**Bootstrap v3**](http://getbootstrap.com/) - Currently v3.3.6 - 
-    + Integrating with Aware IM
-      + Manual configuration through Startup.html
-      + disable **legend** style with /* */ brackets as it seems to be in conflict with the ExtJS style
-        + /* legend {
-          display: block;
-          width: 100%;
-          padding: 0;
-          margin-bottom: 20px;
-          font-size: 21px;
-          line-height: inherit;
-          color: #333;
-          border: 0;
-          border-bottom: 1px solid #e5e5e5;
-          } */
+#### Front-end Framework 
+  + **Bootsrap** - For Aware IM version 5 & 6 only; Aware IM 7.0 has bootstrap integreted as part of Kendo UI.
+    + [Bootstrap v4-alpha](http://v4-alpha.getbootstrap.com/) - Currently v4.0.0-alpha.2 - Not tested. some v3 features dropped.
+    + [**Bootstrap v3**](http://getbootstrap.com/) - Currently v3.3.6 - 
+      + Integrating with Aware IM
+        + Manual configuration through Startup.html
+        + disable **legend** style with /* */ brackets as it seems to be in conflict with the ExtJS style
+          + /* legend {
+            display: block;
+            width: 100%;
+            padding: 0;
+            margin-bottom: 20px;
+            font-size: 21px;
+            line-height: inherit;
+            color: #333;
+            border: 0;
+            border-bottom: 1px solid #e5e5e5;
+            } */
     + [LayoutIt!](http://www.layoutit.com/build) - Drag & drop layout builder
     + [Huge list of bootstrap resources](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
     + [Bootstrap Tutorial](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
