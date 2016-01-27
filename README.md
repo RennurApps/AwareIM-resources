@@ -261,9 +261,9 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + [Ext JS Examples](http://try.sencha.com/extjs/4.1.0/)
   
 #### **Mobile Web Framework**
-  **Aware IM 7.x**
+  + **Aware IM 7.x**
     + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - for Aware IM v7.0 Only
-  **Aware IM 5.x & 6.x**
+  + **Aware IM 5.x & 6.x**
     + [**Sencha Touch**](http://www.sencha.com/products/touch/) v2.3.1 (latest) HTML5 Mobile app development
       + [Documentation](http://docs.sencha.com/touch/2.3.1/)
 
