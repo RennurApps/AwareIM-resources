@@ -248,6 +248,10 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
   + [Sencha Fiddle](https://fiddle.sencha.com/)
 
 #### **Web Application Framework**
+  + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - for Aware IM v7.0 Only 
+    + [**Demos**}(http://demos.telerik.com/kendo-ui/)
+    + 70+ jQuery-based UI widgets in one powerful toolset.
+    + AngularJS integration, Bootstrap support, mobile controls, offline data solution.
   + **Ext JS v5.0.0** - for Aware IM v6.0 Only
     + [Guide](http://docs.sencha.com/extjs/5.0.0/index.html)
       + [Ext JS 5 Examples](http://dev.sencha.com/ext/5.0.0/examples/index.html)
