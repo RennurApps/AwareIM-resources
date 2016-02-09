@@ -1,5 +1,6 @@
 # Aware IM Developer Resources
-Growing list of Aware IM developer tools, tips, news and resources. Contributions and suggestions welcome.
+Aware IM is a rapid application development tool that lets you create powerful aesthetically appealing web applications quickly. 
+Here you'll find a growing list of Aware IM developer tools, tips, news and resources. 
 #### Software
 Written in 100% Java programming language. Custom enterprise grade web application and mobile application development.  
   + [Home Page](http://www.awareim.com/)
@@ -7,8 +8,14 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + Currently v6.0 build 2056
   + [Purchase a premium support ticket](http://awareim.com/WP_NEW/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
-      + v7.0 - Scheduled for release in jan 2016. For a beta testing version, please contact Aware IM support.   
-      + **Currently v6.0** - Builds 2010+ 
+      + **Currently v7.0** - Builds 2144+ [Readme](http://www.awareim.com/changelog/Readme2144.txt)
+        + [Aware IM 7.0 released](http://www.awareim.com/aware-im-7-0-released/) - February 8, 2016
+          + The new version is so fast that you could think it is a native desktop or mobile application.
+The slick new look and feel has been redesigned from scratch and is now based on such popular
+technologies as jQuery, Kendo UI and Twitter Bootrstrap. Best of all, all the functionality works
+on desktop and mobile devices.
+          + [Watch a video about version 7.0](https://youtu.be/p5Q-YYAd6Fs)
+      + **v6.0** - Builds 2010-2056 
         + [Aware IM 6.0 released](http://awareim.com/aware-im-6-0-released/)
       + **v5.9** - Builds 1881+
         + [Aware IM 5.9 released](http://awareim.com/aware-im-5-9-released/)
