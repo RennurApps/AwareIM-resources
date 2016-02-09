@@ -56,6 +56,13 @@ on desktop and mobile devices.
       + [**Mobile Applications**](http://www.awareim.com/tutorials/Mobile/Mobile.html)
       + [**Web Services**](http://www.awareim.com/tutorials/WebServices/WebServices.html)
       + [**User Defined Workflows (Processes)**](http://www.awareim.com/tutorials/UDP/UDP.html)
+    + **Version 7.0+**
+      + [**What's New in 7.0**](https://youtu.be/p5Q-YYAd6Fs) - 5 minute overview.
+      + [**Fast web application builder mobile and desktop**](https://youtu.be/p5Q-YYAd6Fs)
+      + [**Mobile web application development**](https://youtu.be/Gte6vbvAYsg)
+      + [**Development of responsive web applications**](https://youtu.be/6_yJj4Xy6bU)
+      + [**Builder for online and offline web applications**](https://youtu.be/xd3DQrHXGBs) - Create powerful web applications that can be used online or offline in the fraction of the time 
+      + More tutorials to be rolled out
     + **Version 6.0+**
       + [**What's New in 6.0**](http://www.awareim.com/tutorials/60/Version6.0.html) - **Video tutorial**
     + **Version 5.9+**
