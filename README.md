@@ -158,7 +158,8 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + Firefox (PC & Mac)
     + Safari 6+
     + Opera (PC & Mac)
-  + **Java Version 8 Update 71** - Java 8 the minimum required version to run Tomcat 9.
+  + **Java Version 8 Update 73** - Java 8 the minimum required version to run Tomcat 9.
+    + **Chrome**: Starting with Version 42 (released April 2015), Chrome has disabled the standard way in which browsers support plugins. 
     + **Downloads** - Operating system Java update
       + [**Download**](https://www.java.com/en/download/) 
       + **All Operating Systems**
@@ -198,11 +199,12 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
   + **Java JDK**
-    + [Java Platform (JDK) v8u71](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
+    + [Java Platform (JDK) 8u73 / 8u74](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
   + [**Apache ActiveMQ**](http://activemq.apache.org/) - v5.8.0 installed by default.
+    + [5.13.1 Release](http://activemq.apache.org/activemq-5131-release.html) - Untested. **See 5.12.1** 
     + [5.13.0 Release](http://activemq.apache.org/activemq-5130-release.html) - Tested with Tomcat 9. **Server starts but the application will not load** 
     + [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - Tested and working with Tomcat 8 & 9.
       + Installation (Always backup original files first)
@@ -215,16 +217,16 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + [5.9.0 Release](http://activemq.apache.org/activemq-590-release.html) 
     + [5.8.0 Release](http://activemq.apache.org/activemq-580-release.html) 
   
-  + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **v 3.5.25**.
+  + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **v 3.5.28**.
 
 #### Database
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        + [MySQL Community Server 5.7.10](http://dev.mysql.com/downloads/mysql/) 
-        + [MySQL Community Server 5.6.28](https://dev.mysql.com/downloads/mysql/5.6.html) 
-        + [MySQL Community Server 5.5.47](https://dev.mysql.com/downloads/mysql/5.5.html) 
-    + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/)
+        + [MySQL Community Server 5.7.11](http://dev.mysql.com/downloads/mysql/) 
+        + [MySQL Community Server 5.6.29](https://dev.mysql.com/downloads/mysql/5.6.html) 
+        + [MySQL Community Server 5.5.48](https://dev.mysql.com/downloads/mysql/5.5.html) 
+    + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/) - **HIGHLY RECOMMENDED**
       + [**Connector/J**](http://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.38** - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. 
         + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the Platform Specific one. 
         + [Changes and Release Notes](http://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
@@ -319,6 +321,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
       + [**JasperReports® Server**](http://community.jaspersoft.com/project/jasperreports-server) - Self-service Reporting and Analysis Server 
         + [Documentation](http://community.jaspersoft.com/documentation?version=15786)
         + [Installation Guide](http://community.jaspersoft.com/documentation/tibco-jasperreports-server-installation-guide/v61/introduction)
+          + Bundled with and installed own Tomcat server and PostgreSQL database
         + **Connect to MySQL database** 
           + [Login to Jasper Reports Server](http://localhost:8081/jasperserver/login.html) - http://localhost:8081/jasperserver/login.html Login UserID: jasperadmin Password: jasperadmin (change password after login)
           + Data Sources > Add Resource > Data Source > JDBC Data Source 
