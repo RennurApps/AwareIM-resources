@@ -1,6 +1,5 @@
 # Aware IM Developer Resources
-Aware IM is a rapid application development tool that lets you create powerful aesthetically appealing web applications quickly. 
-Here you'll find a growing list of Aware IM developer tools, tips, news and resources. 
+Aware IM is a rapid application development tool that lets you create powerful aesthetically appealing web applications quickly. Here you'll find a growing list of Aware IM developer tools, tips, news and resources. 
 #### Software
 Written in 100% Java programming language. Custom enterprise grade web application and mobile application development.  
   + [Home Page](http://www.awareim.com/)
@@ -61,7 +60,8 @@ on desktop and mobile devices.
       + [**Fast web application builder mobile and desktop**](https://youtu.be/p5Q-YYAd6Fs)
       + [**Mobile web application development**](https://youtu.be/Gte6vbvAYsg)
       + [**Development of responsive web applications**](https://youtu.be/6_yJj4Xy6bU)
-      + [**Builder for online and offline web applications**](https://youtu.be/xd3DQrHXGBs) - Create powerful web applications that can be used online or offline in the fraction of the time 
+      + [**Builder for online and offline web applications**](https://youtu.be/xd3DQrHXGBs)  
+      + [**Powerful web application builder**](https://youtu.be/A82fCezQK_g) 
       + More tutorials to be rolled out
     + **Version 6.0+**
       + [**What's New in 6.0**](http://www.awareim.com/tutorials/60/Version6.0.html) - **Video tutorial**
