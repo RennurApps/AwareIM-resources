@@ -333,7 +333,16 @@ on desktop and mobile devices.
     + [**Download**](http://wkhtmltopdf.org/downloads.html) - **v0.12.3.1** released on January 20, 2016 for Windows, Linux and OS X.
     + **Installation**
       + Windows
-        + Extract .exe file to a folder ([7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM 
+        + Extract *.exe file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM 
+    + **Aware IM Process Rules**
+      + Step one 1 - **Export Aware IM HTML Document to a HTML file**
+        + EXPORT DOCUMENT 'Your HTML Document' TO FILE 'C:/YourFileLocation/<<BO.Name>>_No<<Docket_Report.ID>>.html' 
+      + Step one 2 - **Convert exported HTML file to PDF** 
+        + EXECUTE PROGRAM 'C:\AwareIM\wkhtmltopdf\bin\wkhtmltopdf.exe file:///C:/YourFileLocation/<<BO.Name>>_No<<Docket_Report.ID>>.**html** C:/YourFileLocation/<<BO.Name>>_No<<Docket_Report.ID>>.**pdf**' 
+      + Step 3 - Import PDF document to your myBO.DocumentPDF attribute 
+        + IMPORT DOCUMENT myBO.DocumentPDF FROM 'C:/YourFileLocation/<<BO.Name>>_No<<Docket_Report.ID>>.pdf' 
+      + **Optional** - Delete exported HTML file 
+        + DELETE FILE 'C:/YourFileLocation/<<BO.Name>>_No<<Docket_Report.ID>>.html' 
   + **REPORTING** 
     + **TIBCO Jaspersoft** 
       + [**JasperReports® Server**](http://community.jaspersoft.com/project/jasperreports-server) - Self-service Reporting and Analysis Server 
