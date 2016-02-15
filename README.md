@@ -341,7 +341,7 @@ on desktop and mobile devices.
         + EXECUTE PROGRAM 'C:\AwareIM\wkhtmltopdf\bin\wkhtmltopdf.exe file:///C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No&lt;&lt;myBO..ID&gt;&gt;.**html** C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No&lt;&lt;myBO.ID&gt;&gt;.**pdf**' 
       + **Step 3** - Import PDF document to your myBO.DocumentPDF attribute 
         + IMPORT DOCUMENT myBO.DocumentPDF FROM 'C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No&lt;&lt;myBO.ID&gt;&gt;.pdf' 
-        + **Optional** - Delete exported HTML file 
+      + **Optional** - Delete exported HTML file 
         + DELETE FILE 'C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No&lt;&lt;myBO.ID&gt;&gt;.html' 
 
   + **REPORTING** 
