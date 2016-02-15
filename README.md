@@ -338,7 +338,7 @@ on desktop and mobile devices.
       + **Step 1** - Export Aware IM HTML Document to a HTML file
         + EXPORT DOCUMENT 'Your HTML Document' TO FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html' 
       + **Step 2** - Convert exported HTML file to PDF 
-        + EXECUTE PROGRAM 'C:\AwareIM\wkhtmltopdf\bin\wkhtmltopdf.exe file:///C:/YourFileLocation/<<myBO.Name>>_No<<myBO..ID>>.**html** C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.**pdf**' 
+        + EXECUTE PROGRAM 'C:\AwareIM\wkhtmltopdf\bin\wkhtmltopdf.exe file:///C:/YourFileLocation/<<myBO.Name>>_No<<myBO..ID>>.**html** C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No<<myBO.ID>>.**pdf**' 
       + **Step 3** - Import PDF document to your myBO.DocumentPDF attribute 
         + IMPORT DOCUMENT myBO.DocumentPDF FROM 'C:/YourFileLocation/<<myBO..Name>>_No<<myBO.ID>>.pdf' 
       + **Optional** - Delete exported HTML file 
