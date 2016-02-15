@@ -16,7 +16,7 @@ on desktop and mobile devices.
           + [Watch a video about version 7.0](https://youtu.be/p5Q-YYAd6Fs)
       + **v6.0** - Builds 2010-2056 
         + [Aware IM 6.0 released](http://awareim.com/aware-im-6-0-released/)
-      + **v5.9** - Builds 1881+
+      + **v5.9** - Builds 1881-1908
         + [Aware IM 5.9 released](http://awareim.com/aware-im-5-9-released/)
           + Improvements
             + **User Defined Processes/Workflows** - Ability for the administrator of end user to control access levels settings
