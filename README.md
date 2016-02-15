@@ -232,7 +232,7 @@ on desktop and mobile devices.
   
   + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **v 3.5.28**.
 
-#### Database
+#### Databases
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
@@ -306,7 +306,7 @@ on desktop and mobile devices.
   + [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks
   + [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time.
 
-#### Aware IM Features  
+#### Aware IM Internal Features  
   + **Electronic Signature Capture** - Aware IM 5.9+
     + [**Signature Pad** Download](https://github.com/szimek/signature_pad) - **Currently v1.5.2**. Bundled v1.2.4. Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers. 
       + [**DEMO**](http://szimek.github.io/signature_pad/) 
@@ -329,6 +329,11 @@ on desktop and mobile devices.
   + **Phonegap** support
 
 #### Integrating with Aware IM 
+  + **HTML to PDF Document Conversion** - Implement [**wkhtmltopdf**](http://wkhtmltopdf.org/) 
+    + [**Download**](http://wkhtmltopdf.org/downloads.html) - **v0.12.3.1** released on January 20, 2016 for Windows, Linux and OS X.
+    + **Installation**
+      + Windows
+        + Extract .exe file to a folder ([7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM 
   + **REPORTING** 
     + **TIBCO Jaspersoft** 
       + [**JasperReports® Server**](http://community.jaspersoft.com/project/jasperreports-server) - Self-service Reporting and Analysis Server 
