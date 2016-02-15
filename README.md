@@ -336,7 +336,7 @@ on desktop and mobile devices.
         + Extract *.exe file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM 
     + **Aware IM Process Rules**
       + **Step 1** - Export Aware IM HTML Document to a HTML file
-        + EXPORT DOCUMENT 'Your HTML Document' TO FILE 'C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&glt;_No&lt;&lt;myBO.ID&gt;&gt;.html' 
+        + EXPORT DOCUMENT 'Your HTML Document' TO FILE 'C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No&lt;&lt;myBO.ID&gt;&gt;.html' 
       + **Step 2** - Convert exported HTML file to PDF 
         + EXECUTE PROGRAM 'C:\AwareIM\wkhtmltopdf\bin\wkhtmltopdf.exe file:///C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No&lt;&lt;myBO..ID&gt;&gt;.**html** C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No&lt;&lt;myBO.ID&gt;&gt;.**pdf**' 
       + **Step 3** - Import PDF document to your myBO.DocumentPDF attribute 
