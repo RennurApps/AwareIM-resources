@@ -335,14 +335,14 @@ on desktop and mobile devices.
       + Windows
         + Extract *.exe file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM 
     + **Aware IM Process Rules**
-      + Step one 1 - **Export Aware IM HTML Document to a HTML file**
-        + EXPORT DOCUMENT 'Your HTML Document' TO FILE 'C:/YourFileLocation/<<BO.Name>>_No<<Docket_Report.ID>>.html' 
-      + Step one 2 - **Convert exported HTML file to PDF** 
-        + EXECUTE PROGRAM 'C:\AwareIM\wkhtmltopdf\bin\wkhtmltopdf.exe file:///C:/YourFileLocation/<<BO.Name>>_No<<Docket_Report.ID>>.**html** C:/YourFileLocation/<<BO.Name>>_No<<Docket_Report.ID>>.**pdf**' 
-      + Step 3 - Import PDF document to your myBO.DocumentPDF attribute 
-        + IMPORT DOCUMENT myBO.DocumentPDF FROM 'C:/YourFileLocation/<<BO.Name>>_No<<Docket_Report.ID>>.pdf' 
+      + **Step 1** - Export Aware IM HTML Document to a HTML file
+        + EXPORT DOCUMENT 'Your HTML Document' TO FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html' 
+      + **Step 2** - Convert exported HTML file to PDF 
+        + EXECUTE PROGRAM 'C:\AwareIM\wkhtmltopdf\bin\wkhtmltopdf.exe file:///C:/YourFileLocation/<<myBO.Name>>_No<<myBO..ID>>.**html** C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.**pdf**' 
+      + **Step 3** - Import PDF document to your myBO.DocumentPDF attribute 
+        + IMPORT DOCUMENT myBO.DocumentPDF FROM 'C:/YourFileLocation/<<myBO..Name>>_No<<myBO.ID>>.pdf' 
       + **Optional** - Delete exported HTML file 
-        + DELETE FILE 'C:/YourFileLocation/<<BO.Name>>_No<<Docket_Report.ID>>.html' 
+        + DELETE FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO..ID>>.html' 
   + **REPORTING** 
     + **TIBCO Jaspersoft** 
       + [**JasperReports® Server**](http://community.jaspersoft.com/project/jasperreports-server) - Self-service Reporting and Analysis Server 
