@@ -183,7 +183,7 @@ on desktop and mobile devices.
 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
   
-  + [**Tomcat 9** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version v9.0.0.M1** -  Tomcat 8.0.14 32bit installed by default. 
+  + [**Tomcat 9** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version v9.0.0.M3** -  Tomcat 8.0.14 32bit installed by default. 
     + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
       + Installation with Aware IM 
         + Java 8 the minimum required version to run Tomcat 9.
