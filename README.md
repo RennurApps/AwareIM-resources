@@ -262,8 +262,11 @@ on desktop and mobile devices.
   + [Programmers Reference (PDF)](http://bit.ly/U4TGIX) - Java programmers can add extensions and plugins to the applications configured with Aware IM.
   + [Sencha Fiddle](https://fiddle.sencha.com/)
 
-#### **Web Application Framework**
-  + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - for Aware IM v7.0 Only 
+#### **End-to-End Solutions**
+  + [**Telerik Platform**](http://www.telerik.com/) - Cross-Platform Mobile Development for iOS, Android and Windows Phone.
+
+#### **Web Application Framework** - HTML5/JS Framework
+  + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - for Aware IM v7.0 Only. Web and mobile apps with HTML5 and JavaScript. 
     + [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
     + 70+ jQuery-based UI widgets in one powerful toolset.
     + AngularJS integration, Bootstrap support, mobile controls, offline data solution.
@@ -271,14 +274,14 @@ on desktop and mobile devices.
     + [Guide](http://docs.sencha.com/extjs/5.0.0/index.html)
       + [Ext JS 5 Examples](http://dev.sencha.com/ext/5.0.0/examples/index.html)
     + [Whats's New](http://docs.sencha.com/extjs/5.0.0/whats_new/5.0/whats_new.html)
-  + **Ext JS v4.1.0** for Aware IM v5.9 Only
+  + Ext JS v4.1.0 for Aware IM v5.9 Only
     + [Ext JS Docs](http://docs.sencha.com/extjs/4.1.0/)
     + [Ext JS Examples](http://try.sencha.com/extjs/4.1.0/)
   
 #### **Mobile Web Framework**
-  + **Aware IM 7.x**
+  + **Aware IM 7.x** - Mobile apps with HTML5 and JavaScript.
     + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - for Aware IM v7.0 Only
-  + **Aware IM 5.x & 6.x**
+  + Aware IM 5.x & 6.x
     + [**Sencha Touch**](http://www.sencha.com/products/touch/) v2.3.1 (latest) HTML5 Mobile app development
       + [Documentation](http://docs.sencha.com/touch/2.3.1/)
 
