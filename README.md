@@ -101,13 +101,13 @@ on desktop and mobile devices.
     + **Version 5.6+**
       + [Import/Export Templates](http://awareim.com/tutorials/UDIT/UDIT.html)
   + [**Documentation**](http://awareim.com/documentation/) 
-      + [Quick Tour (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/QuickTour.pdf)
-      + [Installation Guide (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/InstallationGuide.pdf) 
-      + [User Guide (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/UserGuide.pdf)
-      + [How To (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/HowTo.pdf) - How to perform certain common tasks in Aware IM.
-      + [Programmer’s Reference (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/ProgrammersReference.pdf) -  Application Programming Interface (API) to the Aware IM software system. 
-      + [Getting Started (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/GettingStarted.pdf)
-      + [Mobile Applications Guide (pdf)](http://www.awareim.com/wp-content/uploads/2015/01/Mobile-Applications.pdf)  
+      + [Quick Tour (pdf)](http://www.awareim.com/wp-content/uploads/2016/02/QuickTour.pdf)
+      + [Installation Guide (pdf)](http://www.awareim.com/wp-content/uploads/2016/02InstallationGuide.pdf) 
+      + [User Guide (pdf)](http://www.awareim.com/wp-content/uploads/2016/02/UserGuide.pdf)
+      + [How To (pdf)](http://www.awareim.com/wp-content/uploads/2016/02/HowTo.pdf) - How to perform certain common tasks in Aware IM.
+      + [Programmer’s Reference (pdf)](http://www.awareim.com/wp-content/uploads/2016/02/ProgrammersReference.pdf) -  Application Programming Interface (API) to the Aware IM software system. 
+      + [Getting Started (pdf)](http://www.awareim.com/wp-content/uploads/2016/02/GettingStarted.pdf)
+      + [Mobile Applications Guide (pdf)](http://www.awareim.com/wp-content/uploads/2016/02/Mobile-Applications.pdf)  
   + [**Sample Applications**](http://awareim.com/sample-applications/) - 
     + **Live web & mobile applications** - Also available out-of-the-box.
       + [CRM](http://www.awareim.com/sample_crm.html)
@@ -257,10 +257,6 @@ on desktop and mobile devices.
       + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib
     + [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
       + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib 
-
-#### Javascript Framework
-  + [Programmers Reference (PDF)](http://bit.ly/U4TGIX) - Java programmers can add extensions and plugins to the applications configured with Aware IM.
-  + [Sencha Fiddle](https://fiddle.sencha.com/)
 
 #### **End-to-End Solutions**
   + [**Telerik Platform**](http://www.telerik.com/) - Cross-Platform Mobile Development for iOS, Android and Windows Phone.
