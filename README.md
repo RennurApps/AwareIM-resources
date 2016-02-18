@@ -110,15 +110,15 @@ on desktop and mobile devices.
       + [Mobile Applications Guide (pdf)](http://www.awareim.com/wp-content/uploads/2016/02/Mobile-Applications.pdf)  
   + [**Sample Applications**](http://awareim.com/sample-applications/) - 
     + **Live web & mobile applications** - Also available out-of-the-box.
-      + [CRM](http://www.awareim.com/sample_crm.html)
-      + [Ordering](http://www.awareim.com/sample_ordering.html)
-      + [Issue Resolution](http://www.awareim.com/sample_issue_resolution.html)
-      + [Document Management](http://www.awareim.com/sample_documents.html)
-      + [Project Management](http://www.awareim.com/sample_project_mgmt.html) - The application showcases Gantt chart. Gannt chart is an optional feature in v5.9 and is available at additional cost. 
-      + [Event Registration](http://www.awareim.com/sample_events.html) 
-      + [Library Management](http://www.awareim.com/sample_library.html)
-      + [Photo Album](http://www.awareim.com/sample_photoalbum.html)
-      + [**Mobile Applications**](http://50.62.145.173/AwareIM/samplesMobile.html) - Mobile option is available at additional cost. 
+      + [CRM](http://www.awareim.com/crm/) 
+      + [RanFab](http://s1.ranfab.com/AwareIM/logonOp.aw?domain=DefaultApplication) - Sheet Metal and Fabrication business (www.idronic.com). User Name: james Password: james
+      + [Sales Portal](http://www.awareim.com/sample-apps/sample_sales_portal.html) - This fully responsive application represents a portal for a manager of sales.
+      + [Issue Resolution](http://www.awareim.com/sample-apps/sample_issue_resolution.html)
+      + [Project Management](http://test.awareim.com/AwareIM/logonOp.aw?domain=ProjectManagement&userName=john&password=john) - The application showcases Gantt chart. Gannt chart is an optional feature in v5.9 and is available at additional cost. 
+      + [Event Registration](http://www.awareim.com/sample-apps/sample_events.html) 
+      + [Library Management](http://www.awareim.com/library)
+      + [Photo Album](http://www.awareim.com/sample-apps/sample_photoalbum.html)
+
     + **More sample applications available out-of-the-box**
       + Customer Support app
       + Greetings List app
