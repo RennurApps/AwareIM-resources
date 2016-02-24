@@ -282,7 +282,7 @@ on desktop and mobile devices.
       + [Documentation](http://docs.sencha.com/touch/2.3.1/)
 
 #### Front-end Framework 
-  + **Bootsrap** - For Aware IM version 5.x & 6.x only; Aware IM 7.0 has bootstrap integrated as part of Kendo UI.
+  + **Bootstrap** - For Aware IM version 5.x & 6.x only; Aware IM 7.0 has bootstrap integrated as part of Kendo UI.
     + [Bootstrap v4-alpha](http://v4-alpha.getbootstrap.com/) - Currently v4.0.0-alpha.2 - Not tested. some v3 features dropped.
     + [**Bootstrap v3**](http://getbootstrap.com/) - Currently v3.3.6  
       + Integrating with Aware IM
