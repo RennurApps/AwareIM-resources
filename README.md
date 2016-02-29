@@ -241,12 +241,10 @@ on desktop and mobile devices.
         + [MySQL Community Server 5.5.48](https://dev.mysql.com/downloads/mysql/5.5.html) 
     + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/) - **HIGHLY RECOMMENDED**
       + [**Connector/J**](http://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.38** - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. 
-        + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest Platform Independent version as well as the Platform Specific one. 
+        + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest **Platform Independent** version. 
         + [Changes and Release Notes](http://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
         + [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
-        + **Installation** - Install the platform specific version first
-          + Operating System 
-            + Install the latest of version of Conncetor/J for your platform e.g Windows
+        + **Installation**
           + Aware IM Server
             1. Download platform independent version 
             2. Extract the files and rename mysql-connector-java-x.x.xx-bin.jar to mysql-connector-java-3.1.12-bin.jar 
