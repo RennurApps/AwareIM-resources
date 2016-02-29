@@ -262,23 +262,26 @@ on desktop and mobile devices.
   + [**Telerik Platform**](http://www.telerik.com/) - Cross-Platform Mobile Development for iOS, Android and Windows Phone.
 
 #### **Web Application Framework** - HTML5/JS Framework
-  + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - for Aware IM v7.0 Only. Web and mobile apps with HTML5 and JavaScript. 
+  + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **for Aware IM v7.0 Only**. Web and mobile apps with HTML5 and JavaScript. 
+    + [Release History](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
+      + **Current** release [**Kendo UI Q3 2015**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/q3-2015) - September 30, 2015
+        + Latest Release - [Kendo UI Q1 2016 SP1](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016-sp1) - February 26, 2016
     + [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
     + 70+ jQuery-based UI widgets in one powerful toolset.
     + AngularJS integration, Bootstrap support, mobile controls, offline data solution.
-  + **Ext JS v5.0.0** - for Aware IM v6.0 Only
+  + **Ext JS v5.0.0** - for Aware IM v6.0 Only (final)
     + [Guide](http://docs.sencha.com/extjs/5.0.0/index.html)
       + [Ext JS 5 Examples](http://dev.sencha.com/ext/5.0.0/examples/index.html)
     + [Whats's New](http://docs.sencha.com/extjs/5.0.0/whats_new/5.0/whats_new.html)
-  + Ext JS v4.1.0 for Aware IM v5.9 Only
+  + Ext JS v4.1.0 for Aware IM v5.9 Only (final)
     + [Ext JS Docs](http://docs.sencha.com/extjs/4.1.0/)
     + [Ext JS Examples](http://try.sencha.com/extjs/4.1.0/)
   
 #### **Mobile Web Framework**
   + **Aware IM 7.x** - Mobile apps with HTML5 and JavaScript.
     + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - for Aware IM v7.0 Only
-  + Aware IM 5.x & 6.x
-    + [**Sencha Touch**](http://www.sencha.com/products/touch/) v2.3.1 (latest) HTML5 Mobile app development
+  + Aware IM 5.x & 6.x 
+    + [**Sencha Touch**](http://www.sencha.com/products/touch/) v2.3.1 (final). HTML5 Mobile app development. 
       + [Documentation](http://docs.sencha.com/touch/2.3.1/)
 
 #### Front-end Framework 
