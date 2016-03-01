@@ -4,10 +4,10 @@ Aware IM is a rapid application development tool that lets you create powerful a
 Written in 100% Java programming language. Custom enterprise grade web application and mobile application development.  
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms.
-    + Currently v7.0 build 2147
+    + [**Currently v7.0 build 2148**](http://www.awareim.com/changelog/Readme2148.txt) 
   + [Purchase a premium support ticket](http://awareim.com/WP_NEW/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
-      + **Currently v7.0** - Builds 2144+ [Readme](http://www.awareim.com/changelog/Readme2146.txt)
+      + **Currently v7.0** - Builds 2144+
         + [Aware IM 7.0 released](http://www.awareim.com/aware-im-7-0-released/) - February 8, 2016
           + The new version is so fast that you could think it is a native desktop or mobile application.
 The slick new look and feel has been redesigned from scratch and is now based on such popular
