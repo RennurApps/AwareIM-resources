@@ -4,7 +4,7 @@ Aware IM is a rapid application development tool that lets you create powerful a
 Written in 100% Java programming language. Custom enterprise grade web application and mobile application development.  
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms.
-    + [**Currently v7.0 build 2148**](http://www.awareim.com/changelog/Readme2148.txt) 
+    + [**Currently v7.0 build 2154**](http://www.awareim.com/changelog/Readme2154.txt) 
   + [Purchase a premium support ticket](http://awareim.com/WP_NEW/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
       + **Currently v7.0** - Builds 2144+
@@ -262,8 +262,7 @@ on desktop and mobile devices.
 #### **Web Application Framework** - HTML5/JS Framework
   + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **for Aware IM v7.0 Only**. Web and mobile apps with HTML5 and JavaScript. 
     + [Release History](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
-      + **Current** release [**Kendo UI Q3 2015**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/q3-2015) - September 30, 2015
-        + Latest Release - [Kendo UI Q1 2016 SP1](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016-sp1) - February 26, 2016
+      + **Current** release [Kendo UI Q1 2016 SP1](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016-sp1) - **Latest** February 26, 2016
     + [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
     + 70+ jQuery-based UI widgets in one powerful toolset.
     + AngularJS integration, Bootstrap support, mobile controls, offline data solution.
