@@ -263,7 +263,8 @@ on desktop and mobile devices.
 #### **Web Application Framework** - HTML5/JS Framework
   + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **for Aware IM v7.0 Only**. Web and mobile apps with HTML5 and JavaScript. 
     + [Release History](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
-      + **Current** release [Kendo UI Q1 2016 SP1](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016-sp1) - **Latest** February 26, 2016
+    + Latest Release [Kendo UI Q1 2016 SP1](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016-sp1) - **Latest** February 26, 2016  
+    + **Aware IM** release [**Kendo UI Q1 2016**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
     + [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
     + 70+ jQuery-based UI widgets in one powerful toolset.
     + AngularJS integration, Bootstrap support, mobile controls, offline data solution.
