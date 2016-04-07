@@ -1,9 +1,9 @@
-Element: Business Object
-Area: Form
-Advanced Script: Render
-Attribute: Plain Text 
-Script: 
-var f = parser.getField ("ColorAttrName");
+Element: **Business Object** <br>
+Area: **Form** <br>
+Advanced Script: **Render** <br>
+Attribute: **Plain Text** <br>
+Script: <br>
+<quote>var f = parser.getField ("**ColorAttrName**");
 $("#" + f.getId ()).kendoColorPicker ({
 value: f.getValue (),
 buttons: false,
@@ -11,3 +11,4 @@ change: function (e) {
 f.setValue (e.value);
 }
 });
+</quote>
