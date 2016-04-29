@@ -4,7 +4,7 @@ Aware IM is a rapid application development tool that lets you create powerful a
 Written in 100% Java programming language. Custom enterprise grade web application and mobile application development.  
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms.
-    + [**Currently v7.0 build 2160**](http://www.awareim.com/changelog/Readme2160.txt) 
+    + [**Currently v7.0 build 2165**](http://www.awareim.com/changelog/Readme2165.txt) 
   + [Purchase a premium support ticket](http://awareim.com/WP_NEW/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
       + **Currently v7.0** - Builds 2144+
@@ -171,7 +171,7 @@ on desktop and mobile devices.
     + Firefox (PC & Mac)
     + Safari 6+
     + Opera (PC & Mac)
-  + **Java Version 8 Update 77** - Java 8 the minimum required version to run Tomcat 9.
+  + **Java Version 8 Update 92** - Java 8 the minimum required version to run Tomcat 9.
     + **Chrome**: Starting with Version 42 (released April 2015), Chrome has disabled the standard way in which browsers support plugins. 
     + **Downloads** - Operating system Java update
       + [**Download**](https://www.java.com/en/download/) 
@@ -212,7 +212,7 @@ on desktop and mobile devices.
     + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
   + **Java JDK**
-    + [Java Platform (JDK) 8u77](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
+    + [Java Platform (JDK) 8u92](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
@@ -237,9 +237,9 @@ on desktop and mobile devices.
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        + [MySQL Community Server 5.7.11](http://dev.mysql.com/downloads/mysql/) 
-        + [MySQL Community Server 5.6.29](https://dev.mysql.com/downloads/mysql/5.6.html) 
-        + [MySQL Community Server 5.5.48](https://dev.mysql.com/downloads/mysql/5.5.html) 
+        + [MySQL Community Server 5.7.12](http://dev.mysql.com/downloads/mysql/) 
+        + [MySQL Community Server 5.6.30](https://dev.mysql.com/downloads/mysql/5.6.html) 
+        + [MySQL Community Server 5.5.49](https://dev.mysql.com/downloads/mysql/5.5.html) 
     + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/) - **HIGHLY RECOMMENDED**
       + [**Connector/J**](http://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.38** - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. 
         + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest **Platform Independent** version. 
@@ -263,8 +263,8 @@ on desktop and mobile devices.
 #### **Web Application Framework** - HTML5/JS Framework
   + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **for Aware IM v7.0 Only**. Web and mobile apps with HTML5 and JavaScript. 
     + [Release History](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
-      + Latest Release [Kendo UI Q1 2016 SP1](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016-sp1) - February 26, 2016  
-      + **Aware IM** release [**Kendo UI Q1 2016**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
+      + Latest Kendo UI Release [Kendo UI Q1 2016 SP3](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016-sp3) - April 12, 2016  
+      + Kendo UI **Aware IM** release [**Kendo UI Q1 2016**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
     + [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
     + 70+ jQuery-based UI widgets in one powerful toolset.
     + AngularJS integration, Bootstrap support, mobile controls, offline data solution.
