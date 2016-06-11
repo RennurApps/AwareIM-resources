@@ -199,7 +199,7 @@ on desktop and mobile devices.
             7. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  + [**Tomcat 8** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version Tomcat v8.0.33** -  Tomcat 8.0.14 32bit installed by default.
+  + [**Tomcat 8** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version Tomcat v8.0.35** -  Tomcat 8.0.14 32bit installed by default.
     + [**Download Tomcat v8**](https://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working.
     + [Tomcat 8 Documentation](https://tomcat.apache.org/tomcat-8.0-doc/index.html).
     + [Tomcat 8 Changelog](https://tomcat.apache.org/tomcat-8.0-doc/changelog.html).
