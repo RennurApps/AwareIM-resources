@@ -183,8 +183,8 @@ on desktop and mobile devices.
 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
-  + [**Tomcat 9.0.0.M6** - incompatible with Aware IM]  
-  + [**Tomcat 9.0.0.M4** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version v9.0.0.M6 (verson incompatible with AwareIM)** -  Tomcat 8.0.14 32bit installed by default. 
+  + **Tomcat 9.0.0.M6** - Not compatible with Aware IM. Do not donwnload this version; use version 9.0.0.M4.
+  + [**Tomcat 9.0.0.M4** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version v9.0.0.M6 (verson not ncompatible with AwareIM)** -  Tomcat 8.0.14 32bit installed by default. 
     + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
       + Installation with Aware IM 
         + Java 8 the minimum required version to run Tomcat 9.
@@ -239,9 +239,9 @@ on desktop and mobile devices.
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        + [MySQL Community Server 5.7.12](http://dev.mysql.com/downloads/mysql/) 
-        + [MySQL Community Server 5.6.30](https://dev.mysql.com/downloads/mysql/5.6.html) 
-        + [MySQL Community Server 5.5.49](https://dev.mysql.com/downloads/mysql/5.5.html) 
+        + [MySQL Community Server 5.7.13](http://dev.mysql.com/downloads/mysql/) 
+        + [MySQL Community Server 5.6.31](https://dev.mysql.com/downloads/mysql/5.6.html) 
+        + [MySQL Community Server 5.5.50](https://dev.mysql.com/downloads/mysql/5.5.html) 
     + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/) - **HIGHLY RECOMMENDED**
       + [**Connector/J**](http://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.39** - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. It is suitable for use with MySQL server versions 5.5, 5.6, and 5.7. It supports the Java Database Connectivity (JDBC) 4.2 API.
         + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest **Platform Independent** version. 
