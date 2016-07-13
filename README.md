@@ -333,7 +333,7 @@ on desktop and mobile devices.
 
 #### Integrating with Aware IM 
   + **HTML to PDF Document Conversion** - Implement [**wkhtmltopdf**](http://wkhtmltopdf.org/) 
-    + [**Download**](http://wkhtmltopdf.org/downloads.html) - **v0.12.3.1** released on January 20, 2016 for Windows, Linux and OS X.
+    + [**Download**](http://wkhtmltopdf.org/downloads.html) - **v0.12.3.2** released on January 20, 2016 for Windows, Linux and OS X.
     + **Installation**
       + Windows
         + Extract *.exe file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM 
