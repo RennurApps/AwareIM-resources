@@ -128,21 +128,6 @@ on desktop and mobile devices.
 #### Developer Community
   + [**2nd Aware IM International Developers Conference**](http://www.awareimdevelopers.com) - January 2016 - Bali 
     + [**Forum Info**](http://www.awareim.com/forum/viewtopic.php?f=1&t=8136) 
-    + **Some Topics** 
-      + How to deploy your app in the cloud. 
-      + Linux, Windows, MySQL, SQL Server, Aurora, EC2, IAM and Cloudwatch.
-      + Setting Up SSL for you app.
-      + Automatically reconfiguring your Aware IM Customizations after an Update.
-      + Fast Track to a SaaS app. 
-      + Integrating cool Dashboards in Aware IM.
-      + Migrating you apps from V6 to V7.
-      + Offline Mode in V7
-      + Responsive Mobile/tablet apps in V7
-      + Using Theme Builder in V7
-      + Aware IM Plugins - What’s available and how to use them (Stripe, gravatar, Campaign Monitor and Xero
-      + Scaling your apps…. Java settings, load balancers, indexing 
-      + All about Context and Processes
-      + 10 Great Configuration examples for any Business App…. Template Emails, search layouts, parsing emails etc.
   + [1st Aware IM International Developers Conference](http://www.awareimdevelopers.com) - APRIL 13TH TO 15TH 2015 LAS VEGAS
   + [Developer Forum](http://www.awareim.com/forum/index.php) 
   + [Community Contributions](http://awareim.com/community-page/) - Plugins, themes, tips and tricks shared by the developers
@@ -183,7 +168,8 @@ on desktop and mobile devices.
 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
-  + **Tomcat 9.0.0.M6** - Not compatible with Aware IM. Do not download this version; use version 9.0.0.M4.
+  + Tomcat 9.0.0.M9 - Untested.
+  + Tomcat 9.0.0.M6 - Not compatible with Aware IM. Do not download this version; use version 9.0.0.M4.
   + [**Tomcat 9.0.0.M4** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version v9.0.0.M6 (verson not compatible with AwareIM)** -  Tomcat 8.0.14 32bit installed by default. 
     + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
       + Installation with Aware IM 
