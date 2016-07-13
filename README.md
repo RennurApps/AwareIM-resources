@@ -61,7 +61,7 @@ on desktop and mobile devices.
       + [**Development of responsive web applications**](https://youtu.be/6_yJj4Xy6bU)
       + [**Builder for online and offline web applications**](https://youtu.be/xd3DQrHXGBs)  
       + [**Powerful web application builder**](https://youtu.be/A82fCezQK_g) 
-      + More tutorials to be rolled out
+      + [Aware IM Youtube channel](https://www.youtube.com/user/awareim1/featured) - Latest Aware IM video tutorials. 
     + **Version 6.0+**
       + [**What's New in 6.0**](http://www.awareim.com/tutorials/60/Version6.0.html) - **Video tutorial**
     + **Version 5.9+**
