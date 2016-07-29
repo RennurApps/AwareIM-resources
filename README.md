@@ -156,7 +156,7 @@ on desktop and mobile devices.
     + Firefox (PC & Mac)
     + Safari 6+
     + Opera (PC & Mac)
-  + **Java Version 8 Update 92** - Java 8 the minimum required version to run Tomcat 9.
+  + **Java Version 8 Update 101/102** - Java 8 the minimum required version to run Tomcat 9.
     + **Chrome**: Starting with Version 42 (released April 2015), Chrome has disabled the standard way in which browsers support plugins. 
     + **Downloads** - Operating system Java update
       + [**Download**](https://www.java.com/en/download/) 
@@ -197,14 +197,14 @@ on desktop and mobile devices.
     + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
   + **Java JDK**
-    + [Java Platform (JDK) 8u92](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
+    + [Java Platform (JDK) 8u101/102](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
   + [**Apache ActiveMQ**](http://activemq.apache.org/) - v5.8.0 installed by default.
-    + [5.13.3 Release](http://activemq.apache.org/activemq-5133-release.html) - Untested. **See 5.13.0**
-    + [5.13.2 Release](http://activemq.apache.org/activemq-5132-release.html) - Untested. **See 5.13.0**
-    + [5.13.1 Release](http://activemq.apache.org/activemq-5131-release.html) - Untested. **See 5.13.0** 
+    + [5.13.3 Release](http://activemq.apache.org/activemq-5133-release.html) - **See 5.13.0**
+    + [5.13.2 Release](http://activemq.apache.org/activemq-5132-release.html) - **See 5.13.0**
+    + [5.13.1 Release](http://activemq.apache.org/activemq-5131-release.html) - **See 5.13.0** 
     + [5.13.0 Release](http://activemq.apache.org/activemq-5130-release.html) - Tested with Tomcat 9. **Server starts but the application will not load** 
     + [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - Tested and working with Tomcat 8 & 9.
       + Installation (Always backup original files first)
