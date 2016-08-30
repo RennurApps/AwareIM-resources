@@ -4,7 +4,7 @@ Aware IM is a rapid application development tool that lets you create powerful a
 Written in 100% Java programming language. Custom enterprise grade web application and mobile application development.  
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms.
-    + [**Currently v7.0 build 2175**](http://www.awareim.com/changelog/Readme2175.txt) 
+    + [**Currently v7.0 build 2180**](http://www.awareim.com/changelog/Readme2180.txt) 
   + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
       + **Currently v7.0** - Builds 2144+
@@ -202,6 +202,7 @@ on desktop and mobile devices.
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
   + [**Apache ActiveMQ**](http://activemq.apache.org/) - v5.8.0 installed by default.
+    + [5.14.0 Release](http://activemq.apache.org/activemq-5140-release.html) - **Untested - See 5.13.0**
     + [5.13.3 Release](http://activemq.apache.org/activemq-5133-release.html) - **See 5.13.0**
     + [5.13.2 Release](http://activemq.apache.org/activemq-5132-release.html) - **See 5.13.0**
     + [5.13.1 Release](http://activemq.apache.org/activemq-5131-release.html) - **See 5.13.0** 
@@ -223,9 +224,9 @@ on desktop and mobile devices.
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        + [MySQL Community Server 5.7.13](http://dev.mysql.com/downloads/mysql/) 
-        + [MySQL Community Server 5.6.31](https://dev.mysql.com/downloads/mysql/5.6.html) 
-        + [MySQL Community Server 5.5.50](https://dev.mysql.com/downloads/mysql/5.5.html) 
+        + [MySQL Community Server 5.7.14](http://dev.mysql.com/downloads/mysql/) 
+        + [MySQL Community Server 5.6.32](https://dev.mysql.com/downloads/mysql/5.6.html) 
+        + [MySQL Community Server 5.5.51](https://dev.mysql.com/downloads/mysql/5.5.html) 
     + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/) - **HIGHLY RECOMMENDED**
       + [**Connector/J**](http://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.39** - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. It is suitable for use with MySQL server versions 5.5, 5.6, and 5.7. It supports the Java Database Connectivity (JDBC) 4.2 API.
         + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest **Platform Independent** version. 
@@ -272,7 +273,7 @@ on desktop and mobile devices.
 #### Front-end Framework 
   + **Bootstrap** - For Aware IM version 5.x & 6.x only; Aware IM 7.0 has bootstrap integrated as part of Kendo UI.
     + [Bootstrap v4-alpha](http://v4-alpha.getbootstrap.com/) - Currently v4.0.0-alpha.2 - Not tested. some v3 features dropped.
-    + [**Bootstrap v3**](http://getbootstrap.com/) - Currently v3.3.6  
+    + [**Bootstrap v3**](http://getbootstrap.com/) - Currently v3.3.7  
       + Integrating with Aware IM
         + Manual configuration through Startup.html
         + disable **legend** style with /* */ brackets as it seems to be in conflict with the ExtJS style
