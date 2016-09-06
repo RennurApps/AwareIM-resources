@@ -7,12 +7,10 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + [**Currently v7.0 build 2180**](http://www.awareim.com/changelog/Readme2180.txt) 
   + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
-      + **Currently v7.0** - Builds 2144+
+      + **Currently v7.1** - Builds 2223+
+        + [Aware IM 7.1 released](http://www.awareim.com/aware-im-7-1-released/) - September 6, 2016 
+      + **v7.0** - Builds 2144-2181
         + [Aware IM 7.0 released](http://www.awareim.com/aware-im-7-0-released/) - February 8, 2016
-          + The new version is so fast that you could think it is a native desktop or mobile application.
-The slick new look and feel has been redesigned from scratch and is now based on such popular
-technologies as jQuery, Kendo UI and Twitter Bootrstrap. Best of all, all the functionality works
-on desktop and mobile devices.
           + [Watch a video about version 7.0](https://youtu.be/p5Q-YYAd6Fs)
       + **v6.0** - Builds 2010-2056 
         + [Aware IM 6.0 released](http://awareim.com/aware-im-6-0-released/)
