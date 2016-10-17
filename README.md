@@ -4,7 +4,7 @@ Aware IM is a rapid application development tool that lets you create powerful a
 Written in 100% Java programming language. Custom enterprise grade web application and mobile application development.  
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms.
-    + [**Currently v7.1 build 2227**](http://www.awareim.com/changelog/Readme2227.txt) 
+    + [**Currently v7.1 build 2237**](http://www.awareim.com/changelog/Readme2237.txt) 
   + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
       + **Currently v7.1** - Builds 2223+
@@ -166,7 +166,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
-  + [**Tomcat 9.0.0.M9** - For Aware IM v6.0+](http://tomcat.apache.org/) - Tomcat 8.0.14 32bit installed by default. 
+  + [**Tomcat 9.0.0.M11** - For Aware IM v6.0+](http://tomcat.apache.org/) - Tomcat 8.0.14 32bit installed by default. 
     + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
       + Installation with Aware IM 
         + Java 8 the minimum required version to run Tomcat 9.
@@ -181,7 +181,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
             7. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  + [**Tomcat 8** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version Tomcat v8.0.36** -  Tomcat 8.0.14 32bit installed by default.
+  + [**Tomcat 8** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version Tomcat v8.0.38** -  Tomcat 8.0.14 32bit installed by default.
     + [**Download Tomcat v8**](https://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working.
     + [Tomcat 8 Documentation](https://tomcat.apache.org/tomcat-8.0-doc/index.html).
     + [Tomcat 8 Changelog](https://tomcat.apache.org/tomcat-8.0-doc/changelog.html).
@@ -200,6 +200,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
   + [**Apache ActiveMQ**](http://activemq.apache.org/) - v5.8.0 installed by default.
+    + [5.14.1 Release](http://activemq.apache.org/activemq-5141-release.html) - **Untested - See 5.13.0**
     + [5.14.0 Release](http://activemq.apache.org/activemq-5140-release.html) - **Untested - See 5.13.0**
     + [5.13.3 Release](http://activemq.apache.org/activemq-5133-release.html) - **See 5.13.0**
     + [5.13.2 Release](http://activemq.apache.org/activemq-5132-release.html) - **See 5.13.0**
@@ -222,11 +223,11 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        + [MySQL Community Server 5.7.14](http://dev.mysql.com/downloads/mysql/) 
-        + [MySQL Community Server 5.6.32](https://dev.mysql.com/downloads/mysql/5.6.html) 
-        + [MySQL Community Server 5.5.51](https://dev.mysql.com/downloads/mysql/5.5.html) 
+        + [MySQL Community Server 5.7.16](http://dev.mysql.com/downloads/mysql/) 
+        + [MySQL Community Server 5.6.34](https://dev.mysql.com/downloads/mysql/5.6.html) 
+        + [MySQL Community Server 5.5.53](https://dev.mysql.com/downloads/mysql/5.5.html) 
     + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/) - **HIGHLY RECOMMENDED**
-      + [**Connector/J**](http://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.39** - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. It is suitable for use with MySQL server versions 5.5, 5.6, and 5.7. It supports the Java Database Connectivity (JDBC) 4.2 API.
+      + [**Connector/J**](http://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.40** - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. It is suitable for use with MySQL server versions 5.5, 5.6, and 5.7. It supports the Java Database Connectivity (JDBC) 4.2 API.
         + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest **Platform Independent** version. 
         + [Changes and Release Notes](http://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
         + [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
@@ -248,7 +249,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 #### **Web Application Framework** - HTML5/JS Framework
   + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **for Aware IM v7.0 Only**. Web and mobile apps with HTML5 and JavaScript. 
     + [Release History](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
-      + Latest Kendo UI Release [Kendo UI R2 2016 SP2](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2016-sp2) - July 14, 2016  
+      + Latest Kendo UI Release [Kendo UI R3 2016](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2016) - September 14, 2016  
       + Current **Aware IM** Kendo UI version [**Kendo UI Q1 2016**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
     + [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
     + 70+ jQuery-based UI widgets in one powerful toolset.
