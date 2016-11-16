@@ -154,12 +154,6 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + Firefox (PC & Mac)
     + Safari 6+
     + Opera (PC & Mac)
-  + **Java Version 8 Update 101/102** - Java 8 the minimum required version to run Tomcat 9.
-    + **Chrome**: Starting with Version 42 (released April 2015), Chrome has disabled the standard way in which browsers support plugins. 
-    + **Downloads** - Operating system Java update
-      + [**Download**](https://www.java.com/en/download/) 
-      + **All Operating Systems**
-        + [Download](https://www.java.com/en/download/manual.jsp) - Manual Download 
 
 #### Under the hood - Updates and Security Fixes 
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation. 
