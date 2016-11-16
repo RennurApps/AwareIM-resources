@@ -232,7 +232,9 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
             3. Copy and replace the existing file in C:\AwareIM\Tomcat\lib
             4. Restart AwareIM server
   + **Apache Derby** - [Home](http://db.apache.org/derby/)
-    + [**Apache Derby 10.12.1.1**](https://db.apache.org/derby/releases/release-10.12.1.1.cgi) - (October 11, 2015)
+    + [**Apache Derby 10.13.1.1**](https://db.apache.org/derby/releases/release-10.13.1.1.cgi) - (October 25, 2016)
+      + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib
+    + [pache Derby 10.12.1.1](https://db.apache.org/derby/releases/release-10.12.1.1.cgi) - (October 11, 2015)
       + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib
     + [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
       + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib 
