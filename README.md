@@ -179,7 +179,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + [**Download Tomcat v8**](https://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working.
     + [Tomcat 8 Documentation](https://tomcat.apache.org/tomcat-8.0-doc/index.html).
     + [Tomcat 8 Changelog](https://tomcat.apache.org/tomcat-8.0-doc/changelog.html).
-  + [**Tomcat 6** - For Aware IM v5.9 Only](http://tomcat.apache.org/) - **Latest version Tomcat 6.0.45** - Tomcat v6.0.35 32bit installed by default. 
+  + [**Tomcat 6** - For Aware IM v5.9 Only](http://tomcat.apache.org/) - **Latest version Tomcat 6.0.48** - Tomcat v6.0.35 32bit installed by default. 
     + [Download Tomcat **v6** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Tested & working.
       + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
       + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
@@ -245,7 +245,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 #### **Web Application Framework** - HTML5/JS Framework
   + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **for Aware IM v7.0 Only**. Web and mobile apps with HTML5 and JavaScript. 
     + [Release History](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
-      + Latest Kendo UI Release [Kendo UI R3 2016 SP1](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2016-sp1) - October 28, 2016  
+      + Latest Kendo UI Release [Kendo UI R3 2016 SP2](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2016-sp2) - November 18, 2016  
       + Current **Aware IM** Kendo UI version [**Kendo UI Q1 2016**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
     + [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
     + 70+ jQuery-based UI widgets in one powerful toolset.
