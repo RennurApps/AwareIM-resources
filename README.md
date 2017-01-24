@@ -160,7 +160,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
-  + [**Tomcat 9.0.0.M13** - For Aware IM v6.0+](http://tomcat.apache.org/) - Tomcat 8.0.14 32bit installed by default. 
+  + [**Tomcat 9.0.0.M17** - For Aware IM v6.0+](http://tomcat.apache.org/) - Tomcat 8.0.14 32bit installed by default. 
     + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
       + Installation with Aware IM 
         + Java 8 the minimum required version to run Tomcat 9.
@@ -189,7 +189,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
   + **Java JDK**
-    + [Java Platform (JDK) 8u111](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
+    + [Java Platform (JDK) 8u121](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
@@ -217,9 +217,9 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        + [MySQL Community Server 5.7.16](http://dev.mysql.com/downloads/mysql/) 
-        + [MySQL Community Server 5.6.34](https://dev.mysql.com/downloads/mysql/5.6.html) 
-        + [MySQL Community Server 5.5.53](https://dev.mysql.com/downloads/mysql/5.5.html) 
+        + [MySQL Community Server 5.7.17](http://dev.mysql.com/downloads/mysql/) 
+        + [MySQL Community Server 5.6.35](https://dev.mysql.com/downloads/mysql/5.6.html) 
+        + [MySQL Community Server 5.5.54](https://dev.mysql.com/downloads/mysql/5.5.html) 
     + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/) - **HIGHLY RECOMMENDED**
       + [**Connector/J**](http://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.40** - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. It is suitable for use with MySQL server versions 5.5, 5.6, and 5.7. It supports the Java Database Connectivity (JDBC) 4.2 API.
         + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest **Platform Independent** version. 
@@ -267,7 +267,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 
 #### Front-end Framework 
   + **Bootstrap** - For Aware IM version 5.x & 6.x only; Aware IM 7.0 has bootstrap integrated as part of Kendo UI.
-    + [Bootstrap v4-alpha](http://v4-alpha.getbootstrap.com/) - Currently v4.0.0-alpha.5 - Not tested. some v3 features dropped.
+    + [Bootstrap v4-alpha](http://v4-alpha.getbootstrap.com/) - Currently v4.0.0-alpha.6 - Not tested. some v3 features dropped.
     + [**Bootstrap v3**](http://getbootstrap.com/) - Currently v3.3.7  
       + Integrating with Aware IM
         + Manual configuration through Startup.html
@@ -313,7 +313,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 
 #### Integrating with Aware IM 
   + **HTML to PDF Document Conversion** - Implement [**wkhtmltopdf**](http://wkhtmltopdf.org/) 
-    + [**Download**](http://wkhtmltopdf.org/downloads.html) - **v0.12.3.2** released on January 20, 2016 for Windows, Linux and OS X.
+    + [**Download**](http://wkhtmltopdf.org/downloads.html) - **v0.12.4** released on November 22, 2016 for Windows, Linux and OS X.
     + **Installation**
       + Windows
         + Extract *.exe file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM 
