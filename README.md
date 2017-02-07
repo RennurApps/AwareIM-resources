@@ -183,8 +183,31 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + [Download Tomcat **v6** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Tested & working.
       + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
       + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
-  + **Tomcat SSL Configuration - HOW-TO**
+  + **Tomcat SSL/TLS Configuration HOW-TO**
     + [**v9.0**](http://tomcat.apache.org/tomcat-9.0-doc/ssl-howto.html)
+      + Server.xml connector config:
+         <Connector 
+		      port="8443" 
+		      protocol="org.apache.coyote.http11.Http11Nio2Protocol" 
+		      maxThreads="150" 
+		      SSLEnabled="true" 
+		      enableLookups="false" 
+		      scheme="https"	
+		      secure="true" >	  
+			    <UpgradeProtocol className="org.apache.coyote.http2.Http2Protocol" />
+			    <SSLHostConfig 
+			    	sslProtocol="TLS"
+			    	protocols="+TLSv1,+TLSv1.1,+TLSv1.2,-SSLv2,-SSLv3" 
+			    	honorCipherOrder="true" 
+				              ciphers="TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,TLS_DHE_RSA_WITH_AES_128_GCM_SHA256,TLS_DHE_DSS_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_128_SHA256,TLS_ECDHE_ECDSA_WITH_AES_128_SHA256,TLS_ECDHE_RSA_WITH_AES_128_SHA,TLS_ECDHE_ECDSA_WITH_AES_128_SHA,TLS_ECDHE_RSA_WITH_AES_256_SHA384,TLS_ECDHE_ECDSA_WITH_AES_256_SHA384,TLS_ECDHE_RSA_WITH_AES_256_SHA,TLS_ECDHE_ECDSA_WITH_AES_256_SHA,TLS_DHE_RSA_WITH_AES_128_SHA256,TLS_DHE_RSA_WITH_AES_128_SHA,TLS_DHE_DSS_WITH_AES_128_SHA256,TLS_DHE_RSA_WITH_AES_256_SHA256,TLS_DHE_DSS_WITH_AES_256_SHA,TLS_DHE_RSA_WITH_AES_256_SHA" >
+					<Certificate  
+						certificateKeystoreFile="C:\AwareIM\Tomcat\bin\certs\MyCertificate.jks" 
+						certificateKeystorePassword="changeit" 
+						type="RSA" 
+						certificateKeystoreType="JKS" />
+			</SSLHostConfig>
+	
+	</Connector>
     + [**v8.0**](http://tomcat.apache.org/tomcat-8.0-doc/ssl-howto.html)
     + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
