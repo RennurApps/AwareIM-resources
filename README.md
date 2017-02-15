@@ -175,7 +175,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
             7. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  + [**Tomcat 8** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version Tomcat v8.0.39** -  Tomcat 8.0.14 32bit installed by default.
+  + [**Tomcat 8** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version Tomcat v8.0.41** -  Tomcat 8.0.14 32bit installed by default.
     + [**Download Tomcat v8**](https://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working.
     + [Tomcat 8 Documentation](https://tomcat.apache.org/tomcat-8.0-doc/index.html).
     + [Tomcat 8 Changelog](https://tomcat.apache.org/tomcat-8.0-doc/changelog.html).
@@ -185,29 +185,6 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
       + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
   + **Tomcat SSL/TLS Configuration HOW-TO**
     + [**v9.0**](http://tomcat.apache.org/tomcat-9.0-doc/ssl-howto.html)
-      + Server.xml connector config:
-         <Connector 
-		      port="8443" 
-		      protocol="org.apache.coyote.http11.Http11Nio2Protocol" 
-		      maxThreads="150" 
-		      SSLEnabled="true" 
-		      enableLookups="false" 
-		      scheme="https"	
-		      secure="true" >	  
-			    <UpgradeProtocol className="org.apache.coyote.http2.Http2Protocol" />
-			    <SSLHostConfig 
-			    	sslProtocol="TLS"
-			    	protocols="+TLSv1,+TLSv1.1,+TLSv1.2,-SSLv2,-SSLv3" 
-			    	honorCipherOrder="true" 
-				              ciphers="TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,TLS_DHE_RSA_WITH_AES_128_GCM_SHA256,TLS_DHE_DSS_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_128_SHA256,TLS_ECDHE_ECDSA_WITH_AES_128_SHA256,TLS_ECDHE_RSA_WITH_AES_128_SHA,TLS_ECDHE_ECDSA_WITH_AES_128_SHA,TLS_ECDHE_RSA_WITH_AES_256_SHA384,TLS_ECDHE_ECDSA_WITH_AES_256_SHA384,TLS_ECDHE_RSA_WITH_AES_256_SHA,TLS_ECDHE_ECDSA_WITH_AES_256_SHA,TLS_DHE_RSA_WITH_AES_128_SHA256,TLS_DHE_RSA_WITH_AES_128_SHA,TLS_DHE_DSS_WITH_AES_128_SHA256,TLS_DHE_RSA_WITH_AES_256_SHA256,TLS_DHE_DSS_WITH_AES_256_SHA,TLS_DHE_RSA_WITH_AES_256_SHA" >
-					<Certificate  
-						certificateKeystoreFile="C:\AwareIM\Tomcat\bin\certs\MyCertificate.jks" 
-						certificateKeystorePassword="changeit" 
-						type="RSA" 
-						certificateKeystoreType="JKS" />
-			</SSLHostConfig>
-	
-	</Connector>
     + [**v8.0**](http://tomcat.apache.org/tomcat-8.0-doc/ssl-howto.html)
     + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
@@ -217,20 +194,13 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
   + [**Apache ActiveMQ**](http://activemq.apache.org/) - v5.8.0 installed by default.
-    + [5.14.1 Release](http://activemq.apache.org/activemq-5141-release.html) - **Untested - See 5.13.0**
-    + [5.14.0 Release](http://activemq.apache.org/activemq-5140-release.html) - **Untested - See 5.13.0**
-    + [5.13.3 Release](http://activemq.apache.org/activemq-5133-release.html) - **See 5.13.0**
-    + [5.13.2 Release](http://activemq.apache.org/activemq-5132-release.html) - **See 5.13.0**
-    + [5.13.1 Release](http://activemq.apache.org/activemq-5131-release.html) - **See 5.13.0** 
+    + [5.14.3 Release](http://activemq.apache.org/activemq-5141-release.html) - **Untested - See 5.13.0**
     + [5.13.0 Release](http://activemq.apache.org/activemq-5130-release.html) - Tested with Tomcat 9. **Server starts but the application will not load** 
     + [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - Tested and working with Tomcat 8 & 9.
       + Installation (Always backup original files first)
         + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib
-    + [5.12.0 Release](http://activemq.apache.org/activemq-5120-release.html) 
     + [5.11.2 Release](http://activemq.apache.org/activemq-5112-release.html) 
-    + [5.11.1 Release](http://activemq.apache.org/activemq-5111-release.html) 
     + [5.10.1 Release](http://activemq.apache.org/activemq-5101-release.html) 
-    + [5.10.0 Release](http://activemq.apache.org/activemq-5100-release.html) 
     + [5.9.0 Release](http://activemq.apache.org/activemq-590-release.html) 
     + [5.8.0 Release](http://activemq.apache.org/activemq-580-release.html) 
   
@@ -268,7 +238,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 #### **Web Application Framework** - HTML5/JS Framework
   + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **for Aware IM v7.0 Only**. Web and mobile apps with HTML5 and JavaScript. 
     + [Release History](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
-      + Latest Kendo UI Release [Kendo UI R3 2016 SP2](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2016-sp2) - November 18, 2016  
+      + Latest Kendo UI Release [Kendo UI R1 2017](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2017) - January 18, 2017  
       + Current **Aware IM** Kendo UI version [**Kendo UI Q1 2016**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
     + [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
     + 70+ jQuery-based UI widgets in one powerful toolset.
@@ -337,8 +307,9 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 #### Integrating with Aware IM 
   + **HTML to PDF Document Conversion** - Implement [**wkhtmltopdf**](http://wkhtmltopdf.org/) 
     + [**Download**](http://wkhtmltopdf.org/downloads.html) - **v0.12.4** released on November 22, 2016 for Windows, Linux and OS X.
-    + **Installation**
-      + Windows
+    + **Required** [Microsoft Visual C++ 2015 Redistributable Update 3](https://www.microsoft.com/en-us/download/details.aspx?id=53840) - Download and install first.
+    + **Install wkhtmltopdf**
+        + Windows
         + Extract *.exe file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM 
     + **Aware IM Process Rules**
       + **Step 1** - Export Aware IM HTML Document to a HTML file
