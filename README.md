@@ -99,13 +99,14 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + **Version 5.6+**
       + [Import/Export Templates](http://awareim.com/tutorials/UDIT/UDIT.html)
   + [**Documentation**](http://awareim.com/documentation/) 
-      + [Quick Tour (pdf)](http://www.awareim.com/wp-content/uploads/2016/02/QuickTour.pdf)
-      + [Installation Guide (pdf)](http://www.awareim.com/wp-content/uploads/2016/02InstallationGuide.pdf) 
-      + [User Guide (pdf)](http://www.awareim.com/wp-content/uploads/2016/02/UserGuide.pdf)
-      + [How To (pdf)](http://www.awareim.com/wp-content/uploads/2016/02/HowTo.pdf) - How to perform certain common tasks in Aware IM.
-      + [Programmer’s Reference (pdf)](http://www.awareim.com/wp-content/uploads/2016/02/ProgrammersReference.pdf) -  Application Programming Interface (API) to the Aware IM software system. 
-      + [Getting Started (pdf)](http://www.awareim.com/wp-content/uploads/2016/02/GettingStarted.pdf)
-      + [Mobile Applications Guide (pdf)](http://www.awareim.com/wp-content/uploads/2016/02/Mobile-Applications.pdf)  
+      + [Quick Tour (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/QuickTour.pdf)
+      + [Installation Guide (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/InstallationGuide.pdf) 
+      + [User Guide (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/UserGuide.pdf)
+      + [How To (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/HowTo.pdf) - How to perform certain common tasks in Aware IM.
+      + [Programmer’s Reference (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/ProgrammersReference.pdf) -  Application Programming Interface (API) to the Aware IM software system. 
+      + [Getting Started (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/GettingStarted.pdf)
+      + [Mobile Applications Guide (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/Mobile-Applications.pdf)  
+      + [Rule Language (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/RuleLanguage.pdf) - 
   + [**Sample Applications**](http://awareim.com/sample-applications/) - 
     + **Live web & mobile applications** - Also available out-of-the-box.
       + [CRM](http://www.awareim.com/crm/) 
@@ -115,6 +116,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
       + [Project Management](http://test.awareim.com/AwareIM/logonOp.aw?domain=ProjectManagement&userName=john&password=john) - The application showcases Gantt chart. Gannt chart is an optional feature in v5.9 and is available at additional cost. 
       + [Event Registration](http://www.awareim.com/sample-apps/sample_events.html) 
       + [Library Management](http://www.awareim.com/library)
+        + [Library Case Study (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/LibraryCaseStudy.pdf)
       + [Photo Album](http://www.awareim.com/sample-apps/sample_photoalbum.html)
 
     + **More sample applications available out-of-the-box**
