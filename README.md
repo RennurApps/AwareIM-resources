@@ -123,6 +123,11 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
       + Project Management 
       + Simplified CRM
 
+#### Integrations, custom components, connectors and plugins 
+  + Any application offering an API for developers makes it possible to integrate with Aware IM by writing a plugin.
+    + **Reporting** 
+      + **JasperReports® Server** - Self-service Reporting and Analysis Server. 
+    
 #### Developer Community
   + [**2nd Aware IM International Developers Conference**](http://www.awareimdevelopers.com) - January 2016 - Bali 
     + [**Forum Info**](http://www.awareim.com/forum/viewtopic.php?f=1&t=8136) 
