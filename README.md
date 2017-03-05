@@ -221,7 +221,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
         + [MySQL Community Server 5.6.35](https://dev.mysql.com/downloads/mysql/5.6.html) 
         + [MySQL Community Server 5.5.54](https://dev.mysql.com/downloads/mysql/5.5.html) 
     + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/) - **HIGHLY RECOMMENDED**
-      + [**Connector/J**](http://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.40** - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. It is suitable for use with MySQL server versions 5.5, 5.6, and 5.7. It supports the Java Database Connectivity (JDBC) 4.2 API.
+      + [**Connector/J**](http://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.41** - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. It is suitable for use with MySQL server versions 5.5, 5.6, and 5.7. It supports the Java Database Connectivity (JDBC) 4.2 API.
         + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest **Platform Independent** version. 
         + [Changes and Release Notes](http://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
         + [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
