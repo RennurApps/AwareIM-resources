@@ -4,9 +4,10 @@ Aware IM is a rapid application development tool that lets you create powerful a
 Written in 100% Java programming language. Custom enterprise grade web application and mobile application development.  
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms.
-    + [**Currently v7.1 build 2237**](http://www.awareim.com/changelog/Readme2237.txt) 
+    + [**Currently v7.1 build 2238**](http://www.awareim.com/changelog/Readme2238.txt) 
   + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
+      + Under Development v8.0 - To be released mid 2017
       + **Currently v7.1** - Builds 2223+
         + [Aware IM 7.1 released](http://www.awareim.com/aware-im-7-1-released/) - September 6, 2016 
       + **v7.0** - Builds 2144-2181
@@ -201,13 +202,13 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
   + [**Apache ActiveMQ**](http://activemq.apache.org/) - v5.8.0 installed by default.
-    + [5.14.3 Release](http://activemq.apache.org/activemq-5141-release.html) - **Untested - See 5.13.0**
-    + [5.13.0 Release](http://activemq.apache.org/activemq-5130-release.html) - Tested with Tomcat 9. **Server starts but the application will not load** 
-    + [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - Tested and working with Tomcat 8 & 9.
+    + [5.14.4 Release](http://activemq.apache.org/activemq-5141-release.html) - **Untested - See 5.13.0**
+    + [5.13.x Release](http://activemq.apache.org/activemq-5130-release.html) - Tested with Tomcat 9. **Server starts but the application will not load** 
+    + [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - **Tested and working with Tomcat 8 & 9**.
       + Installation (Always backup original files first)
         + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib
-    + [5.11.2 Release](http://activemq.apache.org/activemq-5112-release.html) 
-    + [5.10.1 Release](http://activemq.apache.org/activemq-5101-release.html) 
+    + [5.11.x Release](http://activemq.apache.org/activemq-5112-release.html) 
+    + [5.10.x Release](http://activemq.apache.org/activemq-5101-release.html) 
     + [5.9.0 Release](http://activemq.apache.org/activemq-590-release.html) 
     + [5.8.0 Release](http://activemq.apache.org/activemq-580-release.html) 
   
@@ -245,7 +246,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 #### **Web Application Framework** - HTML5/JS Framework
   + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **for Aware IM v7.0 Only**. Web and mobile apps with HTML5 and JavaScript. 
     + [Release History](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
-      + Latest Kendo UI Release [Kendo UI R1 2017](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2017) - January 18, 2017  
+      + Latest Kendo UI Release [Kendo UI R1 2017 SP1](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2017-sp1) - February 23, 2017  
       + Current **Aware IM** Kendo UI version [**Kendo UI Q1 2016**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
     + [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
     + 70+ jQuery-based UI widgets in one powerful toolset.
