@@ -136,7 +136,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
   + [1st Aware IM International Developers Conference](http://www.awareimdevelopers.com) - APRIL 13TH TO 15TH 2015 LAS VEGAS
   + [Developer Forum](http://www.awareim.com/forum/index.php) 
   + [Community Contributions](http://awareim.com/community-page/) - Plugins, themes, tips and tricks shared by the developers
-  + [DevNet](http://www.awareim-devnet.com/) - Aware IM Developer Network (DevNet). Still relatively new.
+  + [DevNet](#) - **Inactive** - Aware IM Developer Network (DevNet). 
   + [Develop With Aware IM](https://twitter.com/DWAwareIM) - Unofficial twitter account.
   + [Built With Aware IM](https://twitter.com/BWAwareIM) - Showcase of applications. Unofficial twitter account.
 
