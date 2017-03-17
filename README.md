@@ -168,7 +168,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
-  + [**Tomcat 9.0.0.M17** - For Aware IM v6.0+](http://tomcat.apache.org/) - Tomcat 8.0.14 32bit installed by default. 
+  + [**Tomcat 9.0.0.M18** - For Aware IM v6.0+](http://tomcat.apache.org/) - Tomcat 8.0.14 32bit installed by default. 
     + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
       + Installation with Aware IM 
         + Java 8 the minimum required version to run Tomcat 9.
@@ -183,7 +183,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
             7. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  + [**Tomcat 8** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version Tomcat v8.0.41** -  Tomcat 8.0.14 32bit installed by default.
+  + [**Tomcat 8** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version Tomcat v8.0.42** -  Tomcat 8.0.14 32bit installed by default.
     + [**Download Tomcat v8**](https://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working.
     + [Tomcat 8 Documentation](https://tomcat.apache.org/tomcat-8.0-doc/index.html).
     + [Tomcat 8 Changelog](https://tomcat.apache.org/tomcat-8.0-doc/changelog.html).
