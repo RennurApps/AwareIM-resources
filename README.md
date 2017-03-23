@@ -315,7 +315,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 #### Integrating with Aware IM 
   + **HTML to PDF Document Conversion** - Implement [**wkhtmltopdf**](http://wkhtmltopdf.org/) 
     + **Prerequisite** [**Microsoft Visual C++ 2015 Redistributable Update 3**](https://www.microsoft.com/en-us/download/details.aspx?id=53840) - Download and install first.
-    + [**Download wkhtmltopdf**](http://wkhtmltopdf.org/downloads.html) - **v0.12.4** released on November 22, 2016 for Windows, Linux and OS X.
+    + [**Download wkhtmltopdf**](https://wkhtmltopdf.org/downloads.html) - **v0.12.4** released on November 22, 2016 for Windows, Linux and OS X.
     + **Install wkhtmltopdf**
         + Windows
         + Extract *.exe file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM 
