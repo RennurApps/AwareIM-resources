@@ -187,7 +187,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + [**Download Tomcat v8**](https://tomcat.apache.org/download-80.cgi) - 64bit recommended. Manual Install. Tested and working.
     + [Tomcat 8 Documentation](https://tomcat.apache.org/tomcat-8.0-doc/index.html).
     + [Tomcat 8 Changelog](https://tomcat.apache.org/tomcat-8.0-doc/changelog.html).
-  + [**Tomcat 6** - For Aware IM v5.9 Only](http://tomcat.apache.org/) - **Latest version Tomcat 6.0.48** - Tomcat v6.0.35 32bit installed by default. 
+  + [**Tomcat 6** - For Aware IM v5.9 Only](http://tomcat.apache.org/) - **Latest version Tomcat 6.0.51** - Tomcat v6.0.35 32bit installed by default. 
     + [Download Tomcat **v6** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Tested & working.
       + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
       + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
@@ -314,8 +314,8 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 
 #### Integrating with Aware IM 
   + **HTML to PDF Document Conversion** - Implement [**wkhtmltopdf**](http://wkhtmltopdf.org/) 
-    + [**Download**](http://wkhtmltopdf.org/downloads.html) - **v0.12.4** released on November 22, 2016 for Windows, Linux and OS X.
-    + **Required** [Microsoft Visual C++ 2015 Redistributable Update 3](https://www.microsoft.com/en-us/download/details.aspx?id=53840) - Download and install first.
+    + **Prerequisite** [**Microsoft Visual C++ 2015 Redistributable Update 3**](https://www.microsoft.com/en-us/download/details.aspx?id=53840) - Download and install first.
+    + [**Download wkhtmltopdf**](http://wkhtmltopdf.org/downloads.html) - **v0.12.4** released on November 22, 2016 for Windows, Linux and OS X.
     + **Install wkhtmltopdf**
         + Windows
         + Extract *.exe file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM 
