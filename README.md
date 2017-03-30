@@ -328,8 +328,10 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
         + IMPORT DOCUMENT myBO.DocumentPDF FROM 'C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No&lt;&lt;myBO.ID&gt;&gt;.pdf' 
       + **Optional** - Delete exported HTML file 
         + DELETE FILE 'C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No&lt;&lt;myBO.ID&gt;&gt;.html' 
+    + [**Prince 11**](http://www.princexml.com/) - Convert your HTML documents to PDF.
+      + [Sample Documents](http://www.princexml.com/samples/) - Dictionary, Invoices, Textbook, Scientific Journal, Product Catalogs, Brochure ... 
 
-  + **REPORTING** 
+  + **Business Intelligence, Report Writer/Server** 
     + **TIBCO Jaspersoft** 
       + [**JasperReports® Server**](http://community.jaspersoft.com/project/jasperreports-server) - Self-service Reporting and Analysis Server 
         + [Documentation](http://community.jaspersoft.com/documentation?version=15786)
