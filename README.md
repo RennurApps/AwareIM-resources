@@ -313,12 +313,13 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
   + **Phonegap** support
 
 #### Integrating with Aware IM 
-  + [**wkhtmltopdf**](http://wkhtmltopdf.org/) - HTML to PDF Document Conversion.
+  + [**wkhtmltopdf**](http://wkhtmltopdf.org/) - Convert HTML to PDF using Webkit (QtWebKit) 
     + **Prerequisite** [**Microsoft Visual C++ 2015 Redistributable Update 3**](https://www.microsoft.com/en-us/download/details.aspx?id=53840) - Download and install first.
     + [**Download wkhtmltopdf** Windows (MSVC)](https://wkhtmltopdf.org/downloads.html) - **v0.12.4** released on November 22, 2016 for Windows, Linux and OS X.
     + **Install wkhtmltopdf**
         + Windows
         + Extract *.exe file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM 
+    + [**github.com/wkhtmltopdf/**](https://github.com/wkhtmltopdf/wkhtmltopdf) - wkhtmltopdf is a command line tools to render HTML into PDF using the QT Webkit rendering engine. These run entirely "headless" and do not require a display or display service.
     + **Aware IM Process Rules**
       + **Step 1** - Export Aware IM HTML Document to a HTML file
         + EXPORT DOCUMENT 'Your HTML Document' TO FILE 'C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No&lt;&lt;myBO.ID&gt;&gt;.html' 
