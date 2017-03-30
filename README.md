@@ -4,7 +4,7 @@
 Written in 100% Java programming language. Custom enterprise grade web application and mobile application development.  
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms.
-    + [**Currently v7.1 build 2238**](http://www.awareim.com/changelog/Readme2238.txt) 
+    + [**Currently v7.1 build 2240**](http://www.awareim.com/changelog/Readme2240.txt) 
   + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
       + Under Development v8.0 - To be released mid 2017
@@ -313,7 +313,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
   + **Phonegap** support
 
 #### Integrating with Aware IM 
-  + **HTML to PDF Document Conversion** - Implement [**wkhtmltopdf**](http://wkhtmltopdf.org/) 
+  + [**wkhtmltopdf**](http://wkhtmltopdf.org/) - HTML to PDF Document Conversion.
     + **Prerequisite** [**Microsoft Visual C++ 2015 Redistributable Update 3**](https://www.microsoft.com/en-us/download/details.aspx?id=53840) - Download and install first.
     + [**Download wkhtmltopdf**](https://wkhtmltopdf.org/downloads.html) - **v0.12.4** released on November 22, 2016 for Windows, Linux and OS X.
     + **Install wkhtmltopdf**
@@ -328,7 +328,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
         + IMPORT DOCUMENT myBO.DocumentPDF FROM 'C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No&lt;&lt;myBO.ID&gt;&gt;.pdf' 
       + **Optional** - Delete exported HTML file 
         + DELETE FILE 'C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No&lt;&lt;myBO.ID&gt;&gt;.html' 
-    + [**Prince 11**](http://www.princexml.com/) - Convert your HTML documents to PDF.
+  + [**Prince 11**](http://www.princexml.com/) - Convert your HTML documents to PDF.
       + [Sample Documents](http://www.princexml.com/samples/) - Dictionary, Invoices, Textbook, Scientific Journal, Product Catalogs, Brochure ... 
 
   + **Business Intelligence, Report Writer/Server** 
