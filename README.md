@@ -54,6 +54,13 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
       + [**Mobile Applications**](http://www.awareim.com/tutorials/Mobile/Mobile.html)
       + [**Web Services**](http://www.awareim.com/tutorials/WebServices/WebServices.html)
       + [**User Defined Workflows (Processes)**](http://www.awareim.com/tutorials/UDP/UDP.html)
+    + **Version 7.1**
+      + [**Access to camera and photo library**](https://www.youtube.com/watch?v=XUQ-2NBItoI) - Access camera and photo library in your native mobile applications directly from Aware IM processes and put the resulting image into an attribute of a business object.
+      + [**Push notifications**](https://www.youtube.com/watch?v=hSEIFSTg0kI) - Send push notifications to Android and iOS devices from your native mobile applications. 
+      + [**Current user location (geolocation)**](https://www.youtube.com/watch?v=XUQ-2NBItoI&t=5m45s) - Retrieve and trace location of the user and see the results on Google Maps.
+      + [**Form and grid styles**](https://www.youtube.com/watch?v=dW8vmJ-6HzI) - Be more efficient when defining your forms and queries – create form and grid styles and reuse them easily.
+      + [**Implementing Cascading Drop Downs in Aware IM**](https://www.youtube.com/watch?v=bF3zG3wDRsk) - Create powerful web database applications quickly. This video tutorial explains how to create cascading drop downs in Aware IM
+      + [**Using AutoRefresh Feature in Aware IM**](https://www.youtube.com/watch?v=uaxst4z9mzU) - This video tutorial explains how to use the "automatic refresh" feature in Aware IM.
     + **Version 7.0+**
       + [**Fast web application builder mobile and desktop**](https://youtu.be/p5Q-YYAd6Fs)
       + [**Mobile web application development**](https://youtu.be/Gte6vbvAYsg)
@@ -168,7 +175,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
-  + [**Tomcat 9.0.0.M18** - For Aware IM v6.0+](http://tomcat.apache.org/) - Tomcat 8.0.14 32bit installed by default. 
+  + [**Tomcat 9.0.0.M19** - For Aware IM v6.0+](http://tomcat.apache.org/) - Tomcat 8.0.14 32bit installed by default. 
     + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
       + Installation with Aware IM 
         + Java 8 the minimum required version to run Tomcat 9.
