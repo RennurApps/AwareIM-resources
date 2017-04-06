@@ -249,10 +249,10 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
       + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib 
 
 #### **End-to-End Solutions**
-  + [**Telerik Platform**](http://www.telerik.com/) - Complete cross-platform solution to design, build, deploy, manage, and measure all your mobile apps. 2.1+ million developers.
+  + [**Telerik Platform**](http://www.telerik.com/) - **Aware IM v7.0+**. Complete cross-platform solution to design, build, deploy, manage, and measure all your mobile apps. 2.1+ million developers.
 
 #### **Web Application Framework** - HTML5/JS Framework
-  + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **for Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization. 
+  + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization. 
     + [Release History](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
       + Latest Kendo UI Release [Kendo UI R1 2017 SP1](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2017-sp1) - February 23, 2017  
       + Current **Aware IM** Kendo UI version [**Kendo UI Q1 2016**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
@@ -268,8 +268,8 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + [Ext JS Examples](http://try.sencha.com/extjs/4.1.0/)
   
 #### **Mobile Web Framework**
-  + **Aware IM 7.x** - Mobile apps with HTML5 and JavaScript.
-    + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - for Aware IM v7.0 Only
+  + **Aware IM 7.x+** - Mobile apps with HTML5 and JavaScript.
+    + [**Kendo UI®**](http://www.telerik.com/kendo-ui)
   + Aware IM 5.x & 6.x 
     + [**Sencha Touch**](http://www.sencha.com/products/touch/) v2.3.1 (final). HTML5 Mobile app development. 
       + [Documentation](http://docs.sencha.com/touch/2.3.1/)
