@@ -249,7 +249,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
       + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib 
 
 #### **End-to-End Solutions**
-  + [**Telerik Platform**](http://www.telerik.com/) - Complete cross-platform solution to design, build, deploy, manage, and measure all your mobile apps.
+  + [**Telerik Platform**](http://www.telerik.com/) - Complete cross-platform solution to design, build, deploy, manage, and measure all your mobile apps. 2.1+ million developers.
 
 #### **Web Application Framework** - HTML5/JS Framework
   + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **for Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization. 
