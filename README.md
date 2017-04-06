@@ -219,7 +219,8 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + [5.9.0 Release](http://activemq.apache.org/activemq-590-release.html) 
     + [5.8.0 Release](http://activemq.apache.org/activemq-580-release.html) 
   
-  + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **v 3.5.29**.
+  + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.32**. 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition. 
+    + [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
 
 #### Databases
   + **MySQL**
