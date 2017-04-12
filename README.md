@@ -61,8 +61,8 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
       + [**Form and grid styles**](https://www.youtube.com/watch?v=dW8vmJ-6HzI) - Be more efficient when defining your forms and queries – create form and grid styles and reuse them easily.
       + [**Implementing Cascading Drop Downs in Aware IM**](https://www.youtube.com/watch?v=bF3zG3wDRsk) - Create powerful web database applications quickly. This video tutorial explains how to create cascading drop downs in Aware IM
       + [**Using AutoRefresh Feature in Aware IM**](https://www.youtube.com/watch?v=uaxst4z9mzU) - This video tutorial explains how to use the "automatic refresh" feature in Aware IM.
-    + **Version 7.0+**
-      + [**Fast web application builder mobile and desktop**](https://youtu.be/p5Q-YYAd6Fs)
+    + **Version 7.0+** - New modern and professional look and feel with aroung 15 new features.
+      + [**Fast web application builder mobile and desktop**](https://www.youtube.com/watch?v=p5Q-YYAd6Fs)
       + [**Mobile web application development**](https://youtu.be/Gte6vbvAYsg)
       + [**Development of responsive web applications**](https://youtu.be/6_yJj4Xy6bU)
       + [**Builder for online and offline web applications**](https://youtu.be/xd3DQrHXGBs)  
@@ -156,15 +156,6 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 #### Browser Support
   + **Browsers**
     + **Chrome (PC & Mac)** - Recommended
-      + Install
-        + [Desktop Computer](https://www.google.com/intl/en_au/chrome/browser/)
-        + [Phone and Tablet](http://g.co/ChromeApp)
-          + [Google Play](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en) - Available on Android 4.0, Ice Cream Sandwich, or later.
-          + [App Store](http://itunes.apple.com/us/app/chrome/id535886823?ls=1&mt=8) - Available for iOS 6.0 or later.
-        + [iPhone and iPad](https://www.google.com/chrome/browser/mobile/ios.html)
-          + [App Store](http://itunes.apple.com/us/app/chrome/id535886823?ls=1&mt=8) - Available for iOS 6.0 or later.
-      + Update
-        + [Keep Updated](https://support.google.com/chrome/answer/95414?hl=en)
     + IE8+ (standard mode only)
     + Firefox (PC & Mac)
     + Safari 6+
