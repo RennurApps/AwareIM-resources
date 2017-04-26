@@ -14,9 +14,9 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
         + [Aware IM 7.0 released](http://www.awareim.com/aware-im-7-0-released/) - February 8, 2016
           + [Watch a video about version 7.0](https://youtu.be/p5Q-YYAd6Fs)
       + **v6.0** - Builds 2010-2056 
-        + [Aware IM 6.0 released](http://awareim.com/aware-im-6-0-released/)
+        + [Aware IM 6.0 released](http://awareim.com/aware-im-6-0-released/) - January 9, 2015
       + **v5.9** - Builds 1881-1908
-        + [Aware IM 5.9 released](http://awareim.com/aware-im-5-9-released/)
+        + [Aware IM 5.9 released](http://awareim.com/aware-im-5-9-released/) - 
           + Improvements
             + **User Defined Processes/Workflows** - Ability for the administrator of end user to control access levels settings
               + How To (PDF) - Page 47
@@ -27,33 +27,6 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
       + **v5.6** - Builds 1638-1671
       + **v5.5** - Builds 1588-1617
   + [**Video Tutorials**](http://www.awareim.com/video-tutorials/) - Highly Recommended
-    + **Core Tutorials** - Watch first if not familiar with Aware IM concepts.
-      + **Getting Started**
-        + [Getting Started](http://www.awareim.com/tutorials/getting_started/getting_started.html)
-        + [Creating Applications](http://www.awareim.com/tutorials/creating_applications/creating_applications.html)
-      + [**Relationships Between Business Objects**](http://www.awareim.com/tutorials/Relationships/Relationships.html)
-      + **Forms**
-        + [Forms - Introduction](http://www.awareim.com/tutorials/Forms/Forms.html)
-        + [Advanced Forms - Part 1](http://www.awareim.com/tutorials/Advanced_Forms/Advanced_Forms.html)
-        + [Advanced Forms - Part 2](http://www.awareim.com/tutorials/Advanced_Forms2/Advanced_Forms2.html)
-      + **Business Rules and Processes**
-        + [Busines Rules - Introduction](http://www.awareim.com/tutorials/Rules/Rules.html)
-        + [BusinesRule Execution](http://www.awareim.com/tutorials/Rule_Execution/Rule_Execution.html)
-        + [Processes](http://www.awareim.com/tutorials/Processes/Processes.html)
-      + **Queries**
-        + [Queries - Introduction](http://www.awareim.com/tutorials/Queries/Queries.html)
-        + [Query Results Presentation](http://www.awareim.com/tutorials/Query_Presentation/Query_Presentation.html)
-      + [**Visual Perspectives**](http://www.awareim.com/tutorials/VP1/VP1.html) 
-      + [**Access Control**](http://www.awareim.com/tutorials/Access/Access.html)
-      + [**Documents**](http://www.awareim.com/tutorials/Documents/Documents.html)
-      + [**Emails**](http://www.awareim.com/tutorials/Emails/Emails.html)
-      + [**Calendar and Scheduler**](http://www.awareim.com/tutorials/Calendar/Calendar.html)
-      + [**Trees**](http://www.awareim.com/tutorials/Trees/Trees.html)
-      + [**Charts**](http://www.awareim.com/tutorials/Charts/Charts.html)
-      + [**Google Maps**](http://www.awareim.com/tutorials/Google_Maps/Google_Maps.html)
-      + [**Mobile Applications**](http://www.awareim.com/tutorials/Mobile/Mobile.html)
-      + [**Web Services**](http://www.awareim.com/tutorials/WebServices/WebServices.html)
-      + [**User Defined Workflows (Processes)**](http://www.awareim.com/tutorials/UDP/UDP.html)
     + **Version 7.1**
       + [**Access to camera and photo library**](https://www.youtube.com/watch?v=XUQ-2NBItoI) - Access camera and photo library in your native mobile applications directly from Aware IM processes and put the resulting image into an attribute of a business object.
       + [**Push notifications**](https://www.youtube.com/watch?v=hSEIFSTg0kI) - Send push notifications to Android and iOS devices from your native mobile applications. 
@@ -135,8 +108,9 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 
 #### Integrations, custom components, connectors and plugins 
   + Any application offering an API for developers makes it possible to integrate with Aware IM by writing a plugin.
-    + **Reporting** 
+    + **Business Intelligence** 
       + **JasperReports® Server** - Self-service Reporting and Analysis Server. 
+      + **Power BI Interactive Data Visualization** - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
     
 #### Developer Community
   + [**2nd Aware IM International Developers Conference**](http://www.awareimdevelopers.com) - January 2016 - Bali 
