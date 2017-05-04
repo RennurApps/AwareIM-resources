@@ -197,11 +197,14 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        + [MySQL Community Server 5.7.18](http://dev.mysql.com/downloads/mysql/) 
-        + [MySQL Community Server 5.6.36](https://dev.mysql.com/downloads/mysql/5.6.html) 
+        + [**MySQL Community Server 5.7.18**](http://dev.mysql.com/downloads/mysql/) 
           + **Prerequisite**
-            + [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 Redistributable Package MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms. 
-        + [MySQL Community Server 5.5.56](https://dev.mysql.com/downloads/mysql/5.5.html) 
+            + [Microsoft Visual C++ 2013](https://www.microsoft.com/en-us/download/details.aspx?id=53840) - Update 3.
+ MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
+        + [**MySQL Community Server 5.6.36**](https://dev.mysql.com/downloads/mysql/5.6.html) 
+          + **Prerequisite**
+            + [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms. 
+        + [**MySQL Community Server 5.5.56**](https://dev.mysql.com/downloads/mysql/5.5.html) 
     + [**MySQL Connectors**](http://dev.mysql.com/downloads/connector/) - **HIGHLY RECOMMENDED**
       + [**Connector/J**](http://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.41** - By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database. It is suitable for use with MySQL server versions 5.5, 5.6, and 5.7. It supports the Java Database Connectivity (JDBC) 4.2 API.
         + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest **Platform Independent** version. 
