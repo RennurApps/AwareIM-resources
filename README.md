@@ -308,11 +308,11 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
       + **Step 1** - Export Aware IM HTML Document to a HTML file
         + `EXPORT DOCUMENT 'Your HTML Document' TO FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html'`
       + **Step 2** - Convert exported HTML file to PDF 
-        + ```EXECUTE PROGRAM 'C:\AwareIM\wkhtmltopdf\bin\wkhtmltopdf.exe file:///C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No&lt;&lt;myBO..ID&gt;&gt;.**html** C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No&lt;&lt;myBO.ID&gt;&gt;.**pdf**'``` 
+        + `EXECUTE PROGRAM 'C:\AwareIM\wkhtmltopdf\bin\wkhtmltopdf.exe file:///C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.pdf'` 
       + **Step 3** - Import PDF document to your myBO.DocumentPDF attribute 
-        + ```IMPORT DOCUMENT myBO.DocumentPDF FROM 'C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No&lt;&lt;myBO.ID&gt;&gt;.pdf'```
+        + 'IMPORT DOCUMENT myBO.DocumentPDF FROM 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.pdf'`
       + **Optional** - Delete exported HTML file 
-        + ```DELETE FILE 'C:/YourFileLocation/&lt;&lt;myBO.Name&gt;&gt;_No&lt;&lt;myBO.ID&gt;&gt;.html'``` 
+        + `DELETE FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html'`
   + [**Prince 11**](http://www.princexml.com/) - Convert your HTML documents to PDF.
       + [Sample Documents](http://www.princexml.com/samples/) - Dictionary, Invoices, Textbook, Scientific Journal, Product Catalogs, Brochure ... 
 
