@@ -230,7 +230,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
 #### **Web Application Framework** - HTML5/JS Framework
   + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization. 
     + [Release History](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
-      + Latest Kendo UI Release [Kendo UI R1 2017 SP1](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2017-sp1) - February 23, 2017  
+      + Latest Kendo UI Release [**Kendo UI R2 2017**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2017) - May 04, 2017  
       + Current **Aware IM** Kendo UI version [**Kendo UI Q1 2016**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
     + [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
     + 70+ jQuery-based UI widgets in one powerful toolset.
