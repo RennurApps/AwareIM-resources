@@ -323,14 +323,14 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
         + [Installation Guide](http://community.jaspersoft.com/documentation/tibco-jasperreports-server-installation-guide/v61/introduction)
           + Bundled with and installed own Tomcat server and PostgreSQL database
         + **Connect to MySQL database** 
-          + [Login to Jasper Reports Server](http://localhost:8081/jasperserver/login.html) - http://localhost:8081/jasperserver/login.html Login UserID: jasperadmin Password: jasperadmin (change password after login)
+          + [Login to Jasper Reports Server](http://localhost:8081/jasperserver/login.html) - http://localhost:8081/jasperserver/login.html Login UserID: 'jasperadmin' Password: 'jasperadmin' (change password after login)
           + Data Sources > Add Resource > Data Source > JDBC Data Source 
-            + MySQL (com.mysql.jdbs.Driver) 
+            + MySQL 'com.mysql.jdbs.Driver'
             + Click on 'Select Driver' > Choose File > C:\Program Files (x86)\MySQL\MySQL Connector J\mysql-connector-java-x.x.xx-bin.jar 
-            + localhost
-            + port is usually 3306 
-            + Databse name: BASDB (change if different)
-            + URL: jdbc:mysql://localhost:3306/BASDB 
+            + 'localhost'
+            + port is usually '3306' 
+            + Databse name: 'BASDB' (change if different)
+            + URL: 'jdbc:mysql://localhost:3306/BASDB' 
             + database username (default: root) & password 
       + [**Jaspersoft® Studio**](http://community.jaspersoft.com/project/jaspersoft-studio) - The Eclipse-based Report Development Tool for JasperReports and JasperReports Server 
         + [User Guide](http://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v610/getting-started-jaspersoft-studio)
