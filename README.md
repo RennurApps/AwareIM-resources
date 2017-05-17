@@ -212,7 +212,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
         + [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
         + **Installation**
           + Aware IM Server
-            1. Download platform independent version 
+            1. Download `platform independent` version 
             2. Extract the files and rename `mysql-connector-java-x.x.xx-bin.jar` to `mysql-connector-java-3.1.12-bin.jar` 
             3. Copy and replace the existing file in `C:\AwareIM\Tomcat\lib`
             4. Restart AwareIM server
@@ -256,7 +256,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
     + [**Bootstrap v3**](http://getbootstrap.com/) - Currently v3.3.7  
       + Integrating with Aware IM
         + Manual configuration through Startup.html
-        + disable **legend** style with /* */ brackets as it seems to be in conflict with the ExtJS style
+        + disable **`legend`** style with /* */ brackets as it seems to be in conflict with the ExtJS style
           + `/* legend {
             display: block;
             width: 100%;
@@ -323,14 +323,14 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
         + [Installation Guide](http://community.jaspersoft.com/documentation/tibco-jasperreports-server-installation-guide/v61/introduction)
           + Bundled with and installed own Tomcat server and PostgreSQL database
         + **Connect to MySQL database** 
-          + [Login to Jasper Reports Server](http://localhost:8081/jasperserver/login.html) - http://localhost:8081/jasperserver/login.html Login UserID: 'jasperadmin' Password: 'jasperadmin' (change password after login)
+          + [Login to Jasper Reports Server](http://localhost:8081/jasperserver/login.html) - http://localhost:8081/jasperserver/login.html Login UserID: `jasperadmin` Password: `jasperadmin` (change password after login)
           + Data Sources > Add Resource > Data Source > JDBC Data Source 
-            + MySQL 'com.mysql.jdbs.Driver'
-            + Click on 'Select Driver' > Choose File > C:\Program Files (x86)\MySQL\MySQL Connector J\mysql-connector-java-x.x.xx-bin.jar 
-            + 'localhost'
-            + port is usually '3306' 
-            + Databse name: 'BASDB' (change if different)
-            + URL: 'jdbc:mysql://localhost:3306/BASDB' 
+            + MySQL `com.mysql.jdbs.Driver`
+            + Click on `Select Driver` > Choose File > `C:\Program Files (x86)\MySQL\MySQL Connector J\mysql-connector-java-x.x.xx-bin.jar` 
+            + `localhost`
+            + port is usually `3306` 
+            + Databse name: `BASDB` (change if different)
+            + URL: `jdbc:mysql://localhost:3306/BASDB` 
             + database username (default: root) & password 
       + [**Jaspersoft® Studio**](http://community.jaspersoft.com/project/jaspersoft-studio) - The Eclipse-based Report Development Tool for JasperReports and JasperReports Server 
         + [User Guide](http://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v610/getting-started-jaspersoft-studio)
