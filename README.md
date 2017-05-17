@@ -213,8 +213,8 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
         + **Installation**
           + Aware IM Server
             1. Download platform independent version 
-            2. Extract the files and rename mysql-connector-java-x.x.xx-bin.jar to mysql-connector-java-3.1.12-bin.jar 
-            3. Copy and replace the existing file in C:\AwareIM\Tomcat\lib
+            2. Extract the files and rename `mysql-connector-java-x.x.xx-bin.jar` to `mysql-connector-java-3.1.12-bin.jar` 
+            3. Copy and replace the existing file in `C:\AwareIM\Tomcat\lib`
             4. Restart AwareIM server
   + **Apache Derby** - [Home](http://db.apache.org/derby/)
     + [**Apache Derby 10.13.1.1**](https://db.apache.org/derby/releases/release-10.13.1.1.cgi) - (October 25, 2016)
@@ -257,7 +257,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
       + Integrating with Aware IM
         + Manual configuration through Startup.html
         + disable **legend** style with /* */ brackets as it seems to be in conflict with the ExtJS style
-          + /* legend {
+          + `/* legend {
             display: block;
             width: 100%;
             padding: 0;
@@ -267,7 +267,7 @@ Written in 100% Java programming language. Custom enterprise grade web applicati
             color: #333;
             border: 0;
             border-bottom: 1px solid #e5e5e5;
-            } */
+            } */`
     + [LayoutIt!](http://www.layoutit.com/build) - Drag & drop layout builder
     + [Huge list of bootstrap resources](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
     + [Bootstrap Tutorial](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
