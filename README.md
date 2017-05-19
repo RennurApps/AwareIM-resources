@@ -182,9 +182,9 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**Apache ActiveMQ**](http://activemq.apache.org/) - v5.8.0 installed by default. 
     + [**Configuration issues for Tomcat 7 and later**](http://activemq.apache.org/tomcat.html) 
     + **Releases**:
-      + [5.14.5 Release](http://activemq.apache.org/activemq-5145-release.html) - **Untested - See 5.13.0**
+      + [5.14.5 Release](http://activemq.apache.org/activemq-5145-release.html) - **Untested - See 5.13.x**
       + [5.13.x Release](http://activemq.apache.org/activemq-5130-release.html) - Tested with Tomcat 9. **Server starts but the application will not load**
-        + [ActiveMQ with websocket on Tomcat fails](https://issues.apache.org/jira/browse/AMQ-6154) 
+        + [:+1: ActiveMQ with websocket on Tomcat fails](https://issues.apache.org/jira/browse/AMQ-6154) 
       + [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - **Tested and working with Tomcat 8 & 9**. 
         + Installation (Always backup original files first)
         + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib
