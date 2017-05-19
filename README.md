@@ -140,7 +140,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
-  + [**Tomcat 9.0.0.M21** - For Aware IM v6.0+](http://tomcat.apache.org/) - May 4 2017. Tomcat 8.0.14 32bit installed by default. Tomcat 9.0 is designed to run on Java SE 8 and later.
+  + [**Tomcat 9.0.0.M21** - For Aware IM v6.0+](http://tomcat.apache.org/) - May 4 2017. Tomcat 9.0 is designed to run on Java SE 8 and later.
+  > Tomcat 8.0.14 32bit is the default version packaged in the Aware IM server installation.
     + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
       + Installation with Aware IM 
         + Java 8 the minimum required version to run Tomcat 9.
@@ -207,22 +208,22 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           + **Prerequisite**
             + [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms. 
         + [**MySQL Community Server 5.5.56**](https://dev.mysql.com/downloads/mysql/5.5.html) 
-    + [**MySQL Connectors**](https://www.mysql.com/products/connector/) - **HIGHLY RECOMMENDED**
-      + [**Connector/J**](https://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.42** - Suitable for use with MySQL server versions 5.5, 5.6, and 5.7. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL
-      > By default, a very old version (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation to communicate with the database.
+    + [**MySQL Connectors**](https://www.mysql.com/products/connector/) 
+    > By default, a very old version of Connector/J JDBC driver (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation. JDBC driver communicates with MySQL servers.
+      + [**Connector/J**](https://dev.mysql.com/downloads/connector/j/) - **HIGHLY RECOMMENDED** **Latest version v5.1.42** - Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.     
         + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest **Platform Independent** version. 
-        + [Changes and Release Notes](http://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
+        + [Changes and Release Notes](https://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
         + [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
         + **Installation**
           + Aware IM Server
             1. Download `platform independent` version 
             2. Extract the files and rename `mysql-connector-java-x.x.xx-bin.jar` to `mysql-connector-java-3.1.12-bin.jar` 
             3. Copy and replace the existing file in `C:\AwareIM\Tomcat\lib`
-            4. Restart AwareIM server
+            4. Restart AwareIM Server Control Panel
   + **Apache Derby** - [Home](http://db.apache.org/derby/)
     + [**Apache Derby 10.13.1.1**](https://db.apache.org/derby/releases/release-10.13.1.1.cgi) - (October 25, 2016)
       + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib
-    + [pache Derby 10.12.1.1](https://db.apache.org/derby/releases/release-10.12.1.1.cgi) - (October 11, 2015)
+    + [Apache Derby 10.12.1.1](https://db.apache.org/derby/releases/release-10.12.1.1.cgi) - (October 11, 2015)
       + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib
     + [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
       + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib 
