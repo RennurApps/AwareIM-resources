@@ -7,8 +7,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**Currently v7.1 build 2240**](http://www.awareim.com/changelog/Readme2240.txt) 
   + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
-      + Under Development v8.0 - To be released mid 2017
-      + **Currently v7.1** - Builds 2223+
+      + :soon: Under Development v8.0 - To be released mid 2017
+      + :heavy_check_mark: **Currently v7.1** - Builds 2223+
         + [Aware IM 7.1 released](http://www.awareim.com/aware-im-7-1-released/) - September 6, 2016 
       + **v7.0** - Builds 2144-2181
         + [Aware IM 7.0 released](http://www.awareim.com/aware-im-7-0-released/) - February 8, 2016
@@ -179,8 +179,10 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
-  + [**Apache ActiveMQ**](http://activemq.apache.org/) - v5.8.0 installed by default. 
-    + [**Configuration issues for Tomcat 7 and later**](http://activemq.apache.org/tomcat.html) 
+  + [**Apache ActiveMQ**](http://activemq.apache.org/)
+    > ActiveMQ v5.8.0 installed by default. 
+    + **Issues**
+      + [**Configuration issues for Tomcat 7 and later**](http://activemq.apache.org/tomcat.html) 
     + **Releases**:
       - [ ] [5.14.5 Release](http://activemq.apache.org/activemq-5145-release.html) - **Untested - See 5.13.x**
       - [ ] [5.13.x Release](http://activemq.apache.org/activemq-5130-release.html) - Tested with Tomcat 9. **Server starts but the application will not load**
