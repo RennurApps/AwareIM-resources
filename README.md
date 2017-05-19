@@ -141,7 +141,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
   + [**Tomcat 9.0.0.M21** - For Aware IM v6.0+](http://tomcat.apache.org/) - May 4 2017. Tomcat 9.0 is designed to run on Java SE 8 and later.
-  > Tomcat 8.0.14 32bit is the default version packaged in the Aware IM server installation.
+    > Tomcat 8.0.14 32bit is the default version packaged in the Aware IM server installation.
     + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
       + Installation with Aware IM 
         + Java 8 the minimum required version to run Tomcat 9.
