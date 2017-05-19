@@ -212,7 +212,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + [**MySQL Community Server 5.5.56**](https://dev.mysql.com/downloads/mysql/5.5.html) 
     + [**MySQL Connectors**](https://www.mysql.com/products/connector/) 
     > By default, a very old version of Connector/J JDBC driver (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation. JDBC driver communicates with MySQL servers.
-      + [**Connector/J**](https://dev.mysql.com/downloads/connector/j/) - **HIGHLY RECOMMENDED** **Latest version v5.1.42** - Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.     
+      + [**Connector/J**](https://dev.mysql.com/downloads/connector/j/) - :grey_exclamation:**UPDATE HIGHLY RECOMMENDED**:grey_exclamation:. **Latest version v5.1.42** - Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.     
         + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest **Platform Independent** version. 
         + [Changes and Release Notes](https://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
         + [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
