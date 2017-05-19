@@ -140,7 +140,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
 
-  + [**Tomcat 9.0.0.M21** - For Aware IM v6.0+](http://tomcat.apache.org/) - Tomcat 8.0.14 32bit installed by default. Tomcat 9.0 is designed to run on Java SE 8 and later.
+  + [**Tomcat 9.0.0.M21** - For Aware IM v6.0+](http://tomcat.apache.org/) - May 4 2017. Tomcat 8.0.14 32bit installed by default. Tomcat 9.0 is designed to run on Java SE 8 and later.
     + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
       + Installation with Aware IM 
         + Java 8 the minimum required version to run Tomcat 9.
@@ -155,15 +155,15 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             7. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version Tomcat v8.5.14** -  Tomcat 8.0.14 32bit installed by default. Tomcat 8.5 requires Java SE 7 or later. 
+  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - May 5 2017. **Latest version Tomcat v8.5.15** -  Tomcat 8.0.14 32bit installed by default. Tomcat 8.5 requires Java SE 7 or later. 
     + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.14) - **Untested**.  
     + [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/).
     + [Tomcat 8.5x Changelog](https://tomcat.apache.org/tomcat-8.5-doc/changelog.html).    
-  + [**Tomcat 8.0.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest version Tomcat v8.0.43** -  Tomcat 8.0.14 32bit installed by default. 
+  + [**Tomcat 8.0.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - May 10 2017. **Latest version Tomcat v8.0.44** -  Tomcat 8.0.14 32bit installed by default. 
     + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.0.43) - 64bit recommended. Manual Install. **Tested and working**.
     + [Tomcat 8.0.x Documentation](https://tomcat.apache.org/tomcat-8.0-doc/).
     + [Tomcat 8.0.x Changelog](https://tomcat.apache.org/tomcat-8.0-doc/changelog.html).
-  + [**Tomcat 6** - For Aware IM v5.9 Only](http://tomcat.apache.org/) - **Latest version Tomcat 6.0.51** - Tomcat v6.0.35 32bit installed by default. 
+  + [**Tomcat 6** - For Aware IM v5.9 Only](http://tomcat.apache.org/) - Apr 2 2017 **Latest version Tomcat 6.0.53** - Tomcat v6.0.35 32bit installed by default. 
     + [Download Tomcat **v6** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Tested & working.
       + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
       + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
