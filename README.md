@@ -135,11 +135,11 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + Safari 6+
     + Opera (PC & Mac)
 
-#### Under the hood - Updates and Security Fixes 
+#### Apache Tomcat 
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation. 
 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
-  ##### Apache Tomcat 
+ 
   > Tomcat 8.0.14 32bit is the default version packaged in the **Aware IM 6.0+** server installation.
   > Tomcat 6.0.35 32bit is the default version packaged in the **Aware IM 5.9** server installation.
   + [**Tomcat 9.0.0.M21** - For Aware IM v6.0+](http://tomcat.apache.org/) - May 4 2017. Tomcat 9.0 is designed to run on Java SE 8 and later.
