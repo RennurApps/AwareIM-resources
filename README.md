@@ -149,9 +149,9 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + **Installation** with Aware IM 
         + Windows Based Systems
           + **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
-            + **IMPORTANT**: 
-              + Ensure any prior modification of existing _web.xml_ and _server.xml_ are not written over with the new version. There are configuration changes in the latest version of Tomcat relating to those two files. 
-              + Rename the extracted `ecj-4.x.jar`to `ecj-4.4.jar` found in the Tomcat/lib folder
+            * **IMPORTANT**: 
+              - [x] Ensure any prior modification of existing _web.xml_ and _server.xml_ are not written over with the new version. There are configuration changes in the latest version of Tomcat relating to those two files. 
+              - [x] Rename the extracted `ecj-4.x.jar`to `ecj-4.4.jar` found in the Tomcat/lib folder
             1. **Extract** the archive and open the folder.
             2. Open the extracted **Tomcat** folder.
             3. Select all files and folders and press `Crl+c` to copy
