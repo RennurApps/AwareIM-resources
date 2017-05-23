@@ -141,21 +141,24 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 > Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
  
 > Tomcat 8.0.14 32bit is the default version packaged in the **Aware IM 6.0+** server installation.
+
 > Tomcat 6.0.35 32bit is the default version packaged in the **Aware IM 5.9** server installation.
 
    + [**Tomcat 9.0.0.M21** - For Aware IM v6.0+](http://tomcat.apache.org/) - May 4 2017. Tomcat 9.0 is designed to run on Java SE 8 and later.
     + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
-      + Installation with Aware IM 
-        + Java 8 the minimum required version to run Tomcat 9.
+      + **Installation** with Aware IM 
         + Windows Based Systems
           + **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
-            1. **Extract** the archive and open the folder.
-            2. Open **webapps** folder.
-            3. Rename or delete **ROOT** folder - This is optional. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files. 
-            4. Select all files and folders and press Crl+c to copy
-            5. Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
-            6. Press Ctrl+v to paste and replace all files and folders.
-            7. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
+            + **IMPORTANT**: 
+              + Ensure any prior modification of existing _web.xml_ and _server.xml_ are not written over with the new version. There are configuration changes in the latest version of Tomcat relating to those two files. 
+              + Rename the extracted `ecj-4.x.jar`to `ecj-4.4.jar` found in the Tomcat/lib folder
+            1. **Extract** the archive and open the folder.
+            2. Open the extracted **Tomcat** folder.
+            3. Select all files and folders and press `Crl+c` to copy
+            4. Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
+            5. Press `Ctrl+v` to paste and replace all files and folders.
+            6. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
+            7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
   + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - May 5 2017. **Latest version Tomcat v8.5.15** - Tomcat 8.5 requires Java SE 7 or later. 
