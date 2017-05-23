@@ -147,12 +147,12 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**Tomcat 9.0.0.M21** - For Aware IM v6.0+](http://tomcat.apache.org/) - May 4 2017. Tomcat 9.0 is designed to run on Java SE 8 and later.
     + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
       + **Installation** with Aware IM 
-        + Windows Based Systems
+        + Windows Based Systems 
+          + **IMPORTANT**: 
+            - [x] Ensure any prior modification of existing _web.xml_ and _server.xml_ are not written over with the new version. There are configuration changes in the latest version of Tomcat relating to those two files. 
+            - [x] Rename the extracted `ecj-4.x.jar`to `ecj-4.4.jar` found in the Tomcat/lib folder
           + **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
-            * **IMPORTANT**: 
-              - [x] Ensure any prior modification of existing _web.xml_ and _server.xml_ are not written over with the new version. There are configuration changes in the latest version of Tomcat relating to those two files. 
-              - [x] Rename the extracted `ecj-4.x.jar`to `ecj-4.4.jar` found in the Tomcat/lib folder
-            1. **Extract** the archive and open the folder.
+            1. **Extract** the archive and open the folder.
             2. Open the extracted **Tomcat** folder.
             3. Select all files and folders and press `Crl+c` to copy
             4. Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
