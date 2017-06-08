@@ -231,9 +231,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**Apache Derby 10.13.1.1**](https://db.apache.org/derby/releases/release-10.13.1.1.cgi) - (October 25, 2016)
       + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib
     + [Apache Derby 10.12.1.1](https://db.apache.org/derby/releases/release-10.12.1.1.cgi) - (October 11, 2015)
-      + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib
     + [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
-      + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib 
 
 #### **End-to-End Solutions**
   + [**Telerik Platform**](http://www.telerik.com/) - **Aware IM v7.0+**. Complete cross-platform solution to design, build, deploy, manage, and measure all your mobile apps. 2.1+ million developers.
