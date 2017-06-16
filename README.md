@@ -284,10 +284,14 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time.
 
 #### Aware IM Internal Features  
-  + **Electronic Signature Capture** - Aware IM 5.9+
-    + [**Signature Pad** Download](https://github.com/szimek/signature_pad) - **Currently v1.5.3**. Bundled with Aware IM v1.2.4. Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers. 
+  + **Electronic Signature Capture** - For Aware IM 5.9+ 
+  > Version v1.2.4 is the default version bundled with Aware IM.
+    + [**Signature Pad**](http://szimek.github.io/signature_pad/) - Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers. 
       + [**DEMO**](http://szimek.github.io/signature_pad/) 
+      + [**Signature Pad v2.2.0**](https://github.com/RennurApps/AwareIM-resources/tree/master/Signature) - Untested. 
+      + [:heavy_check_mark: **Signature Pad v1.5.3**](https://github.com/RennurApps/AwareIM-resources/tree/master/Signature) - Tested and working in all versions 5.9+ 
       + **Installation**: 
+        + Get the desired version from [**here**](https://github.com/RennurApps/AwareIM-resources/tree/master/Signature) or [**here**](http://szimek.github.io/signature_pad/)
         + Replace ../AwareIM/signature/signature_pad.js with the new version.
       + **Options** - Edit **signature_pad.js** found in **C:\AwareIM\Tomcat\webapps\AwareIM\signature** 
         + `dotSize` - (float or function) Radius of a single dot.
