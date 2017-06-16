@@ -2,6 +2,9 @@
  * Signature Pad v2.2.0
  * https://github.com/szimek/signature_pad
  *
+ * AWARE IM (Untested! Backup orginal!)
+ * - Renamame file to signature_pad.js 
+ *
  * Copyright 2017 Szymon Nowak
  * Released under the MIT license
  *
