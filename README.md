@@ -144,7 +144,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 > Tomcat 6.0.35 32bit is the default version packaged in the **Aware IM 5.9** server installation.
 
-  + [**Tomcat 9.0.0.M21** - For Aware IM v6.0+](http://tomcat.apache.org/) - May 4 2017. Tomcat 9.0 is designed to run on Java SE 8 and later.
+  + [**Tomcat 9.0.0.M22** - For Aware IM v6.0+](http://tomcat.apache.org/) - Jun 21 2017. Tomcat 9.0 is designed to run on Java SE 8 and later.
     + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
       + **Installation** with Aware IM 
         + Windows Based Systems 
@@ -161,7 +161,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - May 5 2017. **Latest version Tomcat v8.5.15** - Tomcat 8.5 requires Java SE 7 or later. 
+  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - Jun 21 2017. **Latest version Tomcat v8.5.16** - Tomcat 8.5 requires Java SE 7 or later. 
     + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.14) - **Untested**.  
     + [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/).
     + [Tomcat 8.5x Changelog](https://tomcat.apache.org/tomcat-8.5-doc/changelog.html).    
