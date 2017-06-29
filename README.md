@@ -7,7 +7,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**Currently v7.1 build 2240**](http://www.awareim.com/changelog/Readme2240.txt) 
   + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
-      + :soon: Under Development v8.0 - To be released mid 2017
+      + :soon: Aware IM v8.0 - Beta release available to existing customers. Full release mid 2017.
+        + [Version 8.0](https://www.youtube.com/watch?v=NHvKFZHhADg) - Overview of the new Aware IM version 8.0 (Jun 28, 2017)
       + :heavy_check_mark: **Currently v7.1** - Builds 2223+
         + [Aware IM 7.1 released](http://www.awareim.com/aware-im-7-1-released/) - September 6, 2016 
       + **v7.0** - Builds 2144-2181
