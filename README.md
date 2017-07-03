@@ -166,7 +166,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.14) - **Untested**.  
     + [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/).
     + [Tomcat 8.5x Changelog](https://tomcat.apache.org/tomcat-8.5-doc/changelog.html).    
-  + [**Tomcat 8.0.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - May 10 2017. **Latest version Tomcat v8.0.44** - Tomcat 8.5 requires Java SE 7 or later. 
+  + [**Tomcat 8.0.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - May 10 2017. **Latest version Tomcat v8.0.45** - Tomcat 8.0 requires Java SE 7 or later. 
     + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.0.43) - 64bit recommended. Manual Install. **Tested and working**.
     + [Tomcat 8.0.x Documentation](https://tomcat.apache.org/tomcat-8.0-doc/).
     + [Tomcat 8.0.x Changelog](https://tomcat.apache.org/tomcat-8.0-doc/changelog.html).
