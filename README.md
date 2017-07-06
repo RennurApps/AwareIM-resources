@@ -210,7 +210,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + Download
         + [**MySQL Community Server 5.7.18**](http://dev.mysql.com/downloads/mysql/) 
           + **Prerequisite**
-            + [Microsoft Visual C++ 2013](https://www.microsoft.com/en-us/download/details.aspx?id=53840) - Update 3.
+            + [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) - 
  MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
         + [**MySQL Community Server 5.6.36**](https://dev.mysql.com/downloads/mysql/5.6.html) 
           + **Prerequisite**
