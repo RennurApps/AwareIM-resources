@@ -147,6 +147,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
   + [**Tomcat 9.0.0.M22 (alpha)** - For Aware IM v6.0+](http://tomcat.apache.org/) - Jun 21 2017. Tomcat 9.0 is designed to run on Java SE 8 and later.
     + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one.
+      + [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
       + **Installation** with Aware IM 
         + Windows Based Systems 
           + **IMPORTANT**: 
@@ -164,10 +165,12 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
   + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - Jun 21 2017. **Latest version Tomcat v8.5.16** - Tomcat 8.5 requires Java SE 7 or later. 
     + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.14) - **Untested**.  
+    + [**Migrating to v8.5.x**](https://tomcat.apache.org/migration-85.html) 
     + [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/).
     + [Tomcat 8.5x Changelog](https://tomcat.apache.org/tomcat-8.5-doc/changelog.html).    
   + [**Tomcat 8.0.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - May 10 2017. **Latest version Tomcat v8.0.45** - Tomcat 8.0 requires Java SE 7 or later. 
     + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.0.43) - 64bit recommended. Manual Install. **Tested and working**.
+    + [**Migrating to v8.0.x**](https://tomcat.apache.org/migration-8.html)
     + [Tomcat 8.0.x Documentation](https://tomcat.apache.org/tomcat-8.0-doc/).
     + [Tomcat 8.0.x Changelog](https://tomcat.apache.org/tomcat-8.0-doc/changelog.html).
   + [**Tomcat 6** - For Aware IM v5.9 Only](http://tomcat.apache.org/) - Apr 2 2017 **Latest version Tomcat 6.0.53**  
