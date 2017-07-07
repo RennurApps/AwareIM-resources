@@ -191,6 +191,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [**Configuration issues for Tomcat 7 and later**](http://activemq.apache.org/tomcat.html) 
     + **Releases**:
       - [ ] [5.15.0 Release](http://activemq.apache.org/activemq-5150-release.html) - **Untested - See 5.13.x**
+        + The minimum Java version has been upgraded to Java 8.
       - [ ] [5.14.5 Release](http://activemq.apache.org/activemq-5145-release.html) - **Untested - See 5.13.x**
       - [ ] [5.13.x Release](http://activemq.apache.org/activemq-5130-release.html) - Tested with Tomcat 9. **Server starts but the application will not load**
         + [ActiveMQ with websocket on Tomcat fails](https://issues.apache.org/jira/browse/AMQ-6154) 
