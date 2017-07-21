@@ -183,7 +183,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
   + **Java™ SE Development Kit (JDK)**
-    + [Version 8, Update 131 (JDK 8u131)](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - April 18, 2017. Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
+    + [Version 8, Update 141 (JDK 8u141)](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - July 18, 2017. Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + [JDK 8 Update Release Notes](http://www.oracle.com/technetwork/java/javase/8u-relnotes-2225394.html) 
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
@@ -213,17 +213,18 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        + [**MySQL Community Server 5.7.18**](http://dev.mysql.com/downloads/mysql/) 
+        + [**MySQL Community Server 5.7.19**](http://dev.mysql.com/downloads/mysql/) - 17 July 2017.
           + **Prerequisite**
             + [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) - 
  MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
-        + [**MySQL Community Server 5.6.36**](https://dev.mysql.com/downloads/mysql/5.6.html) 
+        + [**MySQL Community Server 5.6.37**](https://dev.mysql.com/downloads/mysql/5.6.html) - 17 July 2017.
           + **Prerequisite**
             + [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms. 
-        + [**MySQL Community Server 5.5.56**](https://dev.mysql.com/downloads/mysql/5.5.html) 
+        + [**MySQL Community Server 5.5.57**](https://dev.mysql.com/downloads/mysql/5.5.html) - 17 July 2017.
     + [**MySQL Connectors**](https://www.mysql.com/products/connector/) 
     > By default, a very old version of Connector/J JDBC driver (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation. JDBC driver communicates with MySQL servers.
-      + [**Connector/J**](https://dev.mysql.com/downloads/connector/j/) - :grey_exclamation:**UPDATE HIGHLY RECOMMENDED**:grey_exclamation:. **Latest version v5.1.42** - Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.     
+      + [Connector/J 8.0 Development Release](https://dev.mysql.com/downloads/connector/j/8.0.html) - Pre-General Availability Draft: 2017-07-18. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
+      + [**Connector/J 5.1.x**](https://dev.mysql.com/downloads/connector/j/) - :grey_exclamation:**UPDATE HIGHLY RECOMMENDED**:grey_exclamation:. **Latest version v5.1.42** 28 April 2017 - Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.     
         + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest **Platform Independent** version. 
         + [Changes and Release Notes](https://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
         + [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
