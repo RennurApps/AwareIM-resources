@@ -146,7 +146,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 > Tomcat 6.0.35 32bit is the default version packaged in the **Aware IM 5.9** server installation.
 
   + [**Tomcat 9.0.0.M22 (alpha)** - For Aware IM v6.0+](http://tomcat.apache.org/) - Jun 21 2017. Tomcat 9.0 is designed to run on Java SE 8 and later.
-    + [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one. 
+    + :heavy_check_mark: [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one. 
       + [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
       + **Installation** with Aware IM 
         + Windows Based Systems 
@@ -221,10 +221,11 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           + **Prerequisite**
             + [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms. 
         + [**MySQL Community Server 5.5.57**](https://dev.mysql.com/downloads/mysql/5.5.html) - 17 July 2017.
-    + [**MySQL Connectors**](https://www.mysql.com/products/connector/) 
+    + [**MySQL Connectors**](https://www.mysql.com/products/connector/) - Update :grey_exclamation:**UPDATE HIGHLY RECOMMENDED**:grey_exclamation:
     > By default, a very old version of Connector/J JDBC driver (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation. JDBC driver communicates with MySQL servers.
-      + [Connector/J 8.0 Development Release](https://dev.mysql.com/downloads/connector/j/8.0.html) - Pre-General Availability Draft: 2017-07-18. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
-      + [**Connector/J 5.1.x**](https://dev.mysql.com/downloads/connector/j/) - :grey_exclamation:**UPDATE HIGHLY RECOMMENDED**:grey_exclamation:. **Latest version v5.1.42** 28 April 2017 - Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.     
+      + [*Connector/J 8.0* Development Release](https://dev.mysql.com/downloads/connector/j/8.0.html) - Pre-General Availability Draft: 2017-07-18. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
+        + :heavy_check_mark: Tested and using with Aware IM 6.0 on Tomcat 9.x. 
+      + [**Connector/J 5.1.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.42** 28 April 2017 - Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.     
         + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest **Platform Independent** version. 
         + [Changes and Release Notes](https://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
         + [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
