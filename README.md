@@ -224,7 +224,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**MySQL Connectors**](https://www.mysql.com/products/connector/) - Update :grey_exclamation:**UPDATE HIGHLY RECOMMENDED**:grey_exclamation:
     > By default, a very old version of Connector/J JDBC driver (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation. JDBC driver communicates with MySQL servers.
       + [**Connector/J 8.0** Development Release](https://dev.mysql.com/downloads/connector/j/8.0.html) - Pre-General Availability Draft: 2017-07-18. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
-        + :heavy_check_mark: Tested and using with Aware IM 6.0 on Tomcat 9.x. 
+        + :heavy_check_mark: Tested and using with Aware IM 6.0 on Tomcat 9.x.  
       + [**Connector/J 5.1.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.42** 28 April 2017 - Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.     
         + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest **Platform Independent** version. 
         + [Changes and Release Notes](https://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
@@ -246,7 +246,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 #### **Web Application Framework** - HTML5/JS Framework
   + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization. 
-    + [Release History](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
+    + [**Roadmap**](http://www.telerik.com/support/whats-new/kendo-ui/roadmap) 
+    + [**Release History**](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
       + Latest Kendo UI Release [**Kendo UI R2 2017 SP1**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2017-sp1) - June 21, 2017  
       + Current **Aware IM** Kendo UI version [**Kendo UI Q1 2016**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016 _(Updated version of Kendo UI to be released with Aware IM 8.1)_
     + [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
