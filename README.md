@@ -183,7 +183,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
   + **Java™ SE Development Kit (JDK)**
-    + [Version 8, Update 141 (JDK 8u141)](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - July 18, 2017. Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
+    + [Version 8, Update 141 (JDK 8u144)](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - July 26, 2017. Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
       + [JDK 8 Update Release Notes](http://www.oracle.com/technetwork/java/javase/8u-relnotes-2225394.html) 
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
