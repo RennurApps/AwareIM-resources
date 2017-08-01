@@ -194,8 +194,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + ActiveMQ 5.13.x (AMQ-6154) [ActiveMQ with websocket on Tomcat fails](https://issues.apache.org/jira/browse/AMQ-6154) - Description: After updating to ActiveMQ 5.13.0 embedded ActiveMQ fails to start on Tomcat (was fine with 5.12.1).  
       + [**Configuration issues for Tomcat 7 and later**](http://activemq.apache.org/tomcat.html) 
     + **Releases**:
-      - [ ] [5.15.0 Release](http://activemq.apache.org/activemq-5150-release.html) - **Untested - See 5.13.x**
-        + The minimum Java version has been upgraded to Java 8.
+      - [ ] [5.15.0 Release](http://activemq.apache.org/activemq-5150-release.html) - Tested on 01/08/2017, Result: **Fail** - See 5.13.x**
+        + Aware IM **Server Output**: `ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from content. Serializable class not available to broker. Reason: java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes. [java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes.]]`
       - [ ] [5.14.5 Release](http://activemq.apache.org/activemq-5145-release.html) - **Untested - See 5.13.x**
       - [ ] [5.13.x Release](http://activemq.apache.org/activemq-5130-release.html) - Tested with Tomcat 9. **Server starts but the application will not load**
       - [x] [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - :+1: **Tested and working with Tomcat 8 & 9**. 
