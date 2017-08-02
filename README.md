@@ -8,7 +8,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [Version History](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
       + :soon: Aware IM v8.0 - Beta release available to existing customers. Full release mid 2017.
-        + [Version 8.0](https://www.youtube.com/watch?v=NHvKFZHhADg) - Overview of the new Aware IM version 8.0 (Jun 28, 2017)
+        + [Version 8.0 Overview - Youtube video](https://www.youtube.com/watch?v=NHvKFZHhADg) - Overview of the new Aware IM version 8.0 (Jun 28, 2017)
       + :heavy_check_mark: **Currently v7.1** - Builds 2223+
         + [Aware IM 7.1 released](http://www.awareim.com/aware-im-7-1-released/) - September 6, 2016 
       + **v7.0** - Builds 2144-2181
@@ -207,7 +207,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       - [x] [5.11.x Release](http://activemq.apache.org/activemq-5112-release.html) 
       - [x] [5.10.x Release](http://activemq.apache.org/activemq-5101-release.html) 
       - [x] [5.9.0 Release](http://activemq.apache.org/activemq-590-release.html) 
-        + Critical bug fix that cause system to become unresponsive. 
+        + Critical bug fix that causes system to become unresponsive. 
       - [x] [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server insatallation.
   
   + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.32**. 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition. 
