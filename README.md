@@ -188,16 +188,17 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
-  + [**Apache ActiveMQ**](http://activemq.apache.org/)
-    > ActiveMQ v5.8.0 installed by default. 
+  + [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server.  
+    > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ 5.8.0 (06/02/2013) as part of its core server library. 
+    > Latest working version is **`5.12.1`**. 
     + **Issues**
       + ActiveMQ 5.13.x (AMQ-6154) [ActiveMQ with websocket on Tomcat fails](https://issues.apache.org/jira/browse/AMQ-6154) - Description: After updating to ActiveMQ 5.13.0 embedded ActiveMQ fails to start on Tomcat (was fine with 5.12.1).  
-      + [**ObjectMessage**](http://activemq.apache.org/objectmessage.html) - Changes starting with versions **`5.12.2`**+ causing issues with the Aware IM server. 
+      + [**ObjectMessage**](http://activemq.apache.org/objectmessage.html) - Changes starting with versions **`5.12.2`** and **`5.13.0`** causing issues with the Aware IM server. 
+        + Aware IM **Server Output** testing ActiveMQ v5.15.0: 
+          + `ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from content. Serializable class not available to broker. Reason: java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes. [java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes.]]`
       + [**Configuration issues for Tomcat 7 and later**](http://activemq.apache.org/tomcat.html) 
     + **Releases**:
       - [ ] [5.15.0 Release](http://activemq.apache.org/activemq-5150-release.html) - Tested on 01/08/2017, Result: **Fail** 
-        + Aware IM **Server Output**: 
-          + `ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from content. Serializable class not available to broker. Reason: java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes. [java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes.]]`
       - [ ] [5.14.5 Release](http://activemq.apache.org/activemq-5145-release.html) - **Untested - See 5.13.x**
       - [ ] [5.13.x Release](http://activemq.apache.org/activemq-5130-release.html) - Test **failed**. Application won't start.
       - [x] [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - :+1: **Tested and working with Tomcat 8 & 9**. 
