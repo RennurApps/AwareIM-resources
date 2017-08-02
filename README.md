@@ -189,7 +189,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
   + [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server.  
-    > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ 5.8.0 (06/02/2013) as part of its core server library. 
+    > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library. Version 5.8.0 contains many memory and system performance issues. 
     > Latest working version is **`5.12.1`**. 
     + **Issues**
       + ActiveMQ 5.13.x (AMQ-6154) [ActiveMQ with websocket on Tomcat fails](https://issues.apache.org/jira/browse/AMQ-6154) - Description: After updating to ActiveMQ 5.13.0 embedded ActiveMQ fails to start on Tomcat (was fine with 5.12.1).  
@@ -201,13 +201,14 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       - [ ] [5.15.0 Release](http://activemq.apache.org/activemq-5150-release.html) - Tested on 01/08/2017, Result: **Fail** 
       - [ ] [5.14.5 Release](http://activemq.apache.org/activemq-5145-release.html) - **Untested - See 5.13.x**
       - [ ] [5.13.x Release](http://activemq.apache.org/activemq-5130-release.html) - Test **failed**. Application won't start.
-      - [x] [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - :+1: **Tested and working with Tomcat 8 & 9**. 
+      - [x] [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - :+1: **Tested and working with Tomcat 6, 8 & 9**. Over 850 improvements and bug fixes since version 5.8.0. 
         + Installation (Always backup original files first)
         + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib 
       - [x] [5.11.x Release](http://activemq.apache.org/activemq-5112-release.html) 
       - [x] [5.10.x Release](http://activemq.apache.org/activemq-5101-release.html) 
       - [x] [5.9.0 Release](http://activemq.apache.org/activemq-590-release.html) 
-      - [x] [5.8.0 Release](http://activemq.apache.org/activemq-580-release.html) 
+        + Critical bug fix that cause system to become unresponsive. 
+      - [x] [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server insatallation.
   
   + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.32**. 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition. 
     + [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
