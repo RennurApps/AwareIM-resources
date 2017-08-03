@@ -208,7 +208,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       - [x] [5.10.x Release](http://activemq.apache.org/activemq-5101-release.html) 
       - [x] [5.9.0 Release](http://activemq.apache.org/activemq-590-release.html) 
         + Critical bug fix that causes system to become unresponsive. 
-      - [x] [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server insatallation.
+      - [x] [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server installation.
   
   + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.32**. 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition. 
     + [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
