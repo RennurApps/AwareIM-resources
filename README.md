@@ -90,7 +90,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [Getting Started (pdf)](https://www.awareim.com/wp-content/uploads/2017/08/GettingStarted.pdf)
       + [Mobile Applications Guide (pdf)](https://www.awareim.com/wp-content/uploads/2017/08/Mobile-Applications.pdf)  
       + [Rule Language (pdf)](https://www.awareim.com/wp-content/uploads/2017/08/RuleLanguage.pdf) - This document describes the Application Programming Interface (API) to the Aware IM software system.
-      + [Configuration Case Study](https://www.awareim.com/wp-content/uploads/2017/08/LibraryCaseStudy.pdf) - The purpose of this document is to show how to configure real world business applications using Aware IM. 
+      + [Configuration Case Study - Library Application](https://www.awareim.com/wp-content/uploads/2017/08/LibraryCaseStudy.pdf) - The purpose of this document is to show how to configure real world business applications using Aware IM. 
   + [**Sample Applications**](http://awareim.com/sample-applications/) - 
     + **Live web & mobile applications** - Also available out-of-the-box.
       + [CRM](http://www.awareim.com/crm/) 
