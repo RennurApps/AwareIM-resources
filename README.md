@@ -82,14 +82,15 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + **Version 5.6+**
       + [Import/Export Templates](http://awareim.com/tutorials/UDIT/UDIT.html)
   + [**Documentation**](http://awareim.com/documentation/) 
-      + [Quick Tour (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/QuickTour.pdf)
-      + [Installation Guide (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/InstallationGuide.pdf) 
-      + [User Guide (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/UserGuide.pdf)
-      + [How To (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/HowTo.pdf) - How to perform certain common tasks in Aware IM.
-      + [Programmer’s Reference (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/ProgrammersReference.pdf) -  Application Programming Interface (API) to the Aware IM software system. 
-      + [Getting Started (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/GettingStarted.pdf)
-      + [Mobile Applications Guide (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/Mobile-Applications.pdf)  
-      + [Rule Language (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/RuleLanguage.pdf) - 
+      + [Quick Tour (pdf)](https://www.awareim.com/wp-content/uploads/2017/08/QuickTour.pdf)
+      + [Installation Guide (pdf)](https://www.awareim.com/wp-content/uploads/2017/08/InstallationGuide.pdf) 
+      + [User Guide (pdf)](https://www.awareim.com/wp-content/uploads/2017/08/UserGuide.pdf)
+      + [How To (pdf)](https://www.awareim.com/wp-content/uploads/2017/08/HowTo.pdf) - How to perform certain common tasks in Aware IM.
+      + [Programmer’s Reference (pdf)](https://www.awareim.com/wp-content/uploads/2017/08/ProgrammersReference.pdf) -  Application Programming Interface (API) to the Aware IM software system. 
+      + [Getting Started (pdf)](https://www.awareim.com/wp-content/uploads/2017/08/GettingStarted.pdf)
+      + [Mobile Applications Guide (pdf)](https://www.awareim.com/wp-content/uploads/2017/08/Mobile-Applications.pdf)  
+      + [Rule Language (pdf)](https://www.awareim.com/wp-content/uploads/2017/08/RuleLanguage.pdf) - This document describes the Application Programming Interface (API) to the Aware IM software system.
+      + [Configuration Case Study](https://www.awareim.com/wp-content/uploads/2017/08/LibraryCaseStudy.pdf) - The purpose of this document is to show how to configure real world business applications using Aware IM. 
   + [**Sample Applications**](http://awareim.com/sample-applications/) - 
     + **Live web & mobile applications** - Also available out-of-the-box.
       + [CRM](http://www.awareim.com/crm/) 
