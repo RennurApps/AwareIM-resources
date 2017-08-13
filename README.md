@@ -147,7 +147,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 > Tomcat 6.0.35 32bit is the default version packaged in the **Aware IM 5.9** server installation.
 
-  + [**Tomcat 9.0.0.M22 (alpha)** - For Aware IM v6.0+](http://tomcat.apache.org/) - Jun 21 2017. Tomcat 9.0 is designed to run on Java SE 8 and later.
+  + [**Tomcat 9.0.0.M26 (alpha)** - For Aware IM v6.0+](http://tomcat.apache.org/) - Aug 2 2017. Tomcat 9.0 is designed to run on Java SE 8 and later.
     + :heavy_check_mark: [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one. 
       + [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
       + **Installation** with Aware IM 
@@ -165,7 +165,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - Jun 21 2017. **Latest version Tomcat v8.5.16** - Tomcat 8.5 requires Java SE 7 or later. 
+  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - Aug 2 2017. **Latest version Tomcat v8.5.20** - Tomcat 8.5 requires Java SE 7 or later. 
     + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.14)  
     + [**Migrating to v8.5.x**](https://tomcat.apache.org/migration-85.html) 
     + [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
@@ -175,7 +175,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**Migrating to v8.0.x**](https://tomcat.apache.org/migration-8.html)
     + [Tomcat 8.0.x Documentation](https://tomcat.apache.org/tomcat-8.0-doc/).
     + [Tomcat 8.0.x Changelog](https://tomcat.apache.org/tomcat-8.0-doc/changelog.html).
-  + [**Tomcat 6** - For Aware IM v5.9 Only](http://tomcat.apache.org/) - Apr 2 2017 **Latest version Tomcat 6.0.53**  
+  + [**Tomcat 6 (archived)** - For Aware IM v5.9 Only](http://tomcat.apache.org/) - Apr 2 2017 **Latest version Tomcat 6.0.53**  
     + [Download Tomcat **v6** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Tested & working.
       + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
       + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
@@ -278,8 +278,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 #### Front-end Framework 
   + **Bootstrap** - For Aware IM version 5.x & 6.x only; Aware IM 7.0 has bootstrap integrated as part of Kendo UI.
-    + [Bootstrap v4-alpha](http://v4-alpha.getbootstrap.com/) - Currently v4.0.0-alpha.6 - Not tested. some v3 features dropped.
-    + [**Bootstrap v3**](http://getbootstrap.com/) - Currently v3.3.7  
+    + [Bootstrap v4-beta](https://getbootstrap.com/) - Currently v4.0.0-beta - Not tested with AwareIM 6.0 or below. Some v3 features dropped.
+    + [**Bootstrap v3**](https://getbootstrap.com/docs/3.3/) - v3.3.7 (final).  
       + Integrating with Aware IM
         + Manual configuration through Startup.html
         + disable **`legend`** style with /* */ brackets as it seems to be in conflict with the ExtJS style
