@@ -176,9 +176,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [Tomcat 8.0.x Documentation](https://tomcat.apache.org/tomcat-8.0-doc/).
     + [Tomcat 8.0.x Changelog](https://tomcat.apache.org/tomcat-8.0-doc/changelog.html).
   + [**Tomcat 6 (archived)** - For Aware IM v5.9 Only](http://tomcat.apache.org/) - Apr 2 2017 **Latest version Tomcat 6.0.53**  
-    + [Download Tomcat **v6** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Download only. 64bit recommended. Tested & working.
-      + [Release Notes](http://tomcat.apache.org/tomcat-6.0-doc/RELEASE-NOTES.txt)
-      + [Changelog](http://tomcat.apache.org/tomcat-6.0-doc/changelog.html)
+    + [Download Tomcat **v6** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Support for Apache Tomcat 6.0.x has ended on 31 December 2016.
   + **Tomcat SSL/TLS Configuration HOW-TO**
     + [**v9.0**](http://tomcat.apache.org/tomcat-9.0-doc/ssl-howto.html)
     + [**v8.0**](http://tomcat.apache.org/tomcat-8.0-doc/ssl-howto.html)
