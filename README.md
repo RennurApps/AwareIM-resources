@@ -232,7 +232,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + [x] Tested and using with Aware IM 6.0 on Tomcat 9.x. For installation see version 5.1.x.
         + [ ] Not working with Aware IM 8.0
       + [**Connector/J 5.1.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.43** 21 July 2017 - Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.     
-        + [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest **Platform Independent** version. 
+        + :heavy_check_mark: [**Download**](http://dev.mysql.com/downloads/connector/j/) - Download the latest **Platform Independent** version. 
         + [Changes and Release Notes](https://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
         + [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
         + **Installation**
