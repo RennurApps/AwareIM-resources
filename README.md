@@ -239,8 +239,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
               3. Copy and replace the existing file in `C:\AwareIM\Tomcat\lib`
               4. Restart AwareIM Server Control Panel
        + [**Connector/J 8.0** Development Release](https://dev.mysql.com/downloads/connector/j/8.0.html) - Pre-General Availability Draft: 2017-07-18. **Latest version v8.0.07** 10 July 2017. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
-        + [x] Tested and using with Aware IM 6.0 on Tomcat 9.x. For installation see version 5.1.x.
-        + [ ] Not working with Aware IM 8.0
+          + [x] Tested and using with Aware IM 6.0 on Tomcat 9.x. For installation see version 5.1.x.
+          + [ ] Not working with Aware IM 8.0
   + **Apache Derby** - [Home](http://db.apache.org/derby/)
     + [**Apache Derby 10.13.1.1**](https://db.apache.org/derby/releases/release-10.13.1.1.cgi) - (October 25, 2016)
       + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib
