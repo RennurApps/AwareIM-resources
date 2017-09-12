@@ -193,6 +193,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     > Latest working version is **`5.12.1`**. 
     + **Vulnerabilities** 
       + [**Vulnerability Details : CVE-2015-5254**](https://www.cvedetails.com/cve/CVE-2015-5254/) - Apache ActiveMQ 5.x before **`5.13.0`** does not restrict the classes that can be serialized in the broker, which allows remote attackers to execute arbitrary code via a crafted serialized Java Message Service (JMS) ObjectMessage object.
+      + [
+[**Vulnerability Details : CVE-2014-3612**](https://www.cvedetails.com/cve/CVE-2014-3612/) - The LDAPLoginModule implementation in the Java Authentication and Authorization Service (JAAS) in Apache ActiveMQ 5.x before `**5.10.1**` allows remote attackers to bypass authentication by logging in with an empty password and valid username, which triggers an unauthenticated bind. NOTE: this identifier has been SPLIT per ADT2 due to different vulnerability types. See CVE-2015-6524 for the use of wildcard operators in usernames.
     + **Issues**
       + ActiveMQ 5.13.x+ (AMQ-6154) [**ActiveMQ with websocket on Tomcat fails**](https://issues.apache.org/jira/browse/AMQ-6154)
         * Description: After updating to ActiveMQ 5.13.0 embedded ActiveMQ fails to start on Tomcat (was fine with 5.12.1).  
