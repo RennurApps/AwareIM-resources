@@ -191,8 +191,10 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server.  
     > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library. Version 5.8.0 contains many memory and system performance issues. 
     > Latest working version is **`5.12.1`**. 
+    + **Vulnerabilities** 
+      + [**Vulnerability Details : CVE-2015-5254**](https://www.cvedetails.com/cve/CVE-2015-5254/) - Apache ActiveMQ 5.x before **`5.13.0`** does not restrict the classes that can be serialized in the broker, which allows remote attackers to execute arbitrary code via a crafted serialized Java Message Service (JMS) ObjectMessage object.
     + **Issues**
-      + ActiveMQ 5.13.x (AMQ-6154) [**ActiveMQ with websocket on Tomcat fails**](https://issues.apache.org/jira/browse/AMQ-6154)
+      + ActiveMQ 5.13.x+ (AMQ-6154) [**ActiveMQ with websocket on Tomcat fails**](https://issues.apache.org/jira/browse/AMQ-6154)
         * Description: After updating to ActiveMQ 5.13.0 embedded ActiveMQ fails to start on Tomcat (was fine with 5.12.1).  
       + [**ObjectMessage**](http://activemq.apache.org/objectmessage.html) - Changes starting with versions **`5.12.2`** and **`5.13.0`** causing issues with the Aware IM server. 
         + Aware IM **Server Output** testing ActiveMQ v5.15.0: 
