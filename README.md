@@ -199,8 +199,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [**ObjectMessage**](http://activemq.apache.org/objectmessage.html) - Changes starting with versions **`5.12.2`** and **`5.13.0`** causing issues with the Aware IM server. 
         + Aware IM **Server Output** testing ActiveMQ v5.15.0: 
           + `ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from content. Serializable class not available to broker. Reason: java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes. [java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes.]]` 
-            + -Dorg.apache.activemq.SERIALIZABLE_PACKAGES="java.lang,java.util,org.apache.activemq,org.openadaptor.dataobjects.SimpleDataObject"
-            + serializablePackages = System.getProperty("org.apache.activemq.SERIALIZABLE_PACKAGES","java.lang,javax.security,java.util,org.apache.activemq,org.openadaptor.dataobjects.SimpleDataObject")
+            + `-Dorg.apache.activemq.SERIALIZABLE_PACKAGES="java.lang,java.util,org.apache.activemq,org.openadaptor.dataobjects.SimpleDataObject"`
+            + `serializablePackages = System.getProperty("org.apache.activemq.SERIALIZABLE_PACKAGES","java.lang,javax.security,java.util,org.apache.activemq,org.openadaptor.dataobjects.SimpleDataObject")`
     + **Releases**:
       - [ ] [5.15.0 Release](http://activemq.apache.org/activemq-5150-release.html) - Tested on 01/08/2017, Result: **Fail** 
       - [ ] [5.14.5 Release](http://activemq.apache.org/activemq-5145-release.html) - **Untested - See 5.13.x**
