@@ -188,6 +188,9 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
+      + Default:
+        + Aware IM v8.x - JVM Version: 1.8.0_91-b15
+
   + [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server.  
     > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library. Version 5.8.0 contains many memory and system performance issues. 
     
