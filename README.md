@@ -210,13 +210,20 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       - [ ] [5.14.5 Release](http://activemq.apache.org/activemq-5145-release.html) - **Untested - See 5.13.x**
       - [ ] [5.13.x Release](http://activemq.apache.org/activemq-5130-release.html) - Test **failed**. Application won't start.
       - [x] [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - :+1: **Tested and working with Tomcat 6, 8 & 9**.  
+        - [x] Works with Aware IM `5.9`, `6.0`, `7.0`, `7.1` and up to **`8.0 build 2355`**
+          - For Aware IM `8.0 builds 2357`+ use the packaged ActiveMQ `5.8.0`. 
+            - The reason is that `build 5355` security fix prevents the use of later versions of ActiveMQ.
         + Installation (Always backup original files first)
         + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib 
       - [x] [5.11.x Release](http://activemq.apache.org/activemq-5112-release.html) 
+        - Up to **`8.0 build 2355`** only.
       - [x] [5.10.x Release](http://activemq.apache.org/activemq-5101-release.html) 
+        - Up to **`8.0 build 2355`** only.
       - [x] [5.9.0 Release](http://activemq.apache.org/activemq-590-release.html) 
+        + Up to **`8.0 build 2355`** only. 
         + Critical bug fix that causes system to become unresponsive. 
       - [x] [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server installation.
+        - Required for Aware IM versions `8.0 build 5357`+ 
   
   + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.33**. 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition. 
     + [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
