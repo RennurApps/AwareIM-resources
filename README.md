@@ -182,14 +182,14 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**v8.0**](http://tomcat.apache.org/tomcat-8.0-doc/ssl-howto.html)
     + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
-  + **Java™ SE Development Kit (JDK)**
-    + [Version 8, Update 144 (JDK 8u144)](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - July 26, 2017. Download and install. 64bit JDK recommended. JDK version bundled with the default installation is unknown. Java claims increase in performance with v8+.
-      + [JDK 8 Update Release Notes](http://www.oracle.com/technetwork/java/javase/8u-relnotes-2225394.html) 
+  + **Java SE Development Kit (JDK)**
+    + [Version 9](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - September, 2017. Download and install. 64bit JDK recommended.
+      + [JDK 9 Documentation](http://www.oracle.com/technetwork/java/javase/9-relnotes-3622618.html) 
       + **Aware IM JDK Installation**
         + **On Windows**, after the install, replace the contents of c:\AwareIM\JDK folder with the new JDK usually installed in the c:\Program Files\Java folder.
         + Replace the C:\AwareIM\Tomcat\lib\tools.jar with the new JDK tools.jar 
       + Default:
-        + Aware IM v8.x - JVM Version: 1.8.0_91-b15
+        + Aware IM v8.0+ - JVM Version: 1.8.0_91-b15
 
   + [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server.  
     > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library. Version 5.8.0 contains many memory and system performance issues. 
