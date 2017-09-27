@@ -103,12 +103,6 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + [Library Case Study (pdf)](http://www.awareim.com/wp-content/uploads/2016/09/LibraryCaseStudy.pdf)
       + [Photo Album](http://www.awareim.com/sample-apps/sample_photoalbum.html)
 
-    + **More sample applications available out-of-the-box**
-      + Customer Support app
-      + Greetings List app
-      + Project Management 
-      + Simplified CRM
-
 #### Integrations, custom components, connectors and plugins 
   + Any application offering an API for developers makes it possible to integrate with Aware IM by writing a plugin.
     + **Business Intelligence** 
