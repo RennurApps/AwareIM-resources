@@ -206,7 +206,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       - [x] [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - :+1: **Tested and working with Tomcat 6, 8 & 9**.  
         - [x] Works with Aware IM `5.9`, `6.0`, `7.0`, `7.1` and up to **`8.0 build 2355`**
           - For Aware IM `8.0 builds 2357`+ use the packaged ActiveMQ `5.8.0`. 
-            - The reason is that `build 5355` security fix prevents the use of later versions of ActiveMQ.
+            - The reason is that `build 5357` security fix prevents the use of later versions of ActiveMQ.
         + Installation (Always backup original files first)
         + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib 
       - [x] [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server installation.
