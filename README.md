@@ -141,7 +141,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 > Tomcat 6.0.35 32bit is the default version packaged in the **Aware IM 5.9** server installation.
 
-  + [**Tomcat 9.0.0.M26 (alpha)** - For Aware IM v6.0+](http://tomcat.apache.org/) - Aug 2 2017. Tomcat 9.0 is designed to run on Java SE 8 and later.
+  + [**Tomcat 9.0.1** - For Aware IM v6.0+](http://tomcat.apache.org/) - Sep 27, 2017. Tomcat 9 is designed to run on **`Java SE 8`** or later.
     + :heavy_check_mark: [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one. 
       + [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
       + **Installation** with Aware IM 
@@ -159,12 +159,12 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - Aug 2 2017. **Latest version Tomcat v8.5.20** - Tomcat 8.5 requires Java SE 7 or later. 
-    + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.20)  
+  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - Sep 28, 2017. **Latest version Tomcat v8.5.23** - Tomcat 8.5 requires **`Java SE 7`** or later. 
+    + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.23)  
     + [**Migrating to v8.5.x**](https://tomcat.apache.org/migration-85.html) 
     + [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
     + [Tomcat 8.5x Changelog](https://tomcat.apache.org/tomcat-8.5-doc/changelog.html)   
-  + [**Tomcat 8.0.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - Aug 10 2017. **Latest version Tomcat v8.0.46** - Tomcat 8.0 requires Java SE 7 or later. 
+  + [**Tomcat 8.0.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - Aug 10, 2017. **Latest version Tomcat v8.0.46** - Tomcat 8.0 requires Java SE 7 or later. 
     + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.0.46) - 64bit recommended. Manual Install. **Tested and working**.
     + [**Migrating to v8.0.x**](https://tomcat.apache.org/migration-8.html)
     + [Tomcat 8.0.x Documentation](https://tomcat.apache.org/tomcat-8.0-doc/).
@@ -187,8 +187,6 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
   + [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server.  
     > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library. Version 5.8.0 contains many memory and system performance issues. 
-    
-    > Latest working version is **`5.12.1`**. 
     
     > <!-- **NOTE**: Aware IM **v8.0 build 2357+** installations must use the bundled ActiveMQ **`v5.8.0`** due to recent security fixes. Aware IM server will not work with any version of ActiveMQ newer than `5.8.0`. -->
     + **Vulnerabilities** - Apache ActiveMQ `5.12.1` and `older versions`. 
@@ -303,7 +301,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   * **Electronic Signature Capture** - For Aware IM 5.9+ 
      + [**Signature Pad**](https://github.com/szimek/signature_pad) - Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers. 
       + [**DEMO**](http://szimek.github.io/signature_pad/) 
-      + [**Signature Pad v2.3.1**](https://github.com/RennurApps/AwareIM-resources/tree/master/Signature) - Sep, 2017. Untested. 
+      + [**Signature Pad v2.3.2**](https://github.com/RennurApps/AwareIM-resources/tree/master/Signature) - Sep, 2017. Untested. 
       + [:heavy_check_mark: **Signature Pad v1.5.3**](https://github.com/RennurApps/AwareIM-resources/tree/master/Signature) - Tested and working in all versions 5.9+ 
       + **Installation**: 
         + Get the desired version from [**here**](https://github.com/RennurApps/AwareIM-resources/tree/master/Signature) or [**here**](http://szimek.github.io/signature_pad/)
