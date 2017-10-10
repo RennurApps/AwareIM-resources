@@ -188,7 +188,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server.  
     > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library. 
     
-    > <!-- **NOTE**: Aware IM **v8.0 build 2357+** installations must use the bundled ActiveMQ **`v5.8.0`** due to recent security fixes. Aware IM server will not work with any version of ActiveMQ newer than `5.8.0`. -->
+    > Latest working version of ActiveMQ is `5.12.1`. 
     + **Vulnerabilities** - Apache ActiveMQ `5.12.1` and `older versions`. 
       + [**Vulnerability Details : CVE-2015-5254**](https://www.cvedetails.com/cve/CVE-2015-5254/) - Apache ActiveMQ 5.x before **`5.13.0`** does not restrict the classes that can be serialized in the broker, which allows remote attackers to execute arbitrary code via a crafted serialized Java Message Service (JMS) ObjectMessage object.
         + [https://issues.apache.org/jira/browse/AMQ-6013](https://issues.apache.org/jira/browse/AMQ-6013)
@@ -198,16 +198,16 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + Aware IM **Server Output** testing ActiveMQ v5.15.0: 
           + `ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from content. Serializable class not available to broker. Reason: java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes. [java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes.]]` 
     + **Releases**:
-      - [ ] [5.15.0 Release](http://activemq.apache.org/activemq-5150-release.html) - Tested on 01/08/2017, Result: **Fail** 
-      - [ ] [5.14.5 Release](http://activemq.apache.org/activemq-5145-release.html) - **Untested - See 5.13.x**
-      - [ ] [5.13.x Release](http://activemq.apache.org/activemq-5130-release.html) - Test **failed**. Application won't start.
+      - [ ] [5.15.0 Release](http://activemq.apache.org/activemq-5150-release.html) - Tested on 01/08/2017, Result: **Fail**, **ObjectMessage* error.
+      - [ ] [5.14.5 Release](http://activemq.apache.org/activemq-5145-release.html) 
+      - [ ] [5.13.x Release](http://activemq.apache.org/activemq-5130-release.html) - 
       - [x] [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - :+1: **Tested and working with Tomcat 6, 8 & 9**.  
-<!--        - [x] Works with Aware IM `5.9`, `6.0`, `7.0`, `7.1` and up to **`8.0 build 2355`** -->
-<!--          - For Aware IM `8.0 builds 2357`+ use the packaged ActiveMQ `5.8.0`. -->
-<!--            - The reason is that `build 5357` security fix prevents the use of later versions of ActiveMQ. -->
         + Installation
           + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib 
       - [x] [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server installation.
+<!--        - [x] Works with Aware IM `5.9`, `6.0`, `7.0`, `7.1` and up to **`8.0 build 2355`** -->
+<!--          - For Aware IM `8.0 builds 2357`+ use the packaged ActiveMQ `5.8.0`. -->
+<!--            - The reason is that `build 5357` security fix prevents the use of later versions of ActiveMQ. -->
 <!--        - Required for Aware IM versions `8.0 build 5357`+ -->
   
   + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.33**. 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition. 
