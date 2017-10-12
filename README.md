@@ -4,7 +4,7 @@
 Written in 100% Java programming language. Aware IM is based on the plethora of Java technologies such as J2EE application server, JDBC, JMS, JSP/servlets technology, web services etc. These are robust technologies that have been proven in the industry.
   + [Home Page](http://www.awareim.com/)
   + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms.
-    + [**Currently v8.0 build 2360**](http://www.awareim.com/changelog/Readme2360.txt) - 5 Oct, 2017.
+    + [**Currently v8.0 build 2361**](http://www.awareim.com/changelog/Readme2361.txt) - 12 Oct, 2017.
   + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com**
   + [**Version History**](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
       + :heavy_check_mark: **Currently v8.0** - Builds 2341+ 
@@ -216,14 +216,14 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        + [**MySQL Community Server 5.7.19**](http://dev.mysql.com/downloads/mysql/) - 17 July 2017.
+        + [x] [**MySQL Community Server 5.7.19**](http://dev.mysql.com/downloads/mysql/) - 17 July 2017.
           + **Prerequisite**
             + [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) - 
  MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
-        + [**MySQL Community Server 5.6.37**](https://dev.mysql.com/downloads/mysql/5.6.html) - 17 July 2017.
+        + [x] [**MySQL Community Server 5.6.37**](https://dev.mysql.com/downloads/mysql/5.6.html) - 17 July 2017.
           + **Prerequisite**
             + [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms. 
-        + [**MySQL Community Server 5.5.57**](https://dev.mysql.com/downloads/mysql/5.5.html) - 17 July 2017.
+        + [x] [**MySQL Community Server 5.5.57**](https://dev.mysql.com/downloads/mysql/5.5.html) - 17 July 2017.
     + [**MySQL Connectors**](https://www.mysql.com/products/connector/) - :grey_exclamation:**UPDATE HIGHLY RECOMMENDED**:grey_exclamation: 
     > By default, a very old version of Connector/J JDBC driver (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation. JDBC driver communicates with MySQL servers.
        + :heavy_check_mark: [**Connector/J 5.1.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.44** 30 August 2017 - Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.     
