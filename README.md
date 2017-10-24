@@ -242,6 +242,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           + [ ] Not working with Aware IM 8.0
   + **Apache Derby** - [Home](http://db.apache.org/derby/)
   > Apache Derby is a subproject of the Apache DB project. Derby is a pure Java relational database engine which conforms to the ISO/ANSI SQL and JDBC standards. Derby aims to be easy for developers and end-users to work with.
+  
     + **For Java 8 and Higher**
       + [**Apache Derby 10.14.1.0**](https://db.apache.org/derby/releases/release-10.14.1.0.cgi) - (October 22, 2017)
         + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib
