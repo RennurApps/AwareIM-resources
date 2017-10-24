@@ -241,10 +241,15 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           + [x] Tested and using with Aware IM 6.0 on Tomcat 9.x. For installation see version 5.1.x.
           + [ ] Not working with Aware IM 8.0
   + **Apache Derby** - [Home](http://db.apache.org/derby/)
-    + [**Apache Derby 10.13.1.1**](https://db.apache.org/derby/releases/release-10.13.1.1.cgi) - (October 25, 2016)
-      + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib
-    + [Apache Derby 10.12.1.1](https://db.apache.org/derby/releases/release-10.12.1.1.cgi) - (October 11, 2015)
-    + [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
+  > Apache Derby is a subproject of the Apache DB project. Derby is a pure Java relational database engine which conforms to the ISO/ANSI SQL and JDBC standards. Derby aims to be easy for developers and end-users to work with.
+    + **For Java 8 and Higher**
+      + [**Apache Derby 10.14.1.0**](https://db.apache.org/derby/releases/release-10.14.1.0.cgi) - (October 22, 2017)
+        + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib
+      + [Apache Derby 10.13.1.1](https://db.apache.org/derby/releases/release-10.13.1.1.cgi) - (October 25, 2016)
+    + **For Java 6 and Higher** 
+      + [Apache Derby 10.12.1.1](https://db.apache.org/derby/releases/release-10.12.1.1.cgi) - (October 11, 2015)
+      + [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
+    + Downloads [http://db.apache.org/derby/derby_downloads.html](http://db.apache.org/derby/derby_downloads.html)
 
 #### **End-to-End Solutions**
   + [**Telerik Platform**](http://www.telerik.com/) - **Aware IM v7.0+**. Complete cross-platform solution to design, build, deploy, manage, and measure all your mobile apps. 2.1+ million developers.
