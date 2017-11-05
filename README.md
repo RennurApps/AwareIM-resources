@@ -199,7 +199,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + Aware IM **Server Output** testing ActiveMQ v5.15.0: 
           + `ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from content. Serializable class not available to broker. Reason: java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes. [java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes.]]` 
     + **Releases**:
-      - [ ] [5.15.1 Release](http://activemq.apache.org/activemq-5151-release.html) - **ObjectMessage** error. `Java 8` Required. 
+      - [ ] [5.15.2 Release](http://activemq.apache.org/activemq-5152-release.html) - 23 Oct, 2017. **ObjectMessage** error. `Java 8` Required. 
         - This release affects applications using ObjectMessages. Please refer to http://activemq.apache.org/objectmessage.html and [**AMQ-6013**](https://issues.apache.org/jira/browse/AMQ-6013) for more information.
       - [x] [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - :+1: **Tested and working with Tomcat 6, 8 & 9**.  
         + Installation
