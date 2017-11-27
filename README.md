@@ -244,7 +244,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 #### **End-to-End Solutions**
   + [**Telerik Platform**](http://www.telerik.com/) - Complete cross-platform solution to design, build, deploy, manage, and measure all your mobile apps. 
-      + As of **November 10, 2017**, feature development for the product has been discontinued. The Telerik platform is being retired. Kendo UI is not affected. 
+      + As of **November 10, 2017**, feature development for the product has been discontinued. The [**Telerik platform is being retired**](https://www.telerik.com/platform-next-level). Kendo UI is not affected. 
 
 #### **Web Application Framework** - HTML5/JS Framework
   + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization. 
