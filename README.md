@@ -32,19 +32,14 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**Video Tutorials**](http://www.awareim.com/video-tutorials/) - Highly Recommended
     + [**Aware IM Youtube channel**](https://www.youtube.com/user/awareim1/featured) - Latest Aware IM version 8.0 video tutorials. 
     + **Version 7.1**
-<!--      + [**Access to camera and photo library**](https://www.youtube.com/watch?v=XUQ-2NBItoI) - Access camera and photo library in your native mobile applications directly from Aware IM processes and put the resulting image into an attribute of a business object. -->
       + [**Push notifications**](https://www.youtube.com/watch?v=hSEIFSTg0kI) - Send push notifications to Android and iOS devices from your native mobile applications. 
-<!--      + [**Current user location (geolocation)**](https://www.youtube.com/watch?v=XUQ-2NBItoI&t=5m45s) - Retrieve and trace location of the user and see the results on Google Maps. -->
       + [**Form and grid styles**](https://www.youtube.com/watch?v=dW8vmJ-6HzI) - Be more efficient when defining your forms and queries – create form and grid styles and reuse them easily.
-<!--      + [**Implementing Cascading Drop Downs in Aware IM**](https://www.youtube.com/watch?v=bF3zG3wDRsk) - Create powerful web database applications quickly. This video tutorial explains how to create cascading drop downs in Aware IM -->
       + [**Using AutoRefresh Feature in Aware IM**](https://www.youtube.com/watch?v=uaxst4z9mzU) - This video tutorial explains how to use the "automatic refresh" feature in Aware IM.
     + **Version 7.0+** - New modern and professional look and feel with aroung 15 new features.
       + [**Fast web application builder mobile and desktop**](https://www.youtube.com/watch?v=p5Q-YYAd6Fs)
-<!--      + [**Mobile web application development**](https://youtu.be/Gte6vbvAYsg) -->
       + [**Development of responsive web applications**](https://youtu.be/6_yJj4Xy6bU)
       + [**Builder for online and offline web applications**](https://youtu.be/xd3DQrHXGBs)  
       + [*Using Javascript and HTML in Aware IM**](https://www.youtube.com/watch?v=A82fCezQK_g)
-<!--      + [**Powerful web application builder**](https://youtu.be/A82fCezQK_g) Wrong Link -->
     + **Version 6.0+**
       + [**What's New in 6.0**](https://youtu.be/wFiawWrZxGQ) - **Video tutorial**
     + **Version 5.9+**
