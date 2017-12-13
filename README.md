@@ -2,7 +2,7 @@
 > Aware IM is a rapid application development tool that lets you create powerful aesthetically appealing web applications quickly. Here you'll find a growing list of Aware IM developer tools, tips, news and resources. 
 
 ### News
-> The creators of **Kendo UI**, Progress Software has been recognized by Gartner as a Leader in the 2017 Gartner Magic Quadrant for Mobile Application Development Platforms (MADP). **Kendo UI** is the HTML5/JS Framework that powers Aware IM created web and mobile apps. [**Read more**](https://www.progress.com/campaigns/progress-named-a-leader-in-gartner-magic-quadrant-2017)
+> The creators of **Kendo UI**, Progress Software have been recognized by Gartner as a Leader in the 2017 Gartner Magic Quadrant for Mobile Application Development Platforms (MADP). **Kendo UI** is the HTML5/JS Framework that powers Aware IM created web and mobile apps. [**Read more**](https://www.progress.com/campaigns/progress-named-a-leader-in-gartner-magic-quadrant-2017)
 
   + [**Service & support**](https://rennurapps.freshservice.com/support/home) 
 #### Software
