@@ -171,11 +171,12 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
   + **Java SE Development Kit (JDK)**
     + **Java™ SE Development Kit (JDK)**
-      + [x] [**Version 8**, Update 151 (JDK 8u151)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - October 17, 2017. Download and install. 64bit JDK recommended. Java claims increase in performance with v8+.
+      + [x] [**Version 8**, Update 161 (JDK 8u161)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - January 16, 2018. Download and install. 64bit JDK recommended. 
         + [JDK 8 Update Release Notes](http://www.oracle.com/technetwork/java/javase/8u-relnotes-2225394.html)
-      + [ ] [Version 9, (JDK 9.0.1)](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - September, 2017. As it stands, the key changes in JDK 9 make it incompatible with all versions of Aware IM. 
+          + [Java™ SE Development Kit 8, Update 161 (JDK 8u161) Release Notes](http://www.oracle.com/technetwork/java/javase/8u161-relnotes-4021379.html) - 
+      + [ ] [Version 9](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Launchded September, 2017. As it stands, the key changes in JDK 9 make it incompatible with all versions of Aware IM. 
         + tools.jar has been removed
-      + Default:
+      + Default Aware IM packaged version:
         + Aware IM v8.0+ - JVM Version: 1.8.0_91-b15
 
   + [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server.  
@@ -209,14 +210,14 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        + [x] [**MySQL Community Server 5.7.20**](http://dev.mysql.com/downloads/mysql/) - 16 October 2017.
+        + [x] [**MySQL Community Server 5.7.21**](http://dev.mysql.com/downloads/mysql/) - 15 January 2018.
           + **Prerequisite**
             + [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) - 
  MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
-        + [x] [**MySQL Community Server 5.6.38**](https://dev.mysql.com/downloads/mysql/5.6.html) - 16 October 2017.
+        + [x] [**MySQL Community Server 5.6.39**](https://dev.mysql.com/downloads/mysql/5.6.html) - 15 January 2018.
           + **Prerequisite**
             + [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms. 
-        + [x] [**MySQL Community Server 5.5.58**](https://dev.mysql.com/downloads/mysql/5.5.html) - 16 October 2017.
+        + [x] [**MySQL Community Server 5.5.59**](https://dev.mysql.com/downloads/mysql/5.5.html) - 15 January 2018.
     + [**MySQL Connectors**](https://www.mysql.com/products/connector/) - :grey_exclamation:**UPDATE HIGHLY RECOMMENDED**:grey_exclamation: 
     > By default, a very old version of Connector/J JDBC driver (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation. JDBC driver communicates with MySQL servers.
        + :heavy_check_mark: [**Connector/J 5.1.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version v5.1.45**, 30 November 2017. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.     
