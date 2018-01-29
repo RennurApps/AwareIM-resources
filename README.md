@@ -137,7 +137,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 > Tomcat 6.0.35 32bit is the default version packaged in the **Aware IM 5.9** server installation.
 
-  + [**Tomcat 9.0.2** - For Aware IM v6.0+](http://tomcat.apache.org/) - Nov 25, 2017. Tomcat 9 is designed to run on **`Java SE 8`** or later.
+  + [**Tomcat 9.0.4** - For Aware IM v6.0+](http://tomcat.apache.org/) - Jan 18, 2018. Tomcat 9 is designed to run on **`Java SE 8`** or later.
     + :heavy_check_mark: [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one. 
       + [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
       + **Installation** with Aware IM 
@@ -155,18 +155,18 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - Nov 27, 2017. **Latest version Tomcat v8.5.24** - Tomcat 8.5 requires **`Java SE 7`** or later. 
-    + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.24)  
+  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - Jan 18, 2018. **Latest version Tomcat v8.5.27** - Tomcat 8.5 requires **`Java SE 7`** or later. 
+    + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.27)  
     + [**Migrating to v8.5.x**](https://tomcat.apache.org/migration-85.html) 
     + [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
     + [Tomcat 8.5x Changelog](https://tomcat.apache.org/tomcat-8.5-doc/changelog.html)   
-  + [**Tomcat 8.0.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - Nov 30, 2017. **Latest version Tomcat v8.0.48** - Tomcat 8.0 requires Java SE 7 or later. 
-    + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.0.48) - 64bit recommended. Manual Install. **Tested and working**.
+  + [**Tomcat 8.0.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - Jan 19, 2018. **Latest version Tomcat v8.0.49** - Tomcat 8.0 requires Java SE 7 or later. 
+    + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.0.49) - 64bit recommended. Manual Install. **Tested and working**.
     + [**Migrating to v8.0.x**](https://tomcat.apache.org/migration-8.html)
     + [Tomcat 8.0.x Documentation](https://tomcat.apache.org/tomcat-8.0-doc/).
     + [Tomcat 8.0.x Changelog](https://tomcat.apache.org/tomcat-8.0-doc/changelog.html).
   + [**Tomcat 6 (archived)** - For Aware IM v5.9 Only](http://tomcat.apache.org/) - Apr 2 2017 **Latest version Tomcat 6.0.53**  
-    + [Download Tomcat **v6** - Aware IM v5.9 Only](http://tomcat.apache.org/download-60.cgi) - Support for Apache Tomcat 6.0.x has ended on 31 December 2016.
+    + [Download Tomcat **v6** - Aware IM v5.9 Only](https://archive.apache.org/dist/tomcat/tomcat-6/v6.0.53/) - Support for Apache Tomcat 6.0.x has ended on 31 December 2016.
   + **Tomcat SSL/TLS Configuration HOW-TO**
     + [**v9.0**](http://tomcat.apache.org/tomcat-9.0-doc/ssl-howto.html)
     + [**v8.0**](http://tomcat.apache.org/tomcat-8.0-doc/ssl-howto.html)
