@@ -195,7 +195,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + Aware IM **Server Output** testing ActiveMQ v5.15.0: 
           + `ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from content. Serializable class not available to broker. Reason: java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes. [java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes.]]` 
     + **Releases**:
-      - [ ] [5.15.2 Release](http://activemq.apache.org/activemq-5152-release.html) - 23 Oct, 2017. **ObjectMessage** error. `Java 8` Required. 
+      - [ ] [5.15.3 Release](http://activemq.apache.org/activemq-5153-release.html) - 2018. **ObjectMessage** error. `Java 8` Required. 
         - This release affects applications using ObjectMessages. Please refer to http://activemq.apache.org/objectmessage.html and [**AMQ-6013**](https://issues.apache.org/jira/browse/AMQ-6013) for more information.
       - [x] [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - :+1: **Tested and working with Tomcat 6, 8 & 9**.  
         + Installation
@@ -254,8 +254,9 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization. 
     + [**Roadmap**](http://www.telerik.com/support/whats-new/kendo-ui/roadmap) 
     + [**Release History**](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
-      + Latest Kendo UI Release [**Kendo UI R3 2017 SP2**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017-sp2) - October 26, 2017  
-      + Current **Aware IM** Kendo UI version [**Kendo UI Q1 2016**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016 _(Updated version of Kendo UI to be released with Aware IM 8.1)_
+      + Latest Kendo UI Release [**Kendo UI R1 2018**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2018) - Jauary 17, 2018  
+      + Current **Aware IM** Kendo UI version [**Kendo UI Q1 2016**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016 
+        + _(Updated version of Kendo UI to be released with Aware IM 8.1)_
     + [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
     + 70+ jQuery-based UI widgets in one powerful toolset.
     + AngularJS integration, Bootstrap support, mobile controls, offline data solution.
