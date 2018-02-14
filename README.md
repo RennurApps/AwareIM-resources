@@ -279,6 +279,9 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + **Bootstrap** - For Aware IM version 5.x & 6.x only; Aware IM 7.0 has bootstrap integrated as part of Kendo UI.
     + [Bootstrap v4](https://getbootstrap.com/) - Currently v**4.0.0** - Not tested with AwareIM 6.0 or below. Some v3 features dropped.
       + [**Download**](https://getbootstrap.com/docs/4.0/getting-started/download/)
+      + [**BootstrapCDN**](https://getbootstrap.com/docs/4.0/getting-started/download/#bootstrapcdn) - Cached version of Bootstrap’s compiled CSS and JS.
+        + `<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>`
     + [**Bootstrap v3**](https://getbootstrap.com/docs/3.3/) - v3.3.7 (final).  
       + Integrating with Aware IM
         + Manual configuration through Startup.html
