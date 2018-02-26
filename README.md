@@ -254,7 +254,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization. 
     + [**Roadmap**](http://www.telerik.com/support/whats-new/kendo-ui/roadmap) 
     + [**Release History**](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
-      + Latest Kendo UI Release [**Kendo UI R1 2018**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2018) - Jauary 17, 2018  
+      + Latest Kendo UI Release [**Kendo UI R1 2018 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2018-sp1) - February 21, 2018  
       + Current **Aware IM** Kendo UI version [**Kendo UI Q1 2016**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016 
         + _(Updated version of Kendo UI to be released with Aware IM 8.1)_
     + [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
