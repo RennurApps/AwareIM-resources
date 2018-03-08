@@ -190,6 +190,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [Releases](https://github.com/javaee/javamail/releases)
     + **Download JavaMail**
       + [**javax.mail.jar**](https://github.com/javaee/javamail/releases/download/JAVAMAIL-1_6_1/javax.mail.jar) 
+      + [MVNRepository](https://mvnrepository.com/artifact/com.sun.mail/javax.mail) - JavaMail API
     + **Installation** 
       + Rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_ 
       + Restart Aware IM server
