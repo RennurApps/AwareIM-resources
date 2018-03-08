@@ -184,7 +184,17 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [ ] [Version 9](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - Launchded September, 2017. As it stands, the key changes in JDK 9 make it incompatible with all versions of Aware IM. 
         + tools.jar has been removed
       + Default Aware IM packaged version:
-        + Aware IM v8.0+ - JVM Version: 1.8.0_91-b15
+        + Aware IM v8.0+ - JVM Version: `1.8.0_91-b15`
+
+  + [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail `**1.6.1**` - February 12, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications. 
+    + [Changes](https://javaee.github.io/javamail/docs/CHANGES.txt)
+    + [Releases])https://github.com/javaee/javamail/releases)
+    + **Download JavaMail**
+      + [**javax.mail.jar**](https://github.com/javaee/javamail/releases/download/JAVAMAIL-1_6_1/javax.mail.jar)
+    + **Installation** 
+      + Rename _`javax.mail.jar`_ to _`mail.jar`_ and replace the one in _`C:\AwareIM\Tomcat\lib`_ 
+      + Restart Aware IM server
+      
 
   + [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server.  
     > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library. 
