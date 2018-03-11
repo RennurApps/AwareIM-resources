@@ -144,7 +144,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 > Tomcat 6.0.35 32bit is the default version packaged in the **Aware IM 5.9** server installation.
 
-  + [**Tomcat 9.0.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - Feb 6, 2018. Tomcat 9 is designed to run on **`Java SE 8`** or later.
+  + [**Tomcat 9.0.6** - For Aware IM v6.0+](http://tomcat.apache.org/) - Mar 5, 2018. Tomcat 9 is designed to run on **`Java SE 8`** or later.
     + :heavy_check_mark: [**Download Tomcat v9** - Awareim v6.0+](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one. 
       + [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
       + **Installation** with Aware IM 
