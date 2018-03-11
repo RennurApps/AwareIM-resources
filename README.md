@@ -362,9 +362,9 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
   + **Business Intelligence, Report Writer/Server** 
     + **TIBCO Jaspersoft** 
-      + [**JasperReports® Server**](http://community.jaspersoft.com/project/jasperreports-server) - Self-service Reporting and Analysis Server 
-        + [Documentation](http://community.jaspersoft.com/documentation?version=15786)
-        + [Installation Guide](http://community.jaspersoft.com/documentation/tibco-jasperreports-server-installation-guide/v61/introduction)
+      + [**JasperReports® Server**](https://community.jaspersoft.com/project/jasperreports-server) - Self-service Reporting and Analysis Server 
+        + [Documentation](https://community.jaspersoft.com/documentation?version=15786)
+        + [Installation Guide](https://community.jaspersoft.com/documentation/tibco-jasperreports-server-installation-guide/v61/introduction)
           + Bundled with and installed own Tomcat server and PostgreSQL database
         + **Connect to MySQL database** 
           + [Login to Jasper Reports Server](http://localhost:8081/jasperserver/login.html) - http://localhost:8081/jasperserver/login.html Login UserID: `jasperadmin` Password: `jasperadmin` (change password after login)
