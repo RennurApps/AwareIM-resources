@@ -309,7 +309,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             border-bottom: 1px solid #e5e5e5;
             } */`
     + [LayoutIt!](http://www.layoutit.com/build) - Drag & drop layout builder
-    + [Huge list of bootstrap resources](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
+    + [Huge list of bootstrap resources](https://sendcheckit.com/the-big-badass-list-of-twitter-bootstrap-resources)
     + [Bootstrap Tutorial](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
   + [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks
   + [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time.
