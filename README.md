@@ -116,8 +116,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + **Jasper Reports Library**
     
 #### Developer Community
-  + **2018 Aware IM International Delevopers Conference - USA**
-    + [**Event Information & Registration**](http://events.eventzilla.net/e/2018-aware-im-developers-international-conference--providence-rhode-island-usa-2138920675?resp=on&dateid=2138795244) - March 31 2018 - April 05 2018. 220 India Street, Providence, Rhode Island, United States
+  + [**2018 Aware IM International Delevopers Conference - USA**](https://awareimdevelopers.com/2017/11/17/2018-aware-im-developers-international-conference/) - March 31 2018 Providence, Rhode Island, United State
     + [Forum discussion](https://www.awareim.com/forum/viewtopic.php?f=1&t=10114)
   + [2nd Aware IM International Developers Conference](http://www.awareimdevelopers.com) - January 2016 - Bali 
     + [Forum Info](http://www.awareim.com/forum/viewtopic.php?f=1&t=8136) 
