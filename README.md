@@ -229,8 +229,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + Download
         + [x] [**MySQL Community Server 8.0.11**](http://dev.mysql.com/downloads/mysql/) - 19 April 2018. Upgrade from MySQL 5.7 to MySQL 8.0 is only supported using the in-place upgrade method.
           <!-- + **Prerequisite**
-            + [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) - -->
- MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
+            + [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) - 
+ MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms. -->
         + [x] [**MySQL Community Server 5.7.22**](http://dev.mysql.com/downloads/mysql/) - 19 April 2018.
           + **Prerequisite**
             + [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) - 
