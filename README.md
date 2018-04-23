@@ -180,6 +180,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + **Java SE Development Kit (JDK)**
     + [x] [**Version 8**, Update 172 (JDK 8u172)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - April 17, 2018. Download and install. 64bit JDK recommended. 
       + **End of Public Updates for Oracle JDK 8** after January 2019. - This is a Aware IM scalability issue and needs to be addressed by the Awaresoft support team. 
+        + [Oracle Java SE Support Roadmap](http://www.oracle.com/technetwork/java/javase/eol-135779.html) 
       + [JDK 8 Update Release Notes](http://www.oracle.com/technetwork/java/javase/8u-relnotes-2225394.html)
         + [Java™ SE Development Kit 8, Update 172 (JDK 8u172) Release Notes](http://www.oracle.com/technetwork/java/javase/8u172-relnotes-4308893.html)
     + [ ] [Version 10](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - April 17, 2018. As it stands, the key changes in JDK 10 make it incompatible with all versions of Aware IM. 
