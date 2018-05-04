@@ -223,7 +223,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 <!--            - The reason is that `build 5357` security fix prevents the use of later versions of ActiveMQ. -->
 <!--        - Required for Aware IM versions `8.0 build 5357`+ -->
   
-  + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.34**. 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition. 
+  + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.35**. 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition. 
     + [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
 
 #### Databases
