@@ -257,7 +257,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           + [ ] Not working with Aware IM 8.0 -->
   + **Apache Derby** - [Home](http://db.apache.org/derby/)
     + **For Java 8 and Higher**
-      + [**Apache Derby 10.14.1.0**](https://db.apache.org/derby/releases/release-10.14.1.0.cgi) - (October 22, 2017)
+      + [**Apache Derby 10.14.2.0**](https://db.apache.org/derby/releases/release-10.14.2.0.cgi) - (May 5, 2018)
         + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib
       + [Apache Derby 10.13.1.1](https://db.apache.org/derby/releases/release-10.13.1.1.cgi) - (October 25, 2016)
     + **For Java 6 and Higher** 
