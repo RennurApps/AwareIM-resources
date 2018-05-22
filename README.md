@@ -239,12 +239,21 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           + **Prerequisite**
             + [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms. 
         + [x] [**MySQL Community Server 5.5.60**](https://dev.mysql.com/downloads/mysql/5.5.html) - 19 April 2018.
+  + **Apache Derby** - [Home](http://db.apache.org/derby/)
+    + **For Java 8 and Higher**
+      + [**Apache Derby 10.14.2.0**](https://db.apache.org/derby/releases/release-10.14.2.0.cgi) - (May 5, 2018)
+        + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib
+      + [Apache Derby 10.13.1.1](https://db.apache.org/derby/releases/release-10.13.1.1.cgi) - (October 25, 2016)
+    + **For Java 6 and Higher** 
+      + [Apache Derby 10.12.1.1](https://db.apache.org/derby/releases/release-10.12.1.1.cgi) - (October 11, 2015)
+      + [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
+    + Downloads [http://db.apache.org/derby/derby_downloads.html](http://db.apache.org/derby/derby_downloads.html)
         
 #### Database Connectors
   + [**MySQL Connectors**](https://www.mysql.com/products/connector/) - :grey_exclamation:**UPDATE HIGHLY RECOMMENDED**:grey_exclamation: 
       > By default, a very old version of Connector/J JDBC driver (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation. JDBC driver communicates with MySQL servers.
       + [Connector/J Versions](https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-versions.html), and the MySQL and Java Versions They Support 
-    + :check_mark: [**Connector/J 5.1.x**](https://dev.mysql.com/downloads/connector/j/5.1.html) - **Latest version v5.1.46**, 12 March 2018. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.  
+    + :heavy_check_mark: [**Connector/J 5.1.x**](https://dev.mysql.com/downloads/connector/j/5.1.html) - **Latest version v5.1.46**, 12 March 2018. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.  
       + [**Download**](https://dev.mysql.com/downloads/connector/j/5.1.html) - Download the latest **Platform Independent** version. 
       + [Changes and Release Notes](https://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
       + [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
@@ -261,15 +270,6 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           2. Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-java-3.1.12-bin.jar` 
           3. Copy and replace the existing file in `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
-  + **Apache Derby** - [Home](http://db.apache.org/derby/)
-    + **For Java 8 and Higher**
-      + [**Apache Derby 10.14.2.0**](https://db.apache.org/derby/releases/release-10.14.2.0.cgi) - (May 5, 2018)
-        + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib
-      + [Apache Derby 10.13.1.1](https://db.apache.org/derby/releases/release-10.13.1.1.cgi) - (October 25, 2016)
-    + **For Java 6 and Higher** 
-      + [Apache Derby 10.12.1.1](https://db.apache.org/derby/releases/release-10.12.1.1.cgi) - (October 11, 2015)
-      + [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
-    + Downloads [http://db.apache.org/derby/derby_downloads.html](http://db.apache.org/derby/derby_downloads.html)
 
 #### **End-to-End Solutions**
   + [**Telerik Platform**](http://www.telerik.com/) - Complete cross-platform solution to design, build, deploy, manage, and measure all your mobile apps. 
