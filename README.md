@@ -10,11 +10,11 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
   + [**Currently v8.1 build 2460**](http://www.awareim.com/changelog/Readme2460.txt) - 5 Jun, 2018.
-    1 If auto-refresh had a process that was not in the BSV, auto-refresh dialog couldn't be opened
-    2 Preview of custom queries in forms didn't work
-    3 A style could not be applied to a form
-    4 There was no way to specify width for tree columns
-    5 A form with sizing parameters but no width could not be center aligned.
+    - 1 If auto-refresh had a process that was not in the BSV, auto-refresh dialog couldn't be opened
+    - 2 Preview of custom queries in forms didn't work
+    - 3 A style could not be applied to a form
+    - 4 There was no way to specify width for tree columns
+    - 5 A form with sizing parameters but no width could not be center aligned.
     + IMPROVEMENTS
       + DOWNLOAD DOCUMENT action
 <!--  + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com** -->
