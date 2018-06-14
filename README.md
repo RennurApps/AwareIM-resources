@@ -38,7 +38,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + **v5.6** - Builds 1638-1671
       + **v5.5** - Builds 1588-1617
   + [**Video Tutorials**](http://www.awareim.com/video-tutorials/) - Highly Recommended
-    + [**Aware IM Youtube channel**](https://www.youtube.com/user/awareim1/featured) - Latest Aware IM version 8.0 video tutorials. 
+    + [**Aware IM Youtube channel**](https://www.youtube.com/user/awareim1/featured) - Latest Aware IM video tutorials. 
     + **Version 7.1**
       + [**Push notifications**](https://www.youtube.com/watch?v=hSEIFSTg0kI) - Send push notifications to Android and iOS devices from your native mobile applications. 
       + [**Form and grid styles**](https://www.youtube.com/watch?v=dW8vmJ-6HzI) - Be more efficient when defining your forms and queries – create form and grid styles and reuse them easily.
