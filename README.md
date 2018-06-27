@@ -258,10 +258,10 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [Connector/J Versions](https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-versions.html), and the MySQL and Java Versions They Support 
 
     + :heavy_check_mark: [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version v8.0.11**, 19 April 2018. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
-      + **Installation**
+      + **Installation (Aware IM 8.1+)**
         + Application Server 
           1. Download `platform independent` version 
-          2. Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-java-3.1.12-bin.jar` 
+          2. Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-java-5.1.46-bin.jar` 
           3. Copy and replace the existing file in `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
 
@@ -270,7 +270,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [**Download**](https://dev.mysql.com/downloads/connector/j/5.1.html) - Download the latest **Platform Independent** version. 
       + [Changes and Release Notes](https://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
       + [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
-      + **Installation**
+      + **Installation (Aware IM 8.0 and under)**
         + Application Server
           1. Download `platform independent` version 
           2. Extract the files and rename `mysql-connector-java-5.x.xx-bin.jar` to `mysql-connector-java-3.1.12-bin.jar` 
