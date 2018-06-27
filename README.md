@@ -265,7 +265,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           3. Copy and replace the existing file in `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
 
-     + :heavy_check_mark: [**Connector/J 5.1.x**](https://dev.mysql.com/downloads/connector/j/5.1.html) - **Latest version v5.1.46**, 12 March 2018. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.  
+    + :heavy_check_mark: [**Connector/J 5.1.x**](https://dev.mysql.com/downloads/connector/j/5.1.html) - **Latest version v5.1.46**, 12 March 2018. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.  
 
       + [**Download**](https://dev.mysql.com/downloads/connector/j/5.1.html) - Download the latest **Platform Independent** version. 
       + [Changes and Release Notes](https://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
