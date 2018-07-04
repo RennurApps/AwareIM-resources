@@ -204,10 +204,11 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library. 
     
     > Latest working version of ActiveMQ is `5.12.1`. 
-    + **Vulnerabilities** - Apache ActiveMQ `5.12.1` and `older versions`. 
+<!--    + **Vulnerabilities** - Apache ActiveMQ `5.12.1` and `older versions`. 
       + [**Vulnerability Details : CVE-2015-5254**](https://www.cvedetails.com/cve/CVE-2015-5254/) - Apache ActiveMQ 5.x before **`5.13.0`** does not restrict the classes that can be serialized in the broker, which allows remote attackers to execute arbitrary code via a crafted serialized Java Message Service (JMS) ObjectMessage object.
         + [https://issues.apache.org/jira/browse/AMQ-6013](https://issues.apache.org/jira/browse/AMQ-6013)
       + [**Vulnerability Details : CVE-2014-3612**](https://www.cvedetails.com/cve/CVE-2014-3612/) - The LDAPLoginModule implementation in the Java Authentication and Authorization Service (JAAS) in Apache ActiveMQ 5.x before **`5.10.1`** allows remote attackers to bypass authentication by logging in with an empty password and valid username, which triggers an unauthenticated bind. NOTE: this identifier has been SPLIT per ADT2 due to different vulnerability types. See CVE-2015-6524 for the use of wildcard operators in usernames.
+-->
     + **Issues**
       + [**ObjectMessage**](http://activemq.apache.org/objectmessage.html) - Changes starting with versions **`5.12.2`** and **`5.13.0`** causing issues with the Aware IM server. 
         + Aware IM **Server Output** testing ActiveMQ v5.15.0: 
