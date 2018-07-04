@@ -211,17 +211,17 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [**Vulnerability Details : CVE-2014-3612**](https://www.cvedetails.com/cve/CVE-2014-3612/) - The LDAPLoginModule implementation in the Java Authentication and Authorization Service (JAAS) in Apache ActiveMQ 5.x before **`5.10.1`** allows remote attackers to bypass authentication by logging in with an empty password and valid username, which triggers an unauthenticated bind. NOTE: this identifier has been SPLIT per ADT2 due to different vulnerability types. See CVE-2015-6524 for the use of wildcard operators in usernames.
     -->
     + **Issues**
-      + **Inconsistent vector internals** - ActiveMQ `**5.15.4**`. ObjectMesage issues no longer appears in this version of ActiveMQ.
+      + **Inconsistent vector internals** - ActiveMQ **`5.15.4`**. ObjectMesage issues no longer appears in this version of ActiveMQ.
         + **Server Output**
           + `ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
-      + [ObjectMessage](http://activemq.apache.org/objectmessage.html) - ActiveMQ `**v5.15.0**` Changes starting with versions **`5.12.2`** and **`5.13.0`** causing issues with the Aware IM server. 
+      + [ObjectMessage](http://activemq.apache.org/objectmessage.html) - ActiveMQ **`v5.15.0`** Changes starting with versions **`5.12.2`** and **`5.13.0`** causing issues with the Aware IM server. 
         + **Server Output**: 
           + This release affects applications using ObjectMessages. Please refer to http://activemq.apache.org/objectmessage.html and [**AMQ-6013**](https://issues.apache.org/jira/browse/AMQ-6013) for more information.
           + **Server Log**
             + `ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from content. Serializable class not available to broker. Reason: java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes. [java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes.]]`
     
     + **Releases**:
-      - [ ] [5.15.4 Release](http://activemq.apache.org/activemq-5154-release.html) - 2018. **ObjectMessage** error. `Java 8` Required. 
+      - [ ] [5.15.4 Release](http://activemq.apache.org/activemq-5154-release.html) - 2018. **Inconsistent vector internals** error. `Java 8` required. 
       - [x] [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - :+1: **Tested and working with Tomcat 6, 8 & 9**.  
         + Installation
           + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib 
