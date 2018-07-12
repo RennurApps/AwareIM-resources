@@ -137,7 +137,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 #### Apache Tomcat 
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation. 
 
-> Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complate.
+> Caution: Installing Aware IM update (Setup.exe), overwites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete.
 
 > Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.1+** server installation.
  
