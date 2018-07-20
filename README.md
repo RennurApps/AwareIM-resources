@@ -375,7 +375,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [X] **v0.12.4** Tested and working in Aware IM **6.0+**. Released November 22, 2016
     + **Install wkhtmltopdf**
         + Windows
-        + Extract *.exe file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM 
+          + Extract *.exe file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM 
     + [**github.com/wkhtmltopdf/**](https://github.com/wkhtmltopdf/wkhtmltopdf) - wkhtmltopdf is a command line tools to render HTML into PDF using the QT Webkit rendering engine. These run entirely "headless" and do not require a display or display service.
     + **Aware IM Process Rules**
       + **Step 1** - Export Aware IM HTML Document to a HTML file
