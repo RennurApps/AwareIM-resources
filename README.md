@@ -14,14 +14,14 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**Currently v8.1 build 2467**](http://www.awareim.com/changelog/Readme2467.txt) - 26 Jul, 2018.
     + **Latest Improvements in version 8.1**
       + **2467** - Ability to use tag expressions in the URL of a REST service
-    + Recent Improvements in version 8.1
+    + **Recent Improvements in version 8.1**
       + 2464 - READ_TEXT_FILE function
       + 2464 - URL_ENCODE, URL_DECODE functions
       + 2464 - Ability to disallow "Add record" functionality when tabbing from last row during inline editing using Advanced Scripts for standard query (parser.m_doNotAddNewOnTab=true)
       + 2460 - DOWNLOAD DOCUMENT action
       + 2454 - Microsoft Graph added to the list of OAuth providers
       + 2454 - All exe's are digitally signed
-    + 8.1 Release Improvements
+    + **8.1 Release Improvements**
       - Tomcat 8.5
       - EXEC_STRING action
       - EVAL_STRING function
@@ -46,7 +46,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       - Objects put in the Context by an ordered query (FIND ... ORDER BY) maintain their order when processed
       - Ability to sort attributes in a BO by Name, Type and Required
       - Ability to save a form when a focus is lost
-    + 8.1 New Features
+    + **8.1 New Features**
       - Consuming REST services (with OAuth support)
       - "Dynamic" columns for queries and references - perform calculations on the fly
       - Picture attributes support storage in file system. If storage happens to be inside web application directory, images are displayed using links to their storage, rather than generated again
