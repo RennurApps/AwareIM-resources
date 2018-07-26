@@ -5,14 +5,69 @@
 > The creators of **Kendo UI**, Progress Software have been recognized by Gartner as a Leader in the 2017 Gartner Magic Quadrant for Mobile Application Development Platforms (MADP). **Kendo UI** is the HTML5/JS Framework that powers Aware IM created web and mobile apps. [**Read more**](https://www.progress.com/campaigns/progress-named-a-leader-in-gartner-magic-quadrant-2017)
 
   + [**Service & support**](https://rennurapps.freshservice.com/support/home) 
+  + [**Changelog**](http://www.awareim.com/changelog/?C=M;O=D) 
+
 #### Software
 Written in 100% Java programming language. Aware IM is based on the plethora of Java technologies such as J2EE application server, JDBC, JMS, JSP/servlets technology, web services etc. These are robust technologies that have been proven in the industry.
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
-  + [**Currently v8.1 build 2466**](http://www.awareim.com/changelog/Readme2466.txt) - 18 Jul, 2018.
+  + [**Currently v8.1 build 2467**](http://www.awareim.com/changelog/Readme2467.txt) - 26 Jul, 2018.
+    + **Latest Improvements in version 8.1**
+      + **2467** - Ability to use tag expressions in the URL of a REST service
+    + Recent Improvements in version 8.1
+      + 2464 - READ_TEXT_FILE function
+      + 2464 - URL_ENCODE, URL_DECODE functions
+      + 2464 - Ability to disallow "Add record" functionality when tabbing from last row during inline editing using Advanced Scripts for standard query (parser.m_doNotAddNewOnTab=true)
+      + 2460 - DOWNLOAD DOCUMENT action
+      + 2454 - Microsoft Graph added to the list of OAuth providers
+      + 2454 - All exe's are digitally signed
+    + 8.1 Release Improvements
+      - Tomcat 8.5
+      - EXEC_STRING action
+      - EVAL_STRING function
+      - Support of HTML text in reports: <<Object.HTMLAttribute,html>>
+      - LOG action (put record in the rule log)
+      - LOG CONTEXT action
+      - COMMIT TRANSACTION action
+      - Transaction isolation level for processes
+      - Search Script command now also searches HTML
+      - Space elements vertically and horizontally in Report Designer
+      - Support for "last modified date" in a business space version
+      - Option to not delete a message on the server when handling incoming emails
+      - "Display paging bar only if necessary" property for grids
+      - Vertical column headers in grids
+      - "Max file size" property for document and picture attributes
+      - "Allowed extensions" property for document and picture attributes
+      - Ability to enter dates using masked text input
+      - In a query with inline editing and default operation - if a cell is not editable, the default operation is invoked
+      - Ability to specify section name in ENTER NEW, EDIT and VIEW actions: ENTER NEW Obj USING Main SECTION Main
+      - It is now possible to include shortcuts into editable attributes for calendars (default pop-up form). They are edited as drop downs (similar to inline editing of shortcuts in standard queries)
+       - Borders between multi-attribute cells are displayed in the form designer
+      - Objects put in the Context by an ordered query (FIND ... ORDER BY) maintain their order when processed
+      - Ability to sort attributes in a BO by Name, Type and Required
+      - Ability to save a form when a focus is lost
+    + 8.1 New Features
+      - Consuming REST services (with OAuth support)
+      - "Dynamic" columns for queries and references - perform calculations on the fly
+      - Picture attributes support storage in file system. If storage happens to be inside web application directory, images are displayed using links to their storage, rather than generated again
+      - New Kendo UI library
+      - Ability to add Calendar widget to the HTML of a content panel in a VP
+      - Support for embedded spreadsheets
+      - New Jasper Reports Library
+      - support for position types of all elements
+      - ability to insert page break anywhere
+      - support for text rotation
+      - justified alignment for text
+      - support for borders for text and images
+      - transparency support for text and rectangles
+      - line spacing improvements, indentation support for text
+      - Table Element
+      - Business space version comparison
+      - Office Online Integration
+
 
 <!--  + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com** -->
-  + [**Version History**](http://www.awareim.com/changelog/?C=M;O=D) - Changelog 
+  + [**Version History**](http://www.awareim.com/changelog/?C=M;O=D) 
       + :heavy_check_mark: **Currently v8.1** - Builds 2452+
         + [Aware IM 8.1 released](https://www.awareim.com/aware-im-8-1-released/) - Released Apr 19, 2018
         + [Version 8.1 Overview - Youtube video](https://www.youtube.com/watch?v=sp4OvLR5ALI) - Aware IM version 8.1 features overview.
