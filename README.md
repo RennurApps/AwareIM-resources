@@ -425,7 +425,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**wkhtmltopdf**](http://wkhtmltopdf.org/) - Convert HTML to PDF using Webkit (QtWebKit) 
     + **Requires** [**Microsoft Visual C++ 2015 Redistributable Update 3**](https://www.microsoft.com/en-us/download/details.aspx?id=53840) - Download and install first.
     + **Download wkhtmltopdf**:
-      + [**Download wkhtmltopdf** Windows (MSVC)**](https://wkhtmltopdf.org/downloads.html) - **v0.12.5** released on June 11, 2018 for Windows, Linux and OS X.
+      + [**Download wkhtmltopdf** Windows (MSVC)](https://wkhtmltopdf.org/downloads.html) - **v0.12.5** released on June 11, 2018 for Windows, Linux and OS X.
         + [ ] v0.12.5 untested. Released June 11, 2018.
         + [Changes since 0.12.4](https://downloads.wkhtmltopdf.org/0.12/0.12.5/)
         + [X] **v0.12.4** Tested and working in Aware IM **6.0+**. Released November 22, 2016
