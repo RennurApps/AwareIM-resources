@@ -12,6 +12,12 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
   + [**Currently v8.1 build 2467**](http://www.awareim.com/changelog/Readme2467.txt) - 26 Jul, 2018.
+    + **Roadmap**
+      + **Version 8.2*
+        + [ ] Multi-developer mode
+        + [ ] Debugger
+        + [ ] SAML support (Single Sign On framework)
+        + [ ] Custom HTML forms 
     + **Latest Improvements in version 8.1**
       + **2467** - Ability to use tag expressions in the URL of a REST service
     + **Recent Improvements in version 8.1**
