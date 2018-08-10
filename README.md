@@ -265,7 +265,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server.  
     > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library. 
     
-    > Latest working version of ActiveMQ is `5.12.1`. 
+    > Latest working version of ActiveMQ is `5.12.1`. Latest release is 5.15.4.
     <!--
     + **Vulnerabilities** - Apache ActiveMQ `5.12.1` and `older versions`. 
       + [**Vulnerability Details : CVE-2015-5254**](https://www.cvedetails.com/cve/CVE-2015-5254/) - Apache ActiveMQ 5.x before **`5.13.0`** does not restrict the classes that can be serialized in the broker, which allows remote attackers to execute arbitrary code via a crafted serialized Java Message Service (JMS) ObjectMessage object.
@@ -324,7 +324,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       > From version 8.1 build 2461 onwards, Aware IM uses Connector/J JDBC driver version 5.1.46. JDBC driver communicates with MySQL servers.
 
       > Prior to Aware IM version 8.1 build 2461, a very old version of Connector/J JDBC driver (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation.
-      + [Connector/J Versions](https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-versions.html), and the MySQL and Java Versions They Support 
+      + [Connector/J Versions](https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-versions.html) and what MySQL and Java JDK Versions they suppor.
 
     + :heavy_check_mark: [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version v8.0.12**, 27 Jul 2018. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
       + **Installation (Aware IM 8.1+)**
