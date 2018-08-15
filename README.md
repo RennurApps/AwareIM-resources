@@ -148,7 +148,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + **Google Maps Polygon Areas** from 12:57min
     + **Version 5.6+**
       + [Import/Export Templates](http://awareim.com/tutorials/UDIT/UDIT.html)
-  + [**Documentation** AwareIM version 8.0](http://awareim.com/documentation/) 
+  + [**Documentation** AwareIM version 8.1](http://awareim.com/documentation/) 
       + [Quick Tour (pdf)](https://www.awareim.com/wp-content/uploads/2018/04/QuickTour.pdf)
       + [Installation Guide (pdf)](https://www.awareim.com/wp-content/uploads/2018/04/InstallationGuide.pdf) 
       + [User Guide (pdf)](https://www.awareim.com/wp-content/uploads/2018/04/UserGuide.pdf)
