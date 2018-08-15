@@ -109,7 +109,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [**Fast web application builder mobile and desktop**](https://www.youtube.com/watch?v=p5Q-YYAd6Fs)
       + [**Development of responsive web applications**](https://youtu.be/6_yJj4Xy6bU)
       + [**Builder for online and offline web applications**](https://youtu.be/xd3DQrHXGBs)  
-      + [*Using Javascript and HTML in Aware IM**](https://www.youtube.com/watch?v=A82fCezQK_g)
+      + [**Using Javascript and HTML in Aware IM**](https://www.youtube.com/watch?v=A82fCezQK_g)
     + **Version 6.0+**
       + [**What's New in 6.0**](https://youtu.be/wFiawWrZxGQ) - **Video tutorial**
     + **Version 5.9+**
