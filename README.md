@@ -210,6 +210,13 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**Tomcat 9.0.10** - For Aware IM v6.0+](http://tomcat.apache.org/) - 20 Jun, 2018. Tomcat 9 is designed to run on **`Java SE 8`** or later.
     + :heavy_check_mark: [**Download Tomcat v9** - Awareim v6.0+](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one. 
       + [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
+      + [**Security**](https://tomcat.apache.org/security-9.html) 
+        + **Important fixes**
+          - `9.0.10` Information Disclosure `CVE-2018-8037`
+          - `9.0.8` A bug in the UTF-8 decoder can lead to DoS `CVE-2018-1336`
+          - `9.0.5` Security constraint annotations applied too late `CVE-2018-1305`
+          - `9.0.5` Security constraints mapped to context root are ignored `CVE-2018-1304`
+          - `9.0.1` Remote Code Execution `CVE-2017-12617`
       + **Installation** with Aware IM 
         + Windows Based Systems 
           + **IMPORTANT**: 
@@ -226,12 +233,19 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - 20 Jun, 2018. **Latest version Tomcat v8.5.32** - Tomcat 8.5 requires **`Java SE 7`** or later. 
+  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - 20 Jun, 2018. **Latest release is Tomcat v`8.5.32`** (Aware IM version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later. 
     + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.32)  
+    + [**Security**](https://tomcat.apache.org/security-8.html) 
+      + **Important fixes** since Tomcat version `8.5.24`
+        - `8.5.32` Information Disclosure `CVE-2018-8037`
+        - `8.5.31` A bug in the UTF-8 decoder can lead to DoS `CVE-2018-1336`
+        - `8.5.28` Security constraint annotations applied too late `CVE-2018-1305`
+        - `8.5.28` Security constraints mapped to context root are ignored `CVE-2018-1304`
+        - 
     + [**Migrating to v8.5.x**](https://tomcat.apache.org/migration-85.html) 
     + [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
     + [Tomcat 8.5x Changelog](https://tomcat.apache.org/tomcat-8.5-doc/changelog.html)   
-  + [**Tomcat 8.0.x** - For Aware IM v6.0-v8.0](http://tomcat.apache.org/) - Jul 5, 2018. **Latest version Tomcat v8.0.53** - Tomcat 8.0 requires Java SE 7 or later. 
+  + [**Tomcat 8.0.x** - For Aware IM v6.0-v8.0](http://tomcat.apache.org/) - Jul 5, 2018. **Latest release is Tomcat v8.0.53** - Tomcat 8.0 requires Java SE 7 or later. 
   + [**Tomcat 6 (archived)** - For Aware IM v5.9 Only](http://tomcat.apache.org/) - Apr 2 2017 **Final version Tomcat 6.0.53**  
     + [Download Tomcat **v6** - Aware IM v5.9 Only](https://archive.apache.org/dist/tomcat/tomcat-6/v6.0.53/) - Support for Apache Tomcat 6.0.x has ended on 31 December 2016.
   + **Tomcat SSL/TLS Configuration HOW-TO** - Tomcat documentation. 
