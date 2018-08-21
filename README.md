@@ -288,10 +288,10 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     -->
     + **Issues**
       + **Inconsistent vector internals** - ActiveMQ **`5.15.5`**. 
-        + **Server Output**
+        + **Server Output:**
           + `ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
-      + [ObjectMessage](http://activemq.apache.org/objectmessage.html) - Changes starting with versions **`5.12.2`** and **`5.13.0`** causing issues with the Aware IM server. 
-          + This release affects applications using ObjectMessages. Please refer to http://activemq.apache.org/objectmessage.html and [**AMQ-6013**](https://issues.apache.org/jira/browse/AMQ-6013) for more information.
+      + [**ObjectMessage**](http://activemq.apache.org/objectmessage.html) - Starting with versions **`5.12.2`** and **`5.13.0`**. 
+          + Affects applications using ObjectMessages. Please refer to http://activemq.apache.org/objectmessage.html and [**AMQ-6013**](https://issues.apache.org/jira/browse/AMQ-6013) for more information.
         <!-- 
         + **Server Log**
           + ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from content. Serializable class not available to broker. Reason: java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes. [java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes.]]` 
@@ -300,6 +300,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       - [ ] [5.15.5 Release](http://activemq.apache.org/activemq-5155-release.html) - 2018. **Inconsistent vector internals** error. `Java 8` required. 
         - Aware IM 8.1
           - Configurator won't start
+          - Browser won't load the app
       - [x] [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - :+1: **Tested and working with Tomcat 6, 8 & 9**.  
         + Installation
           + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib 
@@ -309,6 +310,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 <!--          - For Aware IM `8.0 builds 2357`+ use the packaged ActiveMQ `5.8.0`. -->
 <!--            - The reason is that `build 5357` security fix prevents the use of later versions of ActiveMQ. -->
 <!--        - Required for Aware IM versions `8.0 build 5357`+ -->
+  
   
   + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.35**. 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition. 
     + [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
