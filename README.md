@@ -290,7 +290,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + **Inconsistent vector internals** - ActiveMQ **`5.15.5`**. 
         + **Server Output**
           + **ERROR**: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]
-      + [ObjectMessage](http://activemq.apache.org/objectmessage.html) - ActiveMQ **`v5.15.0`** Changes starting with versions **`5.12.2`** and **`5.13.0`** causing issues with the Aware IM server. 
+      + [ObjectMessage](http://activemq.apache.org/objectmessage.html) - Changes starting with versions **`5.12.2`** and **`5.13.0`** causing issues with the Aware IM server. 
         + **Server Output**: 
           + This release affects applications using ObjectMessages. Please refer to http://activemq.apache.org/objectmessage.html and [**AMQ-6013**](https://issues.apache.org/jira/browse/AMQ-6013) for more information.
           + **Server Log**
