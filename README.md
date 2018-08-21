@@ -289,13 +289,12 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + **Issues**
       + **Inconsistent vector internals** - ActiveMQ **`5.15.5`**. 
         + **Server Output**
-          + **ERROR**: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]
+          + `ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
       + [ObjectMessage](http://activemq.apache.org/objectmessage.html) - Changes starting with versions **`5.12.2`** and **`5.13.0`** causing issues with the Aware IM server. 
-        + **Server Output**: 
           + This release affects applications using ObjectMessages. Please refer to http://activemq.apache.org/objectmessage.html and [**AMQ-6013**](https://issues.apache.org/jira/browse/AMQ-6013) for more information.
-          + **Server Log**
+<!--          + **Server Log**
             + `ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from content. Serializable class not available to broker. Reason: java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes. [java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes.]]`
-    
+-->    
     + **Releases**:
       - [ ] [5.15.5 Release](http://activemq.apache.org/activemq-5155-release.html) - 2018. **Inconsistent vector internals** error. `Java 8` required. 
         - Aware IM 8.1
