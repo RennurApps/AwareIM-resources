@@ -424,7 +424,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   * **Electronic Signature Capture** - For Aware IM 5.9+ 
      + [**Signature Pad**](https://github.com/szimek/signature_pad) - Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers. 
       + [**DEMO - Github**](http://szimek.github.io/signature_pad/) 
-      + [**Signature Pad v3.0.0-beta.3*](https://www.jsdelivr.com/package/npm/signature_pad) - (c) 2018 Szymon Nowak. Tested ok in 8.1. 
+      + [**Signature Pad v3.0.0-beta.3**](https://www.jsdelivr.com/package/npm/signature_pad) - (c) 2018 Szymon Nowak. Tested ok in 8.1. 
       + [:heavy_check_mark: **Signature Pad v1.5.3**](https://github.com/RennurApps/AwareIM-resources/tree/master/Signature) - Tested and working in all versions 5.9+ 
       + **Installation**: 
         + Get the desired version from [**here**](https://github.com/RennurApps/AwareIM-resources/tree/master/Signature) or [**here**](http://szimek.github.io/signature_pad/)
