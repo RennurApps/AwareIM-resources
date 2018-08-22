@@ -1,9 +1,6 @@
 # Aware IM Developer Resources
 > Aware IM is a rapid application development tool that lets you create powerful aesthetically appealing web applications quickly. Aware IM developer tools, tips, news and resources. 
 
-### News
-> The creators of **Kendo UI**, Progress Software have been recognized by Gartner as a Leader in the 2017 Gartner Magic Quadrant for Mobile Application Development Platforms (MADP). **Kendo UI** is the HTML5/JS Framework that powers Aware IM created web and mobile apps. [**Read more**](https://www.progress.com/campaigns/progress-named-a-leader-in-gartner-magic-quadrant-2017)
-
   + [**Service & support**](https://rennurapps.freshservice.com/support/home) - Contact us for Aware IM installations and updates, Tomcat upgrades and config, SSL installation & config, Server system & Database optimisation, Java and other techincal server componet updates.
   + [**Changelog**](http://www.awareim.com/changelog/?C=M;O=D) 
 
@@ -492,3 +489,6 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + [User Guide](http://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v610/getting-started-jaspersoft-studio)
       + **Forum posts**
           + [AWARE'S REPORTING - JASPER REPORTS UPGRADE FOR NEXT RELEASE?](http://www.awareim.com/forum/viewtopic.php?f=1&t=7744) - JasperRepoerts Server
+
+### News
+> The creators of **Kendo UI**, Progress Software have been recognized by Gartner as a Leader in the 2017 Gartner Magic Quadrant for Mobile Application Development Platforms (MADP). **Kendo UI** is the HTML5/JS Framework that powers Aware IM created web and mobile apps. [**Read more**](https://www.progress.com/campaigns/progress-named-a-leader-in-gartner-magic-quadrant-2017)
