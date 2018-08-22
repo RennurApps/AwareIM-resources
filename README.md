@@ -220,8 +220,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + **Installation** with Aware IM 
         + Windows Based Systems 
           + **IMPORTANT**: 
-            - [x] Ensure any prior modification of existing _web.xml_ and _server.xml_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files. 
-            - [x] Check that there is only one `ecj-4.x.jar` file in the Tomcat/lib folder.           
+            - [x] Ensure any prior modification of existing _web.xml_ and _server.xml_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.   
           + **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
             1. **Extract** the archive and open the folder.
             2. Open the extracted **Tomcat** folder.
@@ -230,6 +229,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             5. Press `Ctrl+v` to paste and replace all files and folders.
             6. If you have updated Java JDK (see below), copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
             7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
+            8. Check that there is only one `ecj-4.x.jar` file in the Tomcat/lib folder.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
   + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - 12 Aug, 2018. **Latest release is Tomcat v`8.5.33`** (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later. 
