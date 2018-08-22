@@ -221,8 +221,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + Windows Based Systems 
           + **IMPORTANT**: 
             - [x] Ensure any prior modification of existing _web.xml_ and _server.xml_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files. 
-<!--            - [x] **In 8.1**, Rename the extracted `ecj-4.x.jar`to `ecj-4.6.3.jar` found in the Tomcat/lib folder -->
-            - [x] **In 6.0**, Rename the extracted `ecj-4.x.jar`to `ecj-4.4.jar` found in the Tomcat/lib folder          
+            - [x] Check that there is only one `ecj-4.x.jar` file in the Tomcat/lib folder.           
           + **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
             1. **Extract** the archive and open the folder.
             2. Open the extracted **Tomcat** folder.
