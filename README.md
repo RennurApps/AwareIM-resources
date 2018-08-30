@@ -261,11 +261,11 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [x] Version bundled with Aware IM:
       + Aware IM v8.0+ - JVM Version: `1.8.0_91-b15`
 
-  + [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.1`** - February 12, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications. 
+  + [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications. 
     + [Changes](https://javaee.github.io/javamail/docs/CHANGES.txt)
     + [Releases](https://github.com/javaee/javamail/releases)
     + **Download JavaMail**
-      + [**javax.mail.jar**](https://github.com/javaee/javamail/releases/download/JAVAMAIL-1_6_1/javax.mail.jar) 
+      + [**javax.mail.jar**](https://github.com/javaee/javamail/releases/download/JAVAMAIL-1_6_2/javax.mail.jar) 
       + [MVNRepository](https://mvnrepository.com/artifact/com.sun.mail/javax.mail) - JavaMail API
     + **Installation** 
       + Rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_ 
