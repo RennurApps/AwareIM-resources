@@ -232,12 +232,6 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - 12 Aug, 2018. **Latest release is Tomcat v`8.5.33`** (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later. 
     + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.33)  
     + [**Security**](https://tomcat.apache.org/security-8.html) 
-      + **Important fixes** since Tomcat version `8.5.24`
-        - `8.5.32` Information Disclosure `CVE-2018-8037`
-        - `8.5.31` A bug in the UTF-8 decoder can lead to DoS `CVE-2018-1336`
-        - `8.5.28` Security constraint annotations applied too late `CVE-2018-1305`
-        - `8.5.28` Security constraints mapped to context root are ignored `CVE-2018-1304`
-        - 
     + [**Migrating to v8.5.x**](https://tomcat.apache.org/migration-85.html) 
     + [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
     + [Tomcat 8.5x Changelog](https://tomcat.apache.org/tomcat-8.5-doc/changelog.html)   
