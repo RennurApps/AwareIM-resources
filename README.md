@@ -270,7 +270,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server.  
     > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library. 
     
-    > Latest version of ActiveMQ that works with Aware IM is **`5.12.1`**. Latest release is `5.15.5` (Aug 2018).
+    > Latest version of ActiveMQ that works with Aware IM is **`5.12.1`**. Latest release is `5.15.6` (Sep 2018).
     <!--
     + **Vulnerabilities** - Apache ActiveMQ `5.12.1` and `older versions`. 
       + [**Vulnerability Details : CVE-2015-5254**](https://www.cvedetails.com/cve/CVE-2015-5254/) - Apache ActiveMQ 5.x before **`5.13.0`** does not restrict the classes that can be serialized in the broker, which allows remote attackers to execute arbitrary code via a crafted serialized Java Message Service (JMS) ObjectMessage object.
@@ -279,7 +279,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     -->
     + [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab.
       <!-- 
-      + **Inconsistent vector internals** - ActiveMQ **`5.15.5`**. 
+      + **Inconsistent vector internals** - ActiveMQ **`5.15.5+`**. 
         + **Server Output:**
           + `ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
       + [**ObjectMessage**](http://activemq.apache.org/objectmessage.html) - Starting with versions **`5.12.2`** and **`5.13.0`**. 
@@ -290,7 +290,10 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           + ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from content. Serializable class not available to broker. Reason: java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes. [java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes.]]` 
         -->
     + **Releases**:
-      - [ ] [5.15.5 Release](http://activemq.apache.org/activemq-5155-release.html) - 2018. **Inconsistent vector internals** error. `Java 8` required. 
+      - [ ] [5.15.6 Release](http://activemq.apache.org/activemq-5156-release.html) - Sep 2018. **Inconsistent vector internals** error. `Java 8` required. 
+        - Change Log
+          - This release enables ActiveMQ client TLS hostname validation by default which can cause a client connection failure for server certificates that do not match the server hostname. Please refer to SSL Transport Reference for configuration and [AMQ-7047](https://issues.apache.org/jira/browse/AMQ-7047) for more information.
+          - This release affects applications using ObjectMessages. 
         - Aware IM 8.1
           - Configurator won't start
           - Browser won't load the app
