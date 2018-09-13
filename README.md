@@ -230,13 +230,13 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             8. Check that there is only one `ecj-4.x.jar` file in the Tomcat/lib folder.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - 12 Aug, 2018. **Latest release is Tomcat v`8.5.33`** (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later. 
-    + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.33)  
+  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - 4 Sep, 2018. **Latest release is Tomcat v`8.5.34`** (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later. 
+    + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.34)  
     + [**Security**](https://tomcat.apache.org/security-8.html) 
     + [**Migrating to v8.5.x**](https://tomcat.apache.org/migration-85.html) 
     + [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
     + [Tomcat 8.5x Changelog](https://tomcat.apache.org/tomcat-8.5-doc/changelog.html)   
-  + [**Tomcat 8.0.x** - For Aware IM v6.0-v8.0](http://tomcat.apache.org/) - Jul 5, 2018. **Latest release is Tomcat v`8.0.53`** - Tomcat 8.0 requires Java SE 7 or later. 
+  + [**Tomcat 8.0.x** - For Aware IM v6.0-v8.0](http://tomcat.apache.org/) - Jun 29, 2018. **Latest release is Tomcat v`8.0.53`** - Tomcat 8.0 requires Java SE 7 or later. 
   + [**Tomcat 6 (archived)** - For Aware IM v5.9 Only](http://tomcat.apache.org/) - Apr 2 2017 **Final version Tomcat 6.0.53**  
     + [Download Tomcat **v6** - Aware IM v5.9 Only](https://archive.apache.org/dist/tomcat/tomcat-6/v6.0.53/) - Support for Apache Tomcat 6.0.x has ended on 31 December 2016.
   + **Tomcat SSL/TLS Configuration HOW-TO** - Tomcat documentation. 
