@@ -12,9 +12,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + **Roadmap**
       + **Version 8.2**
         + [x] Multi-developer mode
-<!--
         + [ ] Debugger
--->
         + [x] SAML support (Single Sign On framework)
         + [x] Custom HTML forms 
         + [x] Kanban boards
