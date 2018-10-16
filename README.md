@@ -1,7 +1,8 @@
 # Aware IM Developer Resources
 > Aware IM is a rapid application development tool that lets you create powerful aesthetically appealing web applications quickly. Aware IM developer tools, tips, news and resources. 
 
-  + [**Service & support**](https://rennurapps.freshservice.com/support/home) - Contact us for Aware IM installations and updates, Tomcat upgrades and config, SSL installation & config, Server system & Database optimisation, Java and other techincal server componet updates.
+<!--
+  + [**Service & support**](https://rennurapps.freshservice.com/support/home) - Contact us for Aware IM installations and updates, Tomcat upgrades and config, SSL installation & config, Server system & Database optimisation, Java and other techincal server componet updates. -->
   + [**Changelog**](http://www.awareim.com/changelog/?C=M;O=D) 
 
 #### Software
