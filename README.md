@@ -9,68 +9,41 @@
 Written in 100% Java programming language. Aware IM is based on the plethora of Java technologies such as J2EE application server, JDBC, JMS, JSP/servlets technology, web services etc. These are robust technologies that have been proven in the industry.
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
-  + [**Currently v8.1 build 2477**](http://www.awareim.com/changelog/Readme2477.txt) - 9 Oct, 2018.
-    + **Roadmap**
-      + **Version 8.2**
-        + [x] Multi-developer mode
-        + [x] SAML support (Single Sign On framework)
-        + [x] Custom HTML forms 
-        + [x] Kanban boards
-    + **Latest Improvements in version 8.1**
-      + **2675** - Save Form option for the Start Process operation
-      + **2468** - NEXT_DAY_OF_WEEK and PREV_DAY_OF_WEEK functions
-      + **2467** - Ability to use tag expressions in the URL of a REST service
-    + **Recent Improvements in version 8.1**
-      + 2464 - READ_TEXT_FILE function
-      + 2464 - URL_ENCODE, URL_DECODE functions
-      + 2464 - Ability to disallow "Add record" functionality when tabbing from last row during inline editing using Advanced Scripts for standard query (parser.m_doNotAddNewOnTab=true)
-      + 2460 - DOWNLOAD DOCUMENT action
-      + 2454 - Microsoft Graph added to the list of OAuth providers
-      + 2454 - All exe's are digitally signed
-    + **8.1 Release Improvements**
-      - Tomcat 8.5
-      - EXEC_STRING action
-      - EVAL_STRING function
-      - Support of HTML text in reports: <<Object.HTMLAttribute,html>>
-      - LOG action (put record in the rule log)
-      - LOG CONTEXT action
-      - COMMIT TRANSACTION action
-      - Transaction isolation level for processes
-      - Search Script command now also searches HTML
-      - Space elements vertically and horizontally in Report Designer
-      - Support for "last modified date" in a business space version
-      - Option to not delete a message on the server when handling incoming emails
-      - "Display paging bar only if necessary" property for grids
-      - Vertical column headers in grids
-      - "Max file size" property for document and picture attributes
-      - "Allowed extensions" property for document and picture attributes
-      - Ability to enter dates using masked text input
-      - In a query with inline editing and default operation - if a cell is not editable, the default operation is invoked
-      - Ability to specify section name in ENTER NEW, EDIT and VIEW actions: ENTER NEW Obj USING Main SECTION Main
-      - It is now possible to include shortcuts into editable attributes for calendars (default pop-up form). They are edited as drop downs (similar to inline editing of shortcuts in standard queries)
-       - Borders between multi-attribute cells are displayed in the form designer
-      - Objects put in the Context by an ordered query (FIND ... ORDER BY) maintain their order when processed
-      - Ability to sort attributes in a BO by Name, Type and Required
-      - Ability to save a form when a focus is lost
-    + **8.1 New Features**
-      - Consuming REST services (with OAuth support)
-      - "Dynamic" columns for queries and references - perform calculations on the fly
-      - Picture attributes support storage in file system. If storage happens to be inside web application directory, images are displayed using links to their storage, rather than generated again
-      - New Kendo UI library
-      - Ability to add Calendar widget to the HTML of a content panel in a VP
-      - Support for embedded spreadsheets
-      - New Jasper Reports Library
-      - support for position types of all elements
-      - ability to insert page break anywhere
-      - support for text rotation
-      - justified alignment for text
-      - support for borders for text and images
-      - transparency support for text and rectangles
-      - line spacing improvements, indentation support for text
-      - Table Element
-      - Business space version comparison
-      - Office Online Integration
-
+  + [**Currently v8.2 build 2559**](http://www.awareim.com/changelog/Readme2559.txt) - 25 Oct, 2018.
+    + **New Features in version 8.2**
+      + [x] Multi-developer mode
+      + [x] SAML support (Single Sign On framework)
+      + [x] Custom HTML forms 
+      + [x] Kanban boards
+    + **Recent Improvements in version 8.2**
+    + **8.2 Release Improvements**
+      - 1. Better looking initial visual perspective
+      - 2. Drag and drop between categories
+      - 3. Max. length for text and multiple allowed for refs is displayed in the new attribute dialog
+      - 4. Name dialog appears immediately for new elements
+      - 5. Default grid on a form is no longer displayed as a line - attributes to display are picked at random
+      - 6. AES encryption for MySQL
+      - 7. "Redisplay form" flag when defining Create Object operation
+      - 8. Applicability conditions available for all types of operations
+      - 9. Applicability conditions can be expanded
+      - 10.Last search values are remembered (rules and scripts)
+      - 11.Double click supported in Insert Attributes and Auto-Refresh dialogs
+      - 12.If a category is expanded it is not closed if another item is selected
+      - 13.Pressing F5 during rule editing is hotkey for LoggedInSystemUser
+      - 14.Support for CSS styles and classes for separators in forms
+      - 15. Find string in locale editor
+      - 16.Rename category command
+      - 17.Inline editing of Yes/No fields represented by checkboxes
+      - 18.Ability to insert HTML, Google Map and Gauge cells directly in the form designer
+      - 19.Column Selection Mode button in the form designer
+      - 20.Ability to display item operations on the left of the grid
+      - 21.NEXT_DAY_OF_WEEK,PREV_DAY_OF_WEEK functions
+      - 22.Google Maps key is properly supported
+      - 23.Management of the session timeout at the user level
+      - 24.Mobile platform and whether the system is running in the native mode are available as part of LoginNotification
+      - 25.An option to add a new attribute to a form
+      - 26.Support for "Last Modified" value for all configuration elements. Search by this value.
+      - 27.Agenda view in calendars supports editing of events
 
 <!--  + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com** -->
   + [**Version History**](http://www.awareim.com/changelog/?C=M;O=D)
