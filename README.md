@@ -121,16 +121,16 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + **Google Maps Polygon Areas** from 12:57min
     + **Version 5.6+**
       + [Import/Export Templates](http://awareim.com/tutorials/UDIT/UDIT.html)
-  + [**Documentation** AwareIM version 8.1](http://awareim.com/documentation/) 
-      + [Quick Tour (pdf)](https://www.awareim.com/wp-content/uploads/2018/04/QuickTour.pdf)
-      + [Installation Guide (pdf)](https://www.awareim.com/wp-content/uploads/2018/04/InstallationGuide.pdf) 
-      + [User Guide (pdf)](https://www.awareim.com/wp-content/uploads/2018/04/UserGuide.pdf)
-      + [How To (pdf)](https://www.awareim.com/wp-content/uploads/2018/04/HowTo.pdf) - How to perform certain common tasks in Aware IM.
-      + [Programmer’s Reference (pdf)](https://www.awareim.com/wp-content/uploads/2018/048/ProgrammersReference.pdf) -  Application Programming Interface (API) to the Aware IM software system. 
-      + [Getting Started (pdf)](https://www.awareim.com/wp-content/uploads/2018/04/GettingStarted.pdf)
-      + [Mobile Applications Guide (pdf)](https://www.awareim.com/wp-content/uploads/2018/04/Mobile-Applications.pdf)  
-      + [Rule Language (pdf)](https://www.awareim.com/wp-content/uploads/2018/04/RuleLanguage.pdf) - This document describes the Application Programming Interface (API) to the Aware IM software system.
-      + [Configuration Case Study - Library Application](https://www.awareim.com/wp-content/uploads/2018/04/LibraryCaseStudy.pdf) - The purpose of this document is to show how to configure real world business applications using Aware IM. 
+  + [**Documentation** AwareIM version 8.2](http://awareim.com/documentation/) 
+      + [Quick Tour (pdf)](https://www.awareim.com/wp-content/uploads/2018/10/QuickTour.pdf)
+      + [Installation Guide (pdf)](https://www.awareim.com/wp-content/uploads/2018/10/InstallationGuide.pdf) 
+      + [User Guide (pdf)](https://www.awareim.com/wp-content/uploads/2018/10/UserGuide.pdf)
+      + [How To (pdf)](https://www.awareim.com/wp-content/uploads/2018/10/HowTo.pdf) - How to perform certain common tasks in Aware IM.
+      + [Programmer’s Reference (pdf)](https://www.awareim.com/wp-content/uploads/2018/10/ProgrammersReference.pdf) -  Application Programming Interface (API) to the Aware IM software system. 
+      + [Getting Started (pdf)](https://www.awareim.com/wp-content/uploads/2018/10/GettingStarted.pdf)
+      + [Mobile Applications Guide (pdf)](https://www.awareim.com/wp-content/uploads/2018/10/Mobile-Applications.pdf)  
+      + [Rule Language (pdf)](https://www.awareim.com/wp-content/uploads/2018/10/RuleLanguage.pdf) - This document describes the Application Programming Interface (API) to the Aware IM software system.
+      + [Configuration Case Study - Library Application](https://www.awareim.com/wp-content/uploads/2018/10/LibraryCaseStudy.pdf) - The purpose of this document is to show how to configure real world business applications using Aware IM. 
   + [**Sample Applications**](http://awareim.com/sample-applications/) - 
     + **Live web & mobile applications** - Also available out-of-the-box.
       + [CRM](http://www.awareim.com/crm/) 
