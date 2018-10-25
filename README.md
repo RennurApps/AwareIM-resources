@@ -13,7 +13,6 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + **Roadmap**
       + **Version 8.2**
         + [x] Multi-developer mode
-        + [ ] Debugger
         + [x] SAML support (Single Sign On framework)
         + [x] Custom HTML forms 
         + [x] Kanban boards
@@ -74,8 +73,9 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 
 <!--  + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com** -->
-  + [**Version History**](http://www.awareim.com/changelog/?C=M;O=D) 
-      + :heavy_check_mark: **Currently v8.1** - Builds 2452+
+  + [**Version History**](http://www.awareim.com/changelog/?C=M;O=D)
+      + :heavy_check_mark: **Currently v8.2** - Builds 2559+
+      + **v8.1** - Builds 2452-2477
         + [Aware IM 8.1 released](https://www.awareim.com/aware-im-8-1-released/) - Released Apr 19, 2018
         + [Version 8.1 Overview - Youtube video](https://www.youtube.com/watch?v=sp4OvLR5ALI) - Aware IM version 8.1 features overview.
       + **v8.0** - Builds 2341-2378 
