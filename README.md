@@ -143,15 +143,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + [Library Case Study (pdf)](http://www.awareim.com/wp-content/uploads/2018/04/LibraryCaseStudy.pdf)
       + [Photo Album](http://www.awareim.com/sample-apps/sample_photoalbum.html)
 
-#### Integrations, custom components, connectors and plugins 
-  + Any application offering an API for developers makes it possible to integrate with Aware IM by writing a plugin.
-    + **Business Intelligence** 
-      + **JasperReports® Server** - Self-service Reporting and Analysis Server. 
-      + **Power BI Interactive Data Visualization** - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
-  + Out-of-the-box **Aware IM 8.1** 
-    + **Office Online Integration** 
-    + **Jasper Reports Library**
-    
+   
 #### Developer Community
   + [2018 Aware IM International Delevopers Conference - USA](https://awareimdevelopers.com/2017/11/17/2018-aware-im-developers-international-conference/) - March 31 2018 Providence, Rhode Island, United State
     + [Forum discussion](https://www.awareim.com/forum/viewtopic.php?f=1&t=10114)
@@ -416,7 +408,11 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 #### Hybrid Native Apps
   + **Phonegap** support
 
-#### Extending Aware IM 
+#### Integrations, custom components, connectors and plugins 
+  + Any application offering an API for developers makes it possible to integrate with Aware IM by writing a plugin.
+  + **Business Intelligence** 
+    + **JasperReports® Server** - Self-service Reporting and Analysis Server. 
+    + **Power BI Interactive Data Visualization** - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
   + [**wkhtmltopdf**](http://wkhtmltopdf.org/) - Convert HTML to PDF using Webkit (QtWebKit) 
     + **Requires** [**Microsoft Visual C++ 2015 Redistributable Update 3**](https://www.microsoft.com/en-us/download/details.aspx?id=53840) - Download and install first.
     + **Download wkhtmltopdf**:
