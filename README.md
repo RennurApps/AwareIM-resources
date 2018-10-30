@@ -134,7 +134,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**Sample Applications**](http://awareim.com/sample-applications/) - 
     + **Live web & mobile applications** - Also available out-of-the-box.
       + [CRM](http://www.awareim.com/crm/) 
-      + [RanFab](http://s1.ranfab.com/AwareIM/logonOp.aw?domain=DefaultApplication) - Sheet Metal and Fabrication business (www.idronic.com). User Name: james Password: james
+      + [RanFab](https://s3.ranfab.com/AwareIM/logonOp.aw?domain=DefaultApplication) - Sheet Metal and Fabrication business (www.idronic.com). User Name: james Password: james
       + [Sales Portal](http://www.awareim.com/sample-apps/sample_sales_portal.html) - This fully responsive application represents a portal for a manager of sales.
       + [Issue Resolution](http://www.awareim.com/sample-apps/sample_issue_resolution.html)
       + [Project Management](http://test.awareim.com/AwareIM/logonOp.aw?domain=ProjectManagement&userName=john&password=john) - The application showcases Gantt chart. Gannt chart is an optional feature in v5.9 and is available at additional cost. 
