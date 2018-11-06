@@ -258,10 +258,12 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           + ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from content. Serializable class not available to broker. Reason: java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes. [java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes.]]` 
         -->
     + **Releases**:
-      - [ ] [5.15.6 Release](http://activemq.apache.org/activemq-5156-release.html) - Sep 2018. **Inconsistent vector internals** error. `Java 8` required. 
+      - [ ] [5.15.7 Release](http://activemq.apache.org/activemq-5157-release.html) - Nov 2018. **Inconsistent vector internals** Aware IM error.  
         - Change Log
           - This release enables ActiveMQ client TLS hostname validation by default which can cause a client connection failure for server certificates that do not match the server hostname. Please refer to SSL Transport Reference for configuration and [AMQ-7047](https://issues.apache.org/jira/browse/AMQ-7047) for more information.
-          - This release affects applications using ObjectMessages. 
+          - Java 8 Required - The minimum Java version has been upgraded to Java 8.
+          - This release affects applications using ObjectMessages.  
+        - Aware IM 8.2 - Not Tested.
         - Aware IM 8.1
           - Configurator won't start
           - Browser won't load the app
