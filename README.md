@@ -9,13 +9,15 @@
 Written in 100% Java programming language. Aware IM is based on the plethora of Java technologies such as J2EE application server, JDBC, JMS, JSP/servlets technology, web services etc. These are robust technologies that have been proven in the industry.
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
-  + [**Currently v8.2 build 2561**](http://www.awareim.com/changelog/Readme2561.txt) - 5 Nov, 2018.
+  + [**Currently v8.2 build 2562**](http://www.awareim.com/changelog/Readme2562.txt) - 13 Nov, 2018.
     + **New Features in version 8.2**
       + [x] Multi-developer mode
       + [x] SAML support (Single Sign On framework)
       + [x] Custom HTML forms 
       + [x] Kanban boards
     + **Recent Improvements in version 8.2**
+      - 2562 - Documents used inside HTML cells return file name and so can now be displayed inside an IFRAME
+      - 2562 - Values for Kanban columns support tag expressions
       - 2561 - It is now possible to capture HTTP response codes in REST
     + **8.2 Release Improvements**
       01. Better looking initial visual perspective
@@ -75,7 +77,13 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + **v5.5** - Builds 1588-1617
   + [**Video Tutorials**](http://www.awareim.com/video-tutorials/) - Highly Recommended
     + [**Aware IM Youtube channel**](https://www.youtube.com/user/awareim1/featured) - Latest Aware IM video tutorials. 
-    + **Version 7.1**
+    + **Version 8.2**
+      + [**Creating Kanban Boards**](https://www.youtube.com/watch?v=leQmXl7cMz4)
+      + [**Using Custom HML Forms**](https://www.youtube.com/watch?v=32Y7ouvWftM) 
+      + [**Concurrent development**](https://www.youtube.com/watch?v=KaAw-QYd30g)
+    + **Version 8.0+**
+      + [**Consuming REST-ful services**](https://www.youtube.com/watch?v=jfxmRRHlcaA)
+    + **Version 7.1+**
       + [**Push notifications**](https://www.youtube.com/watch?v=hSEIFSTg0kI) - Send push notifications to Android and iOS devices from your native mobile applications. 
       + [**Form and grid styles**](https://www.youtube.com/watch?v=dW8vmJ-6HzI) - Be more efficient when defining your forms and queries – create form and grid styles and reuse them easily.
       + [**Using AutoRefresh Feature in Aware IM**](https://www.youtube.com/watch?v=uaxst4z9mzU) - This video tutorial explains how to use the "automatic refresh" feature in Aware IM.
