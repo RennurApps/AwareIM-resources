@@ -51,19 +51,20 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 <!--  + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com** -->
   + [**Version History**](http://www.awareim.com/changelog/?C=M;O=D)
       + :heavy_check_mark: **Currently v8.2** - Builds 2559+
+        + [Aware IM 8.2 released](https://www.awareim.com/aware-im-8-2-released/) - Released October 25, 2018
       + **v8.1** - Builds 2452-2477
-        + [Aware IM 8.1 released](https://www.awareim.com/aware-im-8-1-released/) - Released Apr 19, 2018
+        + [Aware IM 8.1 released](https://www.awareim.com/aware-im-8-1-released/) - Released April 19, 2018
         + [Version 8.1 Overview - Youtube video](https://www.youtube.com/watch?v=sp4OvLR5ALI) - Aware IM version 8.1 features overview.
       + **v8.0** - Builds 2341-2378 
-        + [Aware IM 8.0 released](https://www.awareim.com/aware-im-8-0-released/) - August 3, 2017  
+        + [Aware IM 8.0 released](https://www.awareim.com/aware-im-8-0-released/) - Released August 3, 2017  
         + [Version 8.0 Overview - Youtube video](https://www.youtube.com/watch?v=NHvKFZHhADg) - Overview of the new Aware IM version 8.0 (Jun 28, 2017)
       + **v7.1** - Builds 2223-2240
-        + [Aware IM 7.1 released](http://www.awareim.com/aware-im-7-1-released/) - September 6, 2016 
+        + [Aware IM 7.1 released](http://www.awareim.com/aware-im-7-1-released/) - Released September 6, 2016 
       + **v7.0** - Builds 2144-2181
-        + [Aware IM 7.0 released](http://www.awareim.com/aware-im-7-0-released/) - February 8, 2016
+        + [Aware IM 7.0 released](http://www.awareim.com/aware-im-7-0-released/) - Released February 8, 2016
           + [Watch a video about version 7.0](https://youtu.be/p5Q-YYAd6Fs)
       + **v6.0** - Builds 2010-2056 
-        + [Aware IM 6.0 released](http://awareim.com/aware-im-6-0-released/) - January 9, 2015
+        + [Aware IM 6.0 released](http://awareim.com/aware-im-6-0-released/) - Released January 9, 2015
       + **v5.9** - Builds 1881-1908
         + [Aware IM 5.9 released](http://awareim.com/aware-im-5-9-released/) - 
           + Improvements
