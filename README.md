@@ -9,7 +9,7 @@
 Written in 100% Java programming language. Aware IM is based on the plethora of Java technologies such as J2EE application server, JDBC, JMS, JSP/servlets technology, web services etc. These are robust technologies that have been proven in the industry.
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
-  + [**Currently v8.2 build 2563**](http://www.awareim.com/changelog/Readme2563.txt) - 21 Nov, 2018.
+  + [**Currently v8.2 build 2565**](http://www.awareim.com/changelog/Readme2565.txt) - 06 Dec, 2018.
     + **New Features in version 8.2**
       + [x] Multi-developer mode
       + [x] SAML support (Single Sign On framework)
