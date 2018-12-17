@@ -16,6 +16,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [x] Custom HTML forms 
       + [x] Kanban boards
     + **Recent Improvements in version 8.2**
+      - 2565 - Ability to specify a script for modeless windows
       - 2562 - Documents used inside HTML cells return file name and so can now be displayed inside an IFRAME
       - 2562 - Values for Kanban columns support tag expressions
       - 2561 - It is now possible to capture HTTP response codes in REST
