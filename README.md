@@ -3,19 +3,24 @@
 
 <!--
   + [**Service & support**](https://rennurapps.freshservice.com/support/home) - Contact us for Aware IM installations and updates, Tomcat upgrades and config, SSL installation & config, Server system & Database optimisation, Java and other techincal server componet updates. -->
-  + [**Changelog**](http://www.awareim.com/changelog/?C=M;O=D) 
+  + [**Changelog**](http://www.awareim.com/changelog/?C=M;O=D)
+
+#### Helpdesk - Rennur Apps
+https://rennurapps.freshservice.com
+helpdesk@rennurapps.freshservice.com
 
 #### Software
 Written in 100% Java programming language. Aware IM is based on the plethora of Java technologies such as J2EE application server, JDBC, JMS, JSP/servlets technology, web services etc. These are robust technologies that have been proven in the industry.
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
-  + [**Currently v8.2 build 2569**](http://www.awareim.com/changelog/Readme2569.txt) - 18 Dec, 2018.
+  + [**Currently v8.2 build 2570**](http://www.awareim.com/changelog/Readme2570.txt) - 10 Jan, 2019.
     + **New Features in version 8.2**
       + [x] Multi-developer mode
       + [x] SAML support (Single Sign On framework)
       + [x] Custom HTML forms 
       + [x] Kanban boards
     + **Recent Improvements in version 8.2**
+      - 2570 - "No data found" message displayed for custom queries if there is no data
       - 2565 - Ability to specify a script for modeless windows
       - 2562 - Documents used inside HTML cells return file name and so can now be displayed inside an IFRAME
       - 2562 - Values for Kanban columns support tag expressions
