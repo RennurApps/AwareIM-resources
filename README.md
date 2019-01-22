@@ -302,12 +302,12 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        - [x] [**MySQL Community Server 8.0.13**](http://dev.mysql.com/downloads/mysql/) - 22 Oct 2018. Upgrade from MySQL 5.7 to MySQL 8.0 is only supported using the in-place upgrade method.
-        + [x] [**MySQL Community Server 5.7.24**](http://dev.mysql.com/downloads/mysql/) - 22 Oct 2018.
+        - [x] [**MySQL Community Server 8.0.14**](http://dev.mysql.com/downloads/mysql/) - 21 Jan 2019. Upgrade from MySQL 5.7 to MySQL 8.0 is only supported using the in-place upgrade method.
+        + [x] [**MySQL Community Server 5.7.24**](http://dev.mysql.com/downloads/mysql/) - 21 Jan 2019.
           + **Prerequisite**
             + [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) - 
  MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
-        + [x] [**MySQL Community Server 5.6.42**](https://dev.mysql.com/downloads/mysql/5.6.html) - 22 Oct 2018.
+        + [x] [**MySQL Community Server 5.6.42**](https://dev.mysql.com/downloads/mysql/5.6.html) - 21 Jan 2019.
           + **Prerequisite**
             + [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms. 
         + [x] [**MySQL Community Server 5.5.62**](https://dev.mysql.com/downloads/mysql/5.5.html) - 22 Oct 2018.
@@ -328,7 +328,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       > Prior to Aware IM version 8.1 build 2461, a very old version of Connector/J JDBC driver (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation.
       + [Connector/J Versions](https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-versions.html) and what MySQL and Java JDK Versions they support.
 
-    + :heavy_check_mark: [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version v8.0.13**, 22 Oct 2018. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
+    + :heavy_check_mark: [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version v8.0.14**, 21 Jan 2019. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
       + **Installation (Aware IM 8.1+)**
         + Application Server 
           1. Download `platform independent` version 
