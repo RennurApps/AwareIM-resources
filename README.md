@@ -235,7 +235,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + **End of Public Updates for Oracle JDK 8** after January 2019. - This is a Aware IM scalability issue and needs to be addressed by the Awaresoft support team. 
         + [Oracle Java SE Support Roadmap](http://www.oracle.com/technetwork/java/javase/eol-135779.html) 
       + [JDK 8 Update Release Notes](http://www.oracle.com/technetwork/java/javase/8u-relnotes-2225394.html)
-    + [ ] [Version 10](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - April 17, 2018. As it stands, the key changes in JDK 10 make it incompatible with all versions of Aware IM. 
+    + [ ] [Version 11](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 15, 2019. As it stands, the key changes in JDK 11+ make it incompatible with all versions of Aware IM. 
       + tools.jar has been removed
     + [x] Version bundled with Aware IM:
       + Aware IM v8.2 - `1.8.1` 
