@@ -295,19 +295,19 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 <!--        - Required for Aware IM versions `8.0 build 5357`+ -->
   
   
-  + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.36**. 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition. 
+  + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.37**. 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition. 
     + [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
 
 #### Databases
   + **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
-        - [x] [**MySQL Community Server 8.0.14**](http://dev.mysql.com/downloads/mysql/) - 21 Jan 2019. Upgrade from MySQL 5.7 to MySQL 8.0 is only supported using the in-place upgrade method.
-        + [x] [**MySQL Community Server 5.7.24**](http://dev.mysql.com/downloads/mysql/) - 21 Jan 2019.
+        - [x] [**MySQL Community Server 8.0.15**](http://dev.mysql.com/downloads/mysql/) - 1 Feb 2019. Upgrade from MySQL 5.7 to MySQL 8.0 is only supported using the in-place upgrade method.
+        + [x] [**MySQL Community Server 5.7.25**](http://dev.mysql.com/downloads/mysql/) - 21 Jan 2019.
           + **Prerequisite**
             + [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) - 
  MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
-        + [x] [**MySQL Community Server 5.6.42**](https://dev.mysql.com/downloads/mysql/5.6.html) - 21 Jan 2019.
+        + [x] [**MySQL Community Server 5.6.43**](https://dev.mysql.com/downloads/mysql/5.6.html) - 21 Jan 2019.
           + **Prerequisite**
             + [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms. 
         + [x] [**MySQL Community Server 5.5.62**](https://dev.mysql.com/downloads/mysql/5.5.html) - 22 Oct 2018.
