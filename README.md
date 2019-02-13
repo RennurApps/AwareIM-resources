@@ -189,7 +189,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 > Tomcat 6.0.35 32bit is the default version packaged in the **Aware IM 5.9** server installation.
 
-  + [**Tomcat 9.0.14** - For Aware IM v6.0+](http://tomcat.apache.org/) - 12 Dec, 2018. Tomcat 9 is designed to run on **`Java SE 8`** or later.
+  + [**Tomcat 9.0.16** - For Aware IM v6.0+](http://tomcat.apache.org/) - 4 Feb, 2019. Tomcat 9 is designed to run on **`Java SE 8`** or later.
     + :heavy_check_mark: [**Download Tomcat v9** - Awareim v6.0+](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one. 
       + [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
       + [**Security**](https://tomcat.apache.org/security-9.html) 
@@ -214,8 +214,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             8. Check that there is only one `ecj-4.x.jar` file in the Tomcat/lib folder.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - 18 Dec, 2018. **Latest release is Tomcat v`8.5.37`** (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later. 
-    + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.37)  
+  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - 5 Feb, 2019. **Latest release is Tomcat v`8.5.38`** (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later. 
+    + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.38)  
     + [**Security**](https://tomcat.apache.org/security-8.html) 
     + [**Migrating to v8.5.x**](https://tomcat.apache.org/migration-85.html) 
     + [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
@@ -303,7 +303,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
         - [x] [**MySQL Community Server 8.0.15**](http://dev.mysql.com/downloads/mysql/) - 1 Feb 2019. Upgrade from MySQL 5.7 to MySQL 8.0 is only supported using the in-place upgrade method.
-        + [x] [**MySQL Community Server 5.7.25**](http://dev.mysql.com/downloads/mysql/) - 21 Jan 2019.
+        + [x] [**MySQL Community Server 5.7.25**](https://dev.mysql.com/downloads/mysql/5.7.html) - 21 Jan 2019.
           + **Prerequisite**
             + [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) - 
  MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
@@ -380,7 +380,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 #### Front-end Framework 
   + **Bootstrap** - For Aware IM version 5.x & 6.x only; Aware IM 7.0 has bootstrap integrated as part of Kendo UI.
-    + [Bootstrap v4](https://getbootstrap.com/) - Currently v**4.2.1** - Not tested with AwareIM 6.0 or below. Some v3 features dropped.
+    + [Bootstrap v4](https://getbootstrap.com/) - Currently v**4.3.0** - Not tested with AwareIM 6.0 or below. Some v3 features dropped.
       + [**Download**](https://getbootstrap.com/docs/4.1/getting-started/download/)
       + [**BootstrapCDN**](https://getbootstrap.com/docs/4.1/getting-started/download/#bootstrapcdn) - Cached version of Bootstrap’s compiled CSS and JS.
     + [**Bootstrap v3**](https://getbootstrap.com/docs/3.3/) - v3.3.7 (final).  
