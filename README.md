@@ -13,13 +13,15 @@
 Written in 100% Java programming language. Aware IM is based on the plethora of Java technologies such as J2EE application server, JDBC, JMS, JSP/servlets technology, web services etc. These are robust technologies that have been proven in the industry.
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
-  + [**Currently v8.2 build 2571**](http://www.awareim.com/changelog/Readme2571.txt) - 7 Feb, 2019.
+  + [**Currently v8.2 build 2572**](http://www.awareim.com/changelog/Readme2572.txt) - 15 Mar, 2019.
     + **New Features in version 8.2**
       + [x] Multi-developer mode
       + [x] SAML support (Single Sign On framework)
       + [x] Custom HTML forms 
       + [x] Kanban boards
     + **Recent Improvements in version 8.2**
+      - 2572 - Push notifications: GCM deprecated and replaced with FCM
+        - [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)
       - 2570 - "No data found" message displayed for custom queries if there is no data
       - 2565 - Ability to specify a script for modeless windows
       - 2562 - Documents used inside HTML cells return file name and so can now be displayed inside an IFRAME
