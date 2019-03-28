@@ -1,5 +1,5 @@
-# Aware IM Developer Resources
-> Aware IM is a rapid low-code application development tool that lets you create powerful aesthetically appealing web applications quickly. Aware IM developer tools, tips, news and resources. 
+# Aware IM Developer - Server Components, Resources and Dependencies 
+> Aware IM is a rapid low-code application development tool that lets you create powerful aesthetically appealing web applications quickly. 
 
 <!--
   + [**Service & support**](https://rennurapps.freshservice.com/support/home) - Contact us for Aware IM installations and updates, Tomcat upgrades and config, SSL installation & config, Server system & Database optimisation, Java and other techincal server componet updates. -->
