@@ -191,11 +191,13 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 > Tomcat 6.0.35 32bit is the default version packaged in the **Aware IM 5.9** server installation.
 
-  + [**Tomcat 9.0.17** - For Aware IM v6.0+](http://tomcat.apache.org/) - 13 Mar, 2019. Tomcat 9 is designed to run on **`Java SE 8`** or later.
+  + [**Tomcat 9.0.19** - For Aware IM v6.0+](http://tomcat.apache.org/) - 12 Apr, 2019. Tomcat 9 is designed to run on **`Java SE 8`** or later.
     + :heavy_check_mark: [**Download Tomcat v9** - Awareim v6.0+](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working. Don't forget to copy the latest version of **tools.jar** to the C:\Awareim\Tomcat\lib folder to replace the old one. 
       + [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
       + [**Security**](https://tomcat.apache.org/security-9.html) 
         + **Important fixes**
+          - `9.0.19` Remote Code Execution on Windows `CVE-2019-0232` - Affects: 9.0.0.M1 to 9.0.17
+          - `9.0.16` Denial of Service `CVE-2019-0199` - Affects: 9.0.0.M1 to 9.0.14
           - `9.0.10` Information Disclosure `CVE-2018-8037`
           - `9.0.8` A bug in the UTF-8 decoder can lead to DoS `CVE-2018-1336`
           - `9.0.5` Security constraint annotations applied too late `CVE-2018-1305`
@@ -216,8 +218,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             8. Check that there is only one `ecj-4.x.jar` file in the Tomcat/lib folder.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - 5 Feb, 2019. **Latest release is Tomcat v`8.5.38`** (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later. 
-    + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.38)  
+  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - 10 Apr, 2019. **Latest release is Tomcat v`8.5.40`** (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later. 
+    + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.40)  
     + [**Security**](https://tomcat.apache.org/security-8.html) 
     + [**Migrating to v8.5.x**](https://tomcat.apache.org/migration-85.html) 
     + [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
@@ -277,7 +279,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           + ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from content. Serializable class not available to broker. Reason: java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes. [java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes.]]` 
         -->
     + **Releases**:
-      - [ ] [5.15.9 Release](http://activemq.apache.org/activemq-5159-release.html) - Mar 2019. **Inconsistent vector internals** Aware IM error.  
+      - [ ] [5.15.9 Release](http://activemq.apache.org/activemq-5159-release.html) - Mar 19, 2019. **Inconsistent vector internals** Aware IM error.  
         - Change Log
           - This release enables ActiveMQ client TLS hostname validation by default which can cause a client connection failure for server certificates that do not match the server hostname. Please refer to SSL Transport Reference for configuration and [AMQ-7047](https://issues.apache.org/jira/browse/AMQ-7047) for more information.
           - Java 8 Required - The minimum Java version has been upgraded to Java 8.
