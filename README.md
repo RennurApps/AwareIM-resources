@@ -158,7 +158,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [Project Management](http://test.awareim.com/AwareIM/logonOp.aw?domain=ProjectManagement&userName=john&password=john) - The application showcases Gantt chart. Gannt chart is an optional feature in v5.9 and is available at additional cost. 
       + [Event Registration](http://www.awareim.com/sample-apps/sample_events.html) 
       + [Library Management](http://www.awareim.com/library)
-        + [Library Case Study (pdf)](http://www.awareim.com/wp-content/uploads/2018/04/LibraryCaseStudy.pdf)
+        + [Library Case Study (pdf)](http://www.awareim.com/wp-content/uploads/2018/10/LibraryCaseStudy.pdf)
       + [Photo Album](http://www.awareim.com/sample-apps/sample_photoalbum.html)
 
    
