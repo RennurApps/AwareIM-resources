@@ -93,7 +93,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [**Using Custom HML Forms**](https://www.youtube.com/watch?v=32Y7ouvWftM) 
       + [**Concurrent development**](https://www.youtube.com/watch?v=KaAw-QYd30g)
     + **Version 8.0+**
-      + [**Consuming REST-ful services**](https://www.youtube.com/watch?v=jfxmRRHlcaA) - Apr 17, 20186666
+      + [**Consuming REST-ful services**](https://www.youtube.com/watch?v=jfxmRRHlcaA) - Apr 17, 2018
     + **Version 7.1+**
       + [**Push notifications**](https://www.youtube.com/watch?v=hSEIFSTg0kI) - Send push notifications to Android and iOS devices from your native mobile applications. 
       + [**Form and grid styles**](https://www.youtube.com/watch?v=dW8vmJ-6HzI) - Be more efficient when defining your forms and queries – create form and grid styles and reuse them easily.
