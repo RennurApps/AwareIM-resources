@@ -87,7 +87,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**Video Tutorials**](http://www.awareim.com/video-tutorials/) - Highly Recommended
     + [**Aware IM Youtube channel**](https://www.youtube.com/user/awareim1/featured) - Latest Aware IM video tutorials. 
     + **Version 8.2**
-      * [**Consuming REST-ful services](https://www.youtube.com/watch?v=HTjwfp80AbU) -  May 13, 2019. Demonstarates new features in Aware IM 8.3 beta release.
+      * [**Consuming REST-ful services**](https://www.youtube.com/watch?v=HTjwfp80AbU) -  May 13, 2019. Demonstarates new features in [Aware IM 8.3 beta release](https://awareim.com/forum/viewtopic.php?f=1&t=11026).
       + [**Sending push notifications**](https://www.youtube.com/watch?v=VwQyZ2oCvC0)
       + [**Creating Kanban Boards**](https://www.youtube.com/watch?v=leQmXl7cMz4)
       + [**Using Custom HML Forms**](https://www.youtube.com/watch?v=32Y7ouvWftM) 
