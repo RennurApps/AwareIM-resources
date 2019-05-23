@@ -13,7 +13,14 @@
 Written in 100% Java programming language. Aware IM is based on the plethora of Java technologies such as J2EE application server, JDBC, JMS, JSP/servlets technology, web services etc. These are robust technologies that have been proven in the industry.
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
-  + [**Currently v8.2 build 2574**](http://www.awareim.com/changelog/Readme2574.txt) - 28 Mar, 2019.
+  + [**Currently v8.3 build 2613**] - 23 May, 2019. 
+    + **New Features in version 8.3**  
+      + [x] Relationships diagrams with the ability to edit relationships 
+      + [x] Process diagrams with the ability to show sub-processes
+    + 8.3 Release Improvements 
+      +  REST improvements
+      
+  + [v8.2] - 28 Mar, 2019.
     + **New Features in version 8.2**
       + [x] Multi-developer mode
       + [x] SAML support (Single Sign On framework)
@@ -27,34 +34,6 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       - 2562 - Documents used inside HTML cells return file name and so can now be displayed inside an IFRAME
       - 2562 - Values for Kanban columns support tag expressions
       - 2561 - It is now possible to capture HTTP response codes in REST
-    + **8.2 Release Improvements**
-      01. Better looking initial visual perspective
-      02. Drag and drop between categories
-      03. Max. length for text and multiple allowed for refs is displayed in the new attribute dialog
-      04. Name dialog appears immediately for new elements
-      05. Default grid on a form is no longer displayed as a line - attributes to display are picked at random
-      06. AES encryption for MySQL
-      07. "Redisplay form" flag when defining Create Object operation
-      08. Applicability conditions available for all types of operations
-      09. Applicability conditions can be expanded
-      10. Last search values are remembered (rules and scripts)
-      11. Double click supported in Insert Attributes and Auto-Refresh dialogs
-      12. If a category is expanded it is not closed if another item is selected
-      13. Pressing F5 during rule editing is hotkey for LoggedInSystemUser
-      14. Support for CSS styles and classes for separators in forms
-      15. Find string in locale editor
-      16. Rename category command
-      17. Inline editing of Yes/No fields represented by checkboxes
-      18. Ability to insert HTML, Google Map and Gauge cells directly in the form designer
-      19. Column Selection Mode button in the form designer
-      20. Ability to display item operations on the left of the grid
-      21. NEXT_DAY_OF_WEEK,PREV_DAY_OF_WEEK functions
-      22. Google Maps key is properly supported
-      23. Management of the session timeout at the user level
-      24. Mobile platform and whether the system is running in the native mode are available as part of LoginNotification
-      25. An option to add a new attribute to a form
-      26. Support for "Last Modified" value for all configuration elements. Search by this value.
-      27. Agenda view in calendars supports editing of events
 
 <!--  + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com** -->
   + [**Version History**](http://www.awareim.com/changelog/?C=M;O=D)
