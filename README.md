@@ -13,12 +13,29 @@
 Written in 100% Java programming language. Aware IM is based on the plethora of Java technologies such as J2EE application server, JDBC, JMS, JSP/servlets technology, web services etc. These are robust technologies that have been proven in the industry.
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
-  + **Currently v8.3 build 2613** - 23 May, 2019. 
+  + [**Currently v8.3 build 2614**](https://www.awareim.com/changelog/Readme2614.txt) - 23 May, 2019. 
     + **New Features in version 8.3**  
       + [x] Relationships diagrams with the ability to edit relationships 
       + [x] Process diagrams with the ability to show sub-processes
     + 8.3 Release Improvements 
       +  REST improvements
+      +  Visibility conditions for Kanban columns
+      +  Support for background color, text color and CSS class in operation buttons and menu items
+      +  Font Awesome 5 integrated
+      +  Support for icon color
+      +  Native support for Maria DB
+      +  Values for item rules styles can be edited inline
+      +  Comments in rules (/* ... */)
+      +  Systems using SQL Server, Maria DB and Oracle now use database sequences to generate ID's instead of BAS_IDGEN table
+      +  Attribute styles and icon rules merged into "presentation rules". Display format and input masks supported too.
+      +  Display format and masks support tag expressions.
+      +  Aggregation for non-dates supported in charts
+      +  "Display format" for values of the Y axis in charts
+      +  Ability to run custom Javascript from panel operation, operation on record or menu item
+      +  Extra Javascript operations (that can be helpful when integrating custom mobile plugins)
+      +  Programmers Reference Guide describes in detail how to integrate custom Cordova plugins for native mobile apps
+      +  Support for "output" when creating buttons in a visual perspective
+      +  Ability to display blanks instead of zeroes in queries.
       
   + v8.2 - 28 Mar, 2019.
     + **New Features in version 8.2**
