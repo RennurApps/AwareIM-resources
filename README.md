@@ -139,16 +139,25 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + **Google Maps Polygon Areas** from 12:57min
     + **Version 5.6+**
       + [Import/Export Templates](http://awareim.com/tutorials/UDIT/UDIT.html)
-  + [**Documentation** AwareIM version 8.2](http://awareim.com/documentation/) 
-      + [Quick Tour (pdf)](https://www.awareim.com/wp-content/uploads/2018/10/QuickTour.pdf)
-      + [Installation Guide (pdf)](https://www.awareim.com/wp-content/uploads/2018/10/InstallationGuide.pdf) 
-      + [User Guide (pdf)](https://www.awareim.com/wp-content/uploads/2018/10/UserGuide.pdf)
-      + [How To (pdf)](https://www.awareim.com/wp-content/uploads/2018/10/HowTo.pdf) - How to perform certain common tasks in Aware IM.
-      + [Programmer’s Reference (pdf)](https://www.awareim.com/wp-content/uploads/2018/10/ProgrammersReference.pdf) -  Application Programming Interface (API) to the Aware IM software system. 
-      + [Getting Started (pdf)](https://www.awareim.com/wp-content/uploads/2018/10/GettingStarted.pdf)
-      + [Mobile Applications Guide (pdf)](https://www.awareim.com/wp-content/uploads/2018/10/Mobile-Applications.pdf)  
-      + [Rule Language (pdf)](https://www.awareim.com/wp-content/uploads/2018/10/RuleLanguage.pdf) - This document describes the Application Programming Interface (API) to the Aware IM software system.
-      + [Configuration Case Study - Library Application](https://www.awareim.com/wp-content/uploads/2018/10/LibraryCaseStudy.pdf) - The purpose of this document is to show how to configure real world business applications using Aware IM. 
+  + [**Documentation** AwareIM version 8.3](http://awareim.com/documentation/) 
+      + [Quick Tour (pdf)](https://www.awareim.com/wp-content/uploads/2019/05/QuickTour.pdf)
+        + [v8.2](https://www.awareim.com/wp-content/uploads/2018/10/QuickTour.pdf)
+      + [Installation Guide (pdf)](https://www.awareim.com/wp-content/uploads/2019/05/InstallationGuide.pdf)
+        + (https://www.awareim.com/wp-content/uploads/2018/10/InstallationGuide.pdf) 
+      + [User Guide (pdf)](https://www.awareim.com/wp-content/uploads/2019/05/UserGuide.pdf)
+        + (https://www.awareim.com/wp-content/uploads/2018/10/UserGuide.pdf)
+      + [How To (pdf)](https://www.awareim.com/wp-content/uploads/2019/05/HowTo.pdf) - This document describes how to perform certain common tasks in Aware IM.
+        + (https://www.awareim.com/wp-content/uploads/2018/10/HowTo.pdf) 
+      + [Programmer’s Reference (pdf)](https://www.awareim.com/wp-content/uploads/2019/05/ProgrammersReference.pdf) -  Application Programming Interface (API) to the Aware IM software system. 
+        + (https://www.awareim.com/wp-content/uploads/2018/10/ProgrammersReference.pdf)
+      + [Getting Started (pdf)](https://www.awareim.com/wp-content/uploads/2019/05/GettingStarted.pdf) - This document describes basic steps required to configure, test and deploy applications using Aware IM.
+        + (https://www.awareim.com/wp-content/uploads/2018/10/GettingStarted.pdf)
+      + [Mobile Applications Guide (pdf)](https://www.awareim.com/wp-content/uploads/2019/05/Mobile-Applications.pdf) 
+        + (https://www.awareim.com/wp-content/uploads/2018/10/Mobile-Applications.pdf)  
+      + [Rule Language Reference (pdf)](https://www.awareim.com/wp-content/uploads/2019/05/RuleLanguage.pdf) - The rule language is used to specify rules, queries, tags and other configuration elements. 
+        + (https://www.awareim.com/wp-content/uploads/2018/10/RuleLanguage.pdf) - The purpose of this document is to show how to configure real world business applications using Aware IM. 
+      + [Configuration Case Study - Library Application](https://www.awareim.com/wp-content/uploads/2019/05/LibraryCaseStudy.pdf) 
+        + (https://www.awareim.com/wp-content/uploads/2018/10/LibraryCaseStudy.pdf) 
   + [**Sample Applications**](http://awareim.com/sample-applications/) - 
     + **Live web & mobile applications** - Also available out-of-the-box.
       + [CRM](http://www.awareim.com/crm/) 
