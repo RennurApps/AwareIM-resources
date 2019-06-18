@@ -268,7 +268,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [**javax.mail.jar**](https://github.com/javaee/javamail/releases/download/JAVAMAIL-1_6_2/javax.mail.jar) 
       + [MVNRepository](https://mvnrepository.com/artifact/com.sun.mail/javax.mail) - JavaMail API
     + **Installation** 
-      + Rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_ 
+      + In **v8.3**, rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\lib`_ 
+      + In **v8.2** and below, rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_ 
       + Restart Aware IM server
       
 
@@ -306,7 +307,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           - Browser won't load the app
       - [x] [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - :+1: **Tested and working with Tomcat 6, 8 & 9**.  
         + Installation
-          + Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib 
+          + In **v8.3**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\lib 
+          + In **v8.2 and below**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib
       - [x] [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server installation.
         + [**Bugs in 5.8.0+**](https://issues.apache.org/jira/browse/AMQ-4413?jql=project%20%3D%20AMQ%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20priority%20in%20(Blocker%2C%20Critical)%20AND%20resolution%20in%20(Fixed%2C%20Resolved)%20AND%20affectedVersion%20in%20(5.10.0%2C%205.10.1%2C%205.10.2%2C%205.11.0%2C%205.11.1%2C%205.11.2%2C%205.11.3%2C%205.11.4%2C%205.12.0%2C%205.12.1%2C%205.12.2%2C%205.12.3%2C%205.13.0%2C%205.13.1%2C%205.13.2%2C%205.13.3%2C%205.13.4%2C%205.13.5%2C%205.14.0%2C%205.14.1%2C%205.14.2%2C%205.14.3%2C%205.14.4%2C%205.14.5%2C%205.15.0%2C%205.15.1%2C%205.15.2%2C%205.15.3%2C%205.15.4%2C%205.15.5%2C%205.15.6%2C%205.15.7%2C%205.15.8%2C%205.15.9%2C%205.8.0%2C%205.9.0%2C%205.9.1)%20ORDER%20BY%20affectedVersion%20ASC%2C%20priority%20ASC%2C%20updated%20DESC)
 <!--        - [x] Works with Aware IM `5.9`, `6.0`, `7.0`, `7.1` and up to **`8.0 build 2355`** -->
@@ -355,7 +357,9 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + Application Server 
           1. Download `platform independent` version 
           2. Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-java-5.1.46-bin.jar` 
-          3. Copy and replace the existing file in `C:\AwareIM\Tomcat\lib`
+          3. Copy and replace the existing file in 
+              + **v8.3**, `C:\AwareIM\lib`
+              + **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
 
     + :heavy_check_mark: [**Connector/J 5.1.x**](https://dev.mysql.com/downloads/connector/j/5.1.html) - **Latest version v5.1.47**, 17 August 2018. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.  
@@ -367,7 +371,9 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + Application Server
           1. Download `platform independent` version 
           2. Extract the files and rename `mysql-connector-java-5.x.xx-bin.jar` to `mysql-connector-java-3.1.12-bin.jar` 
-          3. Copy and replace the existing file in `C:\AwareIM\Tomcat\lib`
+          3. Copy and replace the existing file in:
+              + **v8.3**, `C:\AwareIM\lib`
+              + **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
 
 #### **Web Application Framework** - HTML5/JS Framework
