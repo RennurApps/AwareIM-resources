@@ -226,8 +226,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             4. Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
             5. Press `Ctrl+v` to paste and replace all files and folders.
             6. Java JDK tools.jar: 
-              + **In v8.3**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\lib folder to replace the old one. 
-              + **In v8.2 and below**,  if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one. 
+                + **In v8.3**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\lib folder to replace the old one. 
+                + **In v8.2 and below**,  if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one. 
             8. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
             9. Check that there is only one `ecj-4.x.jar` file in the Tomcat/lib folder.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
