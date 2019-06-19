@@ -321,7 +321,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
 
 #### Databases
-  + **MySQL**
+  + ##### **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
         - [x] [**MySQL Community Server 8.0.16**](http://dev.mysql.com/downloads/mysql/) - 25 Apr 2019. Upgrade from MySQL 5.7 to MySQL 8.0 is only supported using the in-place upgrade method.
@@ -333,7 +333,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           + **Prerequisite**
             + [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms. 
         + [x] [**MySQL Community Server 5.5.62**](https://dev.mysql.com/downloads/mysql/5.5.html) - 22 Oct 2018.
-  + **Apache Derby** - [Home](http://db.apache.org/derby/)
+  + ##### **Apache Derby** - [Home](http://db.apache.org/derby/)
     + **For Java 9 and higher**
       + [ ] [10.15.1.3](https://db.apache.org/derby/releases/release-10.15.1.3.cgi) - (March 5, 2019)
     + **For Java 8**
@@ -356,7 +356,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + [**MariaDB version 10.4.6**](https://downloads.mariadb.org/mariadb/10.4.6/) - 18 June 2019. 
         
 #### Database Connectors
-  + [**MySQL Connectors**](https://www.mysql.com/products/connector/) - :grey_exclamation:**UPDATE TO VERSION 8.x HIGHLY RECOMMENDED**:grey_exclamation: 
+  + ##### [**MySQL Connectors**](https://www.mysql.com/products/connector/) - :grey_exclamation:**UPDATE TO VERSION 8.x HIGHLY RECOMMENDED**:grey_exclamation: 
       > From version 8.1 build 2461 onwards, Aware IM uses Connector/J JDBC driver version 5.1.46. JDBC driver communicates with MySQL servers.
 
       > Prior to Aware IM version 8.1 build 2461, a very old version of Connector/J JDBC driver (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation.
@@ -385,6 +385,9 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
               + **v8.3**, `C:\AwareIM\lib`
               + **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
+  + ##### [**MariaDB Connector/J**](https://mariadb.com/kb/en/library/about-mariadb-connector-j/) - **Latest version `v2.4.2`**, 17 June 2019. Type 4 JDBC driver.
+    + 
+
 
 #### **Web Application Framework** - HTML5/JS Framework
   + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization. 
