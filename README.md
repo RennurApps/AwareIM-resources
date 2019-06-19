@@ -344,6 +344,16 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [x] [Apache Derby 10.12.1.1](https://db.apache.org/derby/releases/release-10.12.1.1.cgi) - (October 11, 2015)
       + [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
     + Downloads [http://db.apache.org/derby/derby_downloads.html](http://db.apache.org/derby/derby_downloads.html)
+  + ##### **Maria DB** 
+    + [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License. 
+      + **Operating Systems**
+        + [x] DEB Package
+        + [x] Generic Linux
+        + [x] RPM Package
+        + [x] Source Code
+        + [x] Windows
+      + [**Download**](https://mariadb.org/download/)
+        + [**MariaDB version 10.4.6**](https://downloads.mariadb.org/mariadb/10.4.6/) - 18 June 2019. 
         
 #### Database Connectors
   + [**MySQL Connectors**](https://www.mysql.com/products/connector/) - :grey_exclamation:**UPDATE TO VERSION 8.x HIGHLY RECOMMENDED**:grey_exclamation: 
