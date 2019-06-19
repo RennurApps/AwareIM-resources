@@ -362,7 +362,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       > Prior to Aware IM version 8.1 build 2461, a very old version of Connector/J JDBC driver (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation.
       + [Connector/J Versions](https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-versions.html) and what MySQL and Java JDK Versions they support.
 
-    + :heavy_check_mark: [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version v8.0.16**, 25 Apr 2019. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
+    + :heavy_check_mark: [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.0.16`**, 25 Apr 2019. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
       + **Installation (Aware IM 8.1+)**
         + Application Server 
           1. Download `platform independent` version 
@@ -372,7 +372,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
               + **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
 
-    + :heavy_check_mark: [**Connector/J 5.1.x**](https://dev.mysql.com/downloads/connector/j/5.1.html) - **Latest version v5.1.47**, 17 August 2018. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.  
+    + :heavy_check_mark: [**Connector/J 5.1.x**](https://dev.mysql.com/downloads/connector/j/5.1.html) - **Latest version `v5.1.47`**, 17 August 2018. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.  
 
       + [**Download**](https://dev.mysql.com/downloads/connector/j/5.1.html) - Download the latest **Platform Independent** version. 
       + [Changes and Release Notes](https://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
@@ -385,8 +385,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
               + **v8.3**, `C:\AwareIM\lib`
               + **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
-  + ##### [**MariaDB Connector/J**](https://mariadb.com/kb/en/library/about-mariadb-connector-j/) - **Latest version `v2.4.2`**, 17 June 2019. Type 4 JDBC driver.
-    + 
+  + ##### [**MariaDB Connector/J**](https://mariadb.com/kb/en/library/about-mariadb-connector-j/) - **Latest version `v2.4.2`**, 17 June 2019. Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+.
+      > Aware IM Version 8.3 uses MariaDB Connector/J  driver version `2.3.0` (7 September 2018).
 
 
 #### **Web Application Framework** - HTML5/JS Framework
