@@ -284,6 +284,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [**Vulnerability Details : CVE-2014-3612**](https://www.cvedetails.com/cve/CVE-2014-3612/) - The LDAPLoginModule implementation in the Java Authentication and Authorization Service (JAAS) in Apache ActiveMQ 5.x before **`5.10.1`** allows remote attackers to bypass authentication by logging in with an empty password and valid username, which triggers an unauthenticated bind. NOTE: this identifier has been SPLIT per ADT2 due to different vulnerability types. See CVE-2015-6524 for the use of wildcard operators in usernames.
     -->
     + [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab.
+    + [**Bugs in `5.8.0+`**](https://issues.apache.org/jira/browse/AMQ-4413?jql=project%20%3D%20AMQ%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20priority%20in%20(Blocker%2C%20Critical)%20AND%20resolution%20in%20(Fixed%2C%20Resolved)%20AND%20affectedVersion%20in%20(5.10.0%2C%205.10.1%2C%205.10.2%2C%205.11.0%2C%205.11.1%2C%205.11.2%2C%205.11.3%2C%205.11.4%2C%205.12.0%2C%205.12.1%2C%205.12.2%2C%205.12.3%2C%205.13.0%2C%205.13.1%2C%205.13.2%2C%205.13.3%2C%205.13.4%2C%205.13.5%2C%205.14.0%2C%205.14.1%2C%205.14.2%2C%205.14.3%2C%205.14.4%2C%205.14.5%2C%205.15.0%2C%205.15.1%2C%205.15.2%2C%205.15.3%2C%205.15.4%2C%205.15.5%2C%205.15.6%2C%205.15.7%2C%205.15.8%2C%205.15.9%2C%205.8.0%2C%205.9.0%2C%205.9.1)%20ORDER%20BY%20affectedVersion%20ASC%2C%20priority%20ASC%2C%20updated%20DESC)
       <!-- 
       + **Inconsistent vector internals** - ActiveMQ **`5.15.5+`**. 
         + **Server Output:**
@@ -310,18 +311,13 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           + In **v8.3**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\lib 
           + In **v8.2 and below**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib
       - [x] [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server installation.
-        + [**Bugs in 5.8.0+**](https://issues.apache.org/jira/browse/AMQ-4413?jql=project%20%3D%20AMQ%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20priority%20in%20(Blocker%2C%20Critical)%20AND%20resolution%20in%20(Fixed%2C%20Resolved)%20AND%20affectedVersion%20in%20(5.10.0%2C%205.10.1%2C%205.10.2%2C%205.11.0%2C%205.11.1%2C%205.11.2%2C%205.11.3%2C%205.11.4%2C%205.12.0%2C%205.12.1%2C%205.12.2%2C%205.12.3%2C%205.13.0%2C%205.13.1%2C%205.13.2%2C%205.13.3%2C%205.13.4%2C%205.13.5%2C%205.14.0%2C%205.14.1%2C%205.14.2%2C%205.14.3%2C%205.14.4%2C%205.14.5%2C%205.15.0%2C%205.15.1%2C%205.15.2%2C%205.15.3%2C%205.15.4%2C%205.15.5%2C%205.15.6%2C%205.15.7%2C%205.15.8%2C%205.15.9%2C%205.8.0%2C%205.9.0%2C%205.9.1)%20ORDER%20BY%20affectedVersion%20ASC%2C%20priority%20ASC%2C%20updated%20DESC)
-<!--        - [x] Works with Aware IM `5.9`, `6.0`, `7.0`, `7.1` and up to **`8.0 build 2355`** -->
-<!--          - For Aware IM `8.0 builds 2357`+ use the packaged ActiveMQ `5.8.0`. -->
-<!--            - The reason is that `build 5357` security fix prevents the use of later versions of ActiveMQ. -->
-<!--        - Required for Aware IM versions `8.0 build 5357`+ -->
-  
+
   
   + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.37**. 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition. 
     + [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
 
 #### Databases
-  + ##### **MySQL**
+  + #### **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
         - [x] [**MySQL Community Server 8.0.16**](http://dev.mysql.com/downloads/mysql/) - 25 Apr 2019. Upgrade from MySQL 5.7 to MySQL 8.0 is only supported using the in-place upgrade method.
@@ -333,7 +329,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           + **Prerequisite**
             + [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms. 
         + [x] [**MySQL Community Server 5.5.62**](https://dev.mysql.com/downloads/mysql/5.5.html) - 22 Oct 2018.
-  + ##### **Apache Derby** - [Home](http://db.apache.org/derby/)
+  + #### **Apache Derby** - [Home](http://db.apache.org/derby/)
     + **For Java 9 and higher**
       + [ ] [10.15.1.3](https://db.apache.org/derby/releases/release-10.15.1.3.cgi) - (March 5, 2019)
     + **For Java 8**
@@ -344,7 +340,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [x] [Apache Derby 10.12.1.1](https://db.apache.org/derby/releases/release-10.12.1.1.cgi) - (October 11, 2015)
       + [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
     + Downloads [http://db.apache.org/derby/derby_downloads.html](http://db.apache.org/derby/derby_downloads.html)
-  + ##### **Maria DB** 
+  + #### **Maria DB** 
     + [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License. 
       + **Operating Systems**
         + [x] DEB Package
@@ -356,7 +352,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + [**MariaDB version 10.4.6**](https://downloads.mariadb.org/mariadb/10.4.6/) - 18 June 2019. 
         
 #### Database Connectors
-  + ##### [**MySQL Connectors**](https://www.mysql.com/products/connector/) - :grey_exclamation:**UPDATE TO VERSION 8.x HIGHLY RECOMMENDED**:grey_exclamation: 
+  + #### [**MySQL Connectors**](https://www.mysql.com/products/connector/) - :grey_exclamation:**UPDATE TO VERSION 8.x HIGHLY RECOMMENDED**:grey_exclamation: 
       > From version 8.1 build 2461 onwards, Aware IM uses Connector/J JDBC driver version 5.1.46. JDBC driver communicates with MySQL servers.
 
       > Prior to Aware IM version 8.1 build 2461, a very old version of Connector/J JDBC driver (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation.
@@ -385,7 +381,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
               + **v8.3**, `C:\AwareIM\lib`
               + **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
-  + ##### [**MariaDB Connector/J**](https://mariadb.com/kb/en/library/about-mariadb-connector-j/) - **Latest version `v2.4.2`**, 17 June 2019. Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+.
+  + #### [**MariaDB Connector/J**](https://mariadb.com/kb/en/library/about-mariadb-connector-j/) - **Latest version `v2.4.2`**, 17 June 2019. Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+.
       > Aware IM Version 8.3 uses MariaDB Connector/J  driver version `2.3.0` (7 September 2018).
 
 
