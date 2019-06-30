@@ -208,7 +208,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
       + [**Security**](https://tomcat.apache.org/security-9.html) 
         + **Important fixes**
-          - `9.0.20` Denial of Service `CVE-2019-10072` 
+          - `9.0.20` Denial of Service `CVE-2019-10072` - Affects: 9.0.0.M1 to 9.0.19
           - `9.0.19` Remote Code Execution on Windows `CVE-2019-0232` - Affects: 9.0.0.M1 to 9.0.17
           - `9.0.16` Denial of Service `CVE-2019-0199` - Affects: 9.0.0.M1 to 9.0.14
           - `9.0.10` Information Disclosure `CVE-2018-8037`
