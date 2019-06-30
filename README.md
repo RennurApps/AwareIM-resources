@@ -239,7 +239,6 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**Migrating to v8.5.x**](https://tomcat.apache.org/migration-85.html) 
     + [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
     + [Tomcat 8.5x Changelog](https://tomcat.apache.org/tomcat-8.5-doc/changelog.html)   
-  + [**Tomcat 8.0.x** - For Aware IM v6.0-v8.0](http://tomcat.apache.org/) - Jun 29, 2018. **Latest release is Tomcat v`8.0.53`** - Tomcat 8.0 requires Java SE 7 or later. 
   + [**Tomcat 6 (archived)** - For Aware IM v5.9 Only](http://tomcat.apache.org/) - Apr 2 2017 **Final version Tomcat 6.0.53**  
     + [Download Tomcat **v6** - Aware IM v5.9 Only](https://archive.apache.org/dist/tomcat/tomcat-6/v6.0.53/) - Support for Apache Tomcat 6.0.x has ended on 31 December 2016.
   + **Tomcat SSL/TLS Configuration HOW-TO** - Tomcat documentation. 
@@ -277,7 +276,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server.  
     > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library. 
     
-    > Latest version of ActiveMQ that works with Aware IM is **`5.12.1`**. Latest release is `5.15.8` (Nov 2018).
+    > Latest version of ActiveMQ that works with Aware IM is **`5.12.1`**. Latest release is **`5.15.9`** (Mar 2019).
     <!--
     + **Vulnerabilities** - Apache ActiveMQ `5.12.1` and `older versions`. 
       + [**Vulnerability Details : CVE-2015-5254**](https://www.cvedetails.com/cve/CVE-2015-5254/) - Apache ActiveMQ 5.x before **`5.13.0`** does not restrict the classes that can be serialized in the broker, which allows remote attackers to execute arbitrary code via a crafted serialized Java Message Service (JMS) ObjectMessage object.
@@ -285,7 +284,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [**Vulnerability Details : CVE-2014-3612**](https://www.cvedetails.com/cve/CVE-2014-3612/) - The LDAPLoginModule implementation in the Java Authentication and Authorization Service (JAAS) in Apache ActiveMQ 5.x before **`5.10.1`** allows remote attackers to bypass authentication by logging in with an empty password and valid username, which triggers an unauthenticated bind. NOTE: this identifier has been SPLIT per ADT2 due to different vulnerability types. See CVE-2015-6524 for the use of wildcard operators in usernames.
     -->
     + [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab.
-    + [**Bugs in `5.8.0+`**](https://issues.apache.org/jira/browse/AMQ-4413?jql=project%20%3D%20AMQ%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20priority%20in%20(Blocker%2C%20Critical)%20AND%20resolution%20in%20(Fixed%2C%20Resolved)%20AND%20affectedVersion%20in%20(5.10.0%2C%205.10.1%2C%205.10.2%2C%205.11.0%2C%205.11.1%2C%205.11.2%2C%205.11.3%2C%205.11.4%2C%205.12.0%2C%205.12.1%2C%205.12.2%2C%205.12.3%2C%205.13.0%2C%205.13.1%2C%205.13.2%2C%205.13.3%2C%205.13.4%2C%205.13.5%2C%205.14.0%2C%205.14.1%2C%205.14.2%2C%205.14.3%2C%205.14.4%2C%205.14.5%2C%205.15.0%2C%205.15.1%2C%205.15.2%2C%205.15.3%2C%205.15.4%2C%205.15.5%2C%205.15.6%2C%205.15.7%2C%205.15.8%2C%205.15.9%2C%205.8.0%2C%205.9.0%2C%205.9.1)%20ORDER%20BY%20affectedVersion%20ASC%2C%20priority%20ASC%2C%20updated%20DESC)
+    + [**Bugs in `5.8.0+`**](https://issues.apache.org/jira/browse/AMQ-7229?jql=project%20%3D%20AMQ%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20priority%20in%20(Blocker%2C%20Critical)%20AND%20resolution%20in%20(Fixed%2C%20Resolved)%20AND%20affectedVersion%20in%20(5.10.0%2C%205.10.1%2C%205.10.2%2C%205.11.0%2C%205.11.1%2C%205.11.2%2C%205.11.3%2C%205.11.4%2C%205.12.0%2C%205.12.1%2C%205.12.2%2C%205.12.3%2C%205.13.0%2C%205.13.1%2C%205.13.2%2C%205.13.3%2C%205.13.4%2C%205.13.5%2C%205.14.0%2C%205.14.1%2C%205.14.2%2C%205.14.3%2C%205.14.4%2C%205.14.5%2C%205.15.0%2C%205.15.1%2C%205.15.2%2C%205.15.3%2C%205.15.4%2C%205.15.5%2C%205.15.6%2C%205.15.7%2C%205.15.8%2C%205.15.9%2C%205.8.0%2C%205.9.0%2C%205.9.1)%20ORDER%20BY%20affectedVersion%20ASC%2C%20priority%20ASC%2C%20updated%20DESC)
       <!-- 
       + **Inconsistent vector internals** - ActiveMQ **`5.15.5+`**. 
         + **Server Output:**
