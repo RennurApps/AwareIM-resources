@@ -13,11 +13,12 @@
 Written in 100% Java programming language. Aware IM is based on the plethora of Java technologies such as J2EE application server, JDBC, JMS, JSP/servlets technology, web services etc. These are robust technologies that have been proven in the industry.
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
-  + [**Currently v8.3 build 2617**](https://www.awareim.com/changelog/Readme2617.txt) - 19 June, 2019. 
+  + [**Currently v8.3 build 2621**](https://www.awareim.com/changelog/Readme2621.txt) - 2 July, 2019. 
     + **New Features in version 8.3**  
       + [x] Relationships diagrams with the ability to edit relationships 
       + [x] Process diagrams with the ability to show sub-processes
     + 8.3 Recent Improvements
+      + 2621 - Graphic resizing of form width, label width, control width and column width
       + 2616 - It is now possible to disallow access to 'model' to configuration users
       + 2615 - Predefined elements use default output target for the content panel
     + 8.3 Release Improvements 
