@@ -21,7 +21,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + 2623 - Support for attributes that hold and display color
         - 1. You define a text attribute with the property "Content" (former "Format") set to "Color" rather than default setting of "STANDARD"
         - 2. If you put this attribute on a form Aware IM will generate a color-picker widget, rather than the standard text box. At runtime the user will be able to pick a color as the value for this attribute
-        - 3. You can then use this color in tag expressions at various places in the system - in HTML, attribute styles etc. <br>For example, in HTML: <br><div style="background-color:&lt;&lt;MyObject.ColorAttr&gt;&gt;"></div> 
+        - 3. You can then use this color in tag expressions at various places in the system - in HTML, attribute styles etc. <br>For example, in HTML: <br>``` <div style="background-color:&lt;&lt;MyObject.ColorAttr&gt;&gt;"></div> ```
         - 4. If used in queries the system by default will display color boxes with actual colors
       + 2623 - Support for Swap-Select widget resize
       + 2621 - Graphic resizing of form width, label width, control width and column width
