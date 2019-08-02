@@ -240,8 +240,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             9. Check that there is only one `ecj-4.x.jar` file in the Tomcat/lib folder.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - 4 Jun, 2019. **Latest release is Tomcat v`8.5.42`** (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later. 
-    + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.42)  
+  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - 4 July, 2019. **Latest release is Tomcat v`8.5.43`** (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later. 
+    + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.43)  
     + [**Security**](https://tomcat.apache.org/security-8.html) 
     + [**Migrating to v8.5.x**](https://tomcat.apache.org/migration-85.html) 
     + [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
@@ -320,7 +320,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       - [x] [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server installation.
 
   
-  + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.39**. 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition. 
+  + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.40** 4 July, 2019. 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition. 
     + [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
 
 #### Databases
