@@ -240,7 +240,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             9. Check that there is only one `ecj-4.x.jar` file in the Tomcat/lib folder.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - 4 July, 2019. **Latest release is Tomcat v`8.5.43`** (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later. 
+  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.43`** 4 July, 2019. (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later. 
     + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.43)  
     + [**Security**](https://tomcat.apache.org/security-8.html) 
     + [**Migrating to v8.5.x**](https://tomcat.apache.org/migration-85.html) 
@@ -256,7 +256,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
 
   + **Java SE Development Kit (JDK)**
-    + [x] [**Version 8**, Update 212](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - April 16, 2019. Download and install. 64bit JDK recommended. 
+    + [x] [**Version 8**, Update 221](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - July 16, 2019. Download and install. 64bit JDK recommended. 
       + **End of Public Updates for Oracle JDK 8** after January 2019. - This is a Aware IM scalability issue and needs to be addressed by the Awaresoft support team. 
         + [Oracle Java SE Support Roadmap](https://www.oracle.com/technetwork/java/java-se-support-roadmap.html) 
       + Important Oracle JDK License Update. The Oracle JDK License has changed for releases starting April 16, 2019.
