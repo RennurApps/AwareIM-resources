@@ -443,7 +443,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time.
 
 #### Aware IM Internal Features  
-  * **Electronic Signature Capture** - For Aware IM 5.9+ 
+  + **Electronic Signature Capture** - For Aware IM 5.9+ 
      + [**Signature Pad**](https://github.com/szimek/signature_pad) - Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers. 
       + [**DEMO - Github**](http://szimek.github.io/signature_pad/) 
       + [**Signature Pad v3.0.0-beta.3**](https://www.jsdelivr.com/package/npm/signature_pad) - (c) 2018 Szymon Nowak. Tested ok in 8.1. 
@@ -468,10 +468,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + **Phonegap** support
 
 #### Integrations, custom components, connectors and plugins 
-  + Any application offering an API for developers makes it possible to integrate with Aware IM by writing a plugin.
-  + **Business Intelligence** 
-    + **JasperReports® Server** - Self-service Reporting and Analysis Server. 
-    + **Power BI Interactive Data Visualization** - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
+Any application offering an API for developers makes it possible to integrate with Aware IM by writing a plugin.
   + [**wkhtmltopdf**](http://wkhtmltopdf.org/) - Convert HTML to PDF using Webkit (QtWebKit) 
     + **Requires** [**Microsoft Visual C++ 2015 Redistributable Update 3**](https://www.microsoft.com/en-us/download/details.aspx?id=53840) - Download and install first.
     + **Download wkhtmltopdf**:
@@ -496,6 +493,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [Sample Documents](http://www.princexml.com/samples/) - Dictionary, Invoices, Textbook, Scientific Journal, Product Catalogs, Brochure ... 
 
   + **Business Intelligence, Report Writer/Server** 
+    + **Power BI Interactive Data Visualization** - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
     + **TIBCO Jaspersoft** 
       + [**JasperReports® Server**](https://community.jaspersoft.com/project/jasperreports-server) - Self-service Reporting and Analysis Server 
         + [Documentation](https://community.jaspersoft.com/documentation?version=15786)
