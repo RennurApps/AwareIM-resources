@@ -94,6 +94,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + **v5.5** - Builds 1588-1617
   + [**Video Tutorials**](http://www.awareim.com/video-tutorials/) - Highly Recommended
     + [**Aware IM Youtube channel**](https://www.youtube.com/user/awareim1/featured) - Latest Aware IM video tutorials. 
+    + **Version 8.3**
+      * [**Resizing form elements in the Form Designer**](https://youtu.be/_ypIap2HZfI) + Jun 27, 2019. Graphically resize form elements of a form in the Form Designer.
     + **Version 8.2**
       * [**Consuming REST-ful services**](https://www.youtube.com/watch?v=HTjwfp80AbU) -  May 13, 2019. Demonstarates new features in [Aware IM 8.3 beta release](https://awareim.com/forum/viewtopic.php?f=1&t=11026).
       + [**Sending push notifications**](https://www.youtube.com/watch?v=VwQyZ2oCvC0)
