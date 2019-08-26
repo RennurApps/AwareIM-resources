@@ -243,8 +243,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             9. Check that there is only one `ecj-4.x.jar` file in the Tomcat/lib folder.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.43`** 4 July, 2019. (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later. 
-    + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.43)  
+  + [**Tomcat 8.5.x** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.45`** 14 August, 2019. (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later. 
+    + [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi#8.5.45)  
     + [**Security**](https://tomcat.apache.org/security-8.html) 
     + [**Migrating to v8.5.x**](https://tomcat.apache.org/migration-85.html) 
     + [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
