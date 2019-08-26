@@ -13,11 +13,12 @@
 Written in 100% Java programming language. Aware IM is based on the plethora of Java technologies such as J2EE application server, JDBC, JMS, JSP/servlets technology, web services etc. These are robust technologies that have been proven in the industry.
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
-  + [**Currently v8.3 build 2628**](https://www.awareim.com/changelog/Readme2623.txt) - 31 July, 2019. 
+  + [**Currently v8.3 build 2629**](https://www.awareim.com/changelog/Readme2629.txt) - 23 August, 2019. 
     + **New Features in version 8.3**  
       + [x] Relationships diagrams with the ability to edit relationships 
       + [x] Process diagrams with the ability to show sub-processes
     + 8.3 Recent Improvements 
+      + 2629 - Ability to specify a script for Google Maps in visual perspectives
       + 2623 - Support for attributes that hold and display color
         - 1. You define a text attribute with the property "Content" (former "Format") set to "Color" rather than default setting of "STANDARD"
         - 2. If you put this attribute on a form Aware IM will generate a color-picker widget, rather than the standard text box. At runtime the user will be able to pick a color as the value for this attribute
