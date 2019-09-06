@@ -397,7 +397,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization. 
     + [**Roadmap**](http://www.telerik.com/support/whats-new/kendo-ui/roadmap) 
     + [**Release History**](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
-      + Latest Kendo UI Release [**Kendo UI R2 2019 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2019-sp1) - June 19, 2019
+      + Latest Kendo UI Release [**Kendo UI R2 2019 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2019-sp1) - June 19, 2019 
+      + **Aware IM 8.3** Kendo UI version [**Kendo UI R3 2017**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017 
       + **Aware IM 8.2** Kendo UI version [**Kendo UI R3 2017**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017 
       + **Aware IM 8.1** Kendo UI version [**Kendo UI R3 2017**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) 
       + **Aware IM 7.0-8.0** Kendo UI version [**Kendo UI Q1 2016**](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016 
@@ -473,7 +474,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 #### Integrations, custom components, connectors and plugins 
 Any application offering an API for developers makes it possible to integrate with Aware IM by writing a plugin.
   + [**wkhtmltopdf**](http://wkhtmltopdf.org/) - Convert HTML to PDF using Webkit (QtWebKit) 
-    + **Requires** [**Microsoft Visual C++ 2015 Redistributable Update 3**](https://www.microsoft.com/en-us/download/details.aspx?id=53840) - Download and install first.
+    + **Requires** [**Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019**](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) - Download and install first.
     + **Download wkhtmltopdf**:
       + [**Download wkhtmltopdf** Windows (MSVC)](https://wkhtmltopdf.org/downloads.html) - **v0.12.5** released on June 11, 2018 for Windows, Linux and OS X.
         + [ ] v0.12.5 untested. Released June 11, 2018.
