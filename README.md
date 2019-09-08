@@ -281,7 +281,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + Restart Aware IM server
       
 
-  + [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server.  
+  + [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.44
     > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library. 
     
     > Latest version of ActiveMQ that works with Aware IM is **`5.12.1`**. Latest release is **`5.15.9`** (Mar 2019).
@@ -291,6 +291,10 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + [https://issues.apache.org/jira/browse/AMQ-6013](https://issues.apache.org/jira/browse/AMQ-6013)
       + [**Vulnerability Details : CVE-2014-3612**](https://www.cvedetails.com/cve/CVE-2014-3612/) - The LDAPLoginModule implementation in the Java Authentication and Authorization Service (JAAS) in Apache ActiveMQ 5.x before **`5.10.1`** allows remote attackers to bypass authentication by logging in with an empty password and valid username, which triggers an unauthenticated bind. NOTE: this identifier has been SPLIT per ADT2 due to different vulnerability types. See CVE-2015-6524 for the use of wildcard operators in usernames.
     -->
+    + [**Reported issues in Aware IM**] - Scalability, bugs, performance...
+      **2019**
+      + [How many Communication driven apps can we host on 1 serv](https://awareim.com/forum/viewtopic.php?f=1&p=51529)
+      
     + [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab.
     + [**Bugs in `5.8.0+`**](https://issues.apache.org/jira/browse/AMQ-7229?jql=project%20%3D%20AMQ%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(Resolved%2C%20Closed)%20AND%20priority%20in%20(Blocker%2C%20Critical)%20AND%20resolution%20in%20(Fixed%2C%20Resolved)%20AND%20affectedVersion%20in%20(5.10.0%2C%205.10.1%2C%205.10.2%2C%205.11.0%2C%205.11.1%2C%205.11.2%2C%205.11.3%2C%205.11.4%2C%205.12.0%2C%205.12.1%2C%205.12.2%2C%205.12.3%2C%205.13.0%2C%205.13.1%2C%205.13.2%2C%205.13.3%2C%205.13.4%2C%205.13.5%2C%205.14.0%2C%205.14.1%2C%205.14.2%2C%205.14.3%2C%205.14.4%2C%205.14.5%2C%205.15.0%2C%205.15.1%2C%205.15.2%2C%205.15.3%2C%205.15.4%2C%205.15.5%2C%205.15.6%2C%205.15.7%2C%205.15.8%2C%205.15.9%2C%205.8.0%2C%205.9.0%2C%205.9.1)%20ORDER%20BY%20affectedVersion%20ASC%2C%20priority%20ASC%2C%20updated%20DESC)
       <!-- 
