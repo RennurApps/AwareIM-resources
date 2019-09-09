@@ -291,7 +291,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + [https://issues.apache.org/jira/browse/AMQ-6013](https://issues.apache.org/jira/browse/AMQ-6013)
       + [**Vulnerability Details : CVE-2014-3612**](https://www.cvedetails.com/cve/CVE-2014-3612/) - The LDAPLoginModule implementation in the Java Authentication and Authorization Service (JAAS) in Apache ActiveMQ 5.x before **`5.10.1`** allows remote attackers to bypass authentication by logging in with an empty password and valid username, which triggers an unauthenticated bind. NOTE: this identifier has been SPLIT per ADT2 due to different vulnerability types. See CVE-2015-6524 for the use of wildcard operators in usernames.
     -->
-    + [**Reported issues in Aware IM**] - Scalability, bugs, performance...
+    + **Reported issues in Aware IM** - Scalability, bugs, performance...
        + [Highly demand -- updates - security concerns](https://awareim.com/forum/viewtopic.php?f=1&t=10539&p=48389)
        + [How many Communication driven apps can we host on 1 serv](https://awareim.com/forum/viewtopic.php?f=1&p=51529)
       
