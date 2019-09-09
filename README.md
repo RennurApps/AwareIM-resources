@@ -361,7 +361,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + [x] Source Code
         + [x] Windows
       + [**Download**](https://mariadb.org/download/)
-        + [**MariaDB version 10.4.7**](https://downloads.mariadb.org/mariadb/10.4.6/) - 31 July 2019. 
+        + [**MariaDB version 10.4.6**](https://downloads.mariadb.org/mariadb/10.4.6/) - 31 July 2019. 
         
 #### Database Connectors
   + #### [**MySQL Connectors**](https://www.mysql.com/products/connector/) - :grey_exclamation:**UPDATE TO VERSION 8.x HIGHLY RECOMMENDED**:grey_exclamation: 
