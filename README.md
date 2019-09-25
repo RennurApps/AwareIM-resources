@@ -393,7 +393,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
               + **v8.3**, `C:\AwareIM\lib`
               + **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
-  + #### [**MariaDB Connectors](https://mariadb.com/kb/en/library/connectors/)
+  + #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
     + [**MariaDB Connector/J**](https://mariadb.com/kb/en/library/about-mariadb-connector-j/) - **Latest version `v2.4.4`**, 18 September 2019. Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+.
       > Aware IM Version 8.3 uses MariaDB Connector/J  driver version `2.3.0` (7 September 2018).
 
