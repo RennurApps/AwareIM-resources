@@ -48,20 +48,20 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       +  Support for "output" when creating buttons in a visual perspective
       +  Ability to display blanks instead of zeroes in queries.
       
-  + v8.2 - 28 Mar, 2019.
-    + **New Features in version 8.2**
-      + [x] Multi-developer mode
-      + [x] SAML support (Single Sign On framework)
-      + [x] Custom HTML forms 
-      + [x] Kanban boards
-    + **Recent Improvements in version 8.2**
-      - 2572 - Push notifications: GCM deprecated and replaced with FCM
-        - [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)
-      - 2570 - "No data found" message displayed for custom queries if there is no data
-      - 2565 - Ability to specify a script for modeless windows
-      - 2562 - Documents used inside HTML cells return file name and so can now be displayed inside an IFRAME
-      - 2562 - Values for Kanban columns support tag expressions
-      - 2561 - It is now possible to capture HTTP response codes in REST
+    + v8.2 - 28 Mar, 2019.
+      + **New Features in version 8.2**
+        + [x] Multi-developer mode
+        + [x] SAML support (Single Sign On framework)
+        + [x] Custom HTML forms 
+        + [x] Kanban boards
+      + **Recent Improvements in version 8.2**
+        - 2572 - Push notifications: GCM deprecated and replaced with FCM
+          - [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)
+        - 2570 - "No data found" message displayed for custom queries if there is no data
+        - 2565 - Ability to specify a script for modeless windows
+        - 2562 - Documents used inside HTML cells return file name and so can now be displayed inside an IFRAME
+        - 2562 - Values for Kanban columns support tag expressions
+        - 2561 - It is now possible to capture HTTP response codes in REST
 
 <!--  + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com** -->
   + [**Version History**](http://www.awareim.com/changelog/?C=M;O=D)
