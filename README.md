@@ -144,25 +144,33 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + **Google Maps Polygon Areas** from 12:57min
     + **Version 5.6+**
       + [Import/Export Templates](http://awareim.com/tutorials/UDIT/UDIT.html)
-  + [**Documentation** AwareIM version 8.3](http://awareim.com/documentation/) 
-      + [Quick Tour (pdf)](https://www.awareim.com/wp-content/uploads/2019/05/QuickTour.pdf)
+  + [**Documentation** AwareIM v8.4](http://awareim.com/documentation/) 
+      + 8.4 [Quick Tour (pdf)](https://www.awareim.com/wp-content/uploads/2019/10/QuickTour.pdf)
+        + [v8.3](https://www.awareim.com/wp-content/uploads/2019/05/QuickTour.pdf))
         + [v8.2](https://www.awareim.com/wp-content/uploads/2018/10/QuickTour.pdf)
-      + [Installation Guide (pdf)](https://www.awareim.com/wp-content/uploads/2019/05/InstallationGuide.pdf)
+      + 8.4 [Installation Guide (pdf)](https://www.awareim.com/wp-content/uploads/2019/10/InstallationGuide.pdf)
+        + [v8.3](https://www.awareim.com/wp-content/uploads/2019/05/InstallationGuide.pdf) 
         + [v8.2](https://www.awareim.com/wp-content/uploads/2018/10/InstallationGuide.pdf) 
-      + [User Guide (pdf)](https://www.awareim.com/wp-content/uploads/2019/05/UserGuide.pdf)
+      + 8.4 [User Guide (pdf)](https://www.awareim.com/wp-content/uploads/2019/10/UserGuide.pdf)
+        + [v8.3](https://www.awareim.com/wp-content/uploads/2019/05/UserGuide.pdf)
         + [v8.2](https://www.awareim.com/wp-content/uploads/2018/10/UserGuide.pdf)
-      + [How To (pdf)](https://www.awareim.com/wp-content/uploads/2019/05/HowTo.pdf) - This document describes how to perform certain common tasks in Aware IM.
+      + 8.4 [How To (pdf)](https://www.awareim.com/wp-content/uploads/2019/10/HowTo.pdf) - This document describes how to perform certain common tasks in Aware IM.
+        + [v8.3](https://www.awareim.com/wp-content/uploads/2019/05/HowTo.pdf) 
         + [v8.2](https://www.awareim.com/wp-content/uploads/2018/10/HowTo.pdf) 
-      + [Programmer’s Reference (pdf)](https://www.awareim.com/wp-content/uploads/2019/05/ProgrammersReference.pdf) -  Application Programming Interface (API) to the Aware IM software system. 
+      + 8.4 [Programmer’s Reference (pdf)](https://www.awareim.com/wp-content/uploads/2019/10/ProgrammersReference.pdf) - Application Programming Interface (API) to the Aware IM software system. 
+        + [v8.3](https://www.awareim.com/wp-content/uploads/2019/05/ProgrammersReference.pdf)
         + [v8.2](https://www.awareim.com/wp-content/uploads/2018/10/ProgrammersReference.pdf)
-      + [Getting Started (pdf)](https://www.awareim.com/wp-content/uploads/2019/05/GettingStarted.pdf) - This document describes basic steps required to configure, test and deploy applications using Aware IM.
+      + 8.4 [Getting Started (pdf)](https://www.awareim.com/wp-content/uploads/2019/10/GettingStarted.pdf) - This document describes basic steps required to configure, test and deploy applications using Aware IM.
+        + [v8.3](https://www.awareim.com/wp-content/uploads/2019/05/GettingStarted.pdf)
         + [v8.2](https://www.awareim.com/wp-content/uploads/2018/10/GettingStarted.pdf)
-      + [Mobile Applications Guide (pdf)](https://www.awareim.com/wp-content/uploads/2019/05/Mobile-Applications.pdf) 
+      + 8.4 [Mobile Applications Guide (pdf)](https://www.awareim.com/wp-content/uploads/2019/10/Mobile-Applications.pdf) 
+        + [v8.3](https://www.awareim.com/wp-content/uploads/2019/05/Mobile-Applications.pdf) 
         + [v8.2](https://www.awareim.com/wp-content/uploads/2018/10/Mobile-Applications.pdf)  
-      + [Rule Language Reference (pdf)](https://www.awareim.com/wp-content/uploads/2019/05/RuleLanguage.pdf) - The rule language is used to specify rules, queries, tags and other configuration elements. 
-        + [v8.2](https://www.awareim.com/wp-content/uploads/2018/10/RuleLanguage.pdf) - The purpose of this document is to show how to configure real world business applications using Aware IM. 
-      + [Configuration Case Study - Library Application](https://www.awareim.com/wp-content/uploads/2019/05/LibraryCaseStudy.pdf) 
-        + (https://www.awareim.com/wp-content/uploads/2018/10/LibraryCaseStudy.pdf) 
+      + 8.4 [Rule Language Reference (pdf)](https://www.awareim.com/wp-content/uploads/2019/10/RuleLanguage.pdf) - The rule language is used to specify rules, queries, tags and other configuration elements. 
+        + [v8.3](https://www.awareim.com/wp-content/uploads/2019/05/RuleLanguage.pdf)
+        + [v8.2](https://www.awareim.com/wp-content/uploads/2018/10/RuleLanguage.pdf)
+      + 8.4 [Configuration Case Study - Library Application](https://www.awareim.com/wp-content/uploads/2019/10/LibraryCaseStudy.pdf)
+      
   + [**Sample Applications**](http://awareim.com/sample-applications/) - 
     + **Live web & mobile applications** - Also available out-of-the-box.
       + [CRM](http://www.awareim.com/crm/) 
