@@ -13,7 +13,16 @@
 Written in 100% Java programming language. Aware IM is based on the plethora of Java technologies such as J2EE application server, JDBC, JMS, JSP/servlets technology, web services etc. These are robust technologies that have been proven in the industry.
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
-  + [**Currently v8.3 build 2631**](https://www.awareim.com/changelog/Readme2631.txt) - 24 September, 2019. 
+  + [**Currently v8.4 build 2705**](https://www.awareim.com/changelog/Readme2705.txt) - 24 October, 2019. 
+    + **New Features in version 8.4**  
+      + [x] Support for PostgreSQL 
+      + [x] Support for barcodes and QRcodes in the Report Designer 
+      + [x] Report Preview in the Report Designer
+      + [x] Runs under Java 12 envirnonement
+    + 8.4 Recent Improvements
+      + 2705 - [List of improvements](https://www.awareim.com/changelog/Readme2705.txt)
+  
+  + v8.3  - 24 September, 2019. 
     + **New Features in version 8.3**  
       + [x] Relationships diagrams with the ability to edit relationships 
       + [x] Process diagrams with the ability to show sub-processes
@@ -28,46 +37,29 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + 2621 - Graphic resizing of form width, label width, control width and column width
       + 2616 - It is now possible to disallow access to 'model' to configuration users
       + 2615 - Predefined elements use default output target for the content panel
-    + 8.3 Release Improvements 
-      +  REST improvements
-      +  Visibility conditions for Kanban columns
-      +  Support for background color, text color and CSS class in operation buttons and menu items
-      +  Font Awesome 5 integrated
-      +  Support for icon color
-      +  Native support for Maria DB
-      +  Values for item rules styles can be edited inline
-      +  Comments in rules (/* ... */)
-      +  Systems using SQL Server, Maria DB and Oracle now use database sequences to generate ID's instead of BAS_IDGEN table
-      +  Attribute styles and icon rules merged into "presentation rules". Display format and input masks supported too.
-      +  Display format and masks support tag expressions.
-      +  Aggregation for non-dates supported in charts
-      +  "Display format" for values of the Y axis in charts
-      +  Ability to run custom Javascript from panel operation, operation on record or menu item
-      +  Extra Javascript operations (that can be helpful when integrating custom mobile plugins)
-      +  Programmers Reference Guide describes in detail how to integrate custom Cordova plugins for native mobile apps
-      +  Support for "output" when creating buttons in a visual perspective
-      +  Ability to display blanks instead of zeroes in queries.
       
-    + v8.2 - 28 Mar, 2019.
-      + **New Features in version 8.2**
-        + [x] Multi-developer mode
-        + [x] SAML support (Single Sign On framework)
-        + [x] Custom HTML forms 
-        + [x] Kanban boards
-      + **Recent Improvements in version 8.2**
-        - 2572 - Push notifications: GCM deprecated and replaced with FCM
-          - [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)
-        - 2570 - "No data found" message displayed for custom queries if there is no data
-        - 2565 - Ability to specify a script for modeless windows
-        - 2562 - Documents used inside HTML cells return file name and so can now be displayed inside an IFRAME
-        - 2562 - Values for Kanban columns support tag expressions
-        - 2561 - It is now possible to capture HTTP response codes in REST
+  + v8.2 - 28 Mar, 2019.
+     + **New Features in version 8.2**
+       + [x] Multi-developer mode
+       + [x] SAML support (Single Sign On framework)
+       + [x] Custom HTML forms 
+       + [x] Kanban boards
+     + **Recent Improvements in version 8.2**
+       - 2572 - Push notifications: GCM deprecated and replaced with FCM
+         - [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)
+       - 2570 - "No data found" message displayed for custom queries if there is no data
+       - 2565 - Ability to specify a script for modeless windows
+       - 2562 - Documents used inside HTML cells return file name and so can now be displayed inside an IFRAME
+       - 2562 - Values for Kanban columns support tag expressions
+       - 2561 - It is now possible to capture HTTP response codes in REST
 
 <!--  + [Purchase a premium support ticket](http://www.awareim.com/support-request/) - For urgent issues requiring a prompt reply from the support team. Alternatively, email support directly at **support [at] awareim [dot] com** -->
   + [**Version History**](http://www.awareim.com/changelog/?C=M;O=D)
-      + :heavy_check_mark: **Currently v8.3** - Builds 2613+
-        + [Aware IM 8.3 released](https://www.awareim.com/aware-im-8-3-released/) - Released May 23, 2019. Aware IM 8.3 build 2621.
-      + **8.2** - Builds 2559-2574
+      + :heavy_check_mark: **Currently v8.4** - Builds 2705+
+        + [Aware IM 8.4 released](https://www.awareim.com/aware-im-8-4-released/) - Released October 24, 2019
+      + **8.3** - Builds 2613-2631 
+        + [Aware IM 8.3 released](https://www.awareim.com/aware-im-8-3-released/) - Released May 23, 2019
+      + **8.2** - Builds 2559-2574 
         + [Aware IM 8.2 released](https://www.awareim.com/aware-im-8-2-released/) - Released October 25, 2018
       + **v8.1** - Builds 2452-2477
         + [Aware IM 8.1 released](https://www.awareim.com/aware-im-8-1-released/) - Released April 19, 2018
