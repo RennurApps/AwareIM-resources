@@ -146,7 +146,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [Import/Export Templates](http://awareim.com/tutorials/UDIT/UDIT.html)
   + [**Documentation** AwareIM v8.4](http://awareim.com/documentation/) 
       + 8.4 [Quick Tour (pdf)](https://www.awareim.com/wp-content/uploads/2019/10/QuickTour.pdf)
-        + [v8.3](https://www.awareim.com/wp-content/uploads/2019/05/QuickTour.pdf))
+        + [v8.3](https://www.awareim.com/wp-content/uploads/2019/05/QuickTour.pdf)
         + [v8.2](https://www.awareim.com/wp-content/uploads/2018/10/QuickTour.pdf)
       + 8.4 [Installation Guide (pdf)](https://www.awareim.com/wp-content/uploads/2019/10/InstallationGuide.pdf)
         + [v8.3](https://www.awareim.com/wp-content/uploads/2019/05/InstallationGuide.pdf) 
