@@ -22,7 +22,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + 8.4 Recent Improvements
       + 2705 - [List of improvements](https://www.awareim.com/changelog/Readme2705.txt)
   
-  + v8.3  - 24 September, 2019. 
+  + v8.3  
     + **New Features in version 8.3**  
       + [x] Relationships diagrams with the ability to edit relationships 
       + [x] Process diagrams with the ability to show sub-processes
@@ -38,7 +38,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + 2616 - It is now possible to disallow access to 'model' to configuration users
       + 2615 - Predefined elements use default output target for the content panel
       
-  + v8.2 - 28 Mar, 2019.
+  + v8.2 
      + **New Features in version 8.2**
        + [x] Multi-developer mode
        + [x] SAML support (Single Sign On framework)
