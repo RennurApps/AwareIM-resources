@@ -13,13 +13,15 @@
 Written in 100% Java programming language. Aware IM is based on the plethora of Java technologies such as J2EE application server, JDBC, JMS, JSP/servlets technology, web services etc. These are robust technologies that have been proven in the industry.
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
-  + [**Currently v8.4 build 2708**](https://www.awareim.com/changelog/Readme2708.txt) - 30 October, 2019. 
+  + [**Currently v8.4 build 2709**](https://www.awareim.com/changelog/Readme2709.txt) - 21 November, 2019. 
     + **New Features in version 8.4**  
       + [x] Support for PostgreSQL 
       + [x] Support for barcodes and QRcodes in the Report Designer 
       + [x] Report Preview in the Report Designer
       + [x] Runs under Java 12 envirnonement
     + 8.4 Recent Improvements
+      + 2709 - Queries can now be defined using EXEC_SQL statement
+      + 2709 - Support for the latest version of PhoneGap build
       + 2705 - [List of improvements](https://www.awareim.com/changelog/Readme2705.txt)
   
   + v8.3  
