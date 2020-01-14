@@ -375,7 +375,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         + [x] Source Code
         + [x] Windows
       + [**Download**](https://mariadb.org/download/)
-        + [**MariaDB version 10.4.10**](https://mariadb.com/downloads/?showall=1&tab=mariadbtx&group=mariadb_server&version=10.4.10) - 8 November 2019. 
+        + [**MariaDB version 10.4.11**](https://downloads.mariadb.org/mariadb/10.4.11/) - 11 December 2019. 
         
 #### Database Connectors
   + #### [**MySQL Connectors**](https://www.mysql.com/products/connector/) - :grey_exclamation:**UPDATE TO VERSION 8.x HIGHLY RECOMMENDED**:grey_exclamation: 
@@ -408,7 +408,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
               + **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
   + #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
-    + [**MariaDB Connector/J**](https://mariadb.com/kb/en/library/about-mariadb-connector-j/) - **Latest version `v2.5.2`**, 22 November 2019. Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+.
+    + [**MariaDB Connector/J**](https://mariadb.com/kb/en/library/about-mariadb-connector-j/) - **Latest version `v2.5.3`**, 8 January 2020. Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+.
       > Aware IM Version 8.3 uses MariaDB Connector/J  driver version `2.3.0` (7 September 2018).
 
 
