@@ -20,6 +20,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [x] Report Preview in the Report Designer
       + [x] Runs under Java 12 envirnonement
     + 8.4 Recent Improvements
+      + 2713 - TO_TIMEZONE function
+      + 2713 - Tab order of -1 can now be specified 
       + 2711 - Image Gallery operation available to Custom Checkbox Lists
       + 2711 - Control Panel toolbar
       + 2711 - Improvements for auto-incremented numbers
