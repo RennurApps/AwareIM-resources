@@ -249,7 +249,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             4. Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
             5. Press `Ctrl+v` to paste and replace all files and folders.
             6. Java JDK tools.jar: 
-                + **In v8.3**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\lib folder to replace the old one. 
+                + **In v8.3+**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\lib folder to replace the old one. 
                 + **In v8.2 and below**,  if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one. 
             8. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
             9. Check that there is only one `ecj-4.x.jar` file in the Tomcat/lib folder.
@@ -300,7 +300,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [**javax.mail.jar**](https://github.com/javaee/javamail/releases/download/JAVAMAIL-1_6_2/javax.mail.jar) 
       + [MVNRepository](https://mvnrepository.com/artifact/com.sun.mail/javax.mail) - JavaMail API
     + **Installation** 
-      + In **v8.3**, rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\lib`_ 
+      + In **v8.3+**, rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\lib`_ 
       + In **v8.2** and below, rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_ 
       + Restart Aware IM server
       
@@ -346,7 +346,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           - Browser won't load the app
       - [x] [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - :+1: **Tested and working with Tomcat 6, 8 & 9**.  
         + Installation
-          + In **v8.3**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\lib 
+          + In **v8.3+**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\lib 
           + In **v8.2 and below**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib
       - [x] [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server installation.
 
@@ -370,8 +370,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             + [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms. 
         + [x] [**MySQL Community Server 5.5.62**](https://dev.mysql.com/downloads/mysql/5.5.html) - 22 Oct 2018.
   + #### **Apache Derby** - [Home](http://db.apache.org/derby/)
-    + **For Java 9 and higher**
-      + [ ] [10.15.1.3](https://db.apache.org/derby/releases/release-10.15.1.3.cgi) - (March 5, 2019)
+    + **For Java 9 and higher** - Compatible with Aware IM version `8.4`.
+      + [x] [10.15.1.3](https://db.apache.org/derby/releases/release-10.15.1.3.cgi) - (March 5, 2019)
     + **For Java 8**
       + [x] [**Apache Derby 10.14.2.0**](https://db.apache.org/derby/releases/release-10.14.2.0.cgi) - (May 5, 2018)
         + Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib
