@@ -272,8 +272,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
   + **Open Source OpenJDK Java SE Releases** - Oracle also provides the latest **OpenJDK** release under the open source.
     + [**Java Development Kit builds, from Oracle**](https://jdk.java.net)
-      + [x] [**Oracle OpenJDK `13.0.2`**](https://jdk.java.net/13/)
-        + **Compatible with Aware IM version `8.4+`**
+      + [ ] [**Oracle OpenJDK `13.0.2`**](https://jdk.java.net/13/)
       + [x] [**Oracle OpenJDK `12.0.2`**](https://jdk.java.net/12/) - JDK 12 has been superseded. 
         + Works with Aware IM **`8.4`** - Sample CRM app initialised properly. 
       + [Archived Versions](https://jdk.java.net/archive/)
@@ -284,10 +283,10 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [x] [Version `12.0.2`](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) 
       + **Compatible with Aware IM version `8.4+`** as per release notes. 
       + Java SE 12 has reached end of support. Users of Java SE 12 should switch to Java SE 13.
-    + [x] [**Version 8**, Update 241](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) - January 14, 2020. 
-      + **Compatible with all Aware IM versions** 
     + [ ] [JDK Version 11.0.6](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 14, 2020. 
       + **Not tested with Aware IM** 
+    + :heavy_check_mark: [**Version 8**, Update 241](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) - January 14, 2020. 
+      + **Compatible with all Aware IM versions** 
     + [x] Versions bundled with Aware IM:
       + Aware IM `v8.0+` - JDK `1.8.0_91-b15` 
 
