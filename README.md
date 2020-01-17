@@ -275,9 +275,10 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           + Important Oracle JDK License Update. The Oracle JDK License has changed for releases starting April 16, 2019.
       + [JDK 8 Update Release Notes](http://www.oracle.com/technetwork/java/javase/8u-relnotes-2225394.html)
       + **Compatible with all Aware IM versions**
-    + [ ] [Version 13.0.2](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 14, 2020. 
+    + [x] [Version 13.0.2](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 14, 2020. 
     + **Compatible with Aware IM version `8.4+`**
     + [ ] [Version 11.0.6](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 14, 2020. 
+    + **Not tested with Aware IM** 
     + [x] Version bundled with Aware IM:
       + Aware IM v8.0+ - `1.8.0_91-b15` 
 
