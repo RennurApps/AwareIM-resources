@@ -272,13 +272,12 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 #### Java JDK
 
-  + **OpenJDK Java SE Releases** - Oracle provides the latest **OpenJDK** releases under the open source.
-    + [**Java Development Kit builds, from Oracle**](https://jdk.java.net)
-      + [x] :heavy_check_mark: [**Oracle OpenJDK `13.0.2`**](https://jdk.java.net/13/) 
-        + Works with Aware IM **`8.4`** - Sample CRM app initialised properly. 
-      + [x] [Oracle OpenJDK `12.0.2`](https://jdk.java.net/12/) - JDK 12 has been superseded. 
-        + Works with Aware IM **`8.4`** - Sample CRM app initialised properly. 
-      + [Archived Versions](https://jdk.java.net/archive/)
+  + [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
+    + [x] :heavy_check_mark: [**Oracle OpenJDK `13.0.2`**](https://jdk.java.net/13/) 
+      + Works with Aware IM **`8.4`** - Sample CRM app initialised properly. 
+    + [x] [Oracle OpenJDK `12.0.2`](https://jdk.java.net/12/) - JDK 12 has been superseded. 
+      + Works with Aware IM **`8.4`** - Sample CRM app initialised properly. 
+    + [Archived Versions](https://jdk.java.net/archive/)
 
   + **Commercial Java SE Development Kit (JDK)** - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
     + [x] :heavy_check_mark: [**Version `13.0.2`**](https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html) 
