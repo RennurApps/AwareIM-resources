@@ -270,14 +270,22 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
 
-  + **Java SE Development Kit (JDK)** - [Java Development Kit builds, from Oracle](https://jdk.java.net) - Oracle OpenJDK releases under the open source. [Oracle JDK License Update](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html).
-    + [x] [**JDK Version 13.0.2**](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 14, 2020. Java SE 13.0.2 is the latest release for the Java SE Platform. 
-      + **Compatible with Aware IM version `8.4+`** 
-    + [x] [**JDK Version 12.0.2**](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) - July 16, 2019. Java SE 12 has reached end of support. Users of Java SE 12 should switch to Java SE 13. 
-      + [**Oracle OpenJDK 12**](https://jdk.java.net/java-se-ri/12) - Works with Aware IM **`8.4+`** 
-      + **Compatible with Aware IM version `8.4+`** 
+  + **Open Source OpenJDK Java SE Releases** - Oracle also provides the latest **OpenJDK** release under the open source.
+    + [**Java Development Kit builds, from Oracle**](https://jdk.java.net)
+      + [x] [**Oracle OpenJDK `13.0.2`**](https://jdk.java.net/13/)
+        + **Compatible with Aware IM version `8.4+`**
+      + [x] [**Oracle OpenJDK `12.0.2`**](https://jdk.java.net/12/) - JDK 12 has been superseded. 
+        + Works with Aware IM **`8.4`** - Sample CRM app initialised properly. 
+      + [Archived Versions](https://jdk.java.net/archive/)
+
+  + **Commercial Java SE Development Kit (JDK)** - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
+    + [ ] [Version `13.0.2`](https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html) 
+      + CRM sample app failed to initialise. Pressing the initial initialise CRM database button the system kicks you out back to the admin logon page.
+    + [x] [Version `12.0.2`](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) 
+      + **Compatible with Aware IM version `8.4+`** as per release notes. 
+      + Java SE 12 has reached end of support. Users of Java SE 12 should switch to Java SE 13.
     + [x] [**Version 8**, Update 241](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) - January 14, 2020. 
-      + **Compatible with all Aware IM versions**
+      + **Compatible with all Aware IM versions** 
     + [ ] [JDK Version 11.0.6](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 14, 2020. 
       + **Not tested with Aware IM** 
     + [x] Versions bundled with Aware IM:
