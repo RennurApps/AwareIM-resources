@@ -270,7 +270,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
 
-  + **Java SE Development Kit (JDK)** - Important Oracle JDK License Update. The Oracle JDK License has changed for releases starting April 16, 2019. 
+  + **Java SE Development Kit (JDK)** - Important [Oracle JDK License Update](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html). The Oracle JDK License has changed for releases starting April 16, 2019. 
     + [x] [**JDK Version 13.0.2**](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 14, 2020. Java SE 13.0.2 is the latest release for the Java SE Platform. 
       + **Compatible with Aware IM version `8.4+`** 
     + [x] [**Version 8**, Update 241](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) - January 14, 2020. 
