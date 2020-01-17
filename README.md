@@ -270,6 +270,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
 
+#### Java JDK
+
   + **OpenJDK Java SE Releases** - Oracle provides the latest **OpenJDK** releases under the open source.
     + [**Java Development Kit builds, from Oracle**](https://jdk.java.net)
       + [x] :heavy_check_mark: [**Oracle OpenJDK `13.0.2`**](https://jdk.java.net/13/) 
