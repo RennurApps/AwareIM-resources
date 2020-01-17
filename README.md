@@ -288,7 +288,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + :heavy_check_mark: [**Version 8**, Update 241](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) - January 14, 2020. 
       + **Compatible with all Aware IM versions** 
     + [x] Versions bundled with Aware IM:
-      + Aware IM `v8.0+` - JDK `1.8.0_91-b15` 
+      + Aware IM `v8.0+` - JDK 8 Update 91 `1.8.0_91-b15` 
 
   + [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications. 
     + [Changes](https://javaee.github.io/javamail/docs/CHANGES.txt)
