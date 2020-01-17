@@ -270,17 +270,15 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
 
-  + **Java SE Development Kit (JDK)**
-    + [x] [**Version 8**, Update 241](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) - January 14, 2020. Download and install. 64bit JDK recommended. 
-          + Important Oracle JDK License Update. The Oracle JDK License has changed for releases starting April 16, 2019.
-      + [JDK 8 Update Release Notes](http://www.oracle.com/technetwork/java/javase/8u-relnotes-2225394.html)
+  + **Java SE Development Kit (JDK)** - Important Oracle JDK License Update. The Oracle JDK License has changed for releases starting April 16, 2019. 
+    + [x] [**JDK Version 13.0.2**](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 14, 2020. Java SE 13.0.2 is the latest release for the Java SE Platform. 
+      + **Compatible with Aware IM version `8.4+`** 
+    + [x] [**Version 8**, Update 241](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) - January 14, 2020. 
       + **Compatible with all Aware IM versions**
-    + [x] [Version 13.0.2](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 14, 2020. 
-    + **Compatible with Aware IM version `8.4+`**
-    + [ ] [Version 11.0.6](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 14, 2020. 
-    + **Not tested with Aware IM** 
-    + [x] Version bundled with Aware IM:
-      + Aware IM v8.0+ - `1.8.0_91-b15` 
+    + [ ] [JDK Version 11.0.6](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 14, 2020. 
+      + **Not tested with Aware IM** 
+    + [x] Versions bundled with Aware IM:
+      + Aware IM `v8.0+` - JDK `1.8.0_91-b15` 
 
   + [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications. 
     + [Changes](https://javaee.github.io/javamail/docs/CHANGES.txt)
