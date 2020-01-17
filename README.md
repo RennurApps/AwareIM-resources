@@ -273,6 +273,9 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
   + **Java SE Development Kit (JDK)** - [Java Development Kit builds, from Oracle](https://jdk.java.net) - Oracle OpenJDK releases under the open source. [Oracle JDK License Update](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html).
     + [x] [**JDK Version 13.0.2**](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 14, 2020. Java SE 13.0.2 is the latest release for the Java SE Platform. 
       + **Compatible with Aware IM version `8.4+`** 
+    + [x] [**JDK Version 12.0.2**](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) - July 16, 2019. Java SE 12 has reached end of support. Users of Java SE 12 should switch to Java SE 13. 
+      + [**Oracle OpenJDK 12**](https://jdk.java.net/java-se-ri/12) - Works with Aware IM **`8.4+`** 
+      + **Compatible with Aware IM version `8.4+`** 
     + [x] [**Version 8**, Update 241](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) - January 14, 2020. 
       + **Compatible with all Aware IM versions**
     + [ ] [JDK Version 11.0.6](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 14, 2020. 
