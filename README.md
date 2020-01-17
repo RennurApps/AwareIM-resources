@@ -281,9 +281,9 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
   + **Commercial Java SE Development Kit (JDK)** - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
     + [x] :heavy_check_mark: [**Version `13.0.2`**](https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html) 
-      + Works with Aware IM **`8.4`** - Sample CRM app initialised properly. 
+      + **Works with Aware IM `8.4`** - Sample CRM app initialised properly. 
     + [x] [Version `12.0.2`](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) 
-      + **Compatible with Aware IM version `8.4+`** as per release notes. 
+      + Compatible with Aware IM version `8.4+` as per release notes. 
       + Java SE 12 has reached end of support. Users of Java SE 12 should switch to Java SE 13.
     + [ ] [Version `11.0.6`](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 14, 2020. 
       + **Not tested with Aware IM** 
@@ -319,7 +319,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
        + [How many Communication driven apps can we host on 1 serv](https://awareim.com/forum/viewtopic.php?f=1&p=51529)
       
     + [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab.
-    + [**Bugs since `5.12.1+`**](https://issues.apache.org/jira/browse/AMQ-6456?jql=project%20%3D%20AMQ%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(Open%2C%20%22In%20Progress%22%2C%20Reopened%2C%20Resolved%2C%20Closed)%20AND%20priority%20in%20(Blocker%2C%20Critical)%20AND%20affectedVersion%20in%20(5.12.2%2C%205.12.3%2C%205.13.0%2C%205.13.1%2C%205.13.2%2C%205.13.3%2C%205.13.4%2C%205.13.5%2C%205.14.0%2C%205.14.1%2C%205.14.2%2C%205.14.3%2C%205.14.4%2C%205.14.5%2C%205.15.0%2C%205.15.1%2C%205.15.2%2C%205.15.3%2C%205.15.4%2C%205.15.5%2C%205.15.6%2C%205.15.7%2C%205.15.8%2C%205.15.9)%20ORDER%20BY%20affectedVersion%20ASC%2C%20priority%20ASC%2C%20updated%20DESC)
+    + [**Bugs since `5.12.1`**](https://issues.apache.org/jira/browse/AMQ-6456?jql=project%20%3D%20AMQ%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(Open%2C%20%22In%20Progress%22%2C%20Reopened%2C%20Resolved%2C%20Closed)%20AND%20priority%20in%20(Blocker%2C%20Critical)%20AND%20affectedVersion%20in%20(5.12.2%2C%205.12.3%2C%205.13.0%2C%205.13.1%2C%205.13.2%2C%205.13.3%2C%205.13.4%2C%205.13.5%2C%205.14.0%2C%205.14.1%2C%205.14.2%2C%205.14.3%2C%205.14.4%2C%205.14.5%2C%205.15.0%2C%205.15.1%2C%205.15.2%2C%205.15.3%2C%205.15.4%2C%205.15.5%2C%205.15.6%2C%205.15.7%2C%205.15.8%2C%205.15.9)%20ORDER%20BY%20affectedVersion%20ASC%2C%20priority%20ASC%2C%20updated%20DESC)
       <!-- 
       + **Inconsistent vector internals** - ActiveMQ **`5.15.5+`**. 
         + **Server Output:**
@@ -332,7 +332,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
           + ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from content. Serializable class not available to broker. Reason: java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes. [java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes.]]` 
         -->
     + **Releases**:
-      - [ ] [5.15.11 Release](http://activemq.apache.org/activemq-51510-release) - 25 November, 2019. **Inconsistent vector internals** Aware IM error. 
+      - [ ] [5.15.11 Release](http://activemq.apache.org/activemq-51511-release) - 25 November, 2019. **Inconsistent vector internals** Aware IM error. 
         - ERROR: 
           - `org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
         - Changelog
