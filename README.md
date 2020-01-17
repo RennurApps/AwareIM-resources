@@ -18,7 +18,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [x] Support for PostgreSQL 
       + [x] Support for barcodes and QRcodes in the Report Designer 
       + [x] Report Preview in the Report Designer
-      + [x] Runs under Java 12 envirnonement
+      + [x] Runs under Java 12/13 envirnonement
     + 8.4 Recent Improvements
       + 2713 - TO_TIMEZONE function
       + 2713 - Tab order of -1 can now be specified 
