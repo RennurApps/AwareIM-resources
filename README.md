@@ -508,7 +508,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 #### Integrations, custom components, connectors and plugins 
 Any application offering an API for developers makes it possible to integrate with Aware IM by writing a plugin.
-  + [**wkhtmltopdf**](http://wkhtmltopdf.org/) - Convert HTML to PDF using Webkit (QtWebKit) 
+  + [**wkhtmltopdf**](https://github.com/wkhtmltopdf/wkhtmltopdf) - wkhtmltopdf is a command line tools to render HTML into PDF using the QT Webkit rendering engine. These run entirely "headless" and do not require a display or display service.
     + **Requires** [**Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019**](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) - Download and install first.
     + **Download wkhtmltopdf**:
       + [**Download wkhtmltopdf** Windows (MSVC)](https://wkhtmltopdf.org/downloads.html) - **v0.12.5** released on June 11, 2018 for Windows, Linux and OS X.
@@ -518,7 +518,6 @@ Any application offering an API for developers makes it possible to integrate wi
     + **Install wkhtmltopdf**
         + Windows
           + Extract *.exe file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM 
-    + [**github.com/wkhtmltopdf/**](https://github.com/wkhtmltopdf/wkhtmltopdf) - wkhtmltopdf is a command line tools to render HTML into PDF using the QT Webkit rendering engine. These run entirely "headless" and do not require a display or display service.
     + **Aware IM Process Rules**
       + **Step 1** - Export Aware IM HTML Document to a HTML file
         + `EXPORT DOCUMENT 'Your HTML Document' TO FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html'`
