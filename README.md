@@ -280,7 +280,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + Works with Aware IM **`8.4`** - Sample CRM app initialised properly. 
     + [Archived Versions](https://jdk.java.net/archive/)
 
-  + **Commercial Java SE Development Kit (JDK)** - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) - [Manual Downloads](https://java.com/en/download/manual.jsp)
+  + **Commercial Java SE Development Kit (JDK)** - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) 
     + [x] :heavy_check_mark: [**Version `13.0.2`**](https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html) 
       + **Works with Aware IM `8.4`** - Sample CRM app initialised properly. 
     + [x] [Version `12.0.2`](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) 
@@ -290,8 +290,11 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + **Not tested with Aware IM** 
     + [x] :heavy_check_mark: [**Version 8**, Update 241](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) - January 14, 2020. 
       + **Compatible with all Aware IM versions** 
+      + [Version 8, Update 231](https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8u211-later-5573849.html) - Previous version.
     + [x] Versions bundled with Aware IM:
       + Aware IM `v8.0+` - JDK 8 Update 91 `1.8.0_91-b15` 
+    + [x] [**All previous JDK versions archive**](https://www.oracle.com/technetwork/java/javase/archive-139210.html)
+      + [Manual Downloads](https://java.com/en/download/manual.jsp)
 
   + [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications. 
     + [Changes](https://javaee.github.io/javamail/docs/CHANGES.txt)
