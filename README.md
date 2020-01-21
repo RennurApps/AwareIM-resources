@@ -271,7 +271,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
 
-#### Java JDK
+ #### Java JDK
 
   + [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
     + [x] :heavy_check_mark: [**Oracle OpenJDK `13.0.2`**](https://jdk.java.net/13/) 
@@ -280,7 +280,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + Works with Aware IM **`8.4`** - Sample CRM app initialised properly. 
     + [Archived Versions](https://jdk.java.net/archive/)
 
-  + **Commercial Java SE Development Kit (JDK)** - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
+  + **Commercial Java SE Development Kit (JDK)** - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) - [Manual Downloads](https://java.com/en/download/manual.jsp)
     + [x] :heavy_check_mark: [**Version `13.0.2`**](https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html) 
       + **Works with Aware IM `8.4`** - Sample CRM app initialised properly. 
     + [x] [Version `12.0.2`](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) 
