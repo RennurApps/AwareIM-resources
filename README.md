@@ -69,7 +69,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + :heavy_check_mark: **Currently v8.4** - Builds 2705+
         + [Aware IM 8.4 released](https://www.awareim.com/aware-im-8-4-released/) - Released October 24, 2019
       + **8.3** - Builds 2613-2631 
-        + [Aware IM 8.3 released](https://www.awareim.com/aware-im-8-3-released/) - Released May 23, 2019
+        + [Aware IM 8.3 released](https://www.awareim.com/aware-im-8-3-released/) - Released May 23, 2019 
       + **8.2** - Builds 2559-2574 
         + [Aware IM 8.2 released](https://www.awareim.com/aware-im-8-2-released/) - Released October 25, 2018
       + **v8.1** - Builds 2452-2477
@@ -292,7 +292,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + **Compatible with all Aware IM versions** 
       + [Version 8, Update 231](https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8u211-later-5573849.html) - Previous version.
     + [x] Versions bundled with Aware IM:
-      + Aware IM `v8.0+` - JDK 8 Update 91 `1.8.0_91-b15` 
+      + :heavy_check_mark: Aware IM `v8.0+` - JDK 8 Update 91 `1.8.0_91-b15` 
     + [x] [**All previous JDK versions archive**](https://www.oracle.com/technetwork/java/javase/archive-139210.html)
       + [Manual Downloads](https://java.com/en/download/manual.jsp)
 
@@ -403,12 +403,12 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [Connector/J Versions](https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-versions.html) and what MySQL and Java JDK Versions they support.
 
     + :heavy_check_mark: [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.0.19`**, 13 Jan 2020. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
-      + **Installation (Aware IM 8.1+)**
+      + **Installation**
         + Application Server 
           1. Download `platform independent` version 
           2. Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-java-5.1.46-bin.jar` 
           3. Copy and replace the existing file in 
-              + **v8.3**, `C:\AwareIM\lib`
+              + **v8.3+**, `C:\AwareIM\lib`
               + **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
 
@@ -417,12 +417,12 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
       + [**Download**](https://dev.mysql.com/downloads/connector/j/5.1.html) - Download the latest **Platform Independent** version. 
       + [Changes and Release Notes](https://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
       + [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
-      + **Installation (Aware IM 8.0 and under)**
+      + **Installation**
         + Application Server
           1. Download `platform independent` version 
           2. Extract the files and rename `mysql-connector-java-5.x.xx-bin.jar` to `mysql-connector-java-3.1.12-bin.jar` 
           3. Copy and replace the existing file in:
-              + **v8.3**, `C:\AwareIM\lib`
+              + **v8.3+**, `C:\AwareIM\lib`
               + **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
   + #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
