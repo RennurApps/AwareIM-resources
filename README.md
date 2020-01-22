@@ -551,7 +551,7 @@ Any application offering an API for developers makes it possible to integrate wi
         + [User Guide](http://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v610/getting-started-jaspersoft-studio)
       + **Forum posts**
           + [AWARE'S REPORTING - JASPER REPORTS UPGRADE FOR NEXT RELEASE?](http://www.awareim.com/forum/viewtopic.php?f=1&t=7744) - JasperRepoerts Server
-  + [**Metabase BI**](https://www.metabase.com/) - Open source. 
+    + [**Metabase BI**](https://www.metabase.com/) - Open source. 
 
 ### News
 > The creators of **Kendo UI**, Progress Software have been recognized by Gartner as a Leader in the 2017 Gartner Magic Quadrant for Mobile Application Development Platforms (MADP). **Kendo UI** is the HTML5/JS Framework that powers Aware IM created web and mobile apps. [**Read more**](https://www.progress.com/campaigns/progress-named-a-leader-in-gartner-magic-quadrant-2017)
