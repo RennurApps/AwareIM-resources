@@ -288,11 +288,13 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     + [ ] [Version `11.0.6`](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 14, 2020. 
       + **Not tested with Aware IM** 
     + [x] :heavy_check_mark: Version 8, Update 241 - January 14, 2020. 
-      + Download links found at [https://lv.binarybabel.org/catalog/java/jdk8#history](https://lv.binarybabel.org/catalog/java/jdk8#history):
-<!--        + [x] [**Windows (exe) x64 - download.oracle.com**](http://download.oracle.com/otn-pub/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jdk-8u241-windows-x64.exe)
+      + Download links found at [https://lv.binarybabel.org/catalog/java/jdk8#history](https://lv.binarybabel.org/catalog/java/jdk8#history)
+<!--    
+        + [x] [**Windows (exe) x64 - download.oracle.com**](http://download.oracle.com/otn-pub/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jdk-8u241-windows-x64.exe)
         + [x] [Linux (rpm) x64 - download.oracle.com](http://download.oracle.com/otn-pub/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jdk-8u241-linux-x64.rpm)
         + [x] [Linux (tar.gz) x64 - download.oracle.com](http://download.oracle.com/otn-pub/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jdk-8u241-linux-x64.tar.gz)
-        + [x] [MacOS x64 - download.oracle.com](http://download.oracle.com/otn-pub/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jdk-8u241-macosx-x64.dmg) -->
+        + [x] [MacOS x64 - download.oracle.com](http://download.oracle.com/otn-pub/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jdk-8u241-macosx-x64.dmg) 
+-->
     + [x] [**Version 8, Update 231**](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html) <!-- https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8u211-later-5573849.html) --> 
       + **Compatible with all Aware IM versions** 
     + [x] Versions bundled with Aware IM:
