@@ -1,4 +1,5 @@
-# Aware IM Developer - Server Components, Resources and Dependencies 
+# Aware IM Developer 
+## Server Components, Resources and Dependencies 
 > Aware IM is a rapid low-code application development tool that lets you create powerful aesthetically appealing web applications quickly. 
 
 <!--
