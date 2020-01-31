@@ -1,6 +1,6 @@
 # Aware IM Application Stack 
 ## Servers, Components, Frameworks, Dependencies and other resources
-> Aware IM is a rapid low-code application development tool that lets you create powerful aesthetically appealing web applications quickly. 
+> Aware IM is a rapid low-code application development tool that lets you create powerful aesthetically appealing web applications quickly.
 
 <!--
   + [**Service & support**](https://rennurapps.freshservice.com/support/home) - Contact us for Aware IM installations and updates, Tomcat upgrades and config, SSL installation & config, Server system & Database optimisation, Java and other techincal server componet updates. -->
@@ -12,6 +12,8 @@
 
 #### Software
 Written in 100% Java programming language. Aware IM is based on the plethora of Java technologies such as J2EE application server, JDBC, JMS, JSP/servlets technology, web services etc. These are robust technologies that have been proven in the industry.
+
+Tutorials, documentation, events, apps has been moved [**here**](https://github.com/RennurApps/AwareIM-Help)
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
   + [**Currently v8.4 build 2719**](https://www.awareim.com/changelog/Readme2719.txt) - 22 January, 2020. 
