@@ -105,7 +105,9 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
   + Mac
   + Linux 
   
-#### Apache Tomcat 
+#### Application Server 
+
+##### Apache Tomcat 
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation. 
 
 > Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete.
@@ -161,7 +163,7 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
     + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
 
- #### Java JDK
+#### Java JDK
 
   + [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
     + [ ] [**Oracle OpenJDK `13.0.2`**](https://jdk.java.net/13/) 
