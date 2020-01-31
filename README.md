@@ -285,7 +285,7 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
         + [x] Source Code
         + [x] Windows
       + [**Download**](https://mariadb.org/download/)
-        + [**MariaDB version 10.4.12 Stable**](https://downloads.mariadb.org/mariadb/10.4.12/) - 28 Jabuary 2020. 
+        + [**MariaDB version 10.4.12 Stable**](https://downloads.mariadb.org/mariadb/10.4.12/) - 28 January 2020. 
         
 #### Database Connectors
   + #### [**MySQL Connectors**](https://www.mysql.com/products/connector/) - :grey_exclamation:**UPDATE TO VERSION 8.x HIGHLY RECOMMENDED**:grey_exclamation: 
