@@ -285,7 +285,7 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
         + [x] Source Code
         + [x] Windows
       + [**Download**](https://mariadb.org/download/)
-        + [**MariaDB version 10.4.11**](https://downloads.mariadb.org/mariadb/10.4.11/) - 11 December 2019. 
+        + [**MariaDB version 10.4.12 Stable**](https://downloads.mariadb.org/mariadb/10.4.12/) - 28 Jabuary 2020. 
         
 #### Database Connectors
   + #### [**MySQL Connectors**](https://www.mysql.com/products/connector/) - :grey_exclamation:**UPDATE TO VERSION 8.x HIGHLY RECOMMENDED**:grey_exclamation: 
@@ -318,7 +318,9 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
               + **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
   + #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
-    + [**MariaDB Connector/J**](https://mariadb.com/kb/en/library/about-mariadb-connector-j/) - **Latest version `v2.5.3`**, 8 January 2020. Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+.
+    + [**MariaDB Connector/J**](https://downloads.mariadb.org/connector-java/+releases/) - Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+. 
+      + [ ] [MariaDB Connector/J 2.5.4 Stable](https://downloads.mariadb.org/connector-java/2.5.4/) - 28 January 2020. 
+        + **Version untested with Aware IM**
       > Aware IM Version 8.3 uses MariaDB Connector/J  driver version `2.3.0` (7 September 2018).
 
 
