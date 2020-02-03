@@ -421,8 +421,6 @@ Any application offering an API for developers makes it possible to integrate wi
         + `IMPORT DOCUMENT myBO.DocumentPDF FROM 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.pdf'`
       + **Optional** - Delete exported HTML file 
         + `DELETE FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html'`
-  + [**Prince 11**](http://www.princexml.com/) - Convert your HTML documents to PDF.
-      + [Sample Documents](http://www.princexml.com/samples/) - Dictionary, Invoices, Textbook, Scientific Journal, Product Catalogs, Brochure ... 
 
   + **Business Intelligence, Report Writer/Server** 
     + **Power BI Interactive Data Visualization** - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
