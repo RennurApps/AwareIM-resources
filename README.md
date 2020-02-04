@@ -249,7 +249,7 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
   + [**Java Service Wrapper** - ](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.42** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition. 
     + [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
 
-#### Databases
+#### Database Servers
   + #### **MySQL**
     + [**MySQL Community Server**](http://www.mysql.com/products/community/)
       + Download
@@ -276,17 +276,21 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
       + [x] [Apache Derby 10.12.1.1](https://db.apache.org/derby/releases/release-10.12.1.1.cgi) - (October 11, 2015)
       + [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
     + Downloads [http://db.apache.org/derby/derby_downloads.html](http://db.apache.org/derby/derby_downloads.html)
+  
+  + #### **PostgressSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system. 
+    + [Download PostgressSQL](https://www.postgresql.org/download/) - Current version `12.1` 14 November 2019. 
+  
   + #### **Maria DB** 
     + [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License. 
-      + **Operating Systems**
-        + [x] DEB Package
-        + [x] Generic Linux
-        + [x] RPM Package
-        + [x] Source Code
-        + [x] Windows
       + [**Download**](https://mariadb.org/download/)
         + [**MariaDB version 10.4.12 Stable**](https://downloads.mariadb.org/mariadb/10.4.12/) - 28 January 2020. 
         
+  + #### **SQL Server** - [Microsoft Data Platforms](https://www.microsoft.com/en-in/sql-server/) 
+    + [SQL Server Downloads](https://www.microsoft.com/en-in/sql-server/sql-server-downloads)
+  
+  + #### **Oracle** - [Oracle Database](https://www.oracle.com/database/) 
+    + [Oracle Database Software Downloads](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database vesrios `19c` (`19.3`)
+
 #### Database Connectors
   + #### [**MySQL Connectors**](https://www.mysql.com/products/connector/) - :grey_exclamation:**UPDATE TO VERSION 8.x HIGHLY RECOMMENDED**:grey_exclamation: 
       > From version 8.1 build 2461 onwards, Aware IM uses Connector/J JDBC driver version 5.1.46. JDBC driver communicates with MySQL servers.
@@ -317,6 +321,8 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
               + **v8.3+**, `C:\AwareIM\lib`
               + **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
+  + #### [**PostgressSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.2.9`.
+    + Java 8 required.
   + #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
     + [**MariaDB Connector/J**](https://downloads.mariadb.org/connector-java/+releases/) - Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+. 
       + [ ] [MariaDB Connector/J 2.5.4 Stable](https://downloads.mariadb.org/connector-java/2.5.4/) - 28 January 2020. 
