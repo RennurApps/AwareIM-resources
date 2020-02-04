@@ -277,8 +277,8 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
       + [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
     + Downloads [http://db.apache.org/derby/derby_downloads.html](http://db.apache.org/derby/derby_downloads.html)
   
-  + #### **PostgressSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system. 
-    + [Download PostgressSQL](https://www.postgresql.org/download/) - Current version `12.1` 14 November 2019. 
+  + #### **PostgreSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system. 
+    + [Download PostgreSQL](https://www.postgresql.org/download/) - Current version `12.1` 14 November 2019. 
   
   + #### **Maria DB** 
     + [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License. 
@@ -321,7 +321,7 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
               + **v8.3+**, `C:\AwareIM\lib`
               + **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
-  + #### [**PostgressSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.2.9`.
+  + #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.2.9`.
     + Java 8 required.
   + #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
     + [**MariaDB Connector/J**](https://downloads.mariadb.org/connector-java/+releases/) - Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+. 
