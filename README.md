@@ -170,7 +170,7 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
     + [ ] [Oracle OpenJDK `12.0.2`](https://jdk.java.net/12/) - JDK 12 has been superseded. 
     + [ ] [Archived Versions](https://jdk.java.net/archive/)
 
-  + **Commercial Java SE Development Kit (JDK)** - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) 
+  + [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) 
     + [ ] [Version `13.0.2`](https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html)
       + **Issues with starting the Control Panel Server during testing.**
     + [ ] [Version `12.0.2`](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) 
