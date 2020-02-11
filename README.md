@@ -16,13 +16,14 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help)
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
-  + [**Currently v8.4 build 2719**](https://www.awareim.com/changelog/Readme2719.txt) - 22 January, 2020. 
+  + [**Currently v8.4 build 2720**](https://www.awareim.com/changelog/Readme2720.txt) - 11 February, 2020. 
     + **New Features in version 8.4**  
       + [x] Support for PostgreSQL 
       + [x] Support for barcodes and QRcodes in the Report Designer 
       + [x] Report Preview in the Report Designer
       + [x] Runs under Java 12/13 envirnonement
     + 8.4 Recent Improvements
+      + 2720 - New function CR() returns a newline symbol \n
       + 2714 - Predefined FileItem object can now be specified as process input
       + 2713 - TO_TIMEZONE function
       + 2713 - Tab order of -1 can now be specified 
