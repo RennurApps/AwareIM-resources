@@ -146,7 +146,6 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
                 + **In v8.3+**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\lib folder to replace the old one. 
                 + **In v8.2 and below**,  if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one. 
             8. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
-            9. Check that there is only one `ecj-4.x.jar` file in the Tomcat/lib folder.
     + [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     + [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
   + [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.51`** 5 February, 2020. (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later. 
