@@ -160,8 +160,6 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
   + **Tomcat SSL/TLS Configuration HOW-TO** - Tomcat documentation. 
     + [**v9.0**](http://tomcat.apache.org/tomcat-9.0-doc/ssl-howto.html)
     + [**v8.5**](http://tomcat.apache.org/tomcat-8.5-doc/ssl-howto.html)
-    + [**v8.0**](http://tomcat.apache.org/tomcat-8.0-doc/ssl-howto.html)
-    + [**v6.0**](http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html)
     + [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
 
 #### Java JDK
