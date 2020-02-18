@@ -16,7 +16,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help)
 
 <!--  + [**Download Aware IM**](http://www.awareim.com/download/) - Try Evaluation Version - All platforms. -->
-  + [**Currently v8.4 build 2720**](https://www.awareim.com/changelog/Readme2720.txt) - 11 February, 2020. 
+  + [**Currently v8.4 build 2721**](https://www.awareim.com/changelog/Readme2721.txt) - 17 February, 2020. 
     + **New Features in version 8.4**  
       + [x] Support for PostgreSQL 
       + [x] Support for barcodes and QRcodes in the Report Designer 
