@@ -276,7 +276,7 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
     + Downloads [http://db.apache.org/derby/derby_downloads.html](http://db.apache.org/derby/derby_downloads.html)
   
   + #### **PostgreSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system. 
-    + [Download PostgreSQL](https://www.postgresql.org/download/) - Current version `12.1` 14 November 2019. 
+    + [Download PostgreSQL](https://www.postgresql.org/download/) - Current version `12.2` 13 February 2020. 
   
   + #### **Maria DB** 
     + [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License. 
