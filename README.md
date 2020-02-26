@@ -319,7 +319,7 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
               + **v8.3+**, `C:\AwareIM\lib`
               + **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
           4. Restart AwareIM Server Control Panel
-  + #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.2.9`.
+  + #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.2.10`.
     + Java 8 required.
   + #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
     + [**MariaDB Connector/J**](https://downloads.mariadb.org/connector-java/+releases/) - Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+. 
