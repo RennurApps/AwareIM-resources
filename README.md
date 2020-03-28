@@ -164,8 +164,9 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
 #### Java JDK
 
   + [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
-    + [ ] [**Oracle OpenJDK `13.0.2`**](https://jdk.java.net/13/) 
-    + [ ] [Oracle OpenJDK `12.0.2`](https://jdk.java.net/12/) - JDK 12 has been superseded. 
+    + [ ] [**Oracle OpenJDK `14`**](https://jdk.java.net/14/)
+    + [ ] [Oracle OpenJDK `13`](https://jdk.java.net/13/) 
+    + [ ] [Oracle OpenJDK `12`](https://jdk.java.net/12/) - JDK 12 has been superseded. 
     + [ ] [Archived Versions](https://jdk.java.net/archive/)
 
   + [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) 
