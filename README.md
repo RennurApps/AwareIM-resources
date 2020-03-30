@@ -227,7 +227,7 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
           + ERROR: org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from content. Serializable class not available to broker. Reason: java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes. [java.lang.ClassNotFoundException: Forbidden class org.openadaptor.dataobjects.SimpleDataObject! This class is not trusted to be serialized as ObjectMessage payload. Please take a look at http://activemq.apache.org/objectmessage.html for more information on how to configure trusted classes.]]` 
         -->
     + **Releases**:
-      - [ ] [5.15.11 Release](http://activemq.apache.org/activemq-51511-release) - 25 November, 2019. **Inconsistent vector internals** Aware IM error. 
+      - [ ] [5.15.12 Release](http://activemq.apache.org/activemq-51512-release) - 9 Mar, 2020. **Inconsistent vector internals** Aware IM error. 
         - ERROR: 
           - `org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
         - Changelog
