@@ -170,15 +170,11 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
     + [ ] [Archived Versions](https://jdk.java.net/archive/)
 
   + [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) 
-    + [ ] [Version `13.0.2`](https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html)
-      + **Issues with starting the Control Panel Server during testing.**
-    + [ ] [Version `12.0.2`](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) 
-      + Compatible with Aware IM version `8.4+` as per _release notes_. 
-        + Issues with starting the Control Panel Server during tesing. 
-      + Java SE 12 has reached end of support. Users of Java SE 12 should switch to Java SE 13.
-    + [ ] [Version `11.0.6`](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - January 14, 2020. 
+    + [ ] [Version `14.0.1`](https://www.oracle.com/technetwork/java/javase/downloads/index.html#JDK14) - April 14, 2020
+      + **Not tested with Aware IM**
+    + [ ] [Version `11.0.7`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - April 14, 2020. 
       + **Not tested with Aware IM** 
-    + [x] :heavy_check_mark: [**Version 8, Update 241**](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - `1.8.0_241-b07` January 14, 2020. **Compatible with all Aware IM versions**.<!-- + [JDK 8 Downloads](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) -->
+    + [x] :heavy_check_mark: [**Version 8, Update 251**](https://www.oracle.com/java/technologies/javase-downloads.html#JDK8)(https://www.oracle.com/java/technologies/javase-jdk8-downloads.html) - `1.8.0_251-b08` 14 April, 2020. **Compatible with all Aware IM versions**.<!-- + [JDK 8 Downloads](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) -->
       + More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8) 
       + Previous JDK 8 versions:
         + [x] [Version 8, Update 231](https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8u211-later-5573849.html) - `1.8.0_231-b11 `
