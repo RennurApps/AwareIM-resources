@@ -176,8 +176,6 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
       + **Not tested with Aware IM** 
     + [x] :heavy_check_mark: [**Version 8, Update 251**](https://www.oracle.com/java/technologies/javase-downloads.html#JDK8) - `1.8.0_251-b08` 14 April, 2020. **Compatible with all Aware IM versions**.<!-- + [JDK 8 Downloads](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) -->
       + More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8) 
-      + Previous JDK 8 versions:
-        + [x] [Version 8, Update 231](https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8u211-later-5573849.html) - `1.8.0_231-b11 `
     + [x] Versions bundled with Aware IM:
       + Aware IM `v8.0+` - JDK 8 Update 91 `1.8.0_91-b15` 
     + [x] [**All previous JDK versions archive**](https://www.oracle.com/technetwork/java/javase/archive-139210.html)
