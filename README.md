@@ -282,7 +282,7 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
     + [SQL Server Downloads](https://www.microsoft.com/en-in/sql-server/sql-server-downloads)
   
   + #### **Oracle** - [Oracle Database](https://www.oracle.com/database/) 
-    + [Oracle Database Software Downloads](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database vesrios `19c` (`19.3`)
+    + [Oracle Database Software Downloads](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database vesrios `19c` (`19.5`)
 
 #### Database Connectors
   + #### [**MySQL Connectors**](https://www.mysql.com/products/connector/) - :grey_exclamation:**UPDATE TO VERSION 8.x HIGHLY RECOMMENDED**:grey_exclamation: 
