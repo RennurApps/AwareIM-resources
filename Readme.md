@@ -235,14 +235,14 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
     *   [**MySQL Community Server**](http://www.mysql.com/products/community/)
         *   Download
             
-            *    [**MySQL Community Server 8.0.19**](http://dev.mysql.com/downloads/mysql/) - 13 Jan 2020. Upgrade from MySQL 5.7 to MySQL 8.0 is only supported using the in-place upgrade method.
+            *    [**MySQL Community Server 8.0.20**](http://dev.mysql.com/downloads/mysql/) - 27 Apr 2020. Upgrade from MySQL 5.7 to MySQL 8.0 is only supported using the in-place upgrade method.
                 *   **Prerequisite**
                     *   [Visual Studio 2015, 2017 and 2019](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads)
             
-            *    [**MySQL Community Server 5.7.29**](https://dev.mysql.com/downloads/mysql/5.7.html) - 13 Jan 2020.
+            *    [**MySQL Community Server 5.7.30**](https://dev.mysql.com/downloads/mysql/5.7.html) - 27 Apr 2020.
                 *   **Prerequisite**
                     *   [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
-            *    [**MySQL Community Server 5.6.47**](https://dev.mysql.com/downloads/mysql/5.6.html) - 13 Jan 2020.
+            *    [**MySQL Community Server 5.6.48**](https://dev.mysql.com/downloads/mysql/5.6.html) - 27 Apr 2020.
                 *   **Prerequisite**
                     *   [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms.
             *    [**MySQL Community Server 5.5.62**](https://dev.mysql.com/downloads/mysql/5.5.html) - 22 Oct 2018.
@@ -284,7 +284,7 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
     
     *   [Connector/J Versions](https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-versions.html) and what MySQL and Java JDK Versions they support.
         
-    *   ✔️ [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.0.19`**, 13 Jan 2020. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
+    *   ✔️ [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.0.20`**, 27 Apr 2020. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
         
         *   **Installation**
             *   Application Server
