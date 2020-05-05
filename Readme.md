@@ -12,7 +12,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help)
 
-*   [**Currently v8.4 build 2721**](https://www.awareim.com/changelog/Readme2721.txt) - 17 February, 2020.
+*   [**Currently v8.4 build 2722**](https://www.awareim.com/changelog/Readme2722.txt) - 4 April, 2020.
     
     *   **New Features in version 8.4**
         *    Support for PostgreSQL
