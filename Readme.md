@@ -437,3 +437,6 @@ Any application offering an API for developers makes it possible to integrate wi
         *   **Forum posts**
             *   [AWARE'S REPORTING - JASPER REPORTS UPGRADE FOR NEXT RELEASE?](http://www.awareim.com/forum/viewtopic.php?f=1&t=7744) - JasperRepoerts Server
     *   [**Metabase BI**](https://www.metabase.com/) - Open source.
+
+# Donate
+https://paypal.me/RennurApps?locale.x=en_AU
