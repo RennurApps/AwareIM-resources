@@ -119,7 +119,7 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
 
 > Tomcat 6.0.35 32bit is the default version packaged in the **Aware IM 5.9** server installation.
 
-*   [**Tomcat 9.0.35** - For Aware IM v8.x](http://tomcat.apache.org/) - 5 May, 2020. Tomcat 9 is designed to run on **`Java SE 8`** or later.
+*   [**Tomcat 9.0.36** - For Aware IM v8.x](http://tomcat.apache.org/) - 3 June, 2020. Tomcat 9 is designed to run on **`Java SE 8`** or later.
     *   ✔️ [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working with Aware IM versions `6.x`, `7.x` & `8.x`.
         *   [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
         *   [**Security**](https://tomcat.apache.org/security-9.html)
