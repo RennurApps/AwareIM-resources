@@ -10,7 +10,7 @@
 
 Written in 100% Java programming language. Aware IM is based on the plethora of Java technologies such as J2EE application server, JDBC, JMS, JSP/servlets technology, web services etc. These are robust technologies that have been proven in the industry.
 
-Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help)
+<!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) --> 
 
 *   [**Currently v8.4 build 2722**](https://www.awareim.com/changelog/Readme2722.txt) - 4 April, 2020.
     
@@ -124,6 +124,9 @@ Links to tutorials, documentation, events, apps have been moved [**here**](https
         *   [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
         *   [**Security**](https://tomcat.apache.org/security-9.html)
             *   **Important fixes**
+                *   `9.0.36` HTTP/2 DoS `CVE-2020-11996` - Affects: 9.0.0.M1 to 9.0.35
+                *   `9.0.35` Remote Code Execution via session persistence `CVE-2020-9484` - Affects: 9.0.0.M1 to 9.0.34
+                *   `9.0.31` AJP Request Injection and potential Remote Code Execution `CVE-2020-1938` - Affects: 9.0.0.M1 to 9.0.30
                 *   `9.0.20` Denial of Service `CVE-2019-10072` - Affects: 9.0.0.M1 to 9.0.19
                 *   `9.0.19` Remote Code Execution on Windows `CVE-2019-0232` - Affects: 9.0.0.M1 to 9.0.17
                 *   `9.0.16` Denial of Service `CVE-2019-0199` - Affects: 9.0.0.M1 to 9.0.14
