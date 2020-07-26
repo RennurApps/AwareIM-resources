@@ -179,7 +179,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         *   **Not tested with Aware IM**
     *    [Version `11.0.7`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - April 14, 2020.
         *   **Not tested with Aware IM**
-    *    ✔️ [**Version 8, Update 251**](https://www.oracle.com/java/technologies/javase-downloads.html#JDK8) - `1.8.0_251-b08` 14 April, 2020. **Compatible with all Aware IM versions**.
+    *    ✔️ [**Version 8, Update 261**](https://www.oracle.com/java/technologies/javase-downloads.html#JDK8) - `1.8.0_261-b12` 14 July, 2020. **Compatible with all Aware IM versions**.
         *   More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8)
     *    Versions bundled with Aware IM:
         *   Aware IM `v8.0+` - JDK 8 Update 91 `1.8.0_91-b15`
