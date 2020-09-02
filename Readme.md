@@ -1,4 +1,4 @@
-# Aware IM Server Stack
+# Aware IM 6.0 Server Stack
 ## Servers, Components, Frameworks, Dependencies and other resources
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -12,112 +12,16 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 <!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) --> 
 
-*   [**Currently v8.4 build 2722**](https://www.awareim.com/changelog/Readme2722.txt) - 4 April, 2020.
-    
-    *   **New Features in version 8.4**
-        *    Support for PostgreSQL
-        *    Support for barcodes and QRcodes in the Report Designer
-        *    Report Preview in the Report Designer
-        *    Runs under Java 12/13 envirnonement
-    *   8.4 Recent Improvements
-        *   2720 - New function CR() returns a newline symbol \\n
-        *   2714 - Predefined FileItem object can now be specified as process input
-        *   2713 - TO\_TIMEZONE function
-        *   2713 - Tab order of -1 can now be specified
-        *   2711 - Image Gallery operation available to Custom Checkbox Lists
-        *   2711 - Control Panel toolbar
-        *   2711 - Improvements for auto-incremented numbers
-            *   NEXT\_SEQUENCE\_NMB function
-        *   2711 - Log improvements
-        *   2710 - [Improvements](https://www.awareim.com/changelog/Readme2710.txt)
-        *   2709 - Queries can now be defined using EXEC\_SQL statement
-        *   2709 - Support for the latest version of PhoneGap build
-        *   2705 - [List of improvements](https://www.awareim.com/changelog/Readme2705.txt)
-*   v8.3
-    
-    *   **New Features in version 8.3**
-        *    Relationships diagrams with the ability to edit relationships
-        *    Process diagrams with the ability to show sub-processes
-    *   8.3 Recent Improvements
-        *   2629 - Ability to specify a script for Google Maps in visual perspectives
-        *   2623 - Support for attributes that hold and display color
-            *   1.  You define a text attribute with the property "Content" (former "Format") set to "Color" rather than default setting of "STANDARD"
-            *   2.  If you put this attribute on a form Aware IM will generate a color-picker widget, rather than the standard text box. At runtime the user will be able to pick a color as the value for this attribute
-            *   3.  You can then use this color in tag expressions at various places in the system - in HTML, attribute styles etc.  
-                    For example, in HTML:  
-                    `<div style="background-color:&lt;&lt;MyObject.ColorAttr&gt;&gt;"></div>`
-            *   4.  If used in queries the system by default will display color boxes with actual colors
-        *   2623 - Support for Swap-Select widget resize
-        *   2621 - Graphic resizing of form width, label width, control width and column width
-        *   2616 - It is now possible to disallow access to 'model' to configuration users
-        *   2615 - Predefined elements use default output target for the content panel
-*   v8.2
-    
-    *   **New Features in version 8.2**
-        *    Multi-developer mode
-        *    SAML support (Single Sign On framework)
-        *    Custom HTML forms
-        *    Kanban boards
-    *   **Recent Improvements in version 8.2**
-        *   2572 - Push notifications: GCM deprecated and replaced with FCM
-            *   [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)
-        *   2570 - "No data found" message displayed for custom queries if there is no data
-        *   2565 - Ability to specify a script for modeless windows
-        *   2562 - Documents used inside HTML cells return file name and so can now be displayed inside an IFRAME
-        *   2562 - Values for Kanban columns support tag expressions
-        *   2561 - It is now possible to capture HTTP response codes in REST
 
-*   [**Version History**](http://www.awareim.com/changelog/?C=M;O=D)
-    *   ✔️ **Currently v8.4** - Builds 2705+
-        *   [Aware IM 8.4 released](https://www.awareim.com/aware-im-8-4-released/) - Released October 24, 2019
-    *   **8.3** - Builds 2613-2631
-        *   [Aware IM 8.3 released](https://www.awareim.com/aware-im-8-3-released/) - Released May 23, 2019
-    *   **8.2** - Builds 2559-2574
-        *   [Aware IM 8.2 released](https://www.awareim.com/aware-im-8-2-released/) - Released October 25, 2018
-    *   **v8.1** - Builds 2452-2477
-        *   [Aware IM 8.1 released](https://www.awareim.com/aware-im-8-1-released/) - Released April 19, 2018
-        *   [Version 8.1 Overview - Youtube video](https://www.youtube.com/watch?v=sp4OvLR5ALI) - Aware IM version 8.1 features overview.
-    *   **v8.0** - Builds 2341-2378
-        *   [Aware IM 8.0 released](https://www.awareim.com/aware-im-8-0-released/) - Released August 3, 2017
-        *   [Version 8.0 Overview - Youtube video](https://www.youtube.com/watch?v=NHvKFZHhADg) - Overview of the new Aware IM version 8.0 (Jun 28, 2017)
-    *   **v7.1** - Builds 2223-2240
-        *   [Aware IM 7.1 released](http://www.awareim.com/aware-im-7-1-released/) - Released September 6, 2016
-    *   **v7.0** - Builds 2144-2181
-        *   [Aware IM 7.0 released](http://www.awareim.com/aware-im-7-0-released/) - Released February 8, 2016
-            *   [Watch a video about version 7.0](https://youtu.be/p5Q-YYAd6Fs)
-    *   **v6.0** - Builds 2010-2056
-        *   [Aware IM 6.0 released](http://awareim.com/aware-im-6-0-released/) - Released January 9, 2015
-    *   **v5.9** - Builds 1881-1908
-        *   [Aware IM 5.9 released](http://awareim.com/aware-im-5-9-released/) -
-            *   Improvements
-                *   **User Defined Processes/Workflows** - Ability for the administrator of end user to control access levels settings
-                    *   How To (PDF) - Page 47
-                    *   [Forum post](http://www.awareim.com/forum/viewtopic.php?t=7091)
-    *   **v5.8** - Builds 1797-1814
-        *   [Aware IM 5.8 released](http://www.awareim.com/aware-im-5-8-released/)
-    *   **v5.7** - Builds 1691-1719
-    *   **v5.6** - Builds 1638-1671
-    *   **v5.5** - Builds 1588-1617
+#### Application Server
 
-#### [](#operating-system)Operating System
-
-*   Windows
-*   Mac
-*   Linux
-
-#### [](#application-server)Application Server
-
-##### [](#apache-tomcat)Apache Tomcat
+##### Apache Tomcat
 
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation.
 
 > Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete.
 
-> Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.1+** server installation.
-
 > Tomcat 8.0.14 32bit is the default version packaged in the **Aware IM 6.0-8.0** server installation.
-
-> Tomcat 6.0.35 32bit is the default version packaged in the **Aware IM 5.9** server installation.
 
 *   [**Tomcat 9.0.37** - For Aware IM v8.x](http://tomcat.apache.org/) - 30 June, 2020. Tomcat 9 is designed to run on **`Java SE 8`** or later.
     *   ✔️ [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working with Aware IM versions `6.x`, `7.x` & `8.x`.
@@ -147,8 +51,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
                     4.  Open you AwareIM installation Tomcat folder **C:\\AwareIM\\Tomcat**
                     5.  Press `Ctrl+v` to paste and replace all files and folders.
                     6.  Java JDK tools.jar:
-                        *   **In v8.3+**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\\Awareim\\lib folder to replace the old one.
-                        *   **In v8.2 and below**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\\Awareim\\Tomcat\\lib folder to replace the old one.
+                        *   If you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\Tomcat\Lib folder to replace the old one.
                     7.  Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
     *   [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     *   [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
@@ -225,8 +128,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
                 *   Browser won't load the app
         *    [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - 👍 **Tested and working with Tomcat 6, 8 & 9**.
             *   Installation
-                *   In **v8.3+**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\\AwareIM\\lib
-                *   In **v8.2 and below**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\\AwareIM\\Tomcat\\lib
+                *   Extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\AwareIM\Tomcat\lib
         *    [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server installation.
 *   [**Java Service Wrapper** -](http://wrapper.tanukisoftware.com/doc/english/download.jsp) \- **32bit v3.5.42** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition.
     
@@ -263,15 +165,6 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         *    [Apache Derby 10.12.1.1](https://db.apache.org/derby/releases/release-10.12.1.1.cgi) - (October 11, 2015)
         *   [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
     *   Downloads [http://db.apache.org/derby/derby\_downloads.html](http://db.apache.org/derby/derby_downloads.html)
-*   #### [](#postgresql---postgresql-is-a-powerful-open-source-object-relational-database-system)**PostgreSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
-    
-    *   [Download PostgreSQL](https://www.postgresql.org/download/) - Current version `12.2` 13 February 2020.
-*   #### [](#maria-db)**Maria DB**
-    
-    *   [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
-        *   [**Download**](https://mariadb.org/download/)
-            *   [**MariaDB version 10.4.12 Stable**](https://downloads.mariadb.org/mariadb/10.4.12/) - 28 January 2020.
-*   #### [](#sql-server---microsoft-data-platforms)**SQL Server** - [Microsoft Data Platforms](https://www.microsoft.com/en-in/sql-server/)
     
     *   [SQL Server Downloads](https://www.microsoft.com/en-in/sql-server/sql-server-downloads)
 *   #### [](#oracle---oracle-database)**Oracle** - [Oracle Database](https://www.oracle.com/database/)
@@ -294,9 +187,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             *   Application Server
                 1.  Download `platform independent` version
                 2.  Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-java-5.1.46-bin.jar`
-                3.  Copy and replace the existing file in
-                    *   **v8.3+**, `C:\AwareIM\lib`
-                    *   **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
+                3.  Copy and replace the existing file in `C:\AwareIM\Tomcat\lib`
                 4.  Restart AwareIM Server Control Panel
     *   ✔️ [**Connector/J 5.1.x**](https://dev.mysql.com/downloads/connector/j/5.1.html) - **Latest version `v5.1.49`**, 20 April 2019. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.
         
@@ -307,53 +198,28 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             *   Application Server
                 1.  Download `platform independent` version
                 2.  Extract the files and rename `mysql-connector-java-5.x.xx-bin.jar` to `mysql-connector-java-3.1.12-bin.jar`
-                3.  Copy and replace the existing file in:
-                    *   **v8.3+**, `C:\AwareIM\lib`
-                    *   **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
+                3.  Copy and replace the existing file in `C:\AwareIM\Tomcat\lib`
                 4.  Restart AwareIM Server Control Panel
 *   #### [](#postgresql-jdbc-connector---current-version-42212)[**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.2.12`.
     
     *   Java 8 required.
-*   #### [](#mariadb-connectors)[**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
-    
-    *   [**MariaDB Connector/J**](https://downloads.mariadb.org/connector-java/+releases/) - Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+.
-        
-        *    [MariaDB Connector/J 2.6.0 Stable](https://downloads.mariadb.org/connector-java/2.6.0/) - 28 January 2020.
-            *   **Version untested with Aware IM**
-        
-        > Aware IM Version 8.3 uses MariaDB Connector/J driver version `2.3.0` (7 September 2018).
-        
 
 #### [](#web-application-framework---html5js-framework)**Web Application Framework** - HTML5/JS Framework
 
-*   [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
-    *   [**Roadmap**](http://www.telerik.com/support/whats-new/kendo-ui/roadmap)
-    *   [**Release History**](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
-        *   Latest Kendo UI Release [**Kendo UI R2 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2020-sp1) - June 17, 2020
-        *   **Aware IM 8.1+** Kendo UI version [**Kendo UI R3 2017**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017)
-        *   Aware IM 7.0-8.0 Kendo UI version [Kendo UI Q1 2016](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
-    *   [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
-    *   70+ jQuery-based UI widgets in one powerful toolset.
-    *   AngularJS integration, Bootstrap support, mobile controls, offline data solution.
 *   **Ext JS v5.0.0** - for Aware IM v6.0 Only (final)
     *   [Guide](http://docs.sencha.com/extjs/5.0.0/index.html)
         *   [Ext JS 5 Examples](http://dev.sencha.com/ext/5.0.0/examples/index.html)
     *   [Whats's New](http://docs.sencha.com/extjs/5.0.0/whats_new/5.0/whats_new.html)
-*   Ext JS v4.1.0 for Aware IM v5.9 Only (final)
-    *   [Ext JS Docs](http://docs.sencha.com/extjs/4.1.0/)
-    *   [Ext JS Examples](http://try.sencha.com/extjs/4.1.0/)
 
 #### [](#mobile-web-framework)**Mobile Web Framework**
 
-*   **Aware IM 7.x+** - Mobile apps with HTML5 and JavaScript.
-    *   [**Kendo UI®**](http://www.telerik.com/kendo-ui)
 *   Aware IM 5.x & 6.x
     *   [**Sencha Touch**](http://www.sencha.com/products/touch/) v2.3.1 (final). HTML5 Mobile app development.
         *   [Documentation](http://docs.sencha.com/touch/2.3.1/)
 
 #### [](#front-end-framework)Front-end Framework
 
-*   **Bootstrap** - For Aware IM version 5.x & 6.x only; Aware IM 7.0 has bootstrap integrated as part of Kendo UI.
+*   **Bootstrap** - For Aware IM version 5.x & 6.x only; 
     *   [Bootstrap v4](https://getbootstrap.com/) - Currently v**4.5.2** - Not tested with AwareIM 6.0 or below. Some v3 features dropped.
         *   [**Download**](https://getbootstrap.com/docs/4.4/getting-started/download/)
         *   [**BootstrapCDN**](https://getbootstrap.com/docs/4.4/getting-started/download/#bootstrapcdn) - Cached version of Bootstrap’s compiled CSS and JS.
