@@ -21,7 +21,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 > Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete.
 
-> Tomcat 8.0.14 32bit is the default version packaged in the **Aware IM 6.0-8.0** server installation.
+> Tomcat 8.0.14 32bit is the default version packaged in the **Aware IM 6.0** server installation.
 
 *   [**Tomcat 9.0.37** - For Aware IM v8.x](http://tomcat.apache.org/) - 30 June, 2020. Tomcat 9 is designed to run on **`Java SE 8`** or later.
     *   ✔️ [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working with Aware IM versions `6.x`, `7.x` & `8.x`.
@@ -44,11 +44,11 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             *   Windows Based Systems
                 *   **IMPORTANT**:
                     *    Ensure any prior modification of existing _web.xml_ and _server.xml_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.
-                *   **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\\AwareIM\\Tomcat folder.
+                *   **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
                     1.  **Extract** the archive and open the folder.
                     2.  Open the extracted **Tomcat** folder.
                     3.  Select all files and folders and press `Crl+c` to copy
-                    4.  Open you AwareIM installation Tomcat folder **C:\\AwareIM\\Tomcat**
+                    4.  Open you AwareIM installation Tomcat folder **`C:\AwareIM\Tomcat`**
                     5.  Press `Ctrl+v` to paste and replace all files and folders.
                     6.  Java JDK tools.jar:
                         *   If you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\Tomcat\Lib folder to replace the old one.
