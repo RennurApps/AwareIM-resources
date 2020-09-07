@@ -18,7 +18,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     - Responsive Layout Designer
     - Offline mode overhaul
     - [List of release improvements](https://www.awareim.com/changelog/Readme2815.txt)
-8.5 Recent Improvements
+- 8.5 Recent Improvements
     -     
 
 #### [](#operating-system)Operating System
