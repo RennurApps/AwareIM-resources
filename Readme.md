@@ -14,7 +14,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 [**v8.5 build 2815**](https://www.awareim.com/changelog/Readme2815.txt) - 4 April, 2020.
     
-**New Features and improvements in version 8.5**
+- **New Features and improvements in version 8.5**
     - Responsive Layout Designer
     - Offline mode overhaul
     - [List of release improvements](https://www.awareim.com/changelog/Readme2815.txt)
