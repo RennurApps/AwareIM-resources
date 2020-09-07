@@ -1,4 +1,4 @@
-# Aware IM Server Stack
+# Aware IM Server v8.5 Stack
 ## Servers, Components, Frameworks, Dependencies and other resources
 ------------------------------------------------------------------------------------------------------------------------------------
 
