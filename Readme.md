@@ -18,18 +18,16 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     - Responsive Layout Designer
     - Offline mode overhaul
     - [List of release improvements](https://www.awareim.com/changelog/Readme2815.txt)
-- 8.5 Recent Improvements
-    -     
 
-#### [](#operating-system)Operating System
+#### Operating System
 
 *   Windows
 *   Mac
 *   Linux
 
-#### [](#application-server)Application Server
+#### Application Server
 
-##### [](#apache-tomcat)Apache Tomcat
+##### Apache Tomcat
 
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation.
 
