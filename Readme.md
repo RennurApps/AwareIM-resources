@@ -12,92 +12,14 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 <!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) --> 
 
-*   [**Currently v8.4 build 2722**](https://www.awareim.com/changelog/Readme2722.txt) - 4 April, 2020.
+*   [**v8.5 build 2815**](https://www.awareim.com/changelog/Readme2815.txt) - 4 April, 2020.
     
-    *   **New Features in version 8.4**
-        *    Support for PostgreSQL
-        *    Support for barcodes and QRcodes in the Report Designer
-        *    Report Preview in the Report Designer
-        *    Runs under Java 12/13 envirnonement
-    *   8.4 Recent Improvements
-        *   2720 - New function CR() returns a newline symbol \\n
-        *   2714 - Predefined FileItem object can now be specified as process input
-        *   2713 - TO\_TIMEZONE function
-        *   2713 - Tab order of -1 can now be specified
-        *   2711 - Image Gallery operation available to Custom Checkbox Lists
-        *   2711 - Control Panel toolbar
-        *   2711 - Improvements for auto-incremented numbers
-            *   NEXT\_SEQUENCE\_NMB function
-        *   2711 - Log improvements
-        *   2710 - [Improvements](https://www.awareim.com/changelog/Readme2710.txt)
-        *   2709 - Queries can now be defined using EXEC\_SQL statement
-        *   2709 - Support for the latest version of PhoneGap build
-        *   2705 - [List of improvements](https://www.awareim.com/changelog/Readme2705.txt)
-*   v8.3
-    
-    *   **New Features in version 8.3**
-        *    Relationships diagrams with the ability to edit relationships
-        *    Process diagrams with the ability to show sub-processes
-    *   8.3 Recent Improvements
-        *   2629 - Ability to specify a script for Google Maps in visual perspectives
-        *   2623 - Support for attributes that hold and display color
-            *   1.  You define a text attribute with the property "Content" (former "Format") set to "Color" rather than default setting of "STANDARD"
-            *   2.  If you put this attribute on a form Aware IM will generate a color-picker widget, rather than the standard text box. At runtime the user will be able to pick a color as the value for this attribute
-            *   3.  You can then use this color in tag expressions at various places in the system - in HTML, attribute styles etc.  
-                    For example, in HTML:  
-                    `<div style="background-color:&lt;&lt;MyObject.ColorAttr&gt;&gt;"></div>`
-            *   4.  If used in queries the system by default will display color boxes with actual colors
-        *   2623 - Support for Swap-Select widget resize
-        *   2621 - Graphic resizing of form width, label width, control width and column width
-        *   2616 - It is now possible to disallow access to 'model' to configuration users
-        *   2615 - Predefined elements use default output target for the content panel
-*   v8.2
-    
-    *   **New Features in version 8.2**
-        *    Multi-developer mode
-        *    SAML support (Single Sign On framework)
-        *    Custom HTML forms
-        *    Kanban boards
-    *   **Recent Improvements in version 8.2**
-        *   2572 - Push notifications: GCM deprecated and replaced with FCM
-            *   [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)
-        *   2570 - "No data found" message displayed for custom queries if there is no data
-        *   2565 - Ability to specify a script for modeless windows
-        *   2562 - Documents used inside HTML cells return file name and so can now be displayed inside an IFRAME
-        *   2562 - Values for Kanban columns support tag expressions
-        *   2561 - It is now possible to capture HTTP response codes in REST
-
-*   [**Version History**](http://www.awareim.com/changelog/?C=M;O=D)
-    *   ✔️ **Currently v8.4** - Builds 2705+
-        *   [Aware IM 8.4 released](https://www.awareim.com/aware-im-8-4-released/) - Released October 24, 2019
-    *   **8.3** - Builds 2613-2631
-        *   [Aware IM 8.3 released](https://www.awareim.com/aware-im-8-3-released/) - Released May 23, 2019
-    *   **8.2** - Builds 2559-2574
-        *   [Aware IM 8.2 released](https://www.awareim.com/aware-im-8-2-released/) - Released October 25, 2018
-    *   **v8.1** - Builds 2452-2477
-        *   [Aware IM 8.1 released](https://www.awareim.com/aware-im-8-1-released/) - Released April 19, 2018
-        *   [Version 8.1 Overview - Youtube video](https://www.youtube.com/watch?v=sp4OvLR5ALI) - Aware IM version 8.1 features overview.
-    *   **v8.0** - Builds 2341-2378
-        *   [Aware IM 8.0 released](https://www.awareim.com/aware-im-8-0-released/) - Released August 3, 2017
-        *   [Version 8.0 Overview - Youtube video](https://www.youtube.com/watch?v=NHvKFZHhADg) - Overview of the new Aware IM version 8.0 (Jun 28, 2017)
-    *   **v7.1** - Builds 2223-2240
-        *   [Aware IM 7.1 released](http://www.awareim.com/aware-im-7-1-released/) - Released September 6, 2016
-    *   **v7.0** - Builds 2144-2181
-        *   [Aware IM 7.0 released](http://www.awareim.com/aware-im-7-0-released/) - Released February 8, 2016
-            *   [Watch a video about version 7.0](https://youtu.be/p5Q-YYAd6Fs)
-    *   **v6.0** - Builds 2010-2056
-        *   [Aware IM 6.0 released](http://awareim.com/aware-im-6-0-released/) - Released January 9, 2015
-    *   **v5.9** - Builds 1881-1908
-        *   [Aware IM 5.9 released](http://awareim.com/aware-im-5-9-released/) -
-            *   Improvements
-                *   **User Defined Processes/Workflows** - Ability for the administrator of end user to control access levels settings
-                    *   How To (PDF) - Page 47
-                    *   [Forum post](http://www.awareim.com/forum/viewtopic.php?t=7091)
-    *   **v5.8** - Builds 1797-1814
-        *   [Aware IM 5.8 released](http://www.awareim.com/aware-im-5-8-released/)
-    *   **v5.7** - Builds 1691-1719
-    *   **v5.6** - Builds 1638-1671
-    *   **v5.5** - Builds 1588-1617
+    *   **New Features and improvements in version 8.5**
+        *   Responsive Layout Designer
+        *   Offline mode overhaul
+        *   [List of release improvements](https://www.awareim.com/changelog/Readme2815.txt)
+    *   8.5 Recent Improvements
+        *   
 
 #### [](#operating-system)Operating System
 
@@ -114,10 +36,6 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 > Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete.
 
 > Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.1+** server installation.
-
-> Tomcat 8.0.14 32bit is the default version packaged in the **Aware IM 6.0-8.0** server installation.
-
-> Tomcat 6.0.35 32bit is the default version packaged in the **Aware IM 5.9** server installation.
 
 *   [**Tomcat 9.0.37** - For Aware IM v8.x](http://tomcat.apache.org/) - 30 June, 2020. Tomcat 9 is designed to run on **`Java SE 8`** or later.
     *   ✔️ [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working with Aware IM versions `6.x`, `7.x` & `8.x`.
@@ -158,8 +76,6 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     *   [**Migrating to v8.5.x**](https://tomcat.apache.org/migration-85.html)
     *   [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
     *   [Tomcat 8.5x Changelog](https://tomcat.apache.org/tomcat-8.5-doc/changelog.html)
-*   [**Tomcat 6 (archived)** - For Aware IM v5.9 Only](http://tomcat.apache.org/) - Apr 2 2017 **Final version Tomcat 6.0.53**
-    *   [Download Tomcat **v6** - Aware IM v5.9 Only](https://archive.apache.org/dist/tomcat/tomcat-6/v6.0.53/) - Support for Apache Tomcat 6.0.x has ended on 31 December 2016.
 *   **Tomcat SSL/TLS Configuration HOW-TO** - Tomcat documentation.
     *   [**v9.0**](http://tomcat.apache.org/tomcat-9.0-doc/ssl-howto.html)
     *   [**v8.5**](http://tomcat.apache.org/tomcat-8.5-doc/ssl-howto.html)
@@ -335,21 +251,11 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     *   [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
     *   70+ jQuery-based UI widgets in one powerful toolset.
     *   AngularJS integration, Bootstrap support, mobile controls, offline data solution.
-*   **Ext JS v5.0.0** - for Aware IM v6.0 Only (final)
-    *   [Guide](http://docs.sencha.com/extjs/5.0.0/index.html)
-        *   [Ext JS 5 Examples](http://dev.sencha.com/ext/5.0.0/examples/index.html)
-    *   [Whats's New](http://docs.sencha.com/extjs/5.0.0/whats_new/5.0/whats_new.html)
-*   Ext JS v4.1.0 for Aware IM v5.9 Only (final)
-    *   [Ext JS Docs](http://docs.sencha.com/extjs/4.1.0/)
-    *   [Ext JS Examples](http://try.sencha.com/extjs/4.1.0/)
 
 #### [](#mobile-web-framework)**Mobile Web Framework**
 
 *   **Aware IM 7.x+** - Mobile apps with HTML5 and JavaScript.
     *   [**Kendo UI®**](http://www.telerik.com/kendo-ui)
-*   Aware IM 5.x & 6.x
-    *   [**Sencha Touch**](http://www.sencha.com/products/touch/) v2.3.1 (final). HTML5 Mobile app development.
-        *   [Documentation](http://docs.sencha.com/touch/2.3.1/)
 
 #### [](#front-end-framework)Front-end Framework
 
@@ -391,8 +297,6 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 *   **Social Logins**
 
 #### [](#hybrid-native-apps)Hybrid Native Apps
-
-*   **Phonegap** support
 
 #### [](#integrations-custom-components-connectors-and-plugins)Integrations, custom components, connectors and plugins
 
