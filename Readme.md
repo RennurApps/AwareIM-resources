@@ -89,11 +89,12 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     *    [Archived Versions](https://jdk.java.net/archive/)
 *   [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
     
-    *    [Version `14.0.1`](https://www.oracle.com/technetwork/java/javase/downloads/index.html#JDK14) - April 14, 2020
+    *    [Version `14.0.2`](https://www.oracle.com/technetwork/java/javase/downloads/index.html#JDK14) - July 14, 2020.
         *   **Not tested with Aware IM**
-    *    [Version `11.0.7`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - April 14, 2020.
+    *    [Version `11.0.8`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - July 14, 2020.
         *   **Not tested with Aware IM**
-    *    ✔️ [**Version 8, Update 261**](https://www.oracle.com/java/technologies/javase-downloads.html#JDK8) - `1.8.0_261-b12` 14 July, 2020. **Compatible with all Aware IM versions**.
+    *    ✔️ [**Version 8, Update 261**](https://www.oracle.com/java/technologies/javase-downloads.html#JDK8) - `1.8.0_261-b12` 14 July, 2020. **Compatible with all Aware IM versions**. 
+    > Oracle strongly recommends that all Java SE 8 users upgrade to this release.
         *   More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8)
     *    Versions bundled with Aware IM:
         *   Aware IM `v8.0+` - JDK 8 Update 91 `1.8.0_91-b15`
