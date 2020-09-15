@@ -12,7 +12,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 <!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) --> 
 
-[**v8.5 build 2818**](https://www.awareim.com/changelog/Readme2818.txt) - 11 September, 2020.
+[**v8.5 build 2819**](https://www.awareim.com/changelog/Readme2818.txt) - 15 September, 2020.
     
 - **New Features and improvements in version 8.5**
     - Responsive Layout Designer
