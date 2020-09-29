@@ -83,7 +83,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 *   [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
     
-    *    [**Oracle OpenJDK `14`**](https://jdk.java.net/14/)
+    *    [**Oracle OpenJDK `15`**](https://jdk.java.net/15/)
+    *    [Oracle OpenJDK `14`](https://jdk.java.net/14/)
     *    [Oracle OpenJDK `13`](https://jdk.java.net/13/)
     *    [Oracle OpenJDK `12`](https://jdk.java.net/12/) - JDK 12 has been superseded.
     *    [Archived Versions](https://jdk.java.net/archive/)
