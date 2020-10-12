@@ -92,7 +92,9 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     *    [Archived Versions](https://jdk.java.net/archive/)
 *   [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
     
-    *    [Version `14.0.2`](https://www.oracle.com/technetwork/java/javase/downloads/index.html#JDK14) - July 14, 2020.
+    *    [Version `15.0.0`](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) 
+        *   **Not tested with Aware IM**
+    *    [Version `14.0.2`](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html#JDK14) - July 14, 2020.
         *   **Not tested with Aware IM**
     *    [Version `11.0.8`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - July 14, 2020.
         *   **Not tested with Aware IM**
