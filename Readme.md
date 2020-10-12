@@ -70,7 +70,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
                     7.  Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
     *   [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     *   [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-*   [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.57`** 30 Jun, 2020. (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later.
+*   [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.59`** 6 October 2020. (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later.
     *   [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi)
     *   [**Security**](https://tomcat.apache.org/security-8.html)
     *   [**Migrating to v8.5.x**](https://tomcat.apache.org/migration-85.html)
