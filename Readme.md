@@ -141,7 +141,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             *   Aware IM 8.1
                 *   Configurator won't start
                 *   Browser won't load the app
-        *    [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - 👍 **Tested and working with Tomcat 6, 8 & 9**.
+        *   [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - 👍 **Tested and working with Tomcat 6, 8 & 9**.
             *   Installation
                 *   In **v8.3+**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\\AwareIM\\lib
                 *   In **v8.2 and below**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\\AwareIM\\Tomcat\\lib
