@@ -21,7 +21,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 #### Application Server
 
-##### Apache Tomcat
+#### Apache Tomcat
 
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation.
 
@@ -32,8 +32,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 > Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
 [**Tomcat 9.0.39** - For Aware IM v8.x](http://tomcat.apache.org/) - 6 October, 2020. Tomcat 9 is designed to run on **`Java SE 8`** or later.
-    * [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working with Aware IM versions `6.x`, `7.x` & `8.x`.
-    [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
+...[**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working with Aware IM versions `6.x`, `7.x` & `8.x`.
+......[**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
         [**Security**](https://tomcat.apache.org/security-9.html)
             **Important fixes**
                 *   `9.0.37` WebSocket DoS `CVE-2020-13935` - Affects: 9.0.0.M1 to 9.0.36
