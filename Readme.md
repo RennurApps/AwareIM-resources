@@ -31,37 +31,37 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 > Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
-[**Tomcat 9.0.39** - For Aware IM v8.x](http://tomcat.apache.org/) - 6 October, 2020. Tomcat 9 is designed to run on **`Java SE 8`** or later.
-...[**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working with Aware IM versions `6.x`, `7.x` & `8.x`.
-......[**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
-        [**Security**](https://tomcat.apache.org/security-9.html)
-            **Important fixes**
-                *   `9.0.37` WebSocket DoS `CVE-2020-13935` - Affects: 9.0.0.M1 to 9.0.36
-                *   `9.0.36` HTTP/2 DoS `CVE-2020-11996` - Affects: 9.0.0.M1 to 9.0.35
-                *   `9.0.35` Remote Code Execution via session persistence `CVE-2020-9484` - Affects: 9.0.0.M1 to 9.0.34
-                *   `9.0.31` AJP Request Injection and potential Remote Code Execution `CVE-2020-1938` - Affects: 9.0.0.M1 to 9.0.30
-                *   `9.0.20` Denial of Service `CVE-2019-10072` - Affects: 9.0.0.M1 to 9.0.19
-                *   `9.0.19` Remote Code Execution on Windows `CVE-2019-0232` - Affects: 9.0.0.M1 to 9.0.17
-                *   `9.0.16` Denial of Service `CVE-2019-0199` - Affects: 9.0.0.M1 to 9.0.14
-                *   `9.0.10` Information Disclosure `CVE-2018-8037`
-                *   `9.0.8` A bug in the UTF-8 decoder can lead to DoS `CVE-2018-1336`
-                *   `9.0.5` Security constraint annotations applied too late `CVE-2018-1305`
-                *   `9.0.5` Security constraints mapped to context root are ignored `CVE-2018-1304`
-                *   `9.0.1` Remote Code Execution `CVE-2017-12617`
-        - **Installation** with Aware IM
-            - Windows Based Systems
-                - **IMPORTANT**:
-                    *    Ensure any prior modification of existing _web.xml_ and _server.xml_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.
-                *   **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\\AwareIM\\Tomcat folder.
-                    1.  **Extract** the archive and open the folder.
-                    2.  Open the extracted **Tomcat** folder.
-                    3.  Select all files and folders and press `Crl+c` to copy
-                    4.  Open you AwareIM installation Tomcat folder **C:\\AwareIM\\Tomcat**
-                    5.  Press `Ctrl+v` to paste and replace all files and folders.
-                    6.  Java JDK tools.jar:
-                        *   **In v8.3+**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\\Awareim\\lib folder to replace the old one.
-                        *   **In v8.2 and below**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\\Awareim\\Tomcat\\lib folder to replace the old one.
-                    7.  Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
+##### [**Tomcat 9.0.39** - For Aware IM v8.x](http://tomcat.apache.org/) - 6 October, 2020. Tomcat 9 is designed to run on **`Java SE 8`** or later.
+    [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working with Aware IM versions `6.x`, `7.x` & `8.x`.
+        [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
+            [**Security**](https://tomcat.apache.org/security-9.html)
+                **Important fixes**
+                    *   `9.0.37` WebSocket DoS `CVE-2020-13935` - Affects: 9.0.0.M1 to 9.0.36
+                    *   `9.0.36` HTTP/2 DoS `CVE-2020-11996` - Affects: 9.0.0.M1 to 9.0.35
+                    *   `9.0.35` Remote Code Execution via session persistence `CVE-2020-9484` - Affects: 9.0.0.M1 to 9.0.34
+                    *   `9.0.31` AJP Request Injection and potential Remote Code Execution `CVE-2020-1938` - Affects: 9.0.0.M1 to 9.0.30
+                    *   `9.0.20` Denial of Service `CVE-2019-10072` - Affects: 9.0.0.M1 to 9.0.19
+                    *   `9.0.19` Remote Code Execution on Windows `CVE-2019-0232` - Affects: 9.0.0.M1 to 9.0.17
+                    *   `9.0.16` Denial of Service `CVE-2019-0199` - Affects: 9.0.0.M1 to 9.0.14
+                    *   `9.0.10` Information Disclosure `CVE-2018-8037`
+                    *   `9.0.8` A bug in the UTF-8 decoder can lead to DoS `CVE-2018-1336`
+                    *   `9.0.5` Security constraint annotations applied too late `CVE-2018-1305`
+                    *   `9.0.5` Security constraints mapped to context root are ignored `CVE-2018-1304`
+                    *   `9.0.1` Remote Code Execution `CVE-2017-12617`
+                **Installation** with Aware IM
+                    * Windows Based Systems
+                        * **IMPORTANT**:
+                            * Ensure any prior modification of existing _web.xml_ and _server.xml_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.
+                            * **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\\AwareIM\\Tomcat folder.
+                                1.  **Extract** the archive and open the folder.
+                                2.  Open the extracted **Tomcat** folder.
+                                3.  Select all files and folders and press `Crl+c` to copy
+                                4.  Open you AwareIM installation Tomcat folder **C:\\AwareIM\\Tomcat**
+                                5.  Press `Ctrl+v` to paste and replace all files and folders.
+                                6.  Java JDK tools.jar:
+                                    *   **In v8.3+**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\\Awareim\\lib folder to replace the old one.
+                                    *   **In v8.2 and below**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\\Awareim\\Tomcat\\lib folder to replace the old one.
+                                7.  Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
     *   [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     *   [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
 *   [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.59`** 6 October 2020. (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later.
