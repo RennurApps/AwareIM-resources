@@ -4,7 +4,7 @@
 
 > Aware IM is a rapid low-code application development tool that lets you create powerful aesthetically appealing web applications quickly.
 
-*   [**Changelog**](http://www.awareim.com/changelog/?C=M;O=D)
+[**Changelog**](http://www.awareim.com/changelog/?C=M;O=D)
 
 #### Software
 
@@ -19,12 +19,6 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     - Offline mode overhaul
     - [List of release improvements](https://www.awareim.com/changelog/Readme2815.txt)
 
-#### Operating System
-
-*   Windows
-*   Mac
-*   Linux
-
 #### Application Server
 
 ##### Apache Tomcat
@@ -37,11 +31,11 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 > Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
-*   [**Tomcat 9.0.39** - For Aware IM v8.x](http://tomcat.apache.org/) - 6 October, 2020. Tomcat 9 is designed to run on **`Java SE 8`** or later.
-    *   ✔️ [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working with Aware IM versions `6.x`, `7.x` & `8.x`.
-        *   [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
-        *   [**Security**](https://tomcat.apache.org/security-9.html)
-            *   **Important fixes**
+[**Tomcat 9.0.39** - For Aware IM v8.x](http://tomcat.apache.org/) - 6 October, 2020. Tomcat 9 is designed to run on **`Java SE 8`** or later.
+    - ✔️ [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working with Aware IM versions `6.x`, `7.x` & `8.x`.
+    - [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
+        - [**Security**](https://tomcat.apache.org/security-9.html)
+            - **Important fixes**
                 *   `9.0.37` WebSocket DoS `CVE-2020-13935` - Affects: 9.0.0.M1 to 9.0.36
                 *   `9.0.36` HTTP/2 DoS `CVE-2020-11996` - Affects: 9.0.0.M1 to 9.0.35
                 *   `9.0.35` Remote Code Execution via session persistence `CVE-2020-9484` - Affects: 9.0.0.M1 to 9.0.34
@@ -54,9 +48,9 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
                 *   `9.0.5` Security constraint annotations applied too late `CVE-2018-1305`
                 *   `9.0.5` Security constraints mapped to context root are ignored `CVE-2018-1304`
                 *   `9.0.1` Remote Code Execution `CVE-2017-12617`
-        *   **Installation** with Aware IM
-            *   Windows Based Systems
-                *   **IMPORTANT**:
+        - **Installation** with Aware IM
+            - Windows Based Systems
+                - **IMPORTANT**:
                     *    Ensure any prior modification of existing _web.xml_ and _server.xml_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.
                 *   **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\\AwareIM\\Tomcat folder.
                     1.  **Extract** the archive and open the folder.
@@ -82,10 +76,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     *   [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
 
 #### Java JDK
-
 *   [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
-    
-    *    [**Oracle OpenJDK `15`**](https://jdk.java.net/15/)
+        * [Oracle OpenJDK `15`](https://jdk.java.net/15/)
     *    [Oracle OpenJDK `14`](https://jdk.java.net/14/)
     *    [Oracle OpenJDK `13`](https://jdk.java.net/13/)
     *    [Oracle OpenJDK `12`](https://jdk.java.net/12/) - JDK 12 has been superseded.
@@ -105,7 +97,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     *    [**All previous JDK versions archive**](https://www.oracle.com/technetwork/java/javase/archive-139210.html)
         *   [Manual Downloads](https://java.com/en/download/manual.jsp)
 
-    [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications.    
+####
+*   **JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications.    
     *   [Changes](https://javaee.github.io/javamail/docs/CHANGES.txt)
     *   [Releases](https://github.com/javaee/javamail/releases)
     *   **Download JavaMail**
@@ -116,14 +109,13 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         *   In **v8.2** and below, rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_
         *   Restart Aware IM server
 
-    [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
-    
+####
+*      [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
     > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library.
     
     > Latest version of ActiveMQ that works with Aware IM is **`5.12.1`**. Latest release is **`5.16.00`** (July 1, 2020).
     
-    *   **Reported issues in Aware IM** - Scalability, bugs, performance...
-        
+    * **Reported issues in Aware IM** - Scalability, bugs, performance...
         *   [Highly demand -- updates - security concerns](https://awareim.com/forum/viewtopic.php?f=1&t=10539&p=48389)
         *   [How many Communication driven apps can we host on 1 serv](https://awareim.com/forum/viewtopic.php?f=1&p=51529)
     *   [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab.
