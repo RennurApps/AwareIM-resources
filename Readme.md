@@ -33,9 +33,9 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 [**Tomcat 9.0.39** - For Aware IM v8.x](http://tomcat.apache.org/) - 6 October, 2020. Tomcat 9 is designed to run on **`Java SE 8`** or later.
     - ✔️ [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working with Aware IM versions `6.x`, `7.x` & `8.x`.
-    - [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
-        - [**Security**](https://tomcat.apache.org/security-9.html)
-            - **Important fixes**
+    [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
+        [**Security**](https://tomcat.apache.org/security-9.html)
+            **Important fixes**
                 *   `9.0.37` WebSocket DoS `CVE-2020-13935` - Affects: 9.0.0.M1 to 9.0.36
                 *   `9.0.36` HTTP/2 DoS `CVE-2020-11996` - Affects: 9.0.0.M1 to 9.0.35
                 *   `9.0.35` Remote Code Execution via session persistence `CVE-2020-9484` - Affects: 9.0.0.M1 to 9.0.34
