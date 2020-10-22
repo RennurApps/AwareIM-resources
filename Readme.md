@@ -81,7 +81,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     *   [**v8.5**](http://tomcat.apache.org/tomcat-8.5-doc/ssl-howto.html)
     *   [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
 
-#### [](#java-jdk)Java JDK
+#### Java JDK
 
 *   [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
     
@@ -101,10 +101,11 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     *    ✔️ [**Version 8, Update 261**](https://www.oracle.com/java/technologies/javase-downloads.html#JDK8) - `1.8.0_261-b12` 14 July, 2020. **Compatible with all Aware IM versions**. <!-- More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8) -->
     >   Oracle strongly recommends that all Java SE 8 users upgrade to this release.
     *    Versions bundled with Aware IM:
-         *   Aware IM `v8.0+` - JDK 8 Update 91 `1.8.0_91-b15`
+        *   Aware IM `v8.0+` - JDK 8 Update 91 `1.8.0_91-b15`
     *    [**All previous JDK versions archive**](https://www.oracle.com/technetwork/java/javase/archive-139210.html)
         *   [Manual Downloads](https://java.com/en/download/manual.jsp)
-*   [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications.    
+
+    [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications.    
     *   [Changes](https://javaee.github.io/javamail/docs/CHANGES.txt)
     *   [Releases](https://github.com/javaee/javamail/releases)
     *   **Download JavaMail**
@@ -114,7 +115,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         *   In **v8.3+**, rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\lib`_
         *   In **v8.2** and below, rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_
         *   Restart Aware IM server
-*   [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
+
+    [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
     
     > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library.
     
