@@ -98,7 +98,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         *   [Manual Downloads](https://java.com/en/download/manual.jsp)
 
 ####
-*   **JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications.    
+*   [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications.    
     *   [Changes](https://javaee.github.io/javamail/docs/CHANGES.txt)
     *   [Releases](https://github.com/javaee/javamail/releases)
     *   **Download JavaMail**
