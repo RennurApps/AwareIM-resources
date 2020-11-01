@@ -77,11 +77,11 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 #### Java JDK
 *   [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
-        * [Oracle OpenJDK `15`](https://jdk.java.net/15/)
-    *    [Oracle OpenJDK `14`](https://jdk.java.net/14/)
-    *    [Oracle OpenJDK `13`](https://jdk.java.net/13/)
-    *    [Oracle OpenJDK `12`](https://jdk.java.net/12/) - JDK 12 has been superseded.
-    *    [Archived Versions](https://jdk.java.net/archive/)
+    *   [Oracle OpenJDK `15`](https://jdk.java.net/15/)
+    *   [Oracle OpenJDK `14`](https://jdk.java.net/14/)
+    *   [Oracle OpenJDK `13`](https://jdk.java.net/13/)
+    *   [Oracle OpenJDK `12`](https://jdk.java.net/12/) - JDK 12 has been superseded.
+    *   [Archived Versions](https://jdk.java.net/archive/)
 *   [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
     
     *    [Version `15.0.0`](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) 
