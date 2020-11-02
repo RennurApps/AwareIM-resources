@@ -48,20 +48,20 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
                 *   `9.0.5` Security constraint annotations applied too late `CVE-2018-1305`
                 *   `9.0.5` Security constraints mapped to context root are ignored `CVE-2018-1304`
                 *   `9.0.1` Remote Code Execution `CVE-2017-12617`
-                    * **Installation** with Aware IM
-                        * Windows Based Systems
-                            * **IMPORTANT**:
-                                * Ensure any prior modification of existing _web.xml_ and _server.xml_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.
-                                * **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\\AwareIM\\Tomcat folder.
-                                    1.  **Extract** the archive and open the folder.
-                                    2.  Open the extracted **Tomcat** folder.
-                                    3.  Select all files and folders and press `Crl+c` to copy
-                                    4.  Open you AwareIM installation Tomcat folder **C:\\AwareIM\\Tomcat**
-                                    5.  Press `Ctrl+v` to paste and replace all files and folders.
-                                    6.  Java JDK tools.jar:
-                                        *   **In v8.3+**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\\Awareim\\lib folder to replace the old one.
-                                        *   **In v8.2 and below**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\\Awareim\\Tomcat\\lib folder to replace the old one.
-                                    7.  Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
+        * **Installation** with Aware IM
+            * Windows Based Systems
+                * **IMPORTANT**:
+                    * Ensure any prior modification of existing _web.xml_ and _server.xml_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.
+                    * **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\\AwareIM\\Tomcat folder.
+                        1.  **Extract** the archive and open the folder.
+                        2.  Open the extracted **Tomcat** folder.
+                        3.  Select all files and folders and press `Crl+c` to copy
+                        4.  Open you AwareIM installation Tomcat folder **C:\\AwareIM\\Tomcat**
+                        5.  Press `Ctrl+v` to paste and replace all files and folders.
+                        6.  Java JDK tools.jar:
+                            *   **In v8.3+**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\\Awareim\\lib folder to replace the old one.
+                            *   **In v8.2 and below**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\\Awareim\\Tomcat\\lib folder to replace the old one.
+                        7.  Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
     *   [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     *   [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
 *   [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.59`** 6 October 2020. (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later.
