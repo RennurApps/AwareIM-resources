@@ -168,12 +168,12 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             *   Not supported by Aware IM `8.4` and below
     *   **For Java 8**
         *    [**Apache Derby 10.14.2.0**](https://db.apache.org/derby/releases/release-10.14.2.0.cgi) - (May 5, 2018)
-            *   Installation: Copy and replace derby.jar in C:\\AwareIM\\Tomcat\\lib
+            *   Installation: Copy and replace derby.jar in C:\AwareIM\Tomcat\lib
         *   [Apache Derby 10.13.1.1](https://db.apache.org/derby/releases/release-10.13.1.1.cgi) - (October 25, 2016)
     *   **For Java 6 and higher**
         *    [Apache Derby 10.12.1.1](https://db.apache.org/derby/releases/release-10.12.1.1.cgi) - (October 11, 2015)
         *   [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
-    *   Downloads [http://db.apache.org/derby/derby\_downloads.html](http://db.apache.org/derby/derby_downloads.html)
+    *   Downloads [http://db.apache.org/derby/derby_downloads.html](http://db.apache.org/derby/derby_downloads.html)
 *   #### [](#postgresql---postgresql-is-a-powerful-open-source-object-relational-database-system)**PostgreSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
     
     *   [Download PostgreSQL](https://www.postgresql.org/download/) - Current version `12.2` 13 February 2020.
@@ -240,7 +240,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 *   [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
     *   [**Roadmap**](http://www.telerik.com/support/whats-new/kendo-ui/roadmap)
     *   [**Release History**](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
-        *   Latest Kendo UI Release [**Kendo UI R2 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2020-sp1) - June 17, 2020
+        *   Latest Kendo UI Release [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
         *   **Aware IM 8.1+** Kendo UI version [**Kendo UI R3 2017**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017)
         *   Aware IM 7.0-8.0 Kendo UI version [Kendo UI Q1 2016](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
     *   [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
@@ -278,7 +278,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     *   [✔️ **Signature Pad v1.5.3**](https://www.jsdelivr.com/package/npm/signature_pad?version=1.5.3) - Tested and working in all versions 5.9+
     *   **Installation**:
         *   Replace ../AwareIM/signature/signature\_pad.js with the new version.
-    *   **Options** - Edit **signature\_pad.js** found in **C:\\AwareIM\\Tomcat\\webapps\\AwareIM\\signature**
+    *   **Options** - Edit **signature_pad.js** found in **C:\AwareIM\Tomcat\webapps\AwareIM\signature**
         *   `dotSize` - (float or function) Radius of a single dot.
         *   `minWidth` - (float) Minimum width of a line. Defaults to 0.5.
         *   `maxWidth` - (float) Maximum width of a line. Defaults to 2.5.
