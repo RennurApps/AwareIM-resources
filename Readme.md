@@ -32,22 +32,22 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 > Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
 * [**Tomcat 9.0.40** - For Aware IM v8.x](http://tomcat.apache.org/) - 12 November, 2020. Tomcat 9 is designed to run on **`Java SE 8`** or later.
-*   [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working with Aware IM versions `6.x`, `7.x` & `8.x` 
-    *   [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
-        *   [**Security**](https://tomcat.apache.org/security-9.html)
-            *   **Important fixes**
-                *   `9.0.37` WebSocket DoS `CVE-2020-13935` - Affects: 9.0.0.M1 to 9.0.36
-                *   `9.0.36` HTTP/2 DoS `CVE-2020-11996` - Affects: 9.0.0.M1 to 9.0.35
-                *   `9.0.35` Remote Code Execution via session persistence `CVE-2020-9484` - Affects: 9.0.0.M1 to 9.0.34
-                *   `9.0.31` AJP Request Injection and potential Remote Code Execution `CVE-2020-1938` - Affects: 9.0.0.M1 to 9.0.30
-                *   `9.0.20` Denial of Service `CVE-2019-10072` - Affects: 9.0.0.M1 to 9.0.19
-                *   `9.0.19` Remote Code Execution on Windows `CVE-2019-0232` - Affects: 9.0.0.M1 to 9.0.17
-                *   `9.0.16` Denial of Service `CVE-2019-0199` - Affects: 9.0.0.M1 to 9.0.14
-                *   `9.0.10` Information Disclosure `CVE-2018-8037`
-                *   `9.0.8` A bug in the UTF-8 decoder can lead to DoS `CVE-2018-1336`
-                *   `9.0.5` Security constraint annotations applied too late `CVE-2018-1305`
-                *   `9.0.5` Security constraints mapped to context root are ignored `CVE-2018-1304`
-                *   `9.0.1` Remote Code Execution `CVE-2017-12617`
+    * [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. Tested and working with Aware IM versions `6.x`, `7.x` & `8.x` 
+        *   [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
+            *   [**Security**](https://tomcat.apache.org/security-9.html)
+                *   **Important fixes**
+                    *   `9.0.37` WebSocket DoS `CVE-2020-13935` - Affects: 9.0.0.M1 to 9.0.36
+                    *   `9.0.36` HTTP/2 DoS `CVE-2020-11996` - Affects: 9.0.0.M1 to 9.0.35
+                    *   `9.0.35` Remote Code Execution via session persistence `CVE-2020-9484` - Affects: 9.0.0.M1 to 9.0.34
+                    *   `9.0.31` AJP Request Injection and potential Remote Code Execution `CVE-2020-1938` - Affects: 9.0.0.M1 to 9.0.30
+                    *   `9.0.20` Denial of Service `CVE-2019-10072` - Affects: 9.0.0.M1 to 9.0.19
+                    *   `9.0.19` Remote Code Execution on Windows `CVE-2019-0232` - Affects: 9.0.0.M1 to 9.0.17
+                    *   `9.0.16` Denial of Service `CVE-2019-0199` - Affects: 9.0.0.M1 to 9.0.14
+                    *   `9.0.10` Information Disclosure `CVE-2018-8037`
+                    *   `9.0.8` A bug in the UTF-8 decoder can lead to DoS `CVE-2018-1336`
+                    *   `9.0.5` Security constraint annotations applied too late `CVE-2018-1305`
+                    *   `9.0.5` Security constraints mapped to context root are ignored `CVE-2018-1304`
+                    *   `9.0.1` Remote Code Execution `CVE-2017-12617`
         * **Installation** with Aware IM
             * Windows Based Systems
                 * **IMPORTANT**:
