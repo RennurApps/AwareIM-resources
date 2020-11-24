@@ -303,11 +303,11 @@ Any application offering an API for developers makes it possible to integrate wi
     *   **Download wkhtmltopdf**:
         *   [**Download wkhtmltopdf** Windows (MSVC)](https://wkhtmltopdf.org/downloads.html) - **v0.12.6** released on June 11, 2020 for Windows, Linux and OS X.
             *    **`v0.12.6`** Tested and working in Aware IM **6.0+**. Released June 11, 2020.
-            *    **`v0.12.5`** Tested and working in Aware IM **6.0+**. Released June 11, 2018.
+            *    `v0.12.5` Tested and working in Aware IM **6.0+**. Released June 11, 2018.
             *    `v0.12.4` Tested and working in Aware IM **6.0+**. Released November 22, 2016
     *   **Install wkhtmltopdf**
         *   Windows
-            *   Extract \*.exe file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM
+            *   Extract `*.exe` file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM
     *   **Aware IM Process Rules**
         *   **Step 1** - Export Aware IM HTML Document to a HTML file
             *   `EXPORT DOCUMENT 'Your HTML Document' TO FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html'`
