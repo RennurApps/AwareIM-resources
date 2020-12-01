@@ -12,9 +12,11 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 <!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) --> 
 
-[**v8.5 build 2830**](https://www.awareim.com/changelog/Readme2829.txt) - 10 Nov, 2020.
+[**v8.5 build 2831**](https://www.awareim.com/changelog/Readme2829.txt) - 30 Nov, 2020.
     
 - **New Features and improvements in version 8.5**
+    - PUT and DELETE HTTP verbs supported when exposing REST services 
+    - Calling REST with OAuth supports refresh tokens 
     - Responsive Layout Designer
     - Offline mode overhaul
     - [List of release improvements](https://www.awareim.com/changelog/Readme2815.txt)
