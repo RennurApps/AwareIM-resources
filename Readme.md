@@ -12,7 +12,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 
 <!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) --> 
 
-[**v8.5 build 2831**](https://www.awareim.com/changelog/Readme2831.txt) - 30 Nov, 2020.
+[**v8.5 build 2832**](https://www.awareim.com/changelog/Readme2831.txt) - 29 December, 2020.
     
 - **New Features and improvements in version 8.5**
     - PUT and DELETE HTTP verbs supported when exposing REST services 
