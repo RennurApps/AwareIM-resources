@@ -172,20 +172,24 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         *    [Apache Derby 10.12.1.1](https://db.apache.org/derby/releases/release-10.12.1.1.cgi) - (October 11, 2015)
         *   [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
     *   Downloads [http://db.apache.org/derby/derby_downloads.html](http://db.apache.org/derby/derby_downloads.html)
+
 *   #### [](#postgresql---postgresql-is-a-powerful-open-source-object-relational-database-system)**PostgreSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
-    
-    *   [Download PostgreSQL](https://www.postgresql.org/download/) - Current version `12.2` 13 February 2020.
+ 
+    *   [Download PostgreSQL](https://www.postgresql.org/download/) - Current version `13.1`.
+
 *   #### [](#maria-db)**Maria DB**
     
     *   [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
         *   [**Download**](https://mariadb.org/download/)
-            *   [**MariaDB version 10.4.12 Stable**](https://downloads.mariadb.org/mariadb/10.4.12/) - 28 January 2020.
+            *   [**MariaDB version 10.5.8 Stable**](https://mariadb.org/download/) - 12 November 2020.
+
 *   #### [](#sql-server---microsoft-data-platforms)**SQL Server** - [Microsoft Data Platforms](https://www.microsoft.com/en-in/sql-server/)
     
     *   [SQL Server Downloads](https://www.microsoft.com/en-in/sql-server/sql-server-downloads)
+
 *   #### [](#oracle---oracle-database)**Oracle** - [Oracle Database](https://www.oracle.com/database/)
     
-    *   [Oracle Database Software Downloads](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database vesrios `19c` (`19.5`)
+    *   [Oracle Database Software Downloads](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database version `19c` (`19.5`)
 
 #### [](#database-connectors)Database Connectors
 
@@ -220,18 +224,18 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
                     *   **v8.3+**, `C:\AwareIM\lib`
                     *   **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
                 4.  Restart AwareIM Server Control Panel
-*   #### [](#postgresql-jdbc-connector---current-version-42212)[**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.2.12`.
+
+*   #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.2.18`.
     
     *   Java 8 required.
 *   #### [](#mariadb-connectors)[**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
     
     *   [**MariaDB Connector/J**](https://downloads.mariadb.org/connector-java/+releases/) - Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+.
         
-        *    [MariaDB Connector/J 2.6.0 Stable](https://downloads.mariadb.org/connector-java/2.6.0/) - 28 January 2020.
+        *    [MariaDB Connector/J 2.7.1 Stable](https://downloads.mariadb.org/connector-java/+releases/) - 23 November 2020.
             *   **Version untested with Aware IM**
         
-        > Aware IM Version 8.3 uses MariaDB Connector/J driver version `2.3.0` (7 September 2018).
-        
+  
 
 #### [](#web-application-framework---html5js-framework)**Web Application Framework** - HTML5/JS Framework
 
