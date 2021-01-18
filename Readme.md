@@ -242,7 +242,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 *   [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
     *   [**Roadmap**](http://www.telerik.com/support/whats-new/kendo-ui/roadmap)
     *   [**Release History**](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
-        *   Latest Kendo UI Release [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
+        *   Latest Kendo UI Release [**Kendo UI R3 2020 SP2**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp2) - November 18, 2020
         *   **Aware IM 8.1+** Kendo UI version [**Kendo UI R3 2017**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017)
         *   Aware IM 7.0-8.0 Kendo UI version [Kendo UI Q1 2016](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
     *   [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
@@ -257,9 +257,10 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 #### [](#front-end-framework)Front-end Framework
 
 *   **Bootstrap** - For Aware IM version 5.x & 6.x only; Aware IM 7.0 has bootstrap integrated as part of Kendo UI.
-    *   [Bootstrap v4](https://getbootstrap.com/) - Currently v**4.5.3** - Not tested with AwareIM 6.0 or below. Some v3 features dropped.
-        *   [**Download**](https://getbootstrap.com/docs/4.4/getting-started/download/)
-        *   [**BootstrapCDN**](https://getbootstrap.com/docs/4.4/getting-started/download/#bootstrapcdn) - Cached version of Bootstrap’s compiled CSS and JS.
+    *   [Bootstrap v5 (beta)](https://getbootstrap.com/) - Currently v**5.0.0** - Not tested with AwareIM.
+    *   [Bootstrap v4](https://getbootstrap.com/docs/4.5/) - Currently v**4.5.3** - Not tested with AwareIM 6.0 or below. Some v3 features dropped.
+        *   [**Download**](https://getbootstrap.com/docs/4.5/getting-started/download/)
+        *   [**BootstrapCDN**](https://getbootstrap.com/docs/4.5/getting-started/download/#bootstrapcdn) - Cached version of Bootstrap’s compiled CSS and JS.
     *   [**Bootstrap v3**](https://getbootstrap.com/docs/3.3/) - v3.3.7 (final).
         *   Integrating with Aware IM
             *   Manual configuration through Startup.html
