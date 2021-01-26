@@ -38,6 +38,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         *   [**Migrating to v9.0.x**](https://tomcat.apache.org/migration-9.html)
             *   [**Security**](https://tomcat.apache.org/security-9.html)
                 *   **Important fixes**
+                    *   `9.0.40` Information disclosure `CVE-2021-24122` - Affects: 9.0.0.M1 to 9.0.39
                     *   `9.0.37` WebSocket DoS `CVE-2020-13935` - Affects: 9.0.0.M1 to 9.0.36
                     *   `9.0.36` HTTP/2 DoS `CVE-2020-11996` - Affects: 9.0.0.M1 to 9.0.35
                     *   `9.0.35` Remote Code Execution via session persistence `CVE-2020-9484` - Affects: 9.0.0.M1 to 9.0.34
@@ -54,15 +55,15 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
             * Windows Based Systems
                 * **IMPORTANT**:
                     * Ensure any prior modification of existing _web.xml_ and _server.xml_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.
-                    * **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\\AwareIM\\Tomcat folder.
+                    * **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
                         1.  **Extract** the archive and open the folder.
                         2.  Open the extracted **Tomcat** folder.
                         3.  Select all files and folders and press `Crl+c` to copy
-                        4.  Open you AwareIM installation Tomcat folder **C:\\AwareIM\\Tomcat**
+                        4.  Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
                         5.  Press `Ctrl+v` to paste and replace all files and folders.
                         6.  Java JDK tools.jar:
-                            *   **In v8.3+**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\\Awareim\\lib folder to replace the old one.
-                            *   **In v8.2 and below**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\\Awareim\\Tomcat\\lib folder to replace the old one.
+                            *   **In v8.3+**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\lib folder to replace the old one.
+                            *   **In v8.2 and below**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
                         7.  Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
     *   [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
     *   [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
@@ -92,7 +93,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         *   **Not tested with Aware IM**
     *    [Version `11.0.8`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - July 14, 2020.
         *   **Not tested with Aware IM**
-    *    ✔️ [**Version 8, Update 271**](https://www.oracle.com/java/technologies/javase-downloads.html#JDK8) - `1.8.0_271-b09` 20 October, 2020. **Compatible with all Aware IM versions**. <!-- More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8) -->
+    *    ✔️ [**Version 8, Update 281**](https://www.oracle.com/java/technologies/javase-downloads.html#JDK8) - `1.8.0_281-b09` 19 January, 2021. **Compatible with all Aware IM versions**. <!-- More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8) -->
     >   Oracle strongly recommends that all Java SE 8 users upgrade to this release.
     *    Versions bundled with Aware IM:
         *   Aware IM `v8.0+` - JDK 8 Update 91 `1.8.0_91-b15`
@@ -280,7 +281,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     *   [**Signature Pad v3.0.0-beta.3**](https://www.jsdelivr.com/package/npm/signature_pad) - (c) 2018 Szymon Nowak. Tested ok in 8.1.
     *   [✔️ **Signature Pad v1.5.3**](https://www.jsdelivr.com/package/npm/signature_pad?version=1.5.3) - Tested and working in all versions 5.9+
     *   **Installation**:
-        *   Replace ../AwareIM/signature/signature\_pad.js with the new version.
+        *   Replace ../AwareIM/signature/signature/_pad.js with the new version.
     *   **Options** - Edit **signature_pad.js** found in **C:\AwareIM\Tomcat\webapps\AwareIM\signature**
         *   `dotSize` - (float or function) Radius of a single dot.
         *   `minWidth` - (float) Minimum width of a line. Defaults to 0.5.
