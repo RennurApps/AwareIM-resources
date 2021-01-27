@@ -81,17 +81,12 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 #### Java JDK
 *   [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
     *   [**Oracle OpenJDK `15`**](https://jdk.java.net/15/)
-    *   [Oracle OpenJDK `14`](https://jdk.java.net/14/) - JDK 14 has been superseded.
-    *   [Oracle OpenJDK `13`](https://jdk.java.net/13/) - JDK 13 has been superseded.
-    *   [Oracle OpenJDK `12`](https://jdk.java.net/12/) - JDK 12 has been superseded.
     *   [Archived Versions](https://jdk.java.net/archive/)
+
 *   [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
-    
-    *    [Version `15.0.0`](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) 
+    *    [Version `15.0.2`](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) 
         *   **Not tested with Aware IM**
-    *    [Version `14.0.2`](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html#JDK14) - July 14, 2020.
-        *   **Not tested with Aware IM**
-    *    [Version `11.0.8`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - July 14, 2020.
+    *    [Version `11.0.10`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - January 19, 2021.
         *   **Not tested with Aware IM**
     *    ✔️ [**Version 8, Update 281**](https://www.oracle.com/java/technologies/javase-downloads.html#JDK8) - `1.8.0_281-b09` 19 January, 2021. **Compatible with all Aware IM versions**. <!-- More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8) -->
     >   Oracle strongly recommends that all Java SE 8 users upgrade to this release.
@@ -100,8 +95,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     *    [**All previous JDK versions archive**](https://www.oracle.com/technetwork/java/javase/archive-139210.html)
         *   [Manual Downloads](https://java.com/en/download/manual.jsp)
 
-####
-*   [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications.    
+#### [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications.    
     *   [Changes](https://javaee.github.io/javamail/docs/CHANGES.txt)
     *   [Releases](https://github.com/javaee/javamail/releases)
     *   **Download JavaMail**
@@ -112,8 +106,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         *   In **v8.2** and below, rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_
         *   Restart Aware IM server
 
-####
-*   [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
+#### [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
     > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library.
     
     > Latest version of ActiveMQ that works with Aware IM is **`5.12.1`**. Latest release is **`5.16.00`** (July 1, 2020).
