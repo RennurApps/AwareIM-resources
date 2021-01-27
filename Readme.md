@@ -95,7 +95,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     *    [**All previous JDK versions archive**](https://www.oracle.com/technetwork/java/javase/archive-139210.html)
         *   [Manual Downloads](https://java.com/en/download/manual.jsp)
 
-#### [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications.    
+#### 
+*   [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications.    
     *   [Changes](https://javaee.github.io/javamail/docs/CHANGES.txt)
     *   [Releases](https://github.com/javaee/javamail/releases)
     *   **Download JavaMail**
@@ -106,7 +107,8 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         *   In **v8.2** and below, rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_
         *   Restart Aware IM server
 
-#### [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
+#### 
+*   [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
     > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library.
     
     > Latest version of ActiveMQ that works with Aware IM is **`5.12.1`**. Latest release is **`5.16.00`** (July 1, 2020).
