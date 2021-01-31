@@ -156,7 +156,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
                     *   [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms.
             *    [**MySQL Community Server 5.5.62 (Final)**](https://dev.mysql.com/downloads/mysql/5.5.html) - 22 Oct 2018.
 *   #### [](#apache-derby---home)**Apache Derby** - [Home](http://db.apache.org/derby/)
-    
+<!--    
     *   **For Java 9 and higher** -
         *    [10.15.1.3](https://db.apache.org/derby/releases/release-10.15.1.3.cgi) - (March 5, 2019)
             *   Not supported by Aware IM `8.4` and below
@@ -168,7 +168,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
         *    [Apache Derby 10.12.1.1](https://db.apache.org/derby/releases/release-10.12.1.1.cgi) - (October 11, 2015)
         *   [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
     *   Downloads [http://db.apache.org/derby/derby_downloads.html](http://db.apache.org/derby/derby_downloads.html)
-
+--> 
 *   #### [](#postgresql---postgresql-is-a-powerful-open-source-object-relational-database-system)**PostgreSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
  
     *   [Download PostgreSQL](https://www.postgresql.org/download/) - Current version `13.1`.
