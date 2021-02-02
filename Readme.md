@@ -152,7 +152,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
                     *   [Visual Studio 2015, 2017 and 2019](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads)
             *    [**MySQL Community Server 5.7.32**](https://dev.mysql.com/downloads/mysql/5.7.html)
                     *   [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
-            *    [**MySQL Community Server 5.6.50**](https://dev.mysql.com/downloads/mysql/5.6.html).
+            *    [**MySQL Community Server 5.6.51**](https://dev.mysql.com/downloads/mysql/5.6.html).
                     *   [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms.
             *    [**MySQL Community Server 5.5.62 (Final)**](https://dev.mysql.com/downloads/mysql/5.5.html) - 22 Oct 2018.
 *   #### [](#apache-derby---home)**Apache Derby** - [Home](http://db.apache.org/derby/)
