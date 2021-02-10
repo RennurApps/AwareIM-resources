@@ -200,7 +200,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
     
     *   [Connector/J Versions](https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-versions.html) and what MySQL and Java JDK Versions they support.
         
-    *   ✔️ [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.0.22`**. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
+    *   ✔️ [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.0.23`**. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
         
         *   **Installation**
             *   Application Server
@@ -210,10 +210,9 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
                     *   **v8.3+**, `C:\AwareIM\lib`
                     *   **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
                 4.  Restart AwareIM Server Control Panel
-    *   ✔️ [**Connector/J 5.1.x**](https://dev.mysql.com/downloads/connector/j/5.1.html) - **Latest version `v5.1.49`**, 20 April 2019. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. MySQL Connector/J is the official JDBC driver for MySQL.
+    *   [**Connector/J 5.1.x**](https://downloads.mysql.com/archives/c-j/) - Latest version `v5.1.49`, 20 April 2019. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. 
         
         *   [**Download**](https://dev.mysql.com/downloads/connector/j/5.1.html) - Download the latest **Platform Independent** version.
-        *   [Changes and Release Notes](https://dev.mysql.com/doc/relnotes/connector-j/en/index.html)
         *   [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
         *   **Installation**
             *   Application Server
