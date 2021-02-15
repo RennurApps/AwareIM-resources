@@ -175,7 +175,7 @@ Written in 100% Java programming language. Aware IM is based on the plethora of 
 --> 
 *   #### [](#postgresql---postgresql-is-a-powerful-open-source-object-relational-database-system)**PostgreSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
  
-    *   [Download PostgreSQL](https://www.postgresql.org/download/) - Current version `13.1`.
+    *   [Download PostgreSQL](https://www.postgresql.org/download/) - Current version `13.2` 11 Feb 2021.
 
 *   #### [](#maria-db)**Maria DB**
     
