@@ -209,19 +209,18 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
                 2.  Copy and replace the existing file in
                     *   **v8.3+**, `C:\AwareIM\lib`
                     *   **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
-                3.  Restart AwareIM Server Control Panel
+                3.  Restart AwareIM Server
     *   [**Connector/J 5.1.x**](https://downloads.mysql.com/archives/c-j/) - Latest version `v5.1.49`, 20 April 2019. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. 
         
-        *   [**Download**](https://dev.mysql.com/downloads/connector/j/5.1.html) - Download the latest **Platform Independent** version.
+        *   [**Download Platform Independent Version**](https://downloads.mysql.com/archives/get/p/3/file/mysql-connector-java-5.1.49.zip)
         *   [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
         *   **Installation**
             *   Application Server
-                1.  Download `platform independent` version
-                2.  Extract the files and rename `mysql-connector-java-5.x.xx-bin.jar` to `mysql-connector-java-3.1.12-bin.jar`
-                3.  Copy and replace the existing file in:
+                1.  Extract the files and rename `mysql-connector-java-5.x.xx-bin.jar` to `mysql-connector-java-3.1.12-bin.jar`
+                2.  Copy and replace the existing file in:
                     *   **v8.3+**, `C:\AwareIM\lib`
                     *   **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
-                4.  Restart AwareIM Server Control Panel
+                3.  Restart AwareIM Server
 
 *   #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.2.18`.  Java 8 required.
     
@@ -331,6 +330,6 @@ Any application offering an API for developers makes it possible to integrate wi
             *   [AWARE'S REPORTING - JASPER REPORTS UPGRADE FOR NEXT RELEASE?](http://www.awareim.com/forum/viewtopic.php?f=1&t=7744) - JasperRepoerts Server
 
 <!-- 
-# Donate
-https://paypal.me/RennurApps?locale.x=en_AU
+### Donate
+[Paypal](https://paypal.me/RennurApps?locale.x=en_AU)
 -->
