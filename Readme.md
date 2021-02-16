@@ -249,11 +249,11 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 #### [](#front-end-framework)Front-end Framework
 
 *   **Bootstrap** - For Aware IM version 5.x & 6.x only; Aware IM 7.0 has bootstrap integrated as part of Kendo UI.
-    *   [Bootstrap v5 (beta)](https://getbootstrap.com/) - Currently `**5.0.0**` - Not tested with AwareIM.
-    *   [Bootstrap v4](https://getbootstrap.com/docs/4.5/) - Currently `**4.5.3**` - Not tested with AwareIM 6.0 or below. Some v3 features dropped.
+    *   [Bootstrap v5 (beta)](https://getbootstrap.com/) - Currently **`5.0.0`** - Not tested with AwareIM.
+    *   [Bootstrap v4](https://getbootstrap.com/docs/4.5/) - Currently **`4.5.3`** - Not tested with AwareIM 6.0 or below. Some v3 features dropped.
         *   [**Download**](https://getbootstrap.com/docs/4.5/getting-started/download/)
         *   [**BootstrapCDN**](https://getbootstrap.com/docs/4.5/getting-started/download/#bootstrapcdn) - Cached version of Bootstrap’s compiled CSS and JS.
-    *   [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - v3.4.1 (final).
+    *   [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - `3.4.1` (final).
         *   Integrating with Aware IM
             *   Manual configuration through Startup.html
             *   disable **`legend`** style with /\* \*/ brackets as it seems to be in conflict with the ExtJS style
@@ -290,7 +290,7 @@ Any application offering an API for developers makes it possible to integrate wi
     
     *   **Requires** [**Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019**](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) - Download and install first.
     *   **Download wkhtmltopdf**:
-        *   [**Download wkhtmltopdf** Windows (MSVC)](https://wkhtmltopdf.org/downloads.html) - **v0.12.6** released on June 11, 2020 for Windows, Linux and OS X.
+        *   [**Download wkhtmltopdf** Windows (MSVC)](https://wkhtmltopdf.org/downloads.html) - **v`0.12.6`** released on June 11, 2020 for Windows, Linux and OS X.
             *    **`v0.12.6`** Tested and working in Aware IM **6.0+**. Released June 11, 2020.
             *    `v0.12.5` Tested and working in Aware IM **6.0+**. Released June 11, 2018.
             *    `v0.12.4` Tested and working in Aware IM **6.0+**. Released November 22, 2016
