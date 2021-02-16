@@ -202,15 +202,14 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     *   [Connector/J Versions](https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-versions.html) and what MySQL and Java JDK Versions they support.
         
     *   ✔️ [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.0.23`**. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
-        
+        *   [**Download Platform Independent Version**](https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-java-8.0.23.zip) 
         *   **Installation**
             *   Application Server
-                1.  Download `platform independent` version
-                2.  Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-java-5.1.46-bin.jar`
-                3.  Copy and replace the existing file in
+                1.  Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-java-5.1.46-bin.jar`
+                2.  Copy and replace the existing file in
                     *   **v8.3+**, `C:\AwareIM\lib`
                     *   **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
-                4.  Restart AwareIM Server Control Panel
+                3.  Restart AwareIM Server Control Panel
     *   [**Connector/J 5.1.x**](https://downloads.mysql.com/archives/c-j/) - Latest version `v5.1.49`, 20 April 2019. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. 
         
         *   [**Download**](https://dev.mysql.com/downloads/connector/j/5.1.html) - Download the latest **Platform Independent** version.
@@ -224,34 +223,29 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
                     *   **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
                 4.  Restart AwareIM Server Control Panel
 
-*   #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.2.18`.
+*   #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.2.18`.  Java 8 required.
     
-    *   Java 8 required.
 *   #### [](#mariadb-connectors)[**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
     
     *   [**MariaDB Connector/J**](https://downloads.mariadb.org/connector-java/+releases/) - Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+.
         
         *    [MariaDB Connector/J 2.7.1 Stable](https://downloads.mariadb.org/connector-java/+releases/) - 23 November 2020.
             *   **Version untested with Aware IM**
-        
-  
-
+   
 #### [](#web-application-framework---html5js-framework)**Web Application Framework** - HTML5/JS Framework
 
-*   [**Kendo UI®**](http://www.telerik.com/kendo-ui) - **Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
-    *   [**Roadmap**](http://www.telerik.com/support/whats-new/kendo-ui/roadmap)
-    *   [**Release History**](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
+*   [**Kendo UI®**](https://www.telerik.com/kendo-ui) - **Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
+    *   [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
+    *   [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
         *   Latest Kendo UI Release [**Kendo UI R1 2021**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2021) - January 20, 2021
         *   **Aware IM 8.1+** Kendo UI version [**Kendo UI R3 2017**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017)
-        *   Aware IM 7.0-8.0 Kendo UI version [Kendo UI Q1 2016](http://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
-    *   [**Demos**](http://demos.telerik.com/kendo-ui/) - Kendo UI Components
-    *   70+ jQuery-based UI widgets in one powerful toolset.
-    *   AngularJS integration, Bootstrap support, mobile controls, offline data solution.
+        *   Aware IM 7.0-8.0 Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
+    *   [**jQuery Demos & Examples**](https://demos.telerik.com/kendo-ui/) - Kendo UI jQuery Components
 
 #### [](#mobile-web-framework)**Mobile Web Framework**
 
 *   **Aware IM 7.x+** - Mobile apps with HTML5 and JavaScript.
-    *   [**Kendo UI®**](http://www.telerik.com/kendo-ui)
+    *   [**Kendo UI®**](https://www.telerik.com/kendo-ui)
 
 #### [](#front-end-framework)Front-end Framework
 
@@ -265,9 +259,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
             *   Manual configuration through Startup.html
             *   disable **`legend`** style with /\* \*/ brackets as it seems to be in conflict with the ExtJS style
                 *   `/* legend { display: block; width: 100%; padding: 0; margin-bottom: 20px; font-size: 21px; line-height: inherit; color: #333; border: 0; border-bottom: 1px solid #e5e5e5; } */`
-    *   [LayoutIt!](http://www.layoutit.com/build) - Drag & drop layout builder
     *   [Huge list of bootstrap resources](https://sendcheckit.com/the-big-badass-list-of-twitter-bootstrap-resources)
-    *   [Bootstrap Tutorial](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
 *   [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks
 *   [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time.
 
@@ -276,7 +268,6 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 *   **Electronic Signature Capture** - For Aware IM 5.9+
     *   [**Signature Pad**](https://github.com/szimek/signature_pad) - Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers.
     *   [**DEMO - Github**](http://szimek.github.io/signature_pad/)
-    *   [**Signature Pad v3.0.0-beta.3**](https://www.jsdelivr.com/package/npm/signature_pad) - (c) 2018 Szymon Nowak. Tested ok in 8.1.
     *   [✔️ **Signature Pad v1.5.3**](https://www.jsdelivr.com/package/npm/signature_pad?version=1.5.3) - Tested and working in all versions 5.9+
     *   **Installation**:
         *   Replace ../AwareIM/signature/signature/_pad.js with the new version.
@@ -291,9 +282,6 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         *   `onBegin` - (function) Callback when stroke begin.
         *   `onEnd` - (function) Callback when stroke end.
     *   [Video Tutorial (approx. 3min)](http://www.awareim.com/tutorials/59/New%20In%205,9.html) - from 00:38min
-*   **Social Logins**
-
-#### [](#hybrid-native-apps)Hybrid Native Apps
 
 #### [](#integrations-custom-components-connectors-and-plugins)Integrations, custom components, connectors and plugins
 
@@ -341,7 +329,6 @@ Any application offering an API for developers makes it possible to integrate wi
             *   [User Guide](http://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v610/getting-started-jaspersoft-studio)
         *   **Forum posts**
             *   [AWARE'S REPORTING - JASPER REPORTS UPGRADE FOR NEXT RELEASE?](http://www.awareim.com/forum/viewtopic.php?f=1&t=7744) - JasperRepoerts Server
-    *   [**Metabase BI**](https://www.metabase.com/) - Open source.
 
 <!-- 
 # Donate
