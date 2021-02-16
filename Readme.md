@@ -228,7 +228,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     
     *   [**MariaDB Connector/J**](https://downloads.mariadb.org/connector-java/+releases/) - Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+.
         
-        *    [MariaDB Connector/J 2.7.1 Stable](https://downloads.mariadb.org/connector-java/+releases/) - 23 November 2020.
+        *    [MariaDB Connector/J 2.7.2 Stable](https://downloads.mariadb.org/connector-java/+releases/) - 29 January 2021.
             *   **Version untested with Aware IM**
    
 #### [](#web-application-framework---html5js-framework)**Web Application Framework** - HTML5/JS Framework
@@ -249,8 +249,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 #### [](#front-end-framework)Front-end Framework
 
 *   **Bootstrap** - For Aware IM version 5.x & 6.x only; Aware IM 7.0 has bootstrap integrated as part of Kendo UI.
-    *   [Bootstrap v5 (beta)](https://getbootstrap.com/) - Currently v**5.0.0** - Not tested with AwareIM.
-    *   [Bootstrap v4](https://getbootstrap.com/docs/4.5/) - Currently v**4.5.3** - Not tested with AwareIM 6.0 or below. Some v3 features dropped.
+    *   [Bootstrap v5 (beta)](https://getbootstrap.com/) - Currently `**5.0.0**` - Not tested with AwareIM.
+    *   [Bootstrap v4](https://getbootstrap.com/docs/4.5/) - Currently `**4.5.3**` - Not tested with AwareIM 6.0 or below. Some v3 features dropped.
         *   [**Download**](https://getbootstrap.com/docs/4.5/getting-started/download/)
         *   [**BootstrapCDN**](https://getbootstrap.com/docs/4.5/getting-started/download/#bootstrapcdn) - Cached version of Bootstrap’s compiled CSS and JS.
     *   [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - v3.4.1 (final).
