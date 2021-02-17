@@ -116,7 +116,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 *   [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
     > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library.
     
-    > Latest version of ActiveMQ that works with Aware IM is **`5.12.1`**. Latest release is **`5.16.00`** (July 1, 2020).
+    > Latest version of ActiveMQ that works with Aware IM is **`5.12.1`**. Latest release is **`5.16.1`** (January 20, 2021).
     
     * **Reported issues in Aware IM** - Scalability, bugs, performance...
         *   [Highly demand -- updates - security concerns](https://awareim.com/forum/viewtopic.php?f=1&t=10539&p=48389)
@@ -126,7 +126,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     *   [**Bugs since `5.12.1`**](https://issues.apache.org/jira/browse/AMQ-6456?jql=project%20%3D%20AMQ%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(Open%2C%20%22In%20Progress%22%2C%20Reopened%2C%20Resolved%2C%20Closed)%20AND%20priority%20in%20(Blocker%2C%20Critical)%20AND%20affectedVersion%20in%20(5.12.2%2C%205.12.3%2C%205.13.0%2C%205.13.1%2C%205.13.2%2C%205.13.3%2C%205.13.4%2C%205.13.5%2C%205.14.0%2C%205.14.1%2C%205.14.2%2C%205.14.3%2C%205.14.4%2C%205.14.5%2C%205.15.0%2C%205.15.1%2C%205.15.10%2C%205.15.11%2C%205.15.12%2C%205.15.13%2C%205.15.2%2C%205.15.3%2C%205.15.4%2C%205.15.5%2C%205.15.6%2C%205.15.7%2C%205.15.8%2C%205.15.9%2C%205.16.0)%20ORDER%20BY%20affectedVersion%20ASC%2C%20priority%20ASC%2C%20updated%20DESC)
         
     *   **Releases**:
-        * [5.16.00 Release](http://activemq.apache.org/activemq-5160-release) - 1 Jul, 2020. **Inconsistent vector internals** Aware IM error.
+        * [5.16.1 Release](http://activemq.apache.org/activemq-5016001-release) - 20 Jan, 2021. **Inconsistent vector internals** Aware IM error.
             *   ERROR:
                 *   `org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
             * Changelog 
