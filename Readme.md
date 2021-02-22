@@ -1,5 +1,5 @@
 # Aware IM Server v8.5 Stack
-## Servers, Components, Frameworks, Dependencies and other resources
+## Servers, Components, Frameworks, Dependencies and other resources.
 ------------------------------------------------------------------------------------------------------------------------------------
 
 > Aware IM is a rapid low-code application development tool that lets you create powerful aesthetically appealing web applications quickly.
