@@ -89,16 +89,16 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     *   [Archived Versions](https://jdk.java.net/archive/)
 
 *   [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
-    *    [Version `15.0.2`](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) 
-        *   **Not tested with Aware IM**
-    *    [Version `11.0.10`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - January 19, 2021.
-        *   **Not tested with Aware IM**
-    *    ✔️ [**Version 8, Update 281**](https://www.oracle.com/java/technologies/javase-downloads.html#JDK8) - `1.8.0_281-b09` 19 January, 2021. **Compatible with all Aware IM versions**. <!-- More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8) -->
+    * [Version `15.0.2`](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) 
+        * **Not tested with Aware IM**
+    * [Version `11.0.10`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - January 19, 2021.
+        * **Not tested with Aware IM**
+    * ✔️ [**Version 8, Update 281**](https://www.oracle.com/java/technologies/javase-downloads.html#JDK8) - `1.8.0_281-b09` 19 January, 2021. **Compatible with all Aware IM versions**. <!-- More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8) -->
     >   Oracle strongly recommends that all Java SE 8 users upgrade to this release.
-    *    Versions bundled with Aware IM:
-        *   Aware IM `v8.0+` - JDK 8 Update 91 `1.8.0_91-b15`
-    *    [**All previous JDK versions archive**](https://www.oracle.com/technetwork/java/javase/archive-139210.html)
-        *   [Manual Downloads](https://java.com/en/download/manual.jsp)
+    * Versions bundled with Aware IM: 
+        * Aware IM `v8.0+` - JDK 8 Update 91 `1.8.0_91-b15`
+    * [**All previous JDK versions archive**](https://www.oracle.com/technetwork/java/javase/archive-139210.html) 
+        * [Manual Downloads](https://java.com/en/download/manual.jsp)
 
 #### 
 *   [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications.    
