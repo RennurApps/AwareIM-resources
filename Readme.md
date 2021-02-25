@@ -12,7 +12,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 --> 
 <!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) --> 
 
-[**v8.5 build 2834**](https://www.awareim.com/changelog/Readme2834.txt) - 18 February, 2021.
+[**v8.5 build 2835**](https://www.awareim.com/changelog/Readme2835.txt) - 24 February, 2021.
     
 - **New Features and improvements in version 8.5**
     - PUT and DELETE HTTP verbs supported when exposing REST services 
