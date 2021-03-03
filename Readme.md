@@ -231,8 +231,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 *   #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
     
     * [**MariaDB Connector/J**](https://downloads.mariadb.org/connector-java/+releases/) - Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+.
-       * [MariaDB Connector/J `2.7.2` Stable](https://downloads.mariadb.org/connector-java/+releases/) - 29 January 2021.
-        * **Version untested with Aware IM**
+        * [MariaDB Connector/J `2.7.2` Stable](https://downloads.mariadb.org/connector-java/+releases/) - 29 January 2021.
+            * **Version not tested with Aware IM**
    
 #### [](#web-application-framework---html5js-framework)**Web Application Framework** - HTML5/JS Framework
 
