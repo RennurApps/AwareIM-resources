@@ -146,7 +146,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
                 *   In **v8.3+**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\\AwareIM\\lib
                 *   In **v8.2 and below**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\\AwareIM\\Tomcat\\lib
         *    [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server installation.
-*   [**Java Service Wrapper** -](http://wrapper.tanukisoftware.com/doc/english/download.jsp) \- **32bit v3.5.42** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition.
+*   [**Java Service Wrapper** -](http://wrapper.tanukisoftware.com/doc/english/download.jsp) \- **32bit v3.5.45** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition.
     
     *   [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
 
