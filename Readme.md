@@ -42,7 +42,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         * :information_source: **Not tested with `Aware IM` `7.x` `8.x`**
         * [**Security**](https://tomcat.apache.org/security-10.html)
 
-* [**Tomcat 9.0.43** - For Aware IM v8.x](http://tomcat.apache.org/) - 28 January, 2021. Tomcat 9 is designed to run on **`Java SE 8`** or later.
+* [**Tomcat 9.0.44** - For Aware IM v8.x](http://tomcat.apache.org/) - 4 March, 2021. Tomcat 9 is designed to run on **`Java SE 8`** or later.
     * [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. 
         * :+1: Tested and working with `Aware IM` `6.x`, `7.x` & `8.x` 
         *   [**Security**](https://tomcat.apache.org/security-9.html)
@@ -77,7 +77,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
                         *   **In v8.3+**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\lib folder to replace the old one.
                         *   **In v8.2 and below**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
                     7.  Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
-*   [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.63`** 29 January, 2021. (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later.
+*   [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.64`** 4 March, 2021. (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later.
     *   [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi)
     *   [**Security**](https://tomcat.apache.org/security-8.html)
     *   [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
