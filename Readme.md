@@ -45,53 +45,53 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 * [**Tomcat 9.0.44** - For Aware IM v8.x](http://tomcat.apache.org/) - 4 March, 2021. Tomcat 9 is designed to run on **`Java SE 8`** or later.
     * [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. 
         * :+1: Tested and working with `Aware IM` `6.x`, `7.x` & `8.x` 
-        *   [**Security**](https://tomcat.apache.org/security-9.html)
-            *   **Important fixes**
-                *   `9.0.43` Request mix-up with h2c `CVE-2021-25122` - Affects: 9.0.0.M1 to 9.0.41 - 1 March 2021
-                *   `9.0.40` Information disclosure `CVE-2021-24122` - Affects: 9.0.0.M1 to 9.0.39 - 14 January 2021
-                *   `9.0.37` WebSocket DoS `CVE-2020-13935` - Affects: 9.0.0.M1 to 9.0.36 - 14 July 2020
-                *   `9.0.36` HTTP/2 DoS `CVE-2020-11996` - Affects: 9.0.0.M1 to 9.0.35 - 25 June 2020
-                *   `9.0.35` Remote Code Execution via session persistence `CVE-2020-9484` - Affects: 9.0.0.M1 to 9.0.34 - 20 May 2020
-                *   `9.0.31` AJP Request Injection and potential Remote Code Execution `CVE-2020-1938` - Affects: 9.0.0.M1 to 9.0.30 - 24 February 2020
-                *   `9.0.20` Denial of Service `CVE-2019-10072` - Affects: 9.0.0.M1 to 9.0.19 - 20 June 2019
-                *   `9.0.19` Remote Code Execution on Windows `CVE-2019-0232` - Affects: 9.0.0.M1 to 9.0.17 - 10 April 2019
-                *   `9.0.16` Denial of Service `CVE-2019-0199` - Affects: 9.0.0.M1 to 9.0.14 - 25 March 2019
-                *   `9.0.10` Information Disclosure `CVE-2018-8037` - 22 July 2018
-                *   `9.0.8` A bug in the UTF-8 decoder can lead to DoS `CVE-2018-1336` - 22 July 2018
-                *   `9.0.5` Security constraint annotations applied too late `CVE-2018-1305` - 23 February 2018
-                *   `9.0.5` Security constraints mapped to context root are ignored `CVE-2018-1304` - 23 February 2018
-                *   `9.0.1` Remote Code Execution `CVE-2017-12617` - 20 September 2017
-    *   [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
-    *   [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-        * **Installation** with Aware IM
+        * [**Security**](https://tomcat.apache.org/security-9.html)
+            * **Important fixes**
+              *   `9.0.43` Request mix-up with h2c `CVE-2021-25122` - Affects: 9.0.0.M1 to 9.0.41 - 1 March 2021
+              *   `9.0.40` Information disclosure `CVE-2021-24122` - Affects: 9.0.0.M1 to 9.0.39 - 14 January 2021
+              *   `9.0.37` WebSocket DoS `CVE-2020-13935` - Affects: 9.0.0.M1 to 9.0.36 - 14 July 2020
+              *   `9.0.36` HTTP/2 DoS `CVE-2020-11996` - Affects: 9.0.0.M1 to 9.0.35 - 25 June 2020
+              *   `9.0.35` Remote Code Execution via session persistence `CVE-2020-9484` - Affects: 9.0.0.M1 to 9.0.34 - 20 May 2020
+              *   `9.0.31` AJP Request Injection and potential Remote Code Execution `CVE-2020-1938` - Affects: 9.0.0.M1 to 9.0.30 - 24 February 2020
+              *   `9.0.20` Denial of Service `CVE-2019-10072` - Affects: 9.0.0.M1 to 9.0.19 - 20 June 2019
+              *   `9.0.19` Remote Code Execution on Windows `CVE-2019-0232` - Affects: 9.0.0.M1 to 9.0.17 - 10 April 2019
+              *   `9.0.16` Denial of Service `CVE-2019-0199` - Affects: 9.0.0.M1 to 9.0.14 - 25 March 2019
+              *   `9.0.10` Information Disclosure `CVE-2018-8037` - 22 July 2018
+              *   `9.0.8` A bug in the UTF-8 decoder can lead to DoS `CVE-2018-1336` - 22 July 2018
+              *   `9.0.5` Security constraint annotations applied too late `CVE-2018-1305` - 23 February 2018
+              *   `9.0.5` Security constraints mapped to context root are ignored `CVE-2018-1304` - 23 February 2018
+              *   `9.0.1` Remote Code Execution `CVE-2017-12617` - 20 September 2017
+        * [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
+        * [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
+        * **Installation** 
             * Microsoft Windows Based Systems
                 * **IMPORTANT**:
-                    * Ensure any prior modification of existing _web.xml_ and _server.xml_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files. 
+                * Ensure any prior modification of existing _web.xml_ and _server.xml_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files. 
                 * **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current C:\AwareIM\Tomcat folder.
-                    1.  **Extract** the archive and open the folder.
-                    2.  Open the extracted **Tomcat** folder.
-                    3.  Select all files and folders and press `Crl+c` to copy
-                    4.  Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
-                    5.  Press `Ctrl+v` to paste and replace all files and folders.
-                    6.  Java JDK tools.jar:
-                        *   **In v8.3+**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\lib folder to replace the old one.
-                        *   **In v8.2 and below**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
-                    7.  Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
-*   [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.64`** 4 March, 2021. (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later.
-    *   [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi)
-    *   [**Security**](https://tomcat.apache.org/security-8.html)
-    *   [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
-    *   [Tomcat 8.5x Changelog](https://tomcat.apache.org/tomcat-8.5-doc/changelog.html)
-*   **Tomcat SSL/TLS Configuration HOW-TO** - Tomcat documentation.
-    *   [**v9.0**](http://tomcat.apache.org/tomcat-9.0-doc/ssl-howto.html)
-    *   [**v8.5**](http://tomcat.apache.org/tomcat-8.5-doc/ssl-howto.html)
-    *   [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
+                    1. **Extract** the archive and open the folder.
+                    2. Open the extracted **Tomcat** folder.
+                    3. Select all files and folders and press `Crl+c` to copy
+                    4. Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
+                    5. Press `Ctrl+v` to paste and replace all files and folders.
+                    6. Java JDK tools.jar:
+                        * **In v8.3+**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\lib folder to replace the old one.
+                        * **In v8.2 and below**, if you have updated Java JDK, copy the latest version of tools.jar to the C:\Awareim\Tomcat\lib folder to replace the old one.
+                    7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
+* [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.64`** 4 March, 2021. (Aware IM bundled version `8.5.24`) - Tomcat 8.5 requires **`Java SE 7`** or later.
+    * [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi)
+    * [**Security**](https://tomcat.apache.org/security-8.html)
+    * [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
+    * [Tomcat 8.5x Changelog](https://tomcat.apache.org/tomcat-8.5-doc/changelog.html)
+* **Tomcat SSL/TLS Configuration HOW-TO** - Tomcat documentation.
+    * [**v9.0**](http://tomcat.apache.org/tomcat-9.0-doc/ssl-howto.html)
+    * [**v8.5**](http://tomcat.apache.org/tomcat-8.5-doc/ssl-howto.html)
+    * [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
 
 #### Java JDK
-*   [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
-    *   [**Oracle OpenJDK `16`**](https://jdk.java.net/16/)
-    *   [Oracle OpenJDK `15`](https://jdk.java.net/15/)
-    *   [Archived Versions](https://jdk.java.net/archive/)
+* [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
+    * [**Oracle OpenJDK `16`**](https://jdk.java.net/16/)
+    * [Oracle OpenJDK `15`](https://jdk.java.net/15/)
+    * [Archived Versions](https://jdk.java.net/archive/)
 
 *   [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
     * [Version `16.0`](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) 
