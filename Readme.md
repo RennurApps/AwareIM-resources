@@ -109,7 +109,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         * [Manual Downloads](https://java.com/en/download/manual.jsp)
 
 #### 
-*   [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications.    
+*   ✔️ [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications.    
     *   [Changes](https://javaee.github.io/javamail/docs/CHANGES.txt)
     *   [Releases](https://github.com/javaee/javamail/releases)
     *   **Download JavaMail**
@@ -145,7 +145,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
             *   Aware IM 8.1
                 *   Configurator won't start
                 *   Browser won't load the app
-        *   [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - 👍 **Tested and working with Tomcat 6, 8 & 9**.
+        *   ✔️ [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html) - 👍 **Tested and working with Tomcat 6, 8 & 9**.
             *   Installation
                 *   In **v8.3+**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\\AwareIM\\lib
                 *   In **v8.2 and below**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\\AwareIM\\Tomcat\\lib
@@ -162,7 +162,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         * Download
             * [**MySQL Community Server 8.0.23**](http://dev.mysql.com/downloads/mysql/) - Upgrade from MySQL 5.7 to MySQL 8.0 is only supported using the in-place upgrade method.
                 * [Visual Studio 2015, 2017 and 2019](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads)
-            * [**MySQL Community Server 5.7.33**](https://dev.mysql.com/downloads/mysql/5.7.html) 
+            * ✔️ [**MySQL Community Server 5.7.33**](https://dev.mysql.com/downloads/mysql/5.7.html) 
                 * [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
             * [**MySQL Community Server 5.6.51**](https://downloads.mysql.com/archives/community/). 
                 * [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms.
@@ -293,7 +293,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 Any application offering an API for developers makes it possible to integrate with Aware IM by writing a plugin.
 
-*   [**wkhtmltopdf**](https://github.com/wkhtmltopdf/wkhtmltopdf) - wkhtmltopdf is a command line tools to render HTML into PDF using the QT Webkit rendering engine. These run entirely "headless" and do not require a display or display service.
+*   ✔️ [**wkhtmltopdf**](https://github.com/wkhtmltopdf/wkhtmltopdf) - wkhtmltopdf is a command line tools to render HTML into PDF using the QT Webkit rendering engine. These run entirely "headless" and do not require a display or display service.
     
     *   **Requires** [**Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019**](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) - Download and install first.
     *   **Download wkhtmltopdf**:
