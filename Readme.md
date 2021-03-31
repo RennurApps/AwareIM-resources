@@ -94,12 +94,9 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     * [Archived Versions](https://jdk.java.net/archive/)
 
 *   [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
-    * [Version `16.0`](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) 
-        * **Not tested with Aware IM**
-    * [Version `15.0.2`](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) 
-        * **Not tested with Aware IM**
-    * [Version `11.0.10`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - January 19, 2021.
-        * **Not tested with Aware IM**
+    * [Version `16.0`](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) - **Not tested with Aware IM**
+    * [Version `15.0.2`](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) - **Not tested with Aware IM**
+    * [Version `11.0.10`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - **Not tested with Aware IM**
     * ✔️ [**Version 8, Update 281**](https://www.oracle.com/java/technologies/javase-downloads.html#JDK8) - `1.8.0_281-b09` 19 January, 2021. **Compatible with all Aware IM versions**. <!-- More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8) -->
     >   Oracle strongly recommends that all Java SE 8 users upgrade to this release.
     * Versions bundled with Aware IM: 
@@ -112,7 +109,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     *   [Changes](https://javaee.github.io/javamail/docs/CHANGES.txt)
     *   [Releases](https://github.com/javaee/javamail/releases)
     *   **Download JavaMail**
-        *   [**javax.mail.jar**](https://github.com/javaee/javamail/releases/download/JAVAMAIL-1_6_2/javax.mail.jar)
+        *   [**javax.mail.jar**](https://github.com/javaee/javamail/releases/tag/JAVAMAIL-1_6_2)
         *   [MVNRepository](https://mvnrepository.com/artifact/com.sun.mail/javax.mail) - JavaMail API
     *   **Installation**
         *   In **v8.3+**, rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\lib`_
