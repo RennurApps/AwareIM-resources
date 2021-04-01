@@ -72,7 +72,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
                     1. **Extract** the archive and open the folder.
                     2. Open the extracted **Tomcat** folder.
                     3. Select all files and folders and press `Crl+c` to copy
-                    4. Open you AwareIM installation Tomcat folder **C:\AwareIM\Tomcat**
+                    4. Open you AwareIM installation Tomcat folder `**C:\AwareIM\Tomcat**`
                     5. Press `Ctrl+v` to paste and replace all files and folders.
                     6. Java JDK `tools.jar`:
                         * **In v8.3+**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\lib_ folder to replace the old one.
