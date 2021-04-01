@@ -22,7 +22,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     - Offline mode overhaul
     - [List of release improvements](https://www.awareim.com/changelog/Readme2815.txt)
 
-#### Application Server
+### Application Server
 
 #### Apache Tomcat
 
