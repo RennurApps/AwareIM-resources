@@ -233,7 +233,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     * [**MariaDB Connector/J**](https://downloads.mariadb.org/connector-java/+releases/) - Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+.
         * ✔️ **MariaDB Connector/J `2.3.0`**
         * :warning: [MariaDB Connector/J `2.7.2`](https://downloads.mariadb.org/connector-java/+releases/) - 29 January 2021.
-            * **Server error in Aware IM `8.5`** 
+            * **Server error starting Aware IM `8.5`**
                 * `Loading class 'com.mysql.jdbc.Driver'. This is deprecated. The new driver class is com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary. Message returned from the database Access denied for user 'root'@'localhost' (using password: YES) Server startup error. Access to database is denied.`
    
 #### [](#web-application-framework---html5js-framework)**Web Application Framework** - HTML5/JS Framework
