@@ -40,7 +40,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     * [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi) 
         * :warning: **Few java exceptions `Aware IM 8.5`**
         * :warning: **Not compatible with `Aware IM 6.0 and below`**
-        * [**Security**](https://tomcat.apache.org/security-10.html)
+<!-->        * [**Security**](https://tomcat.apache.org/security-10.html) -->
 
 * ✔️ [**Tomcat 9.0.44** - For Aware IM v8.x](http://tomcat.apache.org/) - 4 March, 2021. Tomcat 9 is designed to run on **`Java SE 8`** or later.
     * [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. 
