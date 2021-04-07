@@ -90,7 +90,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 #### Java JDK
 * [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
-    * [**Oracle OpenJDK `16`**](https://jdk.java.net/16/)
+    * ✔️ [**Oracle OpenJDK `16`**](https://jdk.java.net/16/) - **Compatible with Aware IM `8.5`+**
     * [Oracle OpenJDK `15`](https://jdk.java.net/15/)
     * [Archived Versions](https://jdk.java.net/archive/)
 
