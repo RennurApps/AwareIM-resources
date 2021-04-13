@@ -230,7 +230,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
                     *   **v8.3+**, `C:\AwareIM\lib`
                     *   **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
                 3.  Restart AwareIM Server
-    *   [**Connector/J 5.1.x**](https://downloads.mysql.com/archives/c-j/) - Latest version `v5.1.49`, 20 April 2019. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. 
+    *   [**Connector/J 5.1.x**](https://downloads.mysql.com/archives/c-j/) - Latest version `v5.1.49`, 20 April 2020. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. 
         
         *   [**Download Platform Independent Version**](https://downloads.mysql.com/archives/get/p/3/file/mysql-connector-java-5.1.49.zip)
         *   [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
