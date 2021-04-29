@@ -26,7 +26,9 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 > Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete.
 
-> Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5+** server installation.
+> **Tomcat 9.0.44** 32bit is the default version packaged in the **Aware IM 8.6** server installation.
+
+> Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
 
 > Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
@@ -111,7 +113,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     * ✔️ [**Version 8, Update 291**](https://www.oracle.com/java/technologies/javase-downloads.html#JDK8) - `1.8.0_291-b10` 20 April, 2021. **Compatible with all Aware IM versions**. <!-- More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8) -->
     >   Oracle strongly recommends that all Java SE 8 users upgrade to this release.
     * Versions bundled with Aware IM: 
-        * Aware IM `v8.0+` - JDK 8 Update 91 `1.8.0_91-b15`
+        * :info: Aware IM `v8.6` - JDK `12.0.2` Commercial
+        * Aware IM `v8.0 - 8.5` - JDK 8 Update 91 `1.8.0_91-b15`
     * [**All previous JDK versions archive**](https://www.oracle.com/technetwork/java/javase/archive-139210.html) 
         * [Manual Downloads](https://java.com/en/download/manual.jsp)
 
