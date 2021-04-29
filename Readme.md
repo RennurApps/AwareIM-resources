@@ -171,7 +171,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     
     *   [**MySQL Community Server**](http://www.mysql.com/products/community/)
         * Download
-            * [**MySQL Community Server 8.0.24**](http://dev.mysql.com/downloads/mysql/) - Upgrade from MySQL 5.7 to MySQL 8.0 is only supported using the in-place upgrade method.
+            * :+1: [**MySQL Community Server 8.0.24**](http://dev.mysql.com/downloads/mysql/) - Upgrade from MySQL 5.7 to MySQL 8.0 is only supported using the in-place upgrade method.
                 * [Visual Studio 2015, 2017 and 2019](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads)
             * ✔️ [**MySQL Community Server 5.7.34**](https://dev.mysql.com/downloads/mysql/5.7.html) 
                 * [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
