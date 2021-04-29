@@ -111,7 +111,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     * [✔️ **Version `16.0.1`**](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) - **Works with Aware IM version `8.6`**
     * [Version `12.0.2` Final](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html) - **Bundled with Aware IM `8.6`** 
     * [Version `11.0.11`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - **Not tested with Aware IM `8.5 and below`**
-    * [**Version 8, Update 291**](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - `1.8.0_291-b10` 20 April, 2021. **Compatible with Aware IM versions `6.0` + `8.5`**. <!-- More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8) -->
+    * [**Version 8, Update 291**](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - `1.8.0_291-b10` 20 April, 2021. **Compatible with Aware IM versions `6.0` - `8.5`**. <!-- More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8) -->
     >   Oracle strongly recommends that all Java SE 8 users upgrade to this release.
     * Versions bundled with Aware IM: 
         * Aware IM `v8.6` - [JDK `12.0.2` Commercial](https://docs.oracle.com/en/java/javase/12/)
