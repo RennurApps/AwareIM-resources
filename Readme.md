@@ -254,7 +254,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     *   [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
         *   Latest Kendo UI Release [**Kendo UI R1 2021 SP2**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2021-sp2) - March 30, 2021
         *   ✔️ **Aware IM 8.6** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1)
-        *   Aware IM 8.1 - 8.5 Kendo UI version [**Kendo UI R3 2017**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017)
+        *   Aware IM 8.1 - 8.5 Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017)
         *   Aware IM 7.0-8.0 Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
     *   [**jQuery Demos & Examples**](https://demos.telerik.com/kendo-ui/) - Kendo UI jQuery Components
 
