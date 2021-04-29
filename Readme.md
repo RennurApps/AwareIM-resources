@@ -12,14 +12,11 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 --> 
 <!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) --> 
 
+[**v8.6 build 2916**](https://www.awareim.com/changelog/Readme2916.txt) - 28 April, 2021. <br>
 [**v8.5 build 2836 Final**](https://www.awareim.com/changelog/Readme2836.txt) - 4 March, 2021. <br>
     
-- **New Features and improvements in version 8.5**
-    - PUT and DELETE HTTP verbs supported when exposing REST services 
-    - Calling REST with OAuth supports refresh tokens 
-    - Responsive Layout Designer
-    - Offline mode overhaul
-    - [List of release improvements](https://www.awareim.com/changelog/Readme2815.txt)
+- New Features and improvements in version 8.6
+    - [**List of release improvements**](https://www.awareim.com/changelog/Readme2916.txt)
 
 ### Application Server
 
@@ -81,7 +78,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     * [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi)
     * [**Security**](https://tomcat.apache.org/security-8.html)
     * [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
-    * [Tomcat 8.5x Changelog](https://tomcat.apache.org/tomcat-8.5-doc/changelog.html)
+    * [Tomcat 8.5.x Changelog](https://tomcat.apache.org/tomcat-8.5-doc/changelog.html)
 * **Tomcat SSL/TLS Configuration HOW-TO** - Tomcat documentation.
     * [**v9.0**](http://tomcat.apache.org/tomcat-9.0-doc/ssl-howto.html)
     * [**v8.5**](http://tomcat.apache.org/tomcat-8.5-doc/ssl-howto.html)
@@ -256,7 +253,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     *   [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
     *   [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
         *   Latest Kendo UI Release [**Kendo UI R1 2021 SP2**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2021-sp2) - March 30, 2021
-        *   **Aware IM 8.1+** Kendo UI version [**Kendo UI R3 2017**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017)
+        *   ✔️ **Aware IM 8.6** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1)
+        *   Aware IM 8.1 - 8.5 Kendo UI version [**Kendo UI R3 2017**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017)
         *   Aware IM 7.0-8.0 Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
     *   [**jQuery Demos & Examples**](https://demos.telerik.com/kendo-ui/) - Kendo UI jQuery Components
 
