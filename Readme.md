@@ -171,7 +171,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     
     *   [**MySQL Community Server**](http://www.mysql.com/products/community/)
         * Download
-            * :+1: [**MySQL Community Server 8.0.24**](http://dev.mysql.com/downloads/mysql/) - Upgrade from MySQL 5.7 to MySQL 8.0 is only supported using the in-place upgrade method.
+            * :+1: [**MySQL Community Server 8.0.25**](http://dev.mysql.com/downloads/mysql/)
                 * [Visual Studio 2015, 2017 and 2019](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads)
             * ✔️ [**MySQL Community Server 5.7.34**](https://dev.mysql.com/downloads/mysql/5.7.html) 
                 * [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
@@ -220,8 +220,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     
     *   [Connector/J Versions](https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-versions.html) and what MySQL and Java JDK Versions they support.
         
-    *   ✔️ [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.0.24`**. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
-        *   [**Download Platform Independent Version**](https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-java-8.0.24.zip) 
+    *   ✔️ [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.0.25`**. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
+        *   [**Download Platform Independent Version**](https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-java-8.0.25.zip) 
         *   **Installation**
             *   Application Server
                 1.  Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-java-5.1.46-bin.jar`
@@ -229,7 +229,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
                     *   **v8.3+**, `C:\AwareIM\lib`
                     *   **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
                 3.  Restart AwareIM Server
-    *   [**Connector/J 5.1.x**](https://downloads.mysql.com/archives/c-j/) - Latest version `v5.1.49`, 20 April 2020. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. 
+    *   [**Connector/J 5.1.x** Archived](https://downloads.mysql.com/archives/c-j/) - `v5.1.49`, 20 April 2020. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. 
         
         *   [**Download Platform Independent Version**](https://downloads.mysql.com/archives/get/p/3/file/mysql-connector-java-5.1.49.zip)
         *   [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
@@ -256,7 +256,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 *   [**Kendo UI®**](https://www.telerik.com/kendo-ui) - **Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
     *   [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
     *   [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
-        *   Latest Kendo UI Release [**Kendo UI R1 2021 SP2**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2021-sp2) - March 30, 2021
+        *   Latest Kendo UI Release [**Kendo UI R2 2021**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2021) - May 12, 2021
         *   ✔️ **Aware IM 8.6** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1)
         *   Aware IM 8.1 - 8.5 Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017)
         *   Aware IM 7.0-8.0 Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
