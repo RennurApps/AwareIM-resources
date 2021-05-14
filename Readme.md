@@ -76,7 +76,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
                         * **In v8.3+**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\lib_ folder to replace the old one.
                         * **In v8.2 and below**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\Tomcat\lib_ folder to replace the old one.
                     7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
-* [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.65`** 30 March, 2021. (Aware IM bundled version `8.5.58`) - Tomcat 8.5 requires **`Java SE 7`** or later.
+* 👍 [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.65`** 30 March, 2021. (Aware IM bundled version `8.5.58`) - Tomcat 8.5 requires **`Java SE 7`** or later.
     * [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi)
     * [**Security**](https://tomcat.apache.org/security-8.html)
     * [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
@@ -145,7 +145,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     *   [**Bugs since `5.12.1`**](https://issues.apache.org/jira/browse/AMQ-8107?jql=project%20%3D%20AMQ%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(Open%2C%20%22In%20Progress%22%2C%20Reopened%2C%20Resolved%2C%20Closed)%20AND%20priority%20in%20(Blocker%2C%20Critical)%20AND%20affectedVersion%20in%20(5.12.2%2C%205.12.3%2C%205.13.0%2C%205.13.1%2C%205.13.2%2C%205.13.3%2C%205.13.4%2C%205.13.5%2C%205.14.0%2C%205.14.1%2C%205.14.2%2C%205.14.3%2C%205.14.4%2C%205.14.5%2C%205.15.0%2C%205.15.1%2C%205.15.10%2C%205.15.11%2C%205.15.12%2C%205.15.13%2C%205.15.14%2C%205.15.2%2C%205.15.3%2C%205.15.4%2C%205.15.5%2C%205.15.6%2C%205.15.7%2C%205.15.8%2C%205.15.9%2C%205.16.0%2C%205.16.1)%20ORDER%20BY%20affectedVersion%20DESC%2C%20priority%20ASC%2C%20updated%20DESC)
         
     *   **Releases**:
-        * [5.16.1 Release](http://activemq.apache.org/activemq-5016001-release) - 20 Jan, 2021. **Inconsistent vector internals** Aware IM error.
+        * ⚠️ [5.16.1 Release](http://activemq.apache.org/activemq-5016001-release) - 20 Jan, 2021. **Inconsistent vector internals** Aware IM error.
             *   ERROR:
                 *   `org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
             * Changelog 
@@ -160,7 +160,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
             *   Installation
                 *   In **v8.3+**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\\AwareIM\\lib
                 *   In **v8.2 and below**, extract, rename activemq-all-x.xx.x.jar to activemq-all-5.8.0.jar and replace the one in C:\\AwareIM\\Tomcat\\lib
-        *    [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server installation.
+        *   📉 [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server installation.
 *   [**Java Service Wrapper** -](http://wrapper.tanukisoftware.com/doc/english/download.jsp) \- **32bit v3.5.45** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition.
     
     *   [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
@@ -175,9 +175,9 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
                 * [Visual Studio 2015, 2017 and 2019](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads)
             * ✔️ [**MySQL Community Server 5.7.34**](https://dev.mysql.com/downloads/mysql/5.7.html) 
                 * [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
-            * [**MySQL Community Server 5.6.51**](https://downloads.mysql.com/archives/community/). 
+            * 📉 [**MySQL Community Server 5.6.51**](https://downloads.mysql.com/archives/community/). 
                 * [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms.
-            * [**MySQL Community Server 5.5.62 (Final)**](https://downloads.mysql.com/archives/community/) - 22 Oct 2018.
+            * 📉 [**MySQL Community Server 5.5.62 (Final)**](https://downloads.mysql.com/archives/community/) - 22 Oct 2018.
 *   #### [](#apache-derby---home)**Apache Derby** - [Home](http://db.apache.org/derby/)
 <!--    
     *   **For Java 9 and higher** -
@@ -229,7 +229,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
                     *   **v8.3+**, `C:\AwareIM\lib`
                     *   **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
                 3.  Restart AwareIM Server
-    *   [**Connector/J 5.1.x** Archived](https://downloads.mysql.com/archives/c-j/) - `v5.1.49`, 20 April 2020. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. 
+    *   📉 [**Connector/J 5.1.x** Archived](https://downloads.mysql.com/archives/c-j/) - `v5.1.49`, 20 April 2020. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API. 
         
         *   [**Download Platform Independent Version**](https://downloads.mysql.com/archives/get/p/3/file/mysql-connector-java-5.1.49.zip)
         *   [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
@@ -259,7 +259,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         *   Latest Kendo UI Release [**Kendo UI R2 2021**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2021) - May 12, 2021
         *   ✔️ **Aware IM 8.6** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1)
         *   Aware IM 8.1 - 8.5 Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017)
-        *   Aware IM 7.0-8.0 Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
+        *   📉 Aware IM 7.0-8.0 Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
     *   [**jQuery Demos & Examples**](https://demos.telerik.com/kendo-ui/) - Kendo UI jQuery Components
 
 #### [](#mobile-web-framework)**Mobile Web Framework**
