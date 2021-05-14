@@ -277,7 +277,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     *   📉 [Bootstrap v4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - **`4.5.3`** - Not tested with AwareIM.
         *   [Download](https://getbootstrap.com/docs/4.5/getting-started/download/)
         *   [jsDelivr](https://getbootstrap.com/docs/4.5/getting-started/download/#jsdelivr) - Cached version of Bootstrap’s compiled CSS and JS.
-    *   :+1: [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - `3.4.1` (final).
+    *   ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - `3.4.1` (final).
         *   Integrating with Aware IM
             *   Manual configuration through Startup.html
             *   disable **`legend`** style with /\* \*/ brackets as it seems to be in conflict with the ExtJS style
