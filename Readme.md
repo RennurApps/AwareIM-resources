@@ -76,7 +76,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
                         * **In v8.3+**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\lib_ folder to replace the old one.
                         * **In v8.2 and below**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\Tomcat\lib_ folder to replace the old one.
                     7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
-* 👍 [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.65`** 30 March, 2021. (Aware IM bundled version `8.5.58`) - Tomcat 8.5 requires **`Java SE 7`** or later.
+* 👍 [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.68`** 8 May, 2021. - Tomcat 8.5 requires **`Java SE 7`** or later.
     * [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi)
     * [**Security**](https://tomcat.apache.org/security-8.html)
     * [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
