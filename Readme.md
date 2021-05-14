@@ -258,27 +258,31 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     *   [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
         *   Latest Kendo UI Release [**Kendo UI R2 2021**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2021) - May 12, 2021
         *   ✔️ **Aware IM 8.6** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1)
-        *   Aware IM 8.1 - 8.5 Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017)
+        *   📉 Aware IM 8.1 - 8.5 Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017)
         *   📉 Aware IM 7.0-8.0 Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
     *   [**jQuery Demos & Examples**](https://demos.telerik.com/kendo-ui/) - Kendo UI jQuery Components
 
-#### [](#mobile-web-framework)**Mobile Web Framework**
+#### [](#mobile-web-framework)**Mobile/Web Application Framework**
 
 *   **Aware IM 7.x+** - Mobile apps with HTML5 and JavaScript.
     *   [**Kendo UI®**](https://www.telerik.com/kendo-ui)
 
-#### [](#front-end-framework)Front-end Framework
+#### [](#front-end-toolkit)Front-end open source toolkit
 
-*   **Bootstrap** - For Aware IM version 5.x & 6.x only; Aware IM 7.0 has bootstrap integrated as part of Kendo UI.
-    *   [Bootstrap v5 (beta)](https://getbootstrap.com/) - Currently **`5.0.0`** - Not tested with AwareIM.
-    *   [Bootstrap v4](https://getbootstrap.com/docs/4.5/) - Currently **`4.5.3`** - Not tested with AwareIM 6.0 or below. Some v3 features dropped.
-        *   [**Download**](https://getbootstrap.com/docs/4.5/getting-started/download/)
-        *   [**BootstrapCDN**](https://getbootstrap.com/docs/4.5/getting-started/download/#bootstrapcdn) - Cached version of Bootstrap’s compiled CSS and JS.
+*   **Bootstrap** - For Aware IM version 5.x & 6.x only; `Aware IM 7.0 and above` has bootstrap integrated as part of Kendo UI app framework. 
+    *   [Bootstrap v5](https://getbootstrap.com/) - Currently **`5.0.1`** - Not tested with AwareIM.
+    *   [Bootstrap v4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) - Currently **`4.6.0`** - Not tested with AwareIM.
+        *   [Download](https://getbootstrap.com/docs/4.6/getting-started/download/)
+        *   [jsDelivr](https://getbootstrap.com/docs/4.6/getting-started/download/#jsdelivr) - Skip the download with jsDelivr to deliver cached version of Bootstrap’s compiled CSS and JS to your project.
+    *   📉 [Bootstrap v4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - **`4.5.3`** - Not tested with AwareIM.
+        *   [Download](https://getbootstrap.com/docs/4.5/getting-started/download/)
+        *   [jsDelivr](https://getbootstrap.com/docs/4.5/getting-started/download/#jsdelivr) - Cached version of Bootstrap’s compiled CSS and JS.
     *   :+1: [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - `3.4.1` (final).
         *   Integrating with Aware IM
             *   Manual configuration through Startup.html
             *   disable **`legend`** style with /\* \*/ brackets as it seems to be in conflict with the ExtJS style
                 *   `/* legend { display: block; width: 100%; padding: 0; margin-bottom: 20px; font-size: 21px; line-height: inherit; color: #333; border: 0; border-bottom: 1px solid #e5e5e5; } */`
+    *   [All Bootstrap Versions](https://getbootstrap.com/docs/versions/)
     *   [Huge list of bootstrap resources](https://sendcheckit.com/the-big-badass-list-of-twitter-bootstrap-resources)
 *   [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks
 *   [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time.
