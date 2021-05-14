@@ -322,7 +322,7 @@ Any application offering an API for developers makes it possible to integrate wi
             *    `v0.12.5` Tested and working in Aware IM **6.0+**. Released June 11, 2018.
             *    `v0.12.4` Tested and working in Aware IM **6.0+**. Released November 22, 2016
     *   **Install wkhtmltopdf**
-        *   Windows
+        *   Windows OS
             *   Extract `*.exe` file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM
     *   **Aware IM Process Rules**
         *   **Step 1** - Export Aware IM HTML Document to a HTML file
