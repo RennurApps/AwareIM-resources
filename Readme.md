@@ -195,7 +195,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 --> 
 *   #### [](#postgresql---postgresql-is-a-powerful-open-source-object-relational-database-system)**PostgreSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
  
-    *   [Download PostgreSQL](https://www.postgresql.org/download/) - Current version `13.2` 11 Feb 2021.
+    *   [Download PostgreSQL](https://www.postgresql.org/download/) - Current version `13.3` 10 May 2021.
 
 *   #### [](#maria-db)**Maria DB**
     
