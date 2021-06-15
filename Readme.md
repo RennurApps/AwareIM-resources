@@ -94,6 +94,9 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 #### Java JDK
 * [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
     * :warning: [**Oracle OpenJDK `16`**](https://jdk.java.net/16/)
+        <details>
+        <summary>8.5 Server Error</summary>
+
         * **Aware IM `8.5 2836`** server error:
 >           Server unknown error javax/activation/DataSource exiting...
 >            java.lang.NoClassDefFoundError: javax/activation/DataSource
@@ -108,6 +111,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 >	            at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:182)
 >    	        at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:519)
 >        	    ... 6 more
+        </details>
+
 *   
     * [Oracle OpenJDK `15`](https://jdk.java.net/15/)
     * [Archived Versions](https://jdk.java.net/archive/)
