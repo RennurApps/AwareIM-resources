@@ -47,7 +47,9 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     * [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. 
         * :+1: Tested and working with `Aware IM` `6.x`, `7.x` & `8.x` 
         * [**Security**](https://tomcat.apache.org/security-9.html)
-            * **Important fixes**
+            <details>
+            * <summary>**Important fixes**</summary>
+
               *   `9.0.43` Request mix-up with h2c `CVE-2021-25122` - Affects: 9.0.0.M1 to 9.0.41 - 1 March 2021
               *   `9.0.40` Information disclosure `CVE-2021-24122` - Affects: 9.0.0.M1 to 9.0.39 - 14 January 2021
               *   `9.0.37` WebSocket DoS `CVE-2020-13935` - Affects: 9.0.0.M1 to 9.0.36 - 14 July 2020
@@ -62,6 +64,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
               *   `9.0.5` Security constraint annotations applied too late `CVE-2018-1305` - 23 February 2018
               *   `9.0.5` Security constraints mapped to context root are ignored `CVE-2018-1304` - 23 February 2018
               *   `9.0.1` Remote Code Execution `CVE-2017-12617` - 20 September 2017
+            </details>
+
         * [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
         * [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
         * **Installation** 
