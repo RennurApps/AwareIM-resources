@@ -50,19 +50,19 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
             <details>
             <summary>Important fixes</summary>
 
-                *   `9.0.40` Information disclosure `CVE-2021-24122` - Affects: 9.0.0.M1 to 9.0.39 - 14 January 2021
-                *   `9.0.37` WebSocket DoS `CVE-2020-13935` - Affects: 9.0.0.M1 to 9.0.36 - 14 July 2020
-                *   `9.0.36` HTTP/2 DoS `CVE-2020-11996` - Affects: 9.0.0.M1 to 9.0.35 - 25 June 2020
-                *   `9.0.35` Remote Code Execution via session persistence `CVE-2020-9484` - Affects: 9.0.0.M1 to 9.0.34 - 20 May 2020
-                *   `9.0.31` AJP Request Injection and potential Remote Code Execution `CVE-2020-1938` - Affects: 9.0.0.M1 to 9.0.30 - 24 February 2020
-                *   `9.0.20` Denial of Service `CVE-2019-10072` - Affects: 9.0.0.M1 to 9.0.19 - 20 June 2019
-                *   `9.0.19` Remote Code Execution on Windows `CVE-2019-0232` - Affects: 9.0.0.M1 to 9.0.17 - 10 April 2019
-                *   `9.0.16` Denial of Service `CVE-2019-0199` - Affects: 9.0.0.M1 to 9.0.14 - 25 March 2019
-                *   `9.0.10` Information Disclosure `CVE-2018-8037` - 22 July 2018
-                *   `9.0.8` A bug in the UTF-8 decoder can lead to DoS `CVE-2018-1336` - 22 July 2018
-                *   `9.0.5` Security constraint annotations applied too late `CVE-2018-1305` - 23 February 2018
-                *   `9.0.5` Security constraints mapped to context root are ignored `CVE-2018-1304` - 23 February 2018
-                *   `9.0.1` Remote Code Execution `CVE-2017-12617` - 20 September 2017
+            *   `9.0.40` Information disclosure `CVE-2021-24122` - Affects: 9.0.0.M1 to 9.0.39 - 14 January 2021
+            *   `9.0.37` WebSocket DoS `CVE-2020-13935` - Affects: 9.0.0.M1 to 9.0.36 - 14 July 2020
+            *   `9.0.36` HTTP/2 DoS `CVE-2020-11996` - Affects: 9.0.0.M1 to 9.0.35 - 25 June 2020
+            *   `9.0.35` Remote Code Execution via session persistence `CVE-2020-9484` - Affects: 9.0.0.M1 to 9.0.34 - 20 May 2020
+            *   `9.0.31` AJP Request Injection and potential Remote Code Execution `CVE-2020-1938` - Affects: 9.0.0.M1 to 9.0.30 - 24 February 2020
+            *   `9.0.20` Denial of Service `CVE-2019-10072` - Affects: 9.0.0.M1 to 9.0.19 - 20 June 2019
+            *   `9.0.19` Remote Code Execution on Windows `CVE-2019-0232` - Affects: 9.0.0.M1 to 9.0.17 - 10 April 2019
+            *   `9.0.16` Denial of Service `CVE-2019-0199` - Affects: 9.0.0.M1 to 9.0.14 - 25 March 2019
+            *   `9.0.10` Information Disclosure `CVE-2018-8037` - 22 July 2018
+            *   `9.0.8` A bug in the UTF-8 decoder can lead to DoS `CVE-2018-1336` - 22 July 2018
+            *   `9.0.5` Security constraint annotations applied too late `CVE-2018-1305` - 23 February 2018
+            *   `9.0.5` Security constraints mapped to context root are ignored `CVE-2018-1304` - 23 February 2018
+            *   `9.0.1` Remote Code Execution `CVE-2017-12617` - 20 September 2017
             </details>
 
         * [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
