@@ -98,19 +98,19 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         <summary>8.5 Server Error</summary>
 
         * **Aware IM `8.5 2836`** server error:
->           Server unknown error javax/activation/DataSource exiting...
->            java.lang.NoClassDefFoundError: javax/activation/DataSource
->            	at com.bas.basserver.channels.ChannelManager.startupEntity(Unknown Source)
->                at com.bas.basserver.domainmanager.DomainManager.A(Unknown Source)
->                at com.bas.basserver.domainmanager.DomainManager.<init>(Unknown Source)
->                at com.bas.basserver.bsmanager.E.A(Unknown Source)
->                at com.bas.newcp.ServerStarterECP.K(Unknown Source)
->                at com.bas.newcp.ServerStarterECP.main(Unknown Source)
->            Caused by: java.lang.ClassNotFoundException: javax.activation.DataSource
->                at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:636)
->	            at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:182)
->    	        at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:519)
->        	    ... 6 more
+            >           Server unknown error javax/activation/DataSource exiting...
+            >            java.lang.NoClassDefFoundError: javax/activation/DataSource
+            >            	at com.bas.basserver.channels.ChannelManager.startupEntity(Unknown Source)
+            >                at com.bas.basserver.domainmanager.DomainManager.A(Unknown Source)
+            >                at com.bas.basserver.domainmanager.DomainManager.<init>(Unknown Source)
+            >                at com.bas.basserver.bsmanager.E.A(Unknown Source)
+            >                at com.bas.newcp.ServerStarterECP.K(Unknown Source)
+            >                at com.bas.newcp.ServerStarterECP.main(Unknown Source)
+            >            Caused by: java.lang.ClassNotFoundException: javax.activation.DataSource
+            >                at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:636)
+            >	            at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:182)
+            >    	        at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:519)
+            >        	    ... 6 more
         </details>
 
 *   
