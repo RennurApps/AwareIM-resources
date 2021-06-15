@@ -48,7 +48,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         * :+1: Tested and working with `Aware IM` `6.x`, `7.x` & `8.x` 
         * [**Security**](https://tomcat.apache.org/security-9.html)
             <details>
-            * <summary>**Important fixes**</summary>
+            * <summary>Important fixes</summary>
 
               *   `9.0.43` Request mix-up with h2c `CVE-2021-25122` - Affects: 9.0.0.M1 to 9.0.41 - 1 March 2021
               *   `9.0.40` Information disclosure `CVE-2021-24122` - Affects: 9.0.0.M1 to 9.0.39 - 14 January 2021
