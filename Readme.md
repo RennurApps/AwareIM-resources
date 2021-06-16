@@ -71,8 +71,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
             <details>
             <summary>Microsoft Windows Based Systems</summary>
 
-            * **IMPORTANT**:
-            * Ensure any prior modification of existing _`web.xml`_ and _`server.xml`_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files. 
+            **IMPORTANT**: Ensure any prior modification of existing _`web.xml`_ and _`server.xml`_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files. 
             * **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current _C:\AwareIM\Tomcat_ folder.
                 1. **Extract** the archive and open the folder.
                 2. Open the extracted **Tomcat** folder.
