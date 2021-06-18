@@ -43,7 +43,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     * [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi) 
 <!--        * [**Security**](https://tomcat.apache.org/security-10.html) -->
 
-* ✔️ [**Tomcat 9.0.46** - For Aware IM v8.x](http://tomcat.apache.org/) - 8 May, 2021. Tomcat 9 is designed to run on **`Java SE 8`** or later.
+* ✔️ [**Tomcat 9.0.48** - For Aware IM v8.x](http://tomcat.apache.org/) - 17 June, 2021. Tomcat 9 is designed to run on **`Java SE 8`** or later.
     * [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install. 
         * :+1: Tested and working with `Aware IM` `6.x`, `7.x` & `8.x` 
         * [**Security**](https://tomcat.apache.org/security-9.html)
@@ -85,7 +85,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
                 7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
             </details>
 
-* 👍 [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.66`** 8 May, 2021. - Tomcat 8.5 requires **`Java SE 7`** or later.
+* 👍 [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.68`** 11 June, 2021. - Tomcat 8.5 requires **`Java SE 7`** or later.
     * [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi)
     * [**Security**](https://tomcat.apache.org/security-8.html)
     * [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
