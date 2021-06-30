@@ -311,7 +311,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 #### [](#aware-im-internal-features)Aware IM Internal Features
 
-*   **Electronic Signature Capture** - For Aware IM 5.9+
+*   **Electronic Signature Capture** - For Aware IM `5.9 - 8.x`
     *   [**Signature Pad**](https://github.com/szimek/signature_pad) - Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers.
     *   [**DEMO - Github**](http://szimek.github.io/signature_pad/)
     *   [✔️ **Signature Pad v1.5.3**](https://www.jsdelivr.com/package/npm/signature_pad?version=1.5.3) - Tested and working in all versions `5.9 - 8.x`
