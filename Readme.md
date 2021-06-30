@@ -265,7 +265,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     
 *   #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
     
-    * [**MariaDB Connector/J**](https://downloads.mariadb.org/connector-java/+releases/) - Type 4 JDBC driver out-of-the-box support in Aware IM v8.3+.
+    * [**MariaDB Connector/J**](https://downloads.mariadb.org/connector-java/+releases/) - Type 4 JDBC driver out-of-the-box support in Aware IM `v8.3`+.
         * ✔️ **MariaDB Connector/J `2.3.0`**
         * :warning: [MariaDB Connector/J `2.7.2`](https://downloads.mariadb.org/connector-java/+releases/) - 29 January 2021.
             * **Server error starting Aware IM `8.5`**
@@ -273,13 +273,13 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
    
 #### [](#web-application-framework---html5js-framework)**Web Application Framework** - HTML5/JS Framework
 
-*   [**Kendo UI®**](https://www.telerik.com/kendo-ui) - **Aware IM v7.0+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
+*   [**Kendo UI®**](https://www.telerik.com/kendo-ui) - **Aware IM `v7.0`+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
     *   [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
     *   [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
         *   Latest Kendo UI Release [**Kendo UI R2 2021 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2021-sp1-(version-2021-2-616)) - June 16, 2021 `version 2021.2.616`
-        *   ✔️ **Aware IM 8.6** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
-        *   📉 Aware IM 8.1 - 8.5 Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
-        *   📉 Aware IM 7.0-8.0 Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
+        *   ✔️ **Aware IM `8.6`*`* Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
+        *   📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
+        *   📉 Aware IM `7.0 - 8.0` Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
     *   [**jQuery Demos & Examples**](https://demos.telerik.com/kendo-ui/) - Kendo UI jQuery Components
 
 #### [](#mobile-web-framework)**Mobile/Web Application Framework**
@@ -314,7 +314,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 *   **Electronic Signature Capture** - For Aware IM 5.9+
     *   [**Signature Pad**](https://github.com/szimek/signature_pad) - Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers.
     *   [**DEMO - Github**](http://szimek.github.io/signature_pad/)
-    *   [✔️ **Signature Pad v1.5.3**](https://www.jsdelivr.com/package/npm/signature_pad?version=1.5.3) - Tested and working in all versions 5.9+
+    *   [✔️ **Signature Pad v1.5.3**](https://www.jsdelivr.com/package/npm/signature_pad?version=1.5.3) - Tested and working in all versions `5.9 - 8.x`
     *   **Installation**:
         *   Replace ../AwareIM/signature/signature/_pad.js with the new version.
     *   **Options** - Edit **signature_pad.js** found in **C:\AwareIM\Tomcat\webapps\AwareIM\signature**
