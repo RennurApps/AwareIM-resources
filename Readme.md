@@ -261,7 +261,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
                     *   **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
                 3.  Restart AwareIM Server
 
-*   #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.2.20`.  Java 8 required.
+*   #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.2.22` 16 Jun 2021. Java 8 required.
     
 *   #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
     
