@@ -55,6 +55,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
             <details>
             <summary>Important fixes</summary>
 
+            *   `9.0.48` Request Smuggling `CVE-2021-33037` - Affects: 9.0.0.M1 to 9.0.46
+            *   `9.0.45` Denial of Service `CVE-2021-30639` - Affects: 9.0.44 
             *   `9.0.43` Request mix-up with h2c `CVE-2021-25122` - Affects: 9.0.0.M1 to 9.0.41
             *   `9.0.40` Information disclosure `CVE-2021-24122` - Affects: 9.0.0.M1 to 9.0.39 - 14 January 2021
             *   `9.0.37` WebSocket DoS `CVE-2020-13935` - Affects: 9.0.0.M1 to 9.0.36 - 14 July 2020
