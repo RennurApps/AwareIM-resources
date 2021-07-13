@@ -93,7 +93,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
                 7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
             </details>
 
-* 👍 [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.68`** 11 June, 2021. - Tomcat 8.5 requires **`Java SE 7`** or later.
+* 👍 [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.69`** 30 June, 2021. - Tomcat 8.5 requires **`Java SE 7`** or later.
     * [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi)
     * [**Security**](https://tomcat.apache.org/security-8.html)
     * [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
