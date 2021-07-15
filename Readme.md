@@ -25,7 +25,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     - 2924 - Support for Single Sign Out based on SAML
     - 2921 - Support for "display no records message" flag for standard queries
 
-### Application Server 
+### <span style="color:cccccc;">Application Server</span> 
 
 #### Apache Tomcat 
 
