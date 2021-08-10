@@ -16,6 +16,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 ✔️ [**v8.5 build 2836 Final**](https://www.awareim.com/changelog/Readme2836.txt) - 4 March, 2021. <br>
     
 - New Features and improvements in version 8.6
+    - 2032 - Commands of type Input Control and Panel Operations with Input Controls support date widgets for Date attributes
     - 2031 - It is now possible to set column widths of the query by resizing columns directly in query preview. 
     - 2929 - Preview of content panels show wrapper panel for responsive layouts to avoid confusion with inner/outer margins 
     - 2927 - Select All/Unselect All/Filter for processes/queries/objects when defining menu commands
