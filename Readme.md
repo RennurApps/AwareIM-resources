@@ -12,7 +12,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 --> 
 <!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) --> 
 
-👍 [**v8.6 build 2932**](https://www.awareim.com/changelog/Readme2932.txt) - 9 August, 2021. <br>
+👍 [**v8.6 build 2933**](https://www.awareim.com/changelog/Readme2933.txt) - 11 August, 2021. <br>
 ✔️ [**v8.5 build 2836 Final**](https://www.awareim.com/changelog/Readme2836.txt) - 4 March, 2021. <br>
     
 - New Features and improvements in version 8.6
