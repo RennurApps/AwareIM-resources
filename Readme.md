@@ -12,7 +12,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 --> 
 <!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) --> 
 
-👍 [**v8.6 build 2934**](https://www.awareim.com/changelog/Readme2934.txt) - 23 August, 2021. <br>
+👍 [**v8.6 build 2935**](https://www.awareim.com/changelog/Readme2935.txt) - 24 August, 2021. <br>
 ✔️ [**v8.5 build 2836 Final**](https://www.awareim.com/changelog/Readme2836.txt) - 4 March, 2021. <br>
     
 - New Features and improvements in version 8.6
@@ -296,7 +296,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 #### [](#front-end-toolkit)Front-end open source toolkit
 
 *   **Bootstrap** - For Aware IM version 5.x & 6.x only; `Aware IM 7.0 and above` has bootstrap integrated as part of Kendo UI app framework. 
-    *   [Bootstrap v5](https://getbootstrap.com/) - Currently **`5.0.2`** - Not tested with AwareIM.
+    *   [Bootstrap v5](https://getbootstrap.com/) - Currently **`5.1.0`** - Not tested with AwareIM.
     *   [Bootstrap v4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) - `4.6.0` - Not tested with AwareIM.
         *   [Download](https://getbootstrap.com/docs/4.6/getting-started/download/)
         *   [jsDelivr](https://getbootstrap.com/docs/4.6/getting-started/download/#jsdelivr) - Skip the download with jsDelivr to deliver cached version of Bootstrap’s compiled CSS and JS to your project.
