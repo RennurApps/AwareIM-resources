@@ -19,7 +19,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     - 2936 - Support for last modified date in business rules 
         - Last Modified property for a rule 
         - Search Last Modified command supports rules 
-        - Rule Filter dialog has an option show Last Modified date column for a rule collectio
+        - Rule Filter dialog has an option show Last Modified date column for a rule collection
     - 2936 - Attribute styles and item display rules now support both styles and CSS classes 
     - 2934 - [Improvements](https://www.awareim.com/changelog/Readme2934.txt)
     - 2932 - Commands of type Input Control and Panel Operations with Input Controls support date widgets for Date attributes
