@@ -12,10 +12,15 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 --> 
 <!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) --> 
 
-👍 [**v8.6 build 2935**](https://www.awareim.com/changelog/Readme2935.txt) - 24 August, 2021. <br>
+👍 [**v8.6 build 2936**](https://www.awareim.com/changelog/Readme2936.txt) - 30 August, 2021. <br>
 ✔️ [**v8.5 build 2836 Final**](https://www.awareim.com/changelog/Readme2836.txt) - 4 March, 2021. <br>
     
 - New Features and improvements in version 8.6
+    - 2936 - Support for last modified date in business rules 
+        - Last Modified property for a rule 
+        - Search Last Modified command supports rules 
+        - Rule Filter dialog has an option show Last Modified date column for a rule collectio
+    - 2936 - Attribute styles and item display rules now support both styles and CSS classes 
     - 2934 - [Improvements](https://www.awareim.com/changelog/Readme2934.txt)
     - 2932 - Commands of type Input Control and Panel Operations with Input Controls support date widgets for Date attributes
     - 2931 - It is now possible to set column widths of the query by resizing columns directly in query preview. 
