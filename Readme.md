@@ -12,10 +12,16 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 --> 
 <!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) --> 
 
-👍 [**v8.6 build 2936**](https://www.awareim.com/changelog/Readme2936.txt) - 30 August, 2021. <br>
+👍 [**v8.6 build 2936**](https://www.awareim.com/changelog/Readme2937.txt) - 9 September, 2021. <br>
 ✔️ [**v8.5 build 2836 Final**](https://www.awareim.com/changelog/Readme2836.txt) - 4 March, 2021. <br>
     
 - New Features and improvements in version 8.6
+    - 2937 - Improvements in Relationship Diagram:
+        - Categories are displayed in the exclusion list
+        - Select Al/Unselect All in the exclusion list
+        - Ability to set box width
+        - Diagram settings can be saved in the BSV under specified name
+        - Diagram settings can be loaded from BSV
     - 2936 - Support for last modified date in business rules 
         - Last Modified property for a rule 
         - Search Last Modified command supports rules 
