@@ -12,10 +12,13 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 --> 
 <!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) --> 
 
-👍 [**v8.6 build 2937**](https://www.awareim.com/changelog/Readme2937.txt) - 9 September, 2021. <br>
+👍 [**v8.6 build 2938**](https://www.awareim.com/changelog/Readme2938.txt) - 3 September, 2021. <br>
 ✔️ [**v8.5 build 2836 Final**](https://www.awareim.com/changelog/Readme2836.txt) - 4 March, 2021. <br>
     
 - New Features and improvements in version 8.6
+    - 2938 - Parse_JSON function
+    - 2938 - Parse_XML function
+    - 2938 - Different layout generation algorithms available for relationship diagrams
     - 2937 - Improvements in Relationship Diagram:
         - Categories are displayed in the exclusion list
         - Select Al/Unselect All in the exclusion list
