@@ -17,9 +17,9 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     
 - New Features and improvements in version 8.6
     - 2938 - Parse_JSON function 
-        - Object.Value = PARSE_JSON (Object.JSONAttribute, 'JSON_PATH') [:information_source:](https://github.com/json-path/JsonPath#getting-started)
+        - `Object.Value = PARSE_JSON (Object.JSONAttribute, 'JSON_PATH')` [:information_source:](https://github.com/json-path/JsonPath#getting-started)
     - 2938 - Parse_XML function 
-        - Object.Value = PARSE_XML (Object.XMLAttribute, 'XPATH' [:information_source:](https://www.w3.org/TR/1999/REC-xpath-19991116)
+        - `Object.Value = PARSE_XML (Object.XMLAttribute, 'XPATH') [:information_source:](https://www.w3.org/TR/1999/REC-xpath-19991116)
     - 2938 - Different layout generation algorithms available for relationship diagrams
     - 2937 - Improvements in Relationship Diagram:
         - Categories are displayed in the exclusion list
