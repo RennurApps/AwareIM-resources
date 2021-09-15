@@ -236,13 +236,13 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 --> 
 *   #### [](#postgresql---postgresql-is-a-powerful-open-source-object-relational-database-system)**PostgreSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
  
-    *   [Download PostgreSQL](https://www.postgresql.org/download/) - Current version `13.3` 10 May 2021.
+    *   [Download PostgreSQL](https://www.postgresql.org/download/) - Current version `13.4` - 12 August 2021.
 
 *   #### [](#maria-db)**Maria DB**
     
     *   [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
         *   [**Download**](https://mariadb.org/download/)
-            *   [**MariaDB version 10.5.11 Stable**](https://mariadb.org/download/) - 23 June 2021.
+            *   [**MariaDB version**](https://mariadb.org/download/) - Cusrrent version `10.6.4` stable - 6 August 2021.
 
 *   #### [](#sql-server---microsoft-data-platforms)**SQL Server** - [Microsoft Data Platforms](https://www.microsoft.com/en-in/sql-server/)
     
@@ -285,7 +285,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 *   #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.2.22` 16 Jun 2021. Java 8 required.
     
-*   #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
+*   #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/) - Current version `2.7.3`.
     
     * [**MariaDB Connector/J**](https://downloads.mariadb.org/connector-java/+releases/) - Type 4 JDBC driver out-of-the-box support in Aware IM `v8.3`+.
         * ✔️ **MariaDB Connector/J `2.3.0`**
