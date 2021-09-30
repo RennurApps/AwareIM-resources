@@ -63,13 +63,11 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 - :warning: [**Tomcat 10.0.11**](http://tomcat.apache.org/) - 6 September, 2021. Tomcat 10 is designed to run on **`Java SE 8`** or later.
 
-      > Users of Tomcat 10 onwards should be aware that, as a result of the move from Java EE to Jakarta EE as part of the transfer of Java EE to the Eclipse Foundation, the primary package for all implemented APIs has changed from `javax.*` to `jakarta.*`. This will almost certainly require code changes to enable applications to migrate from Tomcat 9 and earlier to Tomcat 10 and later.
+> Users of Tomcat 10 onwards should be aware that, as a result of the move from Java EE to Jakarta EE as part of the transfer of Java EE to the Eclipse Foundation, the primary package for all implemented APIs has changed from `javax.*` to `jakarta.*`. This will almost certainly require code changes to enable applications to migrate from Tomcat 9 and earlier to Tomcat 10 and later.
 
-      * :warning: **Few java exceptions `Aware IM 8.5`**
-      * :warning: **Not compatible with `Aware IM 6.0 and below`**
-      * [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
-
-  <!--        * [**Security**](https://tomcat.apache.org/security-10.html) -->
+      - :warning: **Few java exceptions `Aware IM 8.5`**
+      - :warning: **Not compatible with `Aware IM 6.0 and below`**
+      - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
 
 - ✔️ [**Tomcat 9.0.53** - For Aware IM v8.x](http://tomcat.apache.org/) - 6 September, 2021. Tomcat 9 is designed to run on **`Java SE 8`** or later.
 
