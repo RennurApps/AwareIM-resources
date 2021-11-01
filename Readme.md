@@ -151,7 +151,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 - ✔️ [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications.
   - [Releases](https://github.com/javaee/javamail/releases)
-  - Aware IM **`8.6 buid 2943 and below`** download JavaMail
+  - Aware IM **`8.6 build 2943 and below`** download JavaMail
     - [**javax.mail.jar**](https://github.com/javaee/javamail/releases/tag/JAVAMAIL-1_6_2)
     - [MVNRepository](https://mvnrepository.com/artifact/com.sun.mail/javax.mail) - JavaMail API
   - **Installation**
