@@ -14,7 +14,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 -->
 <!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) -->
 
-👍 [**v8.6 build 2943**](https://www.awareim.com/changelog/Readme2943.txt) - 24 October, 2021. <br>
+👍 [**v8.6 build 2944**](https://www.awareim.com/changelog/Readme2944.txt) - 1 November, 2021. <br>
 ✔️ [**v8.5 build 2836 Final**](https://www.awareim.com/changelog/Readme2836.txt) - 4 March, 2021. <br>
 
 - New Features and improvements in version 8.6
@@ -150,14 +150,14 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 ####
 
 - ✔️ [**JavaMail**](https://javaee.github.io/javamail/) - JavaMail **`1.6.2`** - August 30, 2018 Final Release. Platform-independent and protocol-independent framework to build mail and messaging applications.
-  - [Changes](https://javaee.github.io/javamail/docs/CHANGES.txt)
   - [Releases](https://github.com/javaee/javamail/releases)
-  - **Download JavaMail**
+  - Aware IM **`8.6 buid 2943 and below`** download JavaMail
     - [**javax.mail.jar**](https://github.com/javaee/javamail/releases/tag/JAVAMAIL-1_6_2)
     - [MVNRepository](https://mvnrepository.com/artifact/com.sun.mail/javax.mail) - JavaMail API
   - **Installation**
-    - In **v8.3+**, rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\lib`_
-    - In **v8.2** and below, rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_
+    - In Aware IM **v8.6 build 2944 and above** - Supplied and installed in this version.
+    - In Aware IM **v8.3 - v8.6 build 2943**, rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\lib`_
+    - In Aware IM **v8.2** and below, rename _`javax.mail.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_
     - Restart Aware IM server
 
 ####
@@ -225,7 +225,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 -->
 - #### [](#postgresql---postgresql-is-a-powerful-open-source-object-relational-database-system)**PostgreSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
 
-  - Download PostgreSQL 
+  - Download PostgreSQL
     - [Windows installers](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
       - `14.0` - 30 September 2021. Latest.
 
