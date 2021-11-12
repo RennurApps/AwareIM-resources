@@ -123,8 +123,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
 
-  - :warning: [**Oracle OpenJDK `17`**](https://jdk.java.net/17/) - **Untested**
-  - :warning: [**Oracle OpenJDK `16`**](https://jdk.java.net/16/)
+  - :warning: [**Oracle OpenJDK `17`**](https://jdk.java.net/17/) 
       <details>
       <summary>8.5 Server Error</summary>
 
