@@ -225,7 +225,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   - Download PostgreSQL
     - [Windows installers](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
-      - `14.0` - 30 September 2021. Latest.
+      - `14.1` - 11 November 2021. Latest.
 
 - #### [](#maria-db)**Maria DB**
 
