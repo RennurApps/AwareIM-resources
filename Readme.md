@@ -231,7 +231,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   - [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
     - [**Download**](https://mariadb.org/download/)
-      - [**MariaDB version**](https://mariadb.org/download/) - Cusrrent version `10.6.4` stable - 6 August 2021.
+      - [**MariaDB version**](https://mariadb.org/download/) - Cusrrent version `10.6.5` stable - 9 November 2021.
 
 - #### [](#sql-server---microsoft-data-platforms)**SQL Server** - [Microsoft Data Platforms](https://www.microsoft.com/en-in/sql-server/)
 
