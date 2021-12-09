@@ -15,6 +15,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 <!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) -->
 
 ✔️ [**v8.6 build 2945**](https://www.awareim.com/changelog/Readme2945.txt) - 14 November, 2021. <br>
+
 <!-- ✔️ [**v8.5 build 2836 Final**](https://www.awareim.com/changelog/Readme2836.txt) - 4 March, 2021. <br> -->
 
 - New Features and improvements in version 8.6
@@ -61,7 +62,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 > Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
-- :warning: [**Tomcat 10.0.13**](http://tomcat.apache.org/) - Tomcat 10 is designed to run on **`Java SE 8`** or later.
+- :warning: [**Tomcat 10.0.14**](http://tomcat.apache.org/) - Tomcat 10 is designed to run on **`Java SE 8`** or later.
 
 > Users of Tomcat 10 onwards should be aware that, as a result of the move from Java EE to Jakarta EE as part of the transfer of Java EE to the Eclipse Foundation, the primary package for all implemented APIs has changed from `javax.*` to `jakarta.*`. This will almost certainly require code changes to enable applications to migrate from Tomcat 9 and earlier to Tomcat 10 and later.
 
@@ -69,7 +70,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 - :warning: **Not compatible with `Aware IM 6.0 and below`**
 - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
 
-* ✔️ [**Tomcat 9.0.55** - For Aware IM v8.x](http://tomcat.apache.org/) - 10 November, 2021. Tomcat 9 is designed to run on **`Java SE 8`** or later.
+* ✔️ [**Tomcat 9.0.56** - For Aware IM v8.x](http://tomcat.apache.org/) - 2 December, 2021. Tomcat 9 is designed to run on **`Java SE 8`** or later.
 
   - [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install.
 
@@ -123,7 +124,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
 
-  - ✔️ [**Oracle OpenJDK `17`**](https://jdk.java.net/17/) 
+  - ✔️ [**Oracle OpenJDK `17`**](https://jdk.java.net/17/)
       <details>
       <summary>8.5 Server Error</summary>
 
@@ -134,7 +135,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [Archived Versions](https://jdk.java.net/archive/)
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
-  - ✔️ [Version `17.0.1`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6`**. 19 October, 2021. 
+  - ✔️ [Version `17.0.1`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6`**. 19 October, 2021.
   - :+1: [Version `12.0.2` Final](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html) - **Bundled with Aware IM `8.6`** - Archived.
   - [Version `11.0.13`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - 19 October, 2021. **Not tested with Aware IM `8.5 and below`**
   - ✔️ [**Version 8, Update 311**](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - 19 October, 2021. **Compatible with Aware IM versions `6.0` - `8.5`**. <!-- More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8) -->
@@ -285,7 +286,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - **Aware IM `v7.0`+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
-    - Latest Kendo UI Release [**Kendo UI R3 2021 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2021-sp1-(version-2021-3-1109)) - November 9, 2021 `version 2021.3.1109`
+    - Latest Kendo UI Release [**Kendo UI R3 2021 SP1**](<https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2021-sp1-(version-2021-3-1109)>) - November 9, 2021 `version 2021.3.1109`
     - ✔️ **Aware IM `8.6`** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
     - 📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
     - 📉 Aware IM `7.0 - 8.0` Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
