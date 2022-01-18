@@ -252,7 +252,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   - [Connector/J Versions](https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-versions.html) and what MySQL and Java JDK Versions they support.
   - ✔️ [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.0.27`**. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
-    - [**Download Platform Independent Version**](https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-java-8.0.26.zip)
+    - [**Download Platform Independent Version**](https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-java-8.0.27.zip)
     - **Installation**
       - Application Server
         1.  Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-java-5.1.46-bin.jar`
