@@ -175,7 +175,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab.
   - [**Bugs since `5.12.1`**](<https://issues.apache.org/jira/browse/AMQ-8107?jql=project%20%3D%20AMQ%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(Open%2C%20%22In%20Progress%22%2C%20Reopened%2C%20Resolved%2C%20Closed)%20AND%20priority%20in%20(Blocker%2C%20Critical)%20AND%20affectedVersion%20in%20(5.12.2%2C%205.12.3%2C%205.13.0%2C%205.13.1%2C%205.13.2%2C%205.13.3%2C%205.13.4%2C%205.13.5%2C%205.14.0%2C%205.14.1%2C%205.14.2%2C%205.14.3%2C%205.14.4%2C%205.14.5%2C%205.15.0%2C%205.15.1%2C%205.15.10%2C%205.15.11%2C%205.15.12%2C%205.15.13%2C%205.15.14%2C%205.15.2%2C%205.15.3%2C%205.15.4%2C%205.15.5%2C%205.15.6%2C%205.15.7%2C%205.15.8%2C%205.15.9%2C%205.16.0%2C%205.16.1)%20ORDER%20BY%20affectedVersion%20DESC%2C%20priority%20ASC%2C%20updated%20DESC>)
   - **Releases**:
-    - [5.17.0 Release](https://activemq.apache.org/activemq-5017000-release) - 14 March, 2022. *Not tested with Aware IM**.
+    - [5.17.0 Release](https://activemq.apache.org/activemq-5017000-release) - 14 March, 2022. **Not tested with Aware IM**.
     - ⚠️ [5.16.4 Release](https://activemq.apache.org/activemq-5016004-release) - 15 February, 2022. **Inconsistent vector internals** Aware IM error.
       - ERROR:
         - `org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
