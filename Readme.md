@@ -124,6 +124,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
 
+  - [**Oracle OpenJDK `18`**](https://jdk.java.net/18/)
   - ✔️ [**Oracle OpenJDK `17`**](https://jdk.java.net/17/)
       <details>
       <summary>8.5 Server Error</summary>
@@ -135,9 +136,10 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [Archived Versions](https://jdk.java.net/archive/)
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
+  - [Version `18.0.1`](https://www.oracle.com/java/technologies/downloads/) - **Not tested with Aware IM**. 
   - ✔️ [Version `17.0.3`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6`**. 
   - :+1: [Version `12.0.2` Final](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html) - **Bundled with Aware IM `8.6`** - Archived.
-  - [Version `11.0.14`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - **Not tested with Aware IM `8.5 and below`**
+  - [Version `11.0.15`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - **Not tested with Aware IM `8.5 and below`**
   - ✔️ [**Version 8, Update 331**](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - **Compatible with Aware IM versions `6.0` - `8.5`**. <!-- More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8) -->
     > Oracle strongly recommends that all Java SE 8 users upgrade to this release.
   - Versions bundled with Aware IM:
@@ -173,6 +175,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab.
   - [**Bugs since `5.12.1`**](<https://issues.apache.org/jira/browse/AMQ-8107?jql=project%20%3D%20AMQ%20AND%20issuetype%20%3D%20Bug%20AND%20status%20in%20(Open%2C%20%22In%20Progress%22%2C%20Reopened%2C%20Resolved%2C%20Closed)%20AND%20priority%20in%20(Blocker%2C%20Critical)%20AND%20affectedVersion%20in%20(5.12.2%2C%205.12.3%2C%205.13.0%2C%205.13.1%2C%205.13.2%2C%205.13.3%2C%205.13.4%2C%205.13.5%2C%205.14.0%2C%205.14.1%2C%205.14.2%2C%205.14.3%2C%205.14.4%2C%205.14.5%2C%205.15.0%2C%205.15.1%2C%205.15.10%2C%205.15.11%2C%205.15.12%2C%205.15.13%2C%205.15.14%2C%205.15.2%2C%205.15.3%2C%205.15.4%2C%205.15.5%2C%205.15.6%2C%205.15.7%2C%205.15.8%2C%205.15.9%2C%205.16.0%2C%205.16.1)%20ORDER%20BY%20affectedVersion%20DESC%2C%20priority%20ASC%2C%20updated%20DESC>)
   - **Releases**:
+    - [5.17.0 Release](https://activemq.apache.org/activemq-5017000-release) - 14 March, 2022. *Not tested with Aware IM**.
     - ⚠️ [5.16.4 Release](https://activemq.apache.org/activemq-5016004-release) - 15 February, 2022. **Inconsistent vector internals** Aware IM error.
       - ERROR:
         - `org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
@@ -200,9 +203,9 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   - [**MySQL Community Server**](http://www.mysql.com/products/community/)
     - Download
-      - :+1: [**MySQL Community Server 8.0.28**](http://dev.mysql.com/downloads/mysql/)
+      - :+1: [**MySQL Community Server 8.0.29**](http://dev.mysql.com/downloads/mysql/)
         - [Visual Studio 2015, 2017 and 2019](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads)
-      - ✔️ [**MySQL Community Server 5.7.37**](https://dev.mysql.com/downloads/mysql/5.7.html)
+      - ✔️ [**MySQL Community Server 5.7.38**](https://dev.mysql.com/downloads/mysql/5.7.html)
         - [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
       - 📉 [**MySQL Community Server 5.6.51 (Final)**](https://downloads.mysql.com/archives/community/).
         - [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms.
@@ -226,13 +229,13 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   - Download PostgreSQL
     - [Windows installers](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
-      - `14.1` - 11 November 2021. Latest.
+      - Version `14.2`
 
 - #### [](#maria-db)**Maria DB**
 
   - [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
     - [**Download**](https://mariadb.org/download/)
-      - [**MariaDB version**](https://mariadb.org/download/) - Current version `10.6.5` stable - 9 November 2021.
+      - [**MariaDB version**](https://mariadb.org/download/) - Version `10.6.7`
 
 - #### [](#sql-server---microsoft-data-platforms)**SQL Server** - [Microsoft Data Platforms](https://www.microsoft.com/en-in/sql-server/)
 
@@ -251,7 +254,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   > Prior to Aware IM version 8.1 build 2461, a very old version of Connector/J JDBC driver (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation.
 
   - [Connector/J Versions](https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-versions.html) and what MySQL and Java JDK Versions they support.
-  - ✔️ [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.0.28`**. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
+  - ✔️ [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.0.29`**. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
     - [**Download Platform Independent Version**](https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-java-8.0.28.zip)
     - **Installation**
       - Application Server
@@ -272,7 +275,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
             - **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
         3.  Restart AwareIM Server
 
-- #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.2.22` 16 Jun 2021. Java 8 required.
+- #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.3.4`. 
 - #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/) - Current version `2.7.3`.
 
   - [**MariaDB Connector/J**](https://downloads.mariadb.org/connector-java/+releases/) - Type 4 JDBC driver out-of-the-box support in Aware IM `v8.3`+.
@@ -286,7 +289,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - **Aware IM `v7.0`+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
-    - Latest Kendo UI Release [**Kendo UI R1 2022 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2022-sp1-(version-2022-1-301))) - March 2, 2022 
+    - Latest Kendo UI Release [**Kendo UI R1 2022 SP2**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2022-sp2-(version-2022-1-412)) - April 13, 2022 
     - ✔️ **Aware IM `8.6`** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
     - 📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
     - 📉 Aware IM `7.0 - 8.0` Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
