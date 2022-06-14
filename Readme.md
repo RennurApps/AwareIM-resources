@@ -303,7 +303,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 #### [](#front-end-toolkit)Front-end open source toolkit
 
 - **Bootstrap** - For Aware IM version 5.x & 6.x only; `Aware IM 7.0 and above` has bootstrap integrated as part of Kendo UI app framework.
-  - [Bootstrap v5](https://getbootstrap.com/) - Currently **`5.1.3`** - Not tested with AwareIM.
+  - [Bootstrap v5](https://getbootstrap.com/) - Currently **`v5.2.0-beta1`** - Not tested with AwareIM.
   - [Bootstrap v4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) - `4.6.1` - Not tested with AwareIM.
     - [Download](https://getbootstrap.com/docs/4.6/getting-started/download/)
     - [jsDelivr](https://getbootstrap.com/docs/4.6/getting-started/download/#jsdelivr) - Skip the download with jsDelivr to deliver cached version of Bootstrap’s compiled CSS and JS to your project.
