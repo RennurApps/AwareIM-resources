@@ -275,12 +275,11 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
             - **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
         3.  Restart AwareIM Server
 
-- #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.3.4`. 
-- #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/) - Current version `2.7.3`.
-
-  - [**MariaDB Connector/J**](https://downloads.mariadb.org/connector-java/+releases/) - Type 4 JDBC driver out-of-the-box support in Aware IM `v8.3`+.
-    - ✔️ **MariaDB Connector/J `2.3.0`**
-    - :warning: [MariaDB Connector/J `2.7.3`](https://downloads.mariadb.org/connector-java/+releases/) - 13 May 2021.
+- #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.4.0`. 
+- #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/) - Current version `3.0.6`.
+  - [**MariaDB Connector/J**](https://mariadb.com/kb/en/mariadb-connector-j/) - Type 4 JDBC driver out-of-the-box support in Aware IM `v8.3`+.
+    - ✔️ **MariaDB Connector/J `2.3.0`** 
+    - :warning: [MariaDB Connector/J `3.0.6`](https://mariadb.com/kb/en/mariadb-connector-j-306-release-notes/) - 29 June 2022.
       - **Server error starting Aware IM `8.5`**
         - `Loading class 'com.mysql.jdbc.Driver'. This is deprecated. The new driver class is com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary. Message returned from the database Access denied for user 'root'@'localhost' (using password: YES) Server startup error. Access to database is denied.`
 
@@ -289,7 +288,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - **Aware IM `v7.0`+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
-    - Latest Kendo UI Release [**Kendo UI R2 2022**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2022-(version-2022-2-510)) - May 9, 2022 
+    - Latest Kendo UI Release [**Kendo UI R2 2022 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2022-sp1-(version-2022-2-621))) - June 21, 2022 
     - ✔️ **Aware IM `8.6`** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
     - 📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
     - 📉 Aware IM `7.0 - 8.0` Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
@@ -366,6 +365,8 @@ Any application offering an API for developers makes it possible to integrate wi
       - `IMPORT DOCUMENT myBO.DocumentPDF FROM 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.pdf'`
     - **Optional** - Delete exported HTML file
       - `DELETE FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html'`
+
+- [**Pandoc - a universal document converter**](https://pandoc.org/) - If you need to convert files from one markup format into another, pandoc is your swiss-army knife.
 
 - **Business Intelligence, Report Writer/Server**
 
