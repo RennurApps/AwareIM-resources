@@ -136,7 +136,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [Archived Versions](https://jdk.java.net/archive/)
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
-  - [Version `18.0.1.1`](https://www.oracle.com/java/technologies/downloads/) - **Not tested with Aware IM**. 
+  - [Version `18.0.2`](https://www.oracle.com/java/technologies/downloads/) - **Not tested with Aware IM**. 
   - ✔️ [Version `17.0.4`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6`**. 
   - :+1: [Version `12.0.2` Final](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html) - **Bundled with Aware IM `8.6`** - Archived.
   - [Version `11.0.16`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - **Not tested with Aware IM `8.5 and below`**
