@@ -289,7 +289,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - **Aware IM `v7.0`+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
-    - Latest Kendo UI Release [**Kendo UI R2 2022 SP2**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2022-sp2-(version-2022-2-802)) - August 2, 2022 
+    - Latest Kendo UI Release [**Kendo UI R3 2022**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendoui-r3-2022-(version-2022-3-913)) - September 14, 2022 
     - ✔️ **Aware IM `8.6`** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
     - 📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
     - 📉 Aware IM `7.0 - 8.0` Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
@@ -303,7 +303,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 #### [](#front-end-toolkit)Front-end open source toolkit
 
 - **Bootstrap** - For Aware IM version 5.x & 6.x only; `Aware IM 7.0 and above` has bootstrap integrated as part of Kendo UI app framework.
-  - [Bootstrap v5](https://getbootstrap.com/) - Currently **`v5.2.0`** - Not tested with AwareIM.
+  - [Bootstrap v5](https://getbootstrap.com/) - Currently **`v5.2.2`** - Not tested with AwareIM.
   - [Bootstrap v4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) - `4.6.2` - Not tested with AwareIM.
     - [Download](https://getbootstrap.com/docs/4.6/getting-started/download/)
     - [jsDelivr](https://getbootstrap.com/docs/4.6/getting-started/download/#jsdelivr) - Skip the download with jsDelivr to deliver cached version of Bootstrap’s compiled CSS and JS to your project.
