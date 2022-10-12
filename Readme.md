@@ -230,13 +230,13 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   - Download PostgreSQL
     - [Windows installers](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
-      - Version `14.2`
+      - Version `14.5`
 
 - #### [](#maria-db)**Maria DB**
 
   - [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
     - [**Download**](https://mariadb.org/download/)
-      - [**MariaDB version**](https://mariadb.org/download/) - Version `10.6.7`
+      - [**MariaDB version**](https://mariadb.org/download/) - Version `10.9.3`
 
 - #### [](#sql-server---microsoft-data-platforms)**SQL Server** - [Microsoft Data Platforms](https://www.microsoft.com/en-in/sql-server/)
 
@@ -276,11 +276,11 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
             - **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
         3.  Restart AwareIM Server
 
-- #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download.html) - Current version `42.4.0`. 
-- #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/) - Current version `3.0.6`.
+- #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.5.0`. Java 8 required.
+- #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/) 
   - [**MariaDB Connector/J**](https://mariadb.com/kb/en/mariadb-connector-j/) - Type 4 JDBC driver out-of-the-box support in Aware IM `v8.3`+.
     - ✔️ **MariaDB Connector/J `2.3.0`** 
-    - :warning: [MariaDB Connector/J `3.0.6`](https://mariadb.com/kb/en/mariadb-connector-j-306-release-notes/) - 29 June 2022.
+    - :warning: [MariaDB Connector/J `3.0.8`](https://mariadb.com/kb/en/mariadb-connector-j-306-release-notes/) - 20 September 2022.
       - **Server error starting Aware IM `8.5`**
         - `Loading class 'com.mysql.jdbc.Driver'. This is deprecated. The new driver class is com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary. Message returned from the database Access denied for user 'root'@'localhost' (using password: YES) Server startup error. Access to database is denied.`
 
