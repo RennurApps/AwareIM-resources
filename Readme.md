@@ -70,7 +70,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - :warning: **Not compatible with `Aware IM 6.0 and below`**
   - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
 
-* ✔️ [**Tomcat 9.0.67** - For Aware IM v8.x](http://tomcat.apache.org/) - 23 September, 2022. Tomcat 9 is designed to run on **`Java SE 8`** or later.
+* ✔️ [**Tomcat 9.0.68** - For Aware IM v8.x](http://tomcat.apache.org/) - 3 October, 2022. Tomcat 9 is designed to run on **`Java SE 8`** or later.
 
   - [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install.
 
@@ -110,7 +110,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
       _ **In v8.3-8.5**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\lib_ folder to replace the old one. **In v8.2 and below**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\Tomcat\lib_ folder to replace the old one. 7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
       </details>
 
-* 👍 [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.82`** 8 August, 2022. - Tomcat 8.5 requires **`Java SE 7`** or later.
+* 👍 [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.83`** 3 October, 2022. - Tomcat 8.5 requires **`Java SE 7`** or later.
   - [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi)
   - [**Security**](https://tomcat.apache.org/security-8.html)
   - [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
@@ -124,7 +124,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
 
-  - [**Oracle OpenJDK `18`**](https://jdk.java.net/18/)
+  - [**Oracle OpenJDK `19`**](https://jdk.java.net/19/)
+  - [Oracle OpenJDK `18`](https://jdk.java.net/18/)
   - ✔️ [**Oracle OpenJDK `17`**](https://jdk.java.net/17/)
       <details>
       <summary>8.5 Server Error</summary>
@@ -132,7 +133,6 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     - **Aware IM `8.5 2836`** server error: > Server unknown error javax/activation/DataSource exiting... > java.lang.NoClassDefFoundError: javax/activation/DataSource > at com.bas.basserver.channels.ChannelManager.startupEntity(Unknown Source) > at com.bas.basserver.domainmanager.DomainManager.A(Unknown Source) > at com.bas.basserver.domainmanager.DomainManager.<init>(Unknown Source) > at com.bas.basserver.bsmanager.E.A(Unknown Source) > at com.bas.newcp.ServerStarterECP.K(Unknown Source) > at com.bas.newcp.ServerStarterECP.main(Unknown Source) > Caused by: java.lang.ClassNotFoundException: javax.activation.DataSource > at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:636) > at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:182) > at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:519) > ... 6 more
     </details>
 
-- - [Oracle OpenJDK `15`](https://jdk.java.net/15/)
   - [Archived Versions](https://jdk.java.net/archive/)
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
