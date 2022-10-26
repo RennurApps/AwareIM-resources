@@ -150,7 +150,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 ####
 
-- ✔️ [**Jakarta Mail**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/) - **`1.6.7`** - April 8, 2021 Final Release. 
+- ✔️ [**Jakarta Mail**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/) - **`1.6.7`** - April 8, 2021 Final Release. (formerly JavaMail)
   - [JavaMail 1.6.2](https://javaee.github.io/javamail/) - August 30, 2018 Final Release.
   - Aware IM **`8.6 build 2943 and below`** download Jakarta Mail
     - [**jakarta.mail-1.6.7.jar**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/1.6.7)
