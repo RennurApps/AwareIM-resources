@@ -70,7 +70,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - :warning: **Not compatible with `Aware IM 6.0 and below`**
   - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
 
-* ✔️ [**Tomcat 9.0.69** - For Aware IM v8.x](http://tomcat.apache.org/) - 9 November, 2022. Tomcat 9 is designed to run on **`Java SE 8`** or later.
+* ✔️ [**Tomcat 9.0.70** - For Aware IM v8.x](http://tomcat.apache.org/) - 1 December, 2022. Tomcat 9 is designed to run on **`Java SE 8`** or later.
 
   - [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install.
 
@@ -110,7 +110,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
       _ **In v8.3-8.5**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\lib_ folder to replace the old one. **In v8.2 and below**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\Tomcat\lib_ folder to replace the old one. 7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
       </details>
 
-* 👍 [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.83`** 3 October, 2022. - Tomcat 8.5 requires **`Java SE 7`** or later.
+* 👍 [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.84`** 16 November, 2022. - Tomcat 8.5 requires **`Java SE 7`** or later.
   - [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi)
   - [**Security**](https://tomcat.apache.org/security-8.html)
   - [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
