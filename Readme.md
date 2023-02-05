@@ -173,7 +173,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab.
   - [**Bugs since `5.12.1`**](<https://issues.apache.org/jira/browse/AMQ-7229?jql=project%20%3D%20AMQ%20AND%20status%20in%20(Open%2C%20%22In%20Progress%22%2C%20Reopened)%20AND%20resolution%20%3D%20Unresolved%20AND%20affectedVersion%20in%20(5.12.2%2C%205.12.3%2C%205.13.0%2C%205.13.1%2C%205.13.2%2C%205.13.3%2C%205.13.4%2C%205.13.5%2C%205.14.0%2C%205.14.1%2C%205.14.2%2C%205.14.3%2C%205.14.4%2C%205.14.5%2C%205.15.0%2C%205.15.1%2C%205.15.10%2C%205.15.11%2C%205.15.12%2C%205.15.13%2C%205.15.14%2C%205.15.15%2C%205.15.2%2C%205.15.3%2C%205.15.4%2C%205.15.5%2C%205.15.6%2C%205.15.7%2C%205.15.8%2C%205.15.9%2C%205.16.0%2C%205.16.1%2C%205.16.2%2C%205.16.3%2C%205.16.4%2C%205.16.5%2C%205.17.0%2C%205.17.1%2C%205.17.2)%20ORDER%20BY%20priority%20DESC%2C%20updated%20DESC>)
   - **Releases**:
-    - [5.17.2 Release](https://activemq.apache.org/activemq-5017002-release) - 2 September, 2022. **Not tested with Aware IM**.
+    - [5.17.3 Release](https://activemq.apache.org/activemq-5017003-release) - 4 December, 2022. **Not tested with Aware IM**.
     - ⚠️ [5.16.4 Release](https://activemq.apache.org/activemq-5016004-release) - 15 February, 2022. **Inconsistent vector internals** Aware IM error.
       - ERROR:
         - `org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
@@ -227,13 +227,13 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   - Download PostgreSQL
     - [Windows installers](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
-      - Version `15.0`
+      - Version `15.1`
 
 - #### [](#maria-db)**Maria DB**
 
   - [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
     - [**Download**](https://mariadb.org/download/)
-      - [**MariaDB version**](https://mariadb.org/download/) - Version `10.9.3`
+      - [**MariaDB version**](https://mariadb.org/download/) - Version `10.10.2`
 
 - #### [](#sql-server---microsoft-data-platforms)**SQL Server** - [Microsoft Data Platforms](https://www.microsoft.com/en-in/sql-server/)
 
@@ -286,7 +286,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - **Aware IM `v7.0`+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
-    - Latest Kendo UI Release [**Kendo UI R3 2022 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2022-sp1-(version-2022-3-1109)) - November 9, 2022 
+    - Latest Kendo UI Release [**Kendo UI R1 2023**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2023-(version-2023-1-117)) - January 9, 2023 
     - ✔️ **Aware IM `8.6`** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
     - 📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
     - 📉 Aware IM `7.0 - 8.0` Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
