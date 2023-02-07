@@ -300,7 +300,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 #### [](#front-end-toolkit)Front-end open source toolkit
 
 - **Bootstrap** - For Aware IM version 5.x & 6.x only; `Aware IM 7.0 and above` has bootstrap integrated as part of Kendo UI app framework.
-  - [Bootstrap v5](https://getbootstrap.com/) - Currently **`v5.2.3`** - Not tested with AwareIM.
+  - [Bootstrap v5](https://getbootstrap.com/) - Currently **`v5.3.0-alpha1`** - Not tested with AwareIM.
   - [Bootstrap v4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) - `4.6.2` - Not tested with AwareIM.
     - [Download](https://getbootstrap.com/docs/4.6/getting-started/download/)
     - [jsDelivr](https://getbootstrap.com/docs/4.6/getting-started/download/#jsdelivr) - Skip the download with jsDelivr to deliver cached version of Bootstrap’s compiled CSS and JS to your project.
@@ -365,6 +365,8 @@ Any application offering an API for developers makes it possible to integrate wi
       - `DELETE FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html'`
 
 - [**Pandoc - a universal document converter**](https://pandoc.org/) - If you need to convert files from one markup format into another, pandoc is your swiss-army knife.
+
+- [**WeasyPrint**](https://weasyprint.org/) Smart solution helping web developers to create PDF documents. It’s free and open source software that can be easily plugged to your applications and websites and turns simple HTML pages into gorgeous Invoices, Reports, Posters, Letters and Tickets.
 
 - **Business Intelligence, Report Writer/Server**
 
