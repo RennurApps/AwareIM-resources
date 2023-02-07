@@ -165,7 +165,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library.
 
-  > Latest version of ActiveMQ that works with Aware IM is **`5.12.1`**. Latest release is **`5.16.1`** (January 20, 2021).
+  > Latest version of ActiveMQ that works with Aware IM is **`5.12.1`**. Latest release is **`5.17.3`** (4 December, 2022).
 
   - **Reported issues in Aware IM** - Scalability, bugs, performance...
     - [Highly demand -- updates - security concerns](https://awareim.com/forum/viewtopic.php?f=1&t=10539&p=48389)
