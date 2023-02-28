@@ -79,6 +79,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         <details>
         <summary>Important fixes</summary>
 
+      - `9.0.71` Important: Apache Tomcat denial of service `CVE-2023-24998` - Affects: 9.0.0-M1 to 9.0.70
       - `9.0.54` Important: Denial of Service `CVE-2021-42340` - Affects: 9.0.40 to 9.0.53
       - `9.0.48` Request Smuggling `CVE-2021-33037` - Affects: 9.0.0.M1 to 9.0.46
       - `9.0.45` Denial of Service `CVE-2021-30639` - Affects: 9.0.44
