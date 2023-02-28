@@ -111,7 +111,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
       </details>
 
 * 📉 [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.86`** 18 February, 2022. - Tomcat 8.5 requires **`Java SE 7`** or later.
-> Please note that Apache Tomcat 8.5.x will reach End-of-life (EOL) on 31 March 2024.
+  > Please note that Apache Tomcat 8.5.x will reach End-of-life (EOL) on 31 March 2024.
   - [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi)
   - [**Security**](https://tomcat.apache.org/security-8.html)
   - [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
