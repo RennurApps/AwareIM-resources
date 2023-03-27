@@ -205,7 +205,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [**MySQL Community Server**](http://www.mysql.com/products/community/)
     - Download
       - ✔️ [**MySQL Community Server 8.0.32**](http://dev.mysql.com/downloads/mysql/)
-        - [Visual Studio 2015, 2017 and 2019](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads)
+        - [Visual Studio 2015, 2017, 2019, and 2022](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads) - Visual C++ Redistributable.
       - 👍 [**MySQL Community Server 5.7.41**](https://dev.mysql.com/downloads/mysql/5.7.html)
         - [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
       - 📉 [**MySQL Community Server 5.6.51 (Final)**](https://downloads.mysql.com/archives/community/).
@@ -289,7 +289,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - **Aware IM `v7.0`+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
-    - Latest Kendo UI Release [**Kendo UI R1 2023**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2023-(version-2023-1-117)) - January 9, 2023 
+    - Latest Kendo UI Release [**Kendo UI R1 2023**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2023-(version-2023-1-117)) - January 17, 2023 
     - ✔️ **Aware IM `8.6`** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
     - 📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
     - 📉 Aware IM `7.0 - 8.0` Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
@@ -348,7 +348,7 @@ Any application offering an API for developers makes it possible to integrate wi
 
 - ✔️ [**wkhtmltopdf**](https://github.com/wkhtmltopdf/wkhtmltopdf) - wkhtmltopdf is a command line tool to render HTML into PDF using the QT Webkit rendering engine. These run entirely "headless" and do not require a display or display service.
 
-  - **Requires** [**Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019**](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) - Download and install first.
+  - **Requires** [**Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, 2019, and 2022**](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) - Download and install first.
   - **Download wkhtmltopdf**:
     - [**Download wkhtmltopdf** Windows (MSVC)](https://wkhtmltopdf.org/downloads.html) - **v`0.12.6`** released on June 11, 2020 for Windows, Linux and OS X.
       - **`v0.12.6`** Tested and working in Aware IM **6.0+**. Released June 11, 2020.
