@@ -236,7 +236,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   - [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
     - [**Download**](https://mariadb.org/download/)
-      - [**MariaDB version**](https://mariadb.org/download/) - Version `10.10.3`
+      - [**MariaDB version**](https://mariadb.org/download/) - Version `10.11.2`
 
 - #### [](#sql-server---microsoft-data-platforms)**SQL Server** - [Microsoft Data Platforms](https://www.microsoft.com/en-in/sql-server/)
 
@@ -276,7 +276,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
             - **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
         3.  Restart AwareIM Server
 
-- #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.5.2`. Java 8 required.
+- #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.6.0`. Java 8 required.
 - #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/) 
   - [**MariaDB Connector/J**](https://mariadb.com/kb/en/mariadb-connector-j/) - Type 4 JDBC driver out-of-the-box support in Aware IM `v8.3`+.
     - ✔️ **MariaDB Connector/J `2.3.0`** 
