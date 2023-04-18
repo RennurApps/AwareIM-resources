@@ -70,7 +70,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - :warning: **Not compatible with `Aware IM 6.0 and below`**
   - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
 
-* ✔️ [**Tomcat 9.0.73** - For Aware IM v8.x](http://tomcat.apache.org/) - 27 February, 2023. Tomcat 9 is designed to run on **`Java SE 8`** or later.
+* ✔️ [**Tomcat 9.0.74** - For Aware IM v8.x](http://tomcat.apache.org/) - 13 April, 2023. Tomcat 9 is designed to run on **`Java SE 8`** or later.
 
   - [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install.
 
@@ -139,10 +139,10 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [Archived Versions](https://jdk.java.net/archive/)
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
-  - [Version `20`](https://www.oracle.com/java/technologies/downloads/) - **Not tested with Aware IM**. 
-  - ✔️ [Version `17.0.6`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6`**. 
+  - [Version `20.0.1`](https://www.oracle.com/java/technologies/downloads/) - **Not tested with Aware IM**. 
+  - ✔️ [Version `17.0.7`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6`**. 
   - :+1: [Version `12.0.2` Final](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html) - **Bundled with Aware IM `8.6`** - Archived.
-  - [Version `11.0.18`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - **Not tested with Aware IM `8.5 and below`**
+  - [Version `11.0.19`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - **Not tested with Aware IM `8.5 and below`**
   - ✔️ [**Version 8, Update 361**](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - **Compatible with Aware IM versions `6.0` - `8.5`**. <!-- More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8) -->
     > Oracle strongly recommends that all Java SE 8 users upgrade to this release.
   - Versions bundled with Aware IM:
@@ -205,9 +205,9 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   - [**MySQL Community Server**](http://www.mysql.com/products/community/)
     - Download
-      - ✔️ [**MySQL Community Server 8.0.32**](http://dev.mysql.com/downloads/mysql/)
+      - ✔️ [**MySQL Community Server 8.0.33**](http://dev.mysql.com/downloads/mysql/)
         - [Visual Studio 2015, 2017, 2019, and 2022](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads) - Visual C++ Redistributable.
-      - 👍 [**MySQL Community Server 5.7.41**](https://dev.mysql.com/downloads/mysql/5.7.html)
+      - 👍 [**MySQL Community Server 5.7.42**](https://dev.mysql.com/downloads/mysql/5.7.html)
         - [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
       - 📉 [**MySQL Community Server 5.6.51 (Final)**](https://downloads.mysql.com/archives/community/).
         - [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms.
