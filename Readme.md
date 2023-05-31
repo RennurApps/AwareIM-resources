@@ -62,7 +62,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 > Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
-* :warning: [**Tomcat 10.1.7**](http://tomcat.apache.org/) - Tomcat 10 is designed to run on **`Java SE 8`** or later.
+* :warning: [**Tomcat 10.1.9**](http://tomcat.apache.org/) - Tomcat 10 is designed to run on **`Java SE 8`** or later.
 
 > Users of Tomcat 10 onwards should be aware that, as a result of the move from Java EE to Jakarta EE as part of the transfer of Java EE to the Eclipse Foundation, the primary package for all implemented APIs has changed from `javax.*` to `jakarta.*`. This will almost certainly require code changes to enable applications to migrate from Tomcat 9 and earlier to Tomcat 10 and later.
 
@@ -70,7 +70,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - :warning: **Not compatible with `Aware IM 6.0 and below`**
   - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
 
-* ✔️ [**Tomcat 9.0.74** - For Aware IM v8.x](http://tomcat.apache.org/) - 13 April, 2023. Tomcat 9 is designed to run on **`Java SE 8`** or later.
+* ✔️ [**Tomcat 9.0.75** - For Aware IM v8.x](http://tomcat.apache.org/) - 4 May, 2023. Tomcat 9 is designed to run on **`Java SE 8`** or later.
 
   - [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install.
 
