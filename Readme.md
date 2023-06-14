@@ -35,7 +35,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     - Search Last Modified command supports rules
     - Rule Filter dialog has an option show Last Modified date column for a rule collection
   - 2936 - Attribute styles and item display rules now support both styles and CSS classes
-  - 2934 - [Improvements](https://www.awareim.com/changelog/Readme2934.txt)
+  - 2934 - [Improvements](https://www.awareim.com/dokuwiki/doku.php/changelog/8.6/2934)
   - 2932 - Commands of type Input Control and Panel Operations with Input Controls support date widgets for Date attributes
   - 2931 - It is now possible to set column widths of the query by resizing columns directly in query preview.
   - 2929 - Preview of content panels show wrapper panel for responsive layouts to avoid confusion with inner/outer margins
@@ -46,7 +46,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - 2926 - It is no longer necessary to change aware.js to support custom web application directory name
   - 2924 - Support for Single Sign Out based on SAML
   - 2921 - Support for "display no records message" flag for standard queries
-  - 2916 - [**List of `8.6` release improvements**](https://www.awareim.com/changelog/Readme2916.txt)
+  - 2916 - [**List of `8.6` release improvements**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.6/2916)
 
 ### Application Server
 
