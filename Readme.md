@@ -377,6 +377,7 @@ Any application offering an API for developers makes it possible to integrate wi
   - **Power BI Interactive Data Visualization** - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
   - **TIBCO Jaspersoft**
     - [**JasperReports® Server**](https://community.jaspersoft.com/project/jasperreports-server) - Self-service Reporting and Analysis Server
+      - [Download JasperReports](https://www.jaspersoft.com/download) 
       - [Documentation](https://community.jaspersoft.com/documentation?version=15786)
       - [Installation Guide](https://community.jaspersoft.com/documentation/tibco-jasperreports-server-installation-guide/v61/introduction)
         - Bundled with and installed own Tomcat server and PostgreSQL database
