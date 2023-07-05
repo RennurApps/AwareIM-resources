@@ -297,7 +297,9 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 - [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks
 - [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time.
 
-#### [](#aware-im-internal-features)Aware IM Internal Features
+#### [](#aware-im-internal-features)Aware IM Internal Out-of-the-box Features 
+
+- **[**Integration with Stripe Multi-Payment**] - Stripe is a very well-known payment platform and it supports multi-party payments. <!-- [Video](https://youtu.be/4m9YNPrpsvk%22) --> 
 
 - **Electronic Signature Capture** - For Aware IM `5.9 - 8.x`
   - [**Signature Pad**](https://github.com/szimek/signature_pad) - Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers.
