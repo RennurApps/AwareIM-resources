@@ -128,13 +128,12 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 ####
 
 - ✔️ [**Jakarta Mail**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/) - **`1.6.7`** - April 8, 2021 Final Release. (formerly JavaMail)
-  - 👍 [JavaMail 1.6.2](https://javaee.github.io/javamail/) - August 30, 2018 Final Release. (superseded by JakartaMail)
-  - Aware IM **`8.6 build 2943 and below`** download Jakarta Mail
-    - [**jakarta.mail-1.6.7.jar**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/1.6.7)
-  - **Installation**
-    - In Aware IM **v8.3 and above**, rename _`jakarta.mail-x.x.x.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\lib`_
-    - In Aware IM **v8.2 and below**, rename _`jakarta.mail-x.x.x.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_
-    - Restart Aware IM server
+  - [**Download jakarta.mail-1.6.7.jar**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/1.6.7)
+    - **Installation**
+      - In Aware IM **v8.3 and above**, rename _`jakarta.mail-x.x.x.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\lib`_
+      - In Aware IM **v8.2 and below**, rename _`jakarta.mail-x.x.x.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_
+      - Restart Aware IM server
+  - 📉 [JavaMail 1.6.2](https://javaee.github.io/javamail/) - August 30, 2018 Final Release. (superseded by JakartaMail)
 
 ####
 
