@@ -17,6 +17,10 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 ✔️ [**v8.8 build 3137**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8/3137) - 23 May, 2023. <br>
 
 - New Features and improvements in version 8.8
+  - 3132 - Support for max file size, total max file size and allowed extensions for multi-file upload
+  - 3127 - [“Resolve Shortcuts”](https://www.awareim.com/dokuwiki/doku.php/docs/2500_config_apps/1100_add_edit_queries/0100_query_props#resolve_shortcuts) property when defining a query (performance booster)
+  - 3126 - Support for non-iterated propery in reports
+  - 3126 - [GET_ATTR_VALUE](https://www.awareim.com/dokuwiki/doku.php/a_f/f/af/get_attr_value) function
   - 3123 - [**List of `8.8` release improvements**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8/3123)
 
 ### Application Server
