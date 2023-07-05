@@ -1,6 +1,6 @@
 # Aware IM Server v8.8 Stack
 
-## App & Database Servers, Components, Frameworks, Dependencies, Microservices and other resources.
+## Application Server, Database Servers, Components, Frameworks, Dependencies, Microservices and other resources.
 
 ---
 
