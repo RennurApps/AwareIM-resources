@@ -218,7 +218,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 - #### [](#oracle---oracle-database)**Oracle** - [Oracle Database Enterprise Edition](https://www.oracle.com/database/)
 
-  - [Oracle Database Software Downloads](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database version `19c` (`19.5`)
+  - [Oracle Database Software Downloads](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database version `21c` (`21.3`)
 
 #### [](#database-connectors)Database Connectors
 
