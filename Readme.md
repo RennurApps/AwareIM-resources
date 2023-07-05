@@ -259,11 +259,6 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     - 📉 Aware IM `7.0 - 8.0` Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
   - [**jQuery Demos & Examples**](https://demos.telerik.com/kendo-ui/) - Kendo UI jQuery Components
 
-#### [](#mobile-web-framework)**Mobile/Web Application Framework**
-
-- **Aware IM 7.x+** - Mobile apps with HTML5 and JavaScript.
-  - [**Kendo UI®**](https://www.telerik.com/kendo-ui)
-
 #### [](#front-end-toolkit)Front-end open source toolkit
 
 - **Bootstrap** - For Aware IM version 5.x & 6.x only; `Aware IM 7.0 and above` has bootstrap integrated as part of Kendo UI app framework.
