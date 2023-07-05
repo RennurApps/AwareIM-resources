@@ -173,7 +173,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   - [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
 
-#### [](#database-servers)Database Servers
+### [](#database-servers)Database Servers
 
 - #### [](#mysql)**MySQL**
 
