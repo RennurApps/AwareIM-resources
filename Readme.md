@@ -229,25 +229,13 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   > Prior to Aware IM version 8.1 build 2461, a very old version of Connector/J JDBC driver (3.1.12 rel. 30/11/2005) is bundled with the Aware IM installation.
 
   - [Connector/J Versions](https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-versions.html) and what MySQL and Java JDK Versions they support.
-  - ✔️ [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.0.32`**. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
+  - ✔️ [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.0.33`**. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
     - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
     - **Installation**
       - Application Server
-        1.  Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-java-5.1.46-bin.jar`
+        1.  Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-j-8.0.31.jar`
         2.  Copy and replace the existing file in
-            - **v8.3+**, `C:\AwareIM\lib`
-            - **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
-        3.  Restart AwareIM Server
-  - 📉 [**Connector/J 5.1.x** Archived](https://downloads.mysql.com/archives/c-j/) - `v5.1.49` final, 20 April 2020. Suitable for use with MySQL server versions `5.5`, `5.6`, and `5.7`. It supports the Java Database Connectivity (JDBC) 4.2 API.
-
-    - [**Download Platform Independent Version**](https://downloads.mysql.com/archives/get/p/3/file/mysql-connector-java-5.1.49.zip)
-    - [Aware IM Forum post](http://www.awareim.com/forum/viewtopic.php?t=5284)
-    - **Installation**
-      - Application Server
-        1.  Extract the files and rename `mysql-connector-java-5.x.xx-bin.jar` to `mysql-connector-java-3.1.12-bin.jar`
-        2.  Copy and replace the existing file in:
-            - **v8.3+**, `C:\AwareIM\lib`
-            - **v8.2 and below**, `C:\AwareIM\Tomcat\lib`
+            - **v8.8**, `C:\AwareIM\lib`
         3.  Restart AwareIM Server
 
 - #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.6.0`. Java 8 required.
