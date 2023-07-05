@@ -259,7 +259,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
       - **Server error starting Aware IM `8.5`**
         - `Loading class 'com.mysql.jdbc.Driver'. This is deprecated. The new driver class is com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary. Message returned from the database Access denied for user 'root'@'localhost' (using password: YES) Server startup error. Access to database is denied.`
 
-#### [](#web-application-framework---html5js-framework)**Web Application Framework** - HTML5/JS Framework
+### [](#web-application-framework---html5js-framework)**Web Application Framework** - HTML5/JS Framework
 
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - **Aware IM `v7.0`+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
@@ -297,7 +297,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 - [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks
 - [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time.
 
-#### [](#aware-im-internal-features)Aware IM Internal Out-of-the-box Features 
+### [](#aware-im-internal-features)Out-of-the-box Features 
 
 - **[**Integration with Stripe Multi-Payment**] - Stripe is a very well-known payment platform and it supports multi-party payments. <!-- [Video](https://youtu.be/4m9YNPrpsvk%22) --> 
 
@@ -319,7 +319,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     - `onEnd` - (function) Callback when stroke end.
   - [Video Tutorial (approx. 3min)](http://www.awareim.com/tutorials/59/New%20In%205,9.html) - from 00:38min
 
-#### [](#integrations-custom-components-connectors-and-plugins)Integrations, custom components, connectors and plugins
+### [](#integrations-custom-components-connectors-and-plugins)Integrations, custom components, connectors and plugins
 
 Any application offering an API for developers makes it possible to integrate with Aware IM by writing a plugin.
 
