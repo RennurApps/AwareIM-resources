@@ -232,13 +232,13 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   - Download PostgreSQL
     - [Windows installers](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
-      - Version `15.2`
+      - Version `15.3`
 
 - #### [](#maria-db)**Maria DB**
 
   - [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
     - [**Download**](https://mariadb.org/download/)
-      - [**MariaDB version**](https://mariadb.org/download/) - Version `10.11.2`
+      - [**MariaDB version**](https://mariadb.org/download/) - Version `11.0.2`
 
 - #### [](#sql-server---microsoft-data-platforms)**SQL Server** - [Microsoft Data Platforms](https://www.microsoft.com/en-in/sql-server/)
 
@@ -291,7 +291,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - **Aware IM `v7.0`+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
-    - Latest Kendo UI Release [**Kendo UI R1 2023 SP2**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r1-2023-sp2-(version-2023-1-425)) - April 26, 2023 
+    - Latest Kendo UI Release [**Kendo UI R2 2023**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-(version-2023-2-606)) - April 26, 2023 
     - ✔️ **Aware IM `8.6`** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
     - 📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
     - 📉 Aware IM `7.0 - 8.0` Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
