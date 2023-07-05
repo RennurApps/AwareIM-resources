@@ -1,12 +1,12 @@
-# Aware IM Server v8.6 Stack
+# Aware IM Server v8.8 Stack
 
-## Servers, Components, Frameworks, Dependencies and other resources.
+## App & Database Servers, Components, Frameworks, Dependencies, Microservices and other resources.
 
 ---
 
 > Aware IM is a rapid low-code application development tool that lets you create powerful aesthetically appealing web applications quickly.
 
-[**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.6) <!--(http://www.awareim.com/changelog/?C=M;O=D) --> 
+[**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8) <!--(http://www.awareim.com/changelog/?C=M;O=D) --> 
 
 <!-- #### Software -->
 <!--
@@ -14,39 +14,10 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 -->
 <!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) -->
 
-✔️ [**v8.6 build 2945**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.6/2945) - 14 November, 2021. <br>
+✔️ [**v8.8 build 3137**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8/3137) - 23 May, 2023. <br>
 
-<!-- ✔️ [**v8.5 build 2836 Final**](https://www.awareim.com/changelog/Readme2836.txt) - 4 March, 2021. <br> -->
-
-- New Features and improvements in version 8.6
-  - 2938 - Parse_JSON function
-    - `Object.Value = PARSE_JSON (Object.JSONAttribute, 'JSON_PATH')` [:information_source:](https://github.com/json-path/JsonPath#getting-started)
-  - 2938 - Parse_XML function
-    - `Object.Value = PARSE_XML (Object.XMLAttribute, 'XPATH')` [:information_source:](https://www.w3.org/TR/1999/REC-xpath-19991116)
-  - 2938 - Different layout generation algorithms available for relationship diagrams
-  - 2937 - Improvements in Relationship Diagram:
-    - Categories are displayed in the exclusion list
-    - Select Al/Unselect All in the exclusion list
-    - Ability to set box width
-    - Diagram settings can be saved in the BSV under specified name
-    - Diagram settings can be loaded from BSV
-  - 2936 - Support for last modified date in business rules
-    - Last Modified property for a rule
-    - Search Last Modified command supports rules
-    - Rule Filter dialog has an option show Last Modified date column for a rule collection
-  - 2936 - Attribute styles and item display rules now support both styles and CSS classes
-  - 2934 - [Improvements](https://www.awareim.com/dokuwiki/doku.php/changelog/8.6/2934)
-  - 2932 - Commands of type Input Control and Panel Operations with Input Controls support date widgets for Date attributes
-  - 2931 - It is now possible to set column widths of the query by resizing columns directly in query preview.
-  - 2929 - Preview of content panels show wrapper panel for responsive layouts to avoid confusion with inner/outer margins
-  - 2927 - Select All/Unselect All/Filter for processes/queries/objects when defining menu commands
-  - 2926 - [Video tutorial about long processes - https://youtu.be/Zrj_11GVuxU](https://youtu.be/Zrj_11GVuxU)
-  - 2926 - CONTEXT_SIZE function
-  - 2926 - SET PROGRESS action
-  - 2926 - It is no longer necessary to change aware.js to support custom web application directory name
-  - 2924 - Support for Single Sign Out based on SAML
-  - 2921 - Support for "display no records message" flag for standard queries
-  - 2916 - [**List of `8.6` release improvements**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.6/2916)
+- New Features and improvements in version 8.8
+  - 3123 - [**List of `8.8` release improvements**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8/3123)
 
 ### Application Server
 
@@ -56,7 +27,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 > Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete.
 
-> :+1: **Tomcat 9.0.44** 32bit is the default version packaged in the **Aware IM 8.6** server installation.
+> :+1: **Tomcat 9.0.44** 32bit is the default version packaged in the **Aware IM 8.6 and above** server installation.
 
 > Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
 
@@ -109,7 +80,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
       - **IMPORTANT**: Ensure any prior modification of existing _`web.xml`_ and _`server.xml`_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.
       - **Installation Steps** - Stop the Aware IM server before updating Tomcat. Do **not** delete your current _C:\AwareIM\Tomcat_ folder. 1. **Extract** the archive and open the folder. 2. Open the extracted **Tomcat** folder. 3. Select all files and folders and press `Crl+c` to copy 4. Open you AwareIM installation Tomcat folder **`C:\AwareIM\Tomcat`** 5. Press `Ctrl+v` to paste and replace all files and folders. 6. Java JDK `tools.jar`:
-      _ **In v8.6**, `tools.jar` is not required.
+      _ **In v8.6-8.8**, `tools.jar` is not required.
       _ **In v8.3-8.5**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\lib_ folder to replace the old one. **In v8.2 and below**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\Tomcat\lib_ folder to replace the old one. 7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
       </details>
 
@@ -128,9 +99,9 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
 
-  - [**Oracle OpenJDK `20`**](https://jdk.java.net/20/)
-  - [Oracle OpenJDK `19`](https://jdk.java.net/19/)
-  - ✔️ [**Oracle OpenJDK `17`**](https://jdk.java.net/17/)
+  - ✔️ [**Oracle OpenJDK `20`**](https://jdk.java.net/20/)
+  - :+1: [Oracle OpenJDK `19`](https://jdk.java.net/19/)
+  - 📉 [Oracle OpenJDK `17`](https://jdk.java.net/17/)
       <details>
       <summary>8.5 Server Error</summary>
 
@@ -140,14 +111,12 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [Archived Versions](https://jdk.java.net/archive/)
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
-  - [Version `20.0.1`](https://www.oracle.com/java/technologies/downloads/) - **Not tested with Aware IM**. 
-  - ✔️ [Version `17.0.7`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6`**. 
-  - :+1: [Version `12.0.2` Final](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html) - **Bundled with Aware IM `8.6`** - Archived.
-  - [Version `11.0.19`](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - **Not tested with Aware IM `8.5 and below`**
-  - ✔️ [**Version 8, Update 371**](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - **Compatible with Aware IM versions `6.0` - `8.5`**. <!-- More Download links found at [https://lv.binarybabel.org/catalog/java/jdk8](https://lv.binarybabel.org/catalog/java/jdk8) -->
-    > Oracle strongly recommends that all Java SE 8 users upgrade to this release.
+  - ✔️ [**Version `20.0.1`**](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.8`**. 
+  - :+1: [Version `17.0.7`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6 and above`**. 
+  - 📉 [**Version `12.0.2` Final**](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html) - **Bundled with Aware IM `8.6 and above`** - Archived.
+  - [Version 8, Update 371](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - **Compatible with Aware IM versions `6.0` - `8.5`**.
   - Versions bundled with Aware IM:
-    - Aware IM `v8.6` - [JDK `12.0.2` Commercial](https://docs.oracle.com/en/java/javase/12/)
+    - Aware IM `v8.6 and above` - [JDK `12.0.2` Commercial](https://docs.oracle.com/en/java/javase/12/)
     - Aware IM `v8.0 - 8.5` - JDK 8 Update 91 `1.8.0_91-b15`
   - [**All previous JDK versions archive**](https://www.oracle.com/java/technologies/downloads/archive/)
     - [Manual Downloads](https://java.com/en/download/manual.jsp)
@@ -159,8 +128,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - Aware IM **`8.6 build 2943 and below`** download Jakarta Mail
     - [**jakarta.mail-1.6.7.jar**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/1.6.7)
   - **Installation**
-    - In Aware IM **v8.3+**, rename _`jakarta.mail-x.x.x.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\lib`_
-    - In Aware IM **v8.2** and below, rename _`jakarta.mail-x.x.x.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_
+    - In Aware IM **v8.3 and above**, rename _`jakarta.mail-x.x.x.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\lib`_
+    - In Aware IM **v8.2 and below**, rename _`jakarta.mail-x.x.x.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_
     - Restart Aware IM server
 
 ####
@@ -192,8 +161,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         - Browser won't load the app
     - ✔️ [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html)
       - Installation
-        - In **v8.3+**, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\lib`
-        - In **v8.2 and below**, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\Tomcat\lib`
+        - In **v8.3 and above**, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\lib`
+        - In v8.2 and below, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\Tomcat\lib`
     - 📉 [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server installation.
 
 - [**Java Service Wrapper** -](http://wrapper.tanukisoftware.com/doc/english/download.jsp) \- **32bit v3.5.48** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition.
@@ -292,7 +261,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
     - Latest Kendo UI Release [**Kendo UI R2 2023**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-(version-2023-2-606)) - April 26, 2023 
-    - ✔️ **Aware IM `8.6`** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
+    - ✔️ **Aware IM `8.6 - 8.8`** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - **October 21, 2020**
     - 📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
     - 📉 Aware IM `7.0 - 8.0` Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
   - [**jQuery Demos & Examples**](https://demos.telerik.com/kendo-ui/) - Kendo UI jQuery Components
@@ -312,7 +281,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - 📉 [Bootstrap v4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - `4.5.3` - Not tested with AwareIM.
     - [Download](https://getbootstrap.com/docs/4.5/getting-started/download/)
     - [jsDelivr](https://getbootstrap.com/docs/4.5/getting-started/download/#jsdelivr) - Cached version of Bootstrap’s compiled CSS and JS.
-  - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**.
+  - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**. Bootstrap 3.3.4 bundled with Aware IM v`8.8`.
     - [Download](https://getbootstrap.com/docs/3.4/getting-started/#download)
     - [BootstrapCDN](https://getbootstrap.com/docs/3.4/getting-started/#download-cdn)
     - **Plug into Aware IM**
