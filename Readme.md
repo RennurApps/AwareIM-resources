@@ -280,7 +280,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [Huge list of bootstrap resources](https://sendcheckit.com/the-big-badass-list-of-twitter-bootstrap-resources)
 
 - **Font Awesome 5** 
-  - Aware IM `8.8` bundles [Font Awesome version 5.6.3 Free](https://fontawesome.com/v5/download). 
+  - Aware IM `8.8` bundles [Font Awesome version 5.6.3 Free For Web](https://fontawesome.com/v5/download). 
 
 - [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks
 - [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time.
