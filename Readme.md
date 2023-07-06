@@ -193,7 +193,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         - [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
       - 📉 [**MySQL Community Server 5.6.51 (Final)**](https://downloads.mysql.com/archives/community/).
         - [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms.
-      - 📉 [**MySQL Community Server 5.5.62 (Final)**](https://downloads.mysql.com/archives/community/) - 22 Oct 2018.
+<!--      - 📉 [**MySQL Community Server 5.5.62 (Final)**](https://downloads.mysql.com/archives/community/) - 22 Oct 2018. -->
 
 - #### [](#apache-derby---home)**Apache Derby** - [Home](http://db.apache.org/derby/)
 <!--
