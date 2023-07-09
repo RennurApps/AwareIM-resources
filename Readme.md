@@ -6,7 +6,7 @@
 
 > Aware IM is a rapid low-code application development tool that lets you create powerful aesthetically appealing web applications quickly.
 
-[**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8) <!--(http://www.awareim.com/changelog/?C=M;O=D) --> 
+[**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
 <!-- #### Software -->
 <!--
@@ -37,13 +37,13 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 > Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
-* :warning: [**Tomcat 10.1.10**](http://tomcat.apache.org/) - Tomcat 10 is designed to run on **`Java SE 8`** or later.
+- :warning: [**Tomcat 10.1.10**](http://tomcat.apache.org/) - Tomcat 10 is designed to run on **`Java SE 8`** or later.
 
 > Users of Tomcat 10 onwards should be aware that, as a result of the move from Java EE to Jakarta EE as part of the transfer of Java EE to the Eclipse Foundation, the primary package for all implemented APIs has changed from `javax.*` to `jakarta.*`. This will almost certainly require code changes to enable applications to migrate from Tomcat 9 and earlier to Tomcat 10 and later.
 
-  - :warning: **Few java exceptions `Aware IM 8.5`**
-  - :warning: **Not compatible with `Aware IM 6.0 and below`**
-  - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
+- :warning: **Few java exceptions `Aware IM 8.5`**
+- :warning: **Not compatible with `Aware IM 6.0 and below`**
+- [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
 
 * ✔️ [**Tomcat 9.0.76** - For Aware IM v8.x](http://tomcat.apache.org/) - 5 June, 2023. Tomcat 9 is designed to run on **`Java SE 8`** or later.
 
@@ -83,9 +83,9 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         <summary>Microsoft Windows Based Systems</summary>
 
       - **IMPORTANT**: Ensure any prior modification of existing _`web.xml`_ and _`server.xml`_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.
-      - **Installation Steps** 
+      - **Installation Steps**
         - Stop the Aware IM server before updating Tomcat. Do **not** delete your current _C:\AwareIM\Tomcat_ folder.
-        - 1. **Extract** the archive and open the folder. 
+        - 1. **Extract** the archive and open the folder.
         - 2. Open the extracted **Tomcat** folder.
         - 3. Select all files and folders and press `Crl+c` to copy
         - 4. Open you AwareIM installation Tomcat folder **`C:\AwareIM\Tomcat`**
@@ -95,7 +95,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
              - **In v8.3-8.5**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\lib_ folder to replace the old one.
              - **In v8.2 and below**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\Tomcat\lib_ folder to replace the old one.
         - 7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
-      </details>
+          </details>
 
 * 📉 [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.90`** 2 June, 2022. - Tomcat 8.5 requires **`Java SE 7`** or later.
   > Please note that Apache Tomcat 8.5.x will reach End-of-life (EOL) on 31 March 2024.
@@ -124,8 +124,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [Archived Versions](https://jdk.java.net/archive/)
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
-  - ✔️ [**Version `20.0.1`**](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.8`**. 
-  - :+1: [Version `17.0.7`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6 and above`**. 
+  - ✔️ [**Version `20.0.1`**](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.8`**.
+  - :+1: [Version `17.0.7`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6 and above`**.
   - 📉 [**Version `12.0.2` Final**](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html) - **Bundled with Aware IM `8.6 and above`** - Archived.
   - [Version 8, Update 371](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - **Compatible with Aware IM versions `6.0` - `8.5`**.
   - Versions bundled with Aware IM:
@@ -150,8 +150,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library.
 
-  > Latest version of ActiveMQ that works with Aware IM is **`5.12.1`** (13 Oct 2015). <br>
-  > Latest release is **`5.17.3`** (4 December, 2022).
+  > Latest version of ActiveMQ cthat works with Aware IM is **`5.12.1`** (13 Oct 2015). <br>
 
   - **Reported issues in Aware IM** - Scalability, bugs, performance...
     - [Highly demand -- updates - security concerns](https://awareim.com/forum/viewtopic.php?f=1&t=10539&p=48389)
@@ -159,7 +158,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab.
   - [**Bugs since `5.12.1`**](<https://issues.apache.org/jira/browse/AMQ-7229?jql=project%20%3D%20AMQ%20AND%20status%20in%20(Open%2C%20%22In%20Progress%22%2C%20Reopened)%20AND%20resolution%20%3D%20Unresolved%20AND%20affectedVersion%20in%20(5.12.2%2C%205.12.3%2C%205.13.0%2C%205.13.1%2C%205.13.2%2C%205.13.3%2C%205.13.4%2C%205.13.5%2C%205.14.0%2C%205.14.1%2C%205.14.2%2C%205.14.3%2C%205.14.4%2C%205.14.5%2C%205.15.0%2C%205.15.1%2C%205.15.10%2C%205.15.11%2C%205.15.12%2C%205.15.13%2C%205.15.14%2C%205.15.15%2C%205.15.2%2C%205.15.3%2C%205.15.4%2C%205.15.5%2C%205.15.6%2C%205.15.7%2C%205.15.8%2C%205.15.9%2C%205.16.0%2C%205.16.1%2C%205.16.2%2C%205.16.3%2C%205.16.4%2C%205.16.5%2C%205.17.0%2C%205.17.1%2C%205.17.2)%20ORDER%20BY%20priority%20DESC%2C%20updated%20DESC>)
   - **Releases**:
-    - [5.17.3 Release](https://activemq.apache.org/activemq-5017003-release) - 4 December, 2022. **Not tested with Aware IM**.
+    - ⚠️ [5.18.2 Release](https://activemq.apache.org/activemq-5018002-release) - 2 July, 2023. Java compatibility: 11+. **Not tested with Aware IM**.
+    - ⚠️ [5.17.5 Release](https://activemq.apache.org/activemq-5017005-release) - 2 July, 2023. Java compatibility: 11+. **Not tested with Aware IM**.
     - ⚠️ [5.16.4 Release](https://activemq.apache.org/activemq-5016004-release) - 15 February, 2022. **Inconsistent vector internals** Aware IM error.
       - ERROR:
         - `org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
@@ -185,15 +185,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 - #### [](#mysql)**MySQL**
 
-  - [**MySQL Community Server**](http://www.mysql.com/products/community/)
-    - Download
-      - ✔️ [**MySQL Community Server 8.0.33**](http://dev.mysql.com/downloads/mysql/)
-        - [Visual Studio 2015, 2017, 2019, and 2022](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads) - Visual C++ Redistributable.
-      - 👍 [**MySQL Community Server 5.7.42**](https://dev.mysql.com/downloads/mysql/5.7.html)
-        - [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
-      - 📉 [**MySQL Community Server 5.6.51 (Final)**](https://downloads.mysql.com/archives/community/).
-        - [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms.
-<!--      - 📉 [**MySQL Community Server 5.5.62 (Final)**](https://downloads.mysql.com/archives/community/) - 22 Oct 2018. -->
+  - [**MySQL Community Server**](http://www.mysql.com/products/community/) - Download - ✔️ [**MySQL Community Server 8.0.33**](http://dev.mysql.com/downloads/mysql/) - [Visual Studio 2015, 2017, 2019, and 2022](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads) - Visual C++ Redistributable. - 👍 [**MySQL Community Server 5.7.42**](https://dev.mysql.com/downloads/mysql/5.7.html) - [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms. - 📉 [**MySQL Community Server 5.6.51 (Final)**](https://downloads.mysql.com/archives/community/). - [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms.
+  <!--      - 📉 [**MySQL Community Server 5.5.62 (Final)**](https://downloads.mysql.com/archives/community/) - 22 Oct 2018. -->
 
 - #### [](#apache-derby---home)**Apache Derby** - [Home](http://db.apache.org/derby/)
 <!--
@@ -241,19 +234,17 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         3.  Restart AwareIM Server
 
 - #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.6.0`. Java 8 required.
-- #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/) 
-  - [**MariaDB Connector/J**](https://mariadb.com/kb/en/mariadb-connector-j/) - Type 4 JDBC driver out-of-the-box support in Aware IM `v8.3`+.
-    - ✔️ **MariaDB Connector/J `2.3.0`** 
-    - :warning: [MariaDB Connector/J `3.1.4`](https://mariadb.com/kb/en/mariadb-connector-j-306-release-notes/) - 29 Jun 2022.
-<!--      - **Server error starting Aware IM `8.5`**
-      - `Loading class 'com.mysql.jdbc.Driver'. This is deprecated. The new driver class is com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary. Message returned from the database Access denied for user 'root'@'localhost' (using password: YES) Server startup error. Access to database is denied.` -->
+- #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
+  - [**MariaDB Connector/J**](https://mariadb.com/kb/en/mariadb-connector-j/) - Type 4 JDBC driver out-of-the-box support in Aware IM `v8.3`+. - ✔️ **MariaDB Connector/J `2.3.0`** - :warning: [MariaDB Connector/J `3.1.4`](https://mariadb.com/kb/en/mariadb-connector-j-306-release-notes/) - 29 Jun 2022.
+  <!--      - **Server error starting Aware IM `8.5`**
+        - `Loading class 'com.mysql.jdbc.Driver'. This is deprecated. The new driver class is com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary. Message returned from the database Access denied for user 'root'@'localhost' (using password: YES) Server startup error. Access to database is denied.` -->
 
 ### [](#web-application-framework---html5js-framework)**Web Application Framework** - HTML5/JS Framework
 
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - **Aware IM `v7.0`+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
-    - Latest Kendo UI Release [**Kendo UI R2 2023**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-(version-2023-2-606)) - June 7, 2023 
+    - Latest Kendo UI Release [**Kendo UI R2 2023**](<https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-(version-2023-2-606)>) - June 7, 2023
     - 📉 **Aware IM `8.6 - 8.8`** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - **October 21, 2020**
     - 📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
     - 📉 Aware IM `7.0 - 8.0` Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
@@ -262,6 +253,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 #### [](#front-end-toolkit)Front-end open source toolkit
 
 - **Bootstrap** - For Aware IM version 5.x & 6.x only; `Aware IM 7.0 and above` has bootstrap integrated as part of Kendo UI app framework.
+
   - [Bootstrap v5](https://getbootstrap.com/) - Currently **`v5.3.0`** - Not tested with AwareIM.
   - [Bootstrap v4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) - `4.6.2` - Not tested with AwareIM.
     - [Download](https://getbootstrap.com/docs/4.6/getting-started/download/)
@@ -279,15 +271,16 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [All Bootstrap Versions](https://getbootstrap.com/docs/versions/)
   - [Huge list of bootstrap resources](https://sendcheckit.com/the-big-badass-list-of-twitter-bootstrap-resources)
 
-- **Font Awesome 5** 
-  - Aware IM `8.8` bundles [Font Awesome version 5.6.3 Free For Web](https://fontawesome.com/v5/download). 
+- **Font Awesome 5**
+
+  - Aware IM `8.8` bundles [Font Awesome version 5.6.3 Free For Web](https://fontawesome.com/v5/download).
 
 - [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks
 - [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time.
 
-### [](#aware-im-internal-features)Out-of-the-box Features 
+### [](#aware-im-internal-features)Out-of-the-box Features
 
-- **Integration with Stripe Multi-Payment** - Stripe is a very well-known payment platform and it supports multi-party payments. <!-- [Video](https://youtu.be/4m9YNPrpsvk%22) --> 
+- **Integration with Stripe Multi-Payment** - Stripe is a very well-known payment platform and it supports multi-party payments. <!-- [Video](https://youtu.be/4m9YNPrpsvk%22) -->
 
 - **Electronic Signature Capture** - For Aware IM `5.9 - 8.x`
   - [**Signature Pad**](https://github.com/szimek/signature_pad) - Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers.
@@ -341,7 +334,7 @@ Any application offering an API for developers makes it possible to integrate wi
   - **Power BI Interactive Data Visualization** - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
   - **TIBCO Jaspersoft**
     - [**JasperReports® Server**](https://community.jaspersoft.com/project/jasperreports-server) - Self-service Reporting and Analysis Server
-      - [Download JasperReports](https://www.jaspersoft.com/download) 
+      - [Download JasperReports](https://www.jaspersoft.com/download)
       - [Documentation](https://community.jaspersoft.com/documentation?version=15786)
       - [Installation Guide](https://community.jaspersoft.com/documentation/tibco-jasperreports-server-installation-guide/v61/introduction)
         - Bundled with and installed own Tomcat server and PostgreSQL database
@@ -359,5 +352,3 @@ Any application offering an API for developers makes it possible to integrate wi
       - [User Guide](http://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v610/getting-started-jaspersoft-studio)
     - **Forum posts**
       - [AWARE'S REPORTING - JASPER REPORTS UPGRADE FOR NEXT RELEASE?](http://www.awareim.com/forum/viewtopic.php?f=1&t=7744) - JasperRepoerts Server
-
-
