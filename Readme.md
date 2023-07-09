@@ -185,8 +185,14 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 - #### [](#mysql)**MySQL**
 
-  - [**MySQL Community Server**](http://www.mysql.com/products/community/) - Download - ✔️ [**MySQL Community Server 8.0.33**](http://dev.mysql.com/downloads/mysql/) - [Visual Studio 2015, 2017, 2019, and 2022](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads) - Visual C++ Redistributable. - 👍 [**MySQL Community Server 5.7.42**](https://dev.mysql.com/downloads/mysql/5.7.html) - [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms. - 📉 [**MySQL Community Server 5.6.51 (Final)**](https://downloads.mysql.com/archives/community/). - [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms.
-  <!--      - 📉 [**MySQL Community Server 5.5.62 (Final)**](https://downloads.mysql.com/archives/community/) - 22 Oct 2018. -->
+  - [**MySQL Community Server**](http://www.mysql.com/products/community/)
+    - Download
+      - ✔️ [**MySQL Community Server 8.0.33**](http://dev.mysql.com/downloads/mysql/)
+        - [Visual Studio 2015, 2017, 2019, and 2022](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads) - Visual C++ Redistributable.
+      - 👍 [**MySQL Community Server 5.7.42**](https://dev.mysql.com/downloads/mysql/5.7.html)
+        - [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
+      - 📉 [**MySQL Community Server 5.6.51 (Final)**](https://downloads.mysql.com/archives/community/).
+        - [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms.
 
 - #### [](#apache-derby---home)**Apache Derby** - [Home](http://db.apache.org/derby/)
 <!--
