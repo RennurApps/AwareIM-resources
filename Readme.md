@@ -97,17 +97,6 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         - 7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
           </details>
 
-- 📉 [**Tomcat 8.5** - For Aware IM v6.0+](http://tomcat.apache.org/) - **Latest release is Tomcat v`8.5.90`** 2 June, 2022. - Tomcat 8.5 requires **`Java SE 7`** or later.
-  > Please note that Apache Tomcat 8.5.x will reach End-of-life (EOL) on 31 March 2024.
-  - [**Download Tomcat**](https://tomcat.apache.org/download-80.cgi)
-  - [**Security**](https://tomcat.apache.org/security-8.html)
-  - [Tomcat 8.5.x Documentation](https://tomcat.apache.org/tomcat-8.5-doc/)
-  - [Tomcat 8.5.x Changelog](https://tomcat.apache.org/tomcat-8.5-doc/changelog.html)
-- **Tomcat SSL/TLS Configuration HOW-TO** - Tomcat documentation.
-  - [**v9.0**](http://tomcat.apache.org/tomcat-9.0-doc/ssl-howto.html)
-  - [**v8.5**](http://tomcat.apache.org/tomcat-8.5-doc/ssl-howto.html)
-  - [Forum Post](http://www.awareim.com/forum/viewtopic.php?t=3554)
-
 #### Java JDK
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
