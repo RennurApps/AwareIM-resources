@@ -217,7 +217,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 #### [](#database-connectors)Database Connectors
 
-- #### [](#mysql-connectors---grey_exclamationupdate-to-version-8x-highly-recommendedgrey_exclamation)[**MySQL Connectors**](https://www.mysql.com/products/connector/) - ❕**UPDATE TO VERSION 8.x HIGHLY RECOMMENDED**❕
+- #### [](#mysql-connectors---grey_exclamationupdate-to-version-8x-highly-recommendedgrey_exclamation)[**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
   - ✔️ [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.0.33`**. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
     - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
