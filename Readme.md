@@ -230,7 +230,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 - #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.6.0`. Java 8 required.
 - #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
-  - [**MariaDB Connector/J**](https://mariadb.com/kb/en/mariadb-connector-j/) - Type 4 JDBC driver out-of-the-box support in Aware IM `v8.3`+. - ✔️ **MariaDB Connector/J `2.3.0`** - :warning: [MariaDB Connector/J `3.1.4`](https://mariadb.com/kb/en/mariadb-connector-j-306-release-notes/) - 29 Jun 2022.
+  - [**MariaDB Connector/J**](https://mariadb.com/kb/en/mariadb-connector-j/) - Type 4 JDBC driver out-of-the-box support in Aware IM `v8.3`+. 
+    - ✔️ **MariaDB Connector/J `2.3.0`** - :warning: [MariaDB Connector/J `3.1.4`](https://mariadb.com/kb/en/mariadb-connector-j-306-release-notes/) - 29 Jun 2022.
   <!--      - **Server error starting Aware IM `8.5`**
         - `Loading class 'com.mysql.jdbc.Driver'. This is deprecated. The new driver class is com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary. Message returned from the database Access denied for user 'root'@'localhost' (using password: YES) Server startup error. Access to database is denied.` -->
 
