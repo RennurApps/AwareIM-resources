@@ -31,7 +31,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 > Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete.
 
-> :+1: **Tomcat 9.0.44** 32bit is the default version packaged in the **Aware IM 8.6 and above** server installation.
+> 📉 **Tomcat 9.0.44** 32bit is the default version packaged in the **Aware IM 8.6 and above** server installation.
 
 > Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
 
@@ -49,7 +49,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   - [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install.
 
-    - :+1: Tested and working with `Aware IM` `6.x`, `7.x` & `8.x`
+    - ✔️ Tested and working with `Aware IM` `6.x`, `7.x` & `8.x`
     - [**Security**](https://tomcat.apache.org/security-9.html)
         <details>
         <summary>Important fixes</summary>
