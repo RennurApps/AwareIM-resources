@@ -262,7 +262,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     - [BootstrapCDN](https://getbootstrap.com/docs/3.4/getting-started/#download-cdn)
     - **Plug into Aware IM**
       - Manual configuration through **Startup.html**
-<!-->      - disable **`legend`** style with /\* \*/ brackets as it seems to be in conflict with the ExtJS style
+<!--      - disable **`legend`** style as it seems to be in conflict with the ExtJS style
         - `/* legend { display: block; width: 100%; padding: 0; margin-bottom: 20px; font-size: 21px; line-height: inherit; color: #333; border: 0; border-bottom: 1px solid #e5e5e5; } */` 
 -->
   - [All Bootstrap Versions](https://getbootstrap.com/docs/versions/)
