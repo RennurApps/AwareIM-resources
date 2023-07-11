@@ -252,14 +252,14 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   - [Bootstrap v5](https://getbootstrap.com/) - Currently **`v5.3.0`** - Not tested with AwareIM.
   - [Bootstrap v4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) - `4.6.2` - Not tested with AwareIM.
-    - [Download](https://getbootstrap.com/docs/4.6/getting-started/download/)
+    - [Download v4.6](https://getbootstrap.com/docs/4.6/getting-started/download/)
     - [jsDelivr](https://getbootstrap.com/docs/4.6/getting-started/download/#jsdelivr) - Skip the download with jsDelivr to deliver cached version of Bootstrap’s compiled CSS and JS to your project.
   - 📉 [Bootstrap v4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - `4.5.3` - Not tested with AwareIM.
-    - [Download](https://getbootstrap.com/docs/4.5/getting-started/download/)
+    - [Download v.5](https://getbootstrap.com/docs/4.5/getting-started/download/)
     - [jsDelivr](https://getbootstrap.com/docs/4.5/getting-started/download/#jsdelivr) - Cached version of Bootstrap’s compiled CSS and JS.
   - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**. Bootstrap 3.3.4 bundled with Aware IM v`8.8`.
-    - [Download](https://getbootstrap.com/docs/3.4/getting-started/#download)
-    - [BootstrapCDN](https://getbootstrap.com/docs/3.4/getting-started/#download-cdn)
+    - [Download v3.4](https://getbootstrap.com/docs/3.4/getting-started/#download)
+    - [Bootstrap v3.4 CDN](https://getbootstrap.com/docs/3.4/getting-started/#download-cdn)
   - [All Bootstrap Versions](https://getbootstrap.com/docs/versions/)
   - [Huge list of bootstrap resources](https://sendcheckit.com/the-big-badass-list-of-twitter-bootstrap-resources)
 <!--    - **Plug into Aware IM**
