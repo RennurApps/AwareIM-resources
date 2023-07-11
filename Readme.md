@@ -260,12 +260,12 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**. Bootstrap 3.3.4 bundled with Aware IM v`8.8`.
     - [Download](https://getbootstrap.com/docs/3.4/getting-started/#download)
     - [BootstrapCDN](https://getbootstrap.com/docs/3.4/getting-started/#download-cdn)
+  - [All Bootstrap Versions](https://getbootstrap.com/docs/versions/)
+  - [Huge list of bootstrap resources](https://sendcheckit.com/the-big-badass-list-of-twitter-bootstrap-resources)
 <!--    - **Plug into Aware IM**
       - Manual configuration through **Startup.html**
       - disable **`legend`** style as it seems to be in conflict with the ExtJS style
         - `/* legend { display: block; width: 100%; padding: 0; margin-bottom: 20px; font-size: 21px; line-height: inherit; color: #333; border: 0; border-bottom: 1px solid #e5e5e5; } */` -->
-    - [All Bootstrap Versions](https://getbootstrap.com/docs/versions/)
-    - [Huge list of bootstrap resources](https://sendcheckit.com/the-big-badass-list-of-twitter-bootstrap-resources)
 
 - **Font Awesome 5**
 
