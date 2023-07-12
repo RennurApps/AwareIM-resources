@@ -149,7 +149,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - **Releases**:
     - ⚠️ [5.18.2 Release](https://activemq.apache.org/activemq-5018002-release) - 2 July, 2023. Java compatibility: 11+. **Not tested with Aware IM**.
     - ⚠️ [5.17.5 Release](https://activemq.apache.org/activemq-5017005-release) - 2 July, 2023. Java compatibility: 11+. **Not tested with Aware IM**.
-    - ⚠️ [5.16.4 Release](https://activemq.apache.org/activemq-5016004-release) - 15 February, 2022. **Inconsistent vector internals** Aware IM error.
+    - ⚠️ [5.12.2+ Problem](https://activemq.apache.org/activemq-5016004-release) - **Inconsistent vector internals** Aware IM error.
       - ERROR:
         - `org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
       - Changelog
