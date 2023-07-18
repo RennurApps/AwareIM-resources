@@ -176,12 +176,10 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   - [**MySQL Community Server**](http://www.mysql.com/products/community/)
     - Download
-      - ✔️ [**MySQL Community Server 8.0.33**](http://dev.mysql.com/downloads/mysql/)
+      - ✔️ [**MySQL Community Server 8.0.34**](http://dev.mysql.com/downloads/mysql/)
         - [Visual Studio 2015, 2017, 2019, and 2022](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads) - Visual C++ Redistributable.
-      - 👍 [**MySQL Community Server 5.7.42**](https://dev.mysql.com/downloads/mysql/5.7.html)
+      - 👍 [**MySQL Community Server 5.7.43**](https://dev.mysql.com/downloads/mysql/5.7.html)
         - [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
-      - 📉 [**MySQL Community Server 5.6.51 (Final)**](https://downloads.mysql.com/archives/community/).
-        - [Microsoft Visual C++ 2010](https://www.microsoft.com/en-au/download/details.aspx?id=26999) - Service Pack 1 MFC Security Update. MySQL 5.6 requires the Microsoft Visual C++ 2010 Redistributable Package to run on Windows platforms.
 
 - #### [](#apache-derby---home)**Apache Derby** - [Home](http://db.apache.org/derby/)
 <!--
@@ -219,7 +217,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 - #### [](#mysql-connectors---grey_exclamationupdate-to-version-8x-highly-recommendedgrey_exclamation)[**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
-  - ✔️ [**Connector/J 8.0.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.0.33`**. It supports MySQL `5.5`, `5.6`, `5.7`, and `8.0`. It supports the `JDBC 4.2` specification. It is a MySQL driver for the `Java 8` platform. For `Java 7` or earlier, use `Connector/J 5.1` instead.
+  - ✔️ [**Connector/J 8.1.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.1.0`**. It is a MySQL driver for the `Java 8` or `above`.
     - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
     - **Installation**
       - Application Server
@@ -230,10 +228,10 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 - #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.6.0`. Java 8 required.
 - #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
-  - [**MariaDB Connector/J**](https://mariadb.com/kb/en/mariadb-connector-j/) - Type 4 JDBC driver out-of-the-box support in Aware IM `v8.3`+. 
+  - [**MariaDB Connector/J**](https://mariadb.com/kb/en/mariadb-connector-j/) - Type 4 JDBC driver out-of-the-box support in Aware IM `v8.3`+.
     - ✔️ **MariaDB Connector/J `2.3.0`** - :warning: [MariaDB Connector/J `3.1.4`](https://mariadb.com/kb/en/mariadb-connector-j-306-release-notes/) - 29 Jun 2022.
-  <!--      - **Server error starting Aware IM `8.5`**
-        - `Loading class 'com.mysql.jdbc.Driver'. This is deprecated. The new driver class is com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary. Message returned from the database Access denied for user 'root'@'localhost' (using password: YES) Server startup error. Access to database is denied.` -->
+    <!--      - **Server error starting Aware IM `8.5`**
+          - `Loading class 'com.mysql.jdbc.Driver'. This is deprecated. The new driver class is com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary. Message returned from the database Access denied for user 'root'@'localhost' (using password: YES) Server startup error. Access to database is denied.` -->
 
 ### [](#web-application-framework---html5js-framework)**Web Application Framework** - HTML5/JS Framework
 
@@ -262,10 +260,10 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     - [Bootstrap v3.4 CDN](https://getbootstrap.com/docs/3.4/getting-started/#download-cdn)
   - [All Bootstrap Versions](https://getbootstrap.com/docs/versions/)
   - [Huge list of bootstrap resources](https://sendcheckit.com/the-big-badass-list-of-twitter-bootstrap-resources)
-<!--    - **Plug into Aware IM**
-      - Manual configuration through **Startup.html**
-      - disable **`legend`** style as it seems to be in conflict with the ExtJS style
-        - `/* legend { display: block; width: 100%; padding: 0; margin-bottom: 20px; font-size: 21px; line-height: inherit; color: #333; border: 0; border-bottom: 1px solid #e5e5e5; } */` -->
+  <!--    - **Plug into Aware IM**
+        - Manual configuration through **Startup.html**
+        - disable **`legend`** style as it seems to be in conflict with the ExtJS style
+          - `/* legend { display: block; width: 100%; padding: 0; margin-bottom: 20px; font-size: 21px; line-height: inherit; color: #333; border: 0; border-bottom: 1px solid #e5e5e5; } */` -->
 
 - **Font Awesome 5**
   - Aware IM `8.8` bundles [Font Awesome version 5.6.3 Free For Web](https://fontawesome.com/v5/download).
@@ -325,7 +323,7 @@ Any application offering an API for developers makes it possible to integrate wi
 
 - **Business Intelligence, Report Writer/Server**
 
-  - **Power BI Interactive Data Visualization** - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
+  - ## **Power BI Interactive Data Visualization** - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
   - **TIBCO Jaspersoft**
     - [**JasperReports® Server**](https://community.jaspersoft.com/project/jasperreports-server) - Self-service Reporting and Analysis Server
       - [Download JasperReports](https://www.jaspersoft.com/download)
