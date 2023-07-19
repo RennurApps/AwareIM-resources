@@ -184,7 +184,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
       - 📉 [MySQL Community Server 5.7.43](https://dev.mysql.com/downloads/mysql/5.7.html)
         - [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable.
 
-- #### [](#apache-derby---home)**Apache Derby** - [Home](http://db.apache.org/derby/)
+- [](#apache-derby---home)**Apache Derby** - [Home](http://db.apache.org/derby/)
 <!--
     *   **For Java 9 and higher** -
         *    [10.15.1.3](https://db.apache.org/derby/releases/release-10.15.1.3.cgi) - (March 5, 2019)
@@ -198,21 +198,21 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         *   [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
     *   Downloads [http://db.apache.org/derby/derby_downloads.html](http://db.apache.org/derby/derby_downloads.html)
 -->
-- #### [](#postgresql---postgresql-is-a-powerful-open-source-object-relational-database-system)**PostgreSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
+- [](#postgresql---postgresql-is-a-powerful-open-source-object-relational-database-system)**PostgreSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
 
   - Download PostgreSQL
     - [Windows installers](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `15.3`
 
-- #### [](#maria-db)**Maria DB**
+- [](#maria-db)**Maria DB**
 
   - [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
     - [**Download**](https://mariadb.org/download/) - Version `11.0.2`.
 
-- #### [](#sql-server---microsoft-data-platforms)**SQL Server** - [Microsoft Data Platforms](https://www.microsoft.com/en-in/sql-server/)
+- [](#sql-server---microsoft-data-platforms)**SQL Server** - [Microsoft Data Platforms](https://www.microsoft.com/en-in/sql-server/)
 
   - [SQL Server Downloads](https://www.microsoft.com/en-in/sql-server/sql-server-downloads)
 
-- #### [](#oracle---oracle-database)**Oracle** - [Oracle Database Enterprise Edition](https://www.oracle.com/database/)
+- [](#oracle---oracle-database)**Oracle** - [Oracle Database Enterprise Edition](https://www.oracle.com/database/)
 
   - [Oracle Database Software Downloads](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database version `21c` (`21.3`)
 
@@ -230,8 +230,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         3.  Restart AwareIM Server
   - 📉 [Connector/J 8.0](https://dev.mysql.com/downloads/connector/j/) - **Final version `v8.0.33`**. Archived.
 
-- #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.6.0`. Java 8 required.
-- #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
+  - [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.6.0`. Java 8 required.
+  - [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
   - [**MariaDB Connector/J**](https://mariadb.com/kb/en/mariadb-connector-j/) - Type 4 JDBC driver out-of-the-box support in Aware IM `v8.3`+.
     - ✔️ **MariaDB Connector/J `2.3.0`**
     - :warning: [MariaDB Connector/J `3.1.4`](https://mariadb.com/kb/en/mariadb-connector-j-306-release-notes/) - 29 Jun 2022.
