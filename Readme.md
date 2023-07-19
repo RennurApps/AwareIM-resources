@@ -220,7 +220,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 - #### [](#mysql-connectors---grey_exclamationupdate-to-version-8x-highly-recommendedgrey_exclamation)[**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
-  - ✔️ [**Connector/J 8.1.x**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.1.0`**. It is a MySQL driver for the `Java 8` or `above`.
+  - ✔️ [**Connector/J 8.1**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.1.0`**. Requires `Java 8` and `above`.
     - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
     - **Installation**
       - Application Server
@@ -228,6 +228,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         2.  Copy and replace the existing file in
             - **v8.8**, `C:\AwareIM\lib`
         3.  Restart AwareIM Server
+  - 📉 [Connector/J 8.0](https://dev.mysql.com/downloads/connector/j/) - **Final version `v8.0.33`**.
 
 - #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.6.0`. Java 8 required.
 - #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
