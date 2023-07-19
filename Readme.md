@@ -228,7 +228,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         2.  Copy and replace the existing file in
             - **v8.8**, `C:\AwareIM\lib`
         3.  Restart AwareIM Server
-  - 📉 [Connector/J 8.0](https://dev.mysql.com/downloads/connector/j/) - **Final version `v8.0.33`**.
+  - 📉 [Connector/J 8.0](https://dev.mysql.com/downloads/connector/j/) - **Final version `v8.0.33`**. Archived.
 
 - #### [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.6.0`. Java 8 required.
 - #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
