@@ -182,7 +182,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
       - ✔️ [**MySQL Community Server 8.0.34**](http://dev.mysql.com/downloads/mysql/)
         - [Visual Studio 2015, 2017, 2019, and 2022](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads) - Visual C++ Redistributable.
       - 📉 [MySQL Community Server 5.7.43](https://dev.mysql.com/downloads/mysql/5.7.html)
-        - [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable Package to run on Windows platforms.
+        - [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable.
 
 - #### [](#apache-derby---home)**Apache Derby** - [Home](http://db.apache.org/derby/)
 <!--
@@ -326,7 +326,7 @@ Any application offering an API for developers makes it possible to integrate wi
 
 - **Business Intelligence, Report Writer/Server**
 
-  - ## **Power BI Interactive Data Visualization** - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
+  - **Power BI Interactive Data Visualization** - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
   - **TIBCO Jaspersoft**
     - [**JasperReports® Server**](https://community.jaspersoft.com/project/jasperreports-server) - Self-service Reporting and Analysis Server
       - [Download JasperReports](https://www.jaspersoft.com/download)
