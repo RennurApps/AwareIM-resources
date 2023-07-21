@@ -296,7 +296,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 #### Apache Axis2 Web Services JSON / SOAP / WSDL engine
 
-- [Apache Axis2 / Java](https://axis.apache.org/axis2/java/core/)
+- [Apache Axis2/Java](https://axis.apache.org/axis2/java/core/)
 
 ### [](#integrations-custom-components-connectors-and-plugins)Integrations, custom components, connectors and plugins
 
