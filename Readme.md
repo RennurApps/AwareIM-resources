@@ -113,6 +113,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [Archived Versions](https://jdk.java.net/archive/)
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
+
   - ✔️ [**Version `20.0.2`**](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.8`**.
   - 👍 [Version `17.0.8`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6 and above`**.
   - 📉 [**Version `12.0.2` Final**](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html) - **Bundled with Aware IM `8.6 and above`** - Archived.
@@ -123,17 +124,14 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [**All previous JDK versions archive**](https://www.oracle.com/java/technologies/downloads/archive/)
     - [Manual Downloads](https://java.com/en/download/manual.jsp)
 
-####
-
 - ✔️ [**Jakarta Mail**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/) - **`1.6.7`** - April 8, 2021 Final Release. (formerly JavaMail)
+
   - [**Download jakarta.mail-1.6.7.jar**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/1.6.7)
     - **Installation**
       - In Aware IM **v8.3 and above**, rename _`jakarta.mail-x.x.x.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\lib`_
       - In Aware IM **v8.2 and below**, rename _`jakarta.mail-x.x.x.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_
       - Restart Aware IM server
   - 📉 [JavaMail 1.6.2](https://javaee.github.io/javamail/) - August 30, 2018 Final Release. (superseded by JakartaMail)
-
-####
 
 - [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
 
@@ -169,6 +167,8 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 - [**Java Service Wrapper** -](http://wrapper.tanukisoftware.com/doc/english/download.jsp) \- **32bit v3.5.54** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition.
 
   - [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
+
+- [**Apache Axis2/Java**](https://axis.apache.org/axis2/java/core/) - Apache Axis2 Web Services JSON / SOAP / WSDL engine.
 
 ### [](#database-servers)Database Servers
 
@@ -293,10 +293,6 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     - `onBegin` - (function) Callback when stroke begin.
     - `onEnd` - (function) Callback when stroke end.
   - [Video Tutorial (approx. 3min)](http://www.awareim.com/tutorials/59/New%20In%205,9.html) - from 00:38min
-
-#### Apache Axis2 Web Services JSON / SOAP / WSDL engine
-
-- [Apache Axis2/Java](https://axis.apache.org/axis2/java/core/)
 
 ### [](#integrations-custom-components-connectors-and-plugins)Integrations, custom components, connectors and plugins
 
