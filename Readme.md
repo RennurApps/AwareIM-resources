@@ -252,11 +252,11 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 - **Bootstrap** - For Aware IM version 5.x & 6.x only; `Aware IM 7.0 and above` has bootstrap integrated as part of Kendo UI app framework.
 
-  - [Bootstrap v5](https://getbootstrap.com/) - Currently **`v5.3.0`** - Not tested with AwareIM.
-  - [Bootstrap v4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) - `4.6.2` - Not tested with AwareIM.
+  - ❔ [Bootstrap v5](https://getbootstrap.com/) - Currently **`v5.3.0`** - Not tested with AwareIM.
+  - ❔ [Bootstrap v4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) - `4.6.2` - Not tested with AwareIM.
     - [Download v4.6](https://getbootstrap.com/docs/4.6/getting-started/download/)
     - [jsDelivr](https://getbootstrap.com/docs/4.6/getting-started/download/#jsdelivr) - Skip the download with jsDelivr to deliver cached version of Bootstrap’s compiled CSS and JS to your project.
-  - 📉 [Bootstrap v4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - `4.5.3` - Not tested with AwareIM.
+  - ❔ [Bootstrap v4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - `4.5.3` - Not tested with AwareIM.
     - [Download v.5](https://getbootstrap.com/docs/4.5/getting-started/download/)
     - [jsDelivr](https://getbootstrap.com/docs/4.5/getting-started/download/#jsdelivr) - Cached version of Bootstrap’s compiled CSS and JS.
   - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**. Bootstrap 3.3.4 bundled with Aware IM v`8.8`.
