@@ -156,8 +156,6 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         - This release enables ActiveMQ client TLS hostname validation by default which can cause a client connection failure for server certificates that do not match the server hostname. Please refer to SSL Transport Reference for configuration and [AMQ-7047](https://issues.apache.org/jira/browse/AMQ-7047) for more information.
         - Java 8 Required - The minimum Java version has been upgraded to Java 8.
         - This release affects applications using ObjectMessages.
-      - Aware IM 8.2 - Not Tested.
-      - Aware IM 8.1
         - Configurator won't start
         - Browser won't load the app
     - ✔️ [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html)
