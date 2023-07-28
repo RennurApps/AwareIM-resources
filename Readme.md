@@ -235,7 +235,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.com/kb/en/mariadb-connector-j/) - Out-of-the-box support in Aware IM `v8.3`+.
   - :warning: [MariaDB Connector/J `3.1.4`](https://mariadb.com/kb/en/mariadb-connector-j-306-release-notes/)
 
-### [](#web-application-framework---html5js-framework)**Web Application Framework** - Modern jQuery UI Components for web app UI requirements
+### [](#web-application-framework---html5js-framework)**Web Application Framework**
 
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - Kendo UI for jQuery delivers everything you need for data handling, data grids, forms, navigation, performance, UX, design, accessibility, and so much more.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
