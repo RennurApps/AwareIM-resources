@@ -235,9 +235,9 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.com/kb/en/mariadb-connector-j/) - Out-of-the-box support in Aware IM `v8.3`+.
   - :warning: [MariaDB Connector/J `3.1.4`](https://mariadb.com/kb/en/mariadb-connector-j-306-release-notes/)
 
-### [](#web-application-framework---html5js-framework)**Web Application Framework** - HTML5/JS Framework
+### [](#web-application-framework---html5js-framework)**Web Application Framework** - Modern jQuery UI Components for web app UI requirements
 
-- [**Kendo UI®**](https://www.telerik.com/kendo-ui) - **Aware IM `v7.0`+**. JavaScript, HTML5 UI widgets for responsive web and data visualization.
+- [**Kendo UI®**](https://www.telerik.com/kendo-ui) - Kendo UI for jQuery delivers everything you need for data handling, data grids, forms, navigation, performance, UX, design, accessibility, and so much more.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
     - Latest Kendo UI Release [**Kendo UI R2 2023**](<https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-(version-2023-2-606)>) - June 7, 2023
