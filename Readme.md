@@ -295,7 +295,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     - `onEnd` - (function) Callback when stroke end.
   - [Video Tutorial (approx. 3min)](http://www.awareim.com/tutorials/59/New%20In%205,9.html) - from 00:38min
 
-### [](#integrations-custom-components-connectors-and-plugins)Integrations, custom components, connectors and plugins
+### [](#integrations-custom-components-connectors-and-plugins)Interoperability: Integrations, custom components, connectors and plugins
 
 Any application offering an API for developers makes it possible to integrate with Aware IM by writing a plugin.
 
