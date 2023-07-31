@@ -170,7 +170,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 - [**Apache Axis2/Java**](https://axis.apache.org/axis2/java/core/) - Apache Axis2 Web Services JSON / SOAP / WSDL engine.
 
-### [](#database-servers)Database Servers
+### Database Servers
 
 - #### [](#mysql)**MySQL**
 
@@ -216,9 +216,9 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
   - [Oracle Database Software Downloads](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database version `21c` (`21.3`)
 
-#### [](#database-connectors)Database Connectors
+#### Database Connectors
 
-- #### [](#mysql-connectors---grey_exclamationupdate-to-version-8x-highly-recommendedgrey_exclamation)[**MySQL Connectors**](https://www.mysql.com/products/connector/)
+- #### [**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
   - ✔️ [**Connector/J 8.1**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.1.0`**. Requires `Java 8` and `above`.
     - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
@@ -235,7 +235,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.com/kb/en/mariadb-connector-j/) - Out-of-the-box support in Aware IM `v8.3`+.
   - :warning: [MariaDB Connector/J `3.1.4`](https://mariadb.com/kb/en/mariadb-connector-j-306-release-notes/)
 
-### [](#web-application-framework---html5js-framework)**Web Application Framework**
+### **Web Application Framework**
 
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - Kendo UI for jQuery delivers everything you need for data handling, data grids, forms, navigation, performance, UX, design, accessibility, and so much more.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
@@ -246,7 +246,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     - 📉 Aware IM `7.0 - 8.0` Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
   - [**jQuery Demos & Examples**](https://demos.telerik.com/kendo-ui/) - Kendo UI jQuery Components
 
-#### [](#front-end-toolkit)Front-end open source toolkit
+#### Front-end open source toolkit
 
 - **Bootstrap** - For Aware IM version 5.x & 6.x only; `Aware IM 7.0 and above` has bootstrap integrated as part of Kendo UI app framework.
 
@@ -269,7 +269,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
   - [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks
   - [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time.
 
-### [](#aware-im-internal-features)Out-of-the-box Features
+### Out-of-the-box Features
 
 - **Integration with Stripe Multi-Payment** - Stripe is a very well-known payment platform and it supports multi-party payments. <!-- [Video](https://youtu.be/4m9YNPrpsvk%22) -->
 
