@@ -248,13 +248,12 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 #### Front-end open source toolkit
 
-- **Bootstrap** - For Aware IM version 5.x & 6.x only; `Aware IM 7.0 and above` has bootstrap integrated as part of Kendo UI app framework.
+- **Bootstrap** - Frontend toolkit.
 
-  - ❔ [Bootstrap v5](https://getbootstrap.com/) - Currently **`v5.3.0`** - Not tested with AwareIM.
-  - ❔ [Bootstrap v4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) - `4.6.2` - Not tested with AwareIM.
-  - ❔ [Bootstrap v4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - `4.5.3` - Not tested with AwareIM.
-  - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**. Bootstrap 3.3.4 bundled with Aware IM v`8.8`.
-    - [Download v3.4](https://getbootstrap.com/docs/3.4/getting-started/#download)
+  - ❔ [Bootstrap v5.3.1](https://getbootstrap.com/)
+  - ❔ [Bootstrap v4.6.2](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+  - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**. Bootstrap ` 3.3.4`` bundled with Aware IM v `8.8`.
+    - [Download v3.4.1](https://getbootstrap.com/docs/3.4/getting-started/#download)
     - [Bootstrap v3.4 CDN](https://getbootstrap.com/docs/3.4/getting-started/#download-cdn)
   - [All Bootstrap Versions](https://getbootstrap.com/docs/versions/)
   - [List of 300+ bootstrap resources](https://expeditedsecurity.com/the-big-badass-list-of-bootstrap-resources/)
@@ -263,7 +262,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         - disable **`legend`** style as it seems to be in conflict with the ExtJS style
           - `/* legend { display: block; width: 100%; padding: 0; margin-bottom: 20px; font-size: 21px; line-height: inherit; color: #333; border: 0; border-bottom: 1px solid #e5e5e5; } */` -->
 
-- [**Font Awesome 5**](https://fontawesome.com/)
+- [**Font Awesome 5**](https://fontawesome.com/) - Icon library.
   - ❔ Font Awesome `5.15.4 For The Web` - Latest version [Download](https://fontawesome.com/v5/download)
   - ✔️ Aware IM `8.8` bundles [Font Awesome version `5.6.3 Free For Web`](https://fontawesome.com/v5/download).
   - [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks
