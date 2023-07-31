@@ -178,7 +178,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
     - [Supported Platforms: MySQL Database](https://www.mysql.com/support/supportedplatforms/database.html)
     - **Download MySQL**
       - ⚠️ [MySQL Community Server 8.1.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/relnotes/mysql/8.1/en/) 18 July 2023.
-        - Min Requirement: Win 11, Windows 2016 Server, macOS 13, Oracle Linux 7 / Red Hat Enterprise Linux 7 / CentOS 7
+        - Min Requirement: Win 11, Windows Server 2016, macOS 13, Oracle Linux 7 / Red Hat Enterprise Linux 7 / CentOS 7
       - ✔️ [**MySQL Community Server 8.0.34**](http://dev.mysql.com/downloads/mysql/)
         - [Visual Studio 2015, 2017, 2019, and 2022](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads) - Visual C++ Redistributable.
       - 📉 [MySQL Community Server 5.7.43](https://dev.mysql.com/downloads/mysql/5.7.html)
