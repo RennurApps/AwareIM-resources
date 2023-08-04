@@ -31,17 +31,17 @@
 
 > Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
-#### :warning: [**Tomcat 10.1.11**](http://tomcat.apache.org/) - Tomcat 10 is designed to run on **`Java SE 8`** or later
+#### [**:warning: Tomcat 10.1.11**](http://tomcat.apache.org/) - Tomcat 10 is designed to run on **`Java SE 8`** or later
 
-- :warning: **Few java exceptions `Aware IM 8.5`**
+- :warning: **Few java exceptions `Aware IM 8.5 and above`**
 - :warning: **Not compatible with `Aware IM 6.0 and below`**
 - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
 
-#### [**✔️ Tomcat 9.0.78** - For Aware IM v8.x](http://tomcat.apache.org/) - 4 July, 2023. Tomcat 9 is designed to run on **`Java SE 8`** or later
+#### [**✔️ Tomcat 9.0.78**](http://tomcat.apache.org/) - 4 July, 2023. Tomcat 9 is designed to run on **`Java SE 8`** or later
 
 - [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install.
 
-  - ✔️ Tested and working with `Aware IM` `6.x`, `7.x` & `8.x`
+  - ✔️ Tested and working with `Aware IM` `6.x`, `7.x` & **`8.x`**
   - [**Security**](https://tomcat.apache.org/security-9.html)
       <details>
       <summary>Important fixes</summary>
