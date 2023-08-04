@@ -1,6 +1,6 @@
 # Aware IM Server v8.8 Stack
 
-## Application Server, Database Servers, Components, Frameworks, Dependencies, Microservices and other resources.
+## Application Server, Database Servers, Components, Frameworks, Dependencies, Microservices and other resources
 
 ---
 
@@ -14,7 +14,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 -->
 <!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) -->
 
-✔️ [**v8.8 build 3137**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8/3137) - 23 May, 2023. <br>
+✔️ [**v8.8 build 3137**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8/3137) - 23 May, 2023.
 
 - New Features and improvements in version 8.8
   - 3132 - Support for max file size, total max file size and allowed extensions for multi-file upload
