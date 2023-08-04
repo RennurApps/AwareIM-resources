@@ -8,18 +8,12 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-<!-- #### Software -->
-<!--
-Aware IM is based on the plethora of Java technologies such as J2EE application server, JDBC, JMS, JSP/servlets technology, web services etc. These are robust technologies that have been proven in the industry.
--->
-<!-- Links to tutorials, documentation, events, apps have been moved [**here**](https://github.com/RennurApps/AwareIM-Help) -->
-
 ✔️ [**v8.8 build 3137**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8/3137) - 23 May, 2023.
 
 - New Features and improvements in version 8.8
   - 3132 - Support for max file size, total max file size and allowed extensions for multi-file upload
   - 3127 - [“Resolve Shortcuts”](https://www.awareim.com/dokuwiki/doku.php/docs/2500_config_apps/1100_add_edit_queries/0100_query_props#resolve_shortcuts) property when defining a query (performance booster)
-  - 3126 - Support for non-iterated propery in reports
+  - 3126 - Support for non-iterated property in reports
   - 3126 - [GET_ATTR_VALUE](https://www.awareim.com/dokuwiki/doku.php/a_f/f/af/get_attr_value) function
   - 3123 - [**List of `8.8` release improvements**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8/3123)
 
@@ -28,12 +22,13 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 #### Apache Tomcat
 
 > Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation.
+
 > Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete.
-> &nbsp;
+
 > 📉 **Tomcat 9.0.44** 32bit is the default version packaged in the **Aware IM 8.6 and above** server installation.
-> &nbsp;
+
 > Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
-> &nbsp;
+
 > Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
 - :warning: [**Tomcat 10.1.11**](http://tomcat.apache.org/) - Tomcat 10 is designed to run on **`Java SE 8`** or later.
@@ -171,7 +166,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
 
 ### Database Servers
 
-- #### [](#mysql)**MySQL**
+- #### **MySQL**
 
   - [**MySQL Community Server**](http://www.mysql.com/products/community/)
     - [Supported Platforms: MySQL Database](https://www.mysql.com/support/supportedplatforms/database.html)
@@ -183,7 +178,7 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
       - 📉 [MySQL Community Server 5.7.43](https://dev.mysql.com/downloads/mysql/5.7.html)
         - [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable.
 
-- [](#apache-derby---home)**Apache Derby** - [Home](http://db.apache.org/derby/)
+- **Apache Derby** - [Home](http://db.apache.org/derby/)
 <!--
     *   **For Java 9 and higher** -
         *    [10.15.1.3](https://db.apache.org/derby/releases/release-10.15.1.3.cgi) - (March 5, 2019)
@@ -197,42 +192,44 @@ Aware IM is based on the plethora of Java technologies such as J2EE application 
         *   [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
     *   Downloads [http://db.apache.org/derby/derby_downloads.html](http://db.apache.org/derby/derby_downloads.html)
 -->
-- [](#postgresql---postgresql-is-a-powerful-open-source-object-relational-database-system)**PostgreSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
+- **PostgreSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
 
   - Download PostgreSQL
     - [Windows installers](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `15.3`
 
-- [](#maria-db)**Maria DB**
+- **Maria DB**
 
   - [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
     - [**Download**](https://mariadb.org/download/) - Version `11.0.2`.
 
-- [](#sql-server---microsoft-data-platforms)**SQL Server** - [Microsoft Data Platforms](https://www.microsoft.com/en-in/sql-server/)
+- **SQL Server** - [Microsoft Data Platforms](https://www.microsoft.com/en-in/sql-server/)
 
   - [SQL Server Downloads](https://www.microsoft.com/en-in/sql-server/sql-server-downloads)
 
-- [](#oracle---oracle-database)**Oracle** - [Oracle Database Enterprise Edition](https://www.oracle.com/database/)
+- **Oracle** - [Oracle Database Enterprise Edition](https://www.oracle.com/database/)
 
   - [Oracle Database Software Downloads](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database version `21c` (`21.3`)
 
 #### Database Connectors
 
-- #### [**MySQL Connectors**](https://www.mysql.com/products/connector/)
+#### [**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
-  - ✔️ [**Connector/J 8.1**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.1.0`**. Requires `Java 8` and `above`.
-    - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
-    - **Installation**
-      - Application Server
-        1.  Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-j-8.0.31.jar`
-        2.  Copy and replace the existing file in
-            - **v8.8**, `C:\AwareIM\lib`
-        3.  Restart AwareIM Server
-  - 📉 [Connector/J 8.0](https://dev.mysql.com/downloads/connector/j/) - **Final version `v8.0.33`**. Archived.
+- ✔️ [**Connector/J 8.1**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.1.0`**. Requires `Java 8` and `above`.
+  - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
+  - **Installation**
+    - Application Server
+      1.  Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-j-8.0.31.jar`
+      2.  Copy and replace the existing file in
+          - **v8.8**, `C:\AwareIM\lib`
+      3.  Restart AwareIM Server
+- 📉 [Connector/J 8.0](https://dev.mysql.com/downloads/connector/j/) - **Final version `v8.0.33`**. Archived.
 
 - [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.6.0`. Java 8 required.
-- #### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
-  - ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.com/kb/en/mariadb-connector-j/) - Out-of-the-box support in Aware IM `v8.3`+.
-  - :warning: [MariaDB Connector/J `3.1.4`](https://mariadb.com/kb/en/mariadb-connector-j-306-release-notes/)
+
+#### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
+
+- ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.com/kb/en/mariadb-connector-j/) - Out-of-the-box support in Aware IM `v8.3`+.
+- :warning: [MariaDB Connector/J `3.1.4`](https://mariadb.com/kb/en/mariadb-connector-j-306-release-notes/)
 
 ### **Web Application Framework**
 
@@ -338,4 +335,4 @@ Any application offering an API for developers makes it possible to integrate wi
     - [**Jaspersoft® Studio**](http://community.jaspersoft.com/project/jaspersoft-studio) - The Eclipse-based Report Development Tool for JasperReports and JasperReports Server
       - [User Guide](http://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v610/getting-started-jaspersoft-studio)
     - **Forum posts**
-      - [AWARE'S REPORTING - JASPER REPORTS UPGRADE FOR NEXT RELEASE?](http://www.awareim.com/forum/viewtopic.php?f=1&t=7744) - JasperRepoerts Server
+      - [AWARE'S REPORTING - JASPER REPORTS UPGRADE FOR NEXT RELEASE?](http://www.awareim.com/forum/viewtopic.php?f=1&t=7744) - JasperReports Server
