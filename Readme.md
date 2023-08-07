@@ -129,9 +129,9 @@
 
 - [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
 
-  > ActiveMQ replaced JBoss since Aware IM version 5.8. Aware IM installs ActiveMQ `5.8.0` (06/02/2013) as part of its core server library.
+  > 📉 ActiveMQ `5.8.0` (06/02/2013) packaged with Aware IM.
 
-  > Latest version of ActiveMQ cthat works with Aware IM is **`5.12.1`** (13 Oct 2015). <br>
+  - 📉 Latest version of ActiveMQ that works with out-of-box installation of Aware IM is **`5.12.1`** (13 Oct 2015).
 
   - **Reported issues in Aware IM** - Scalability, bugs, performance...
     - [Highly demand -- updates - security concerns](https://awareim.com/forum/viewtopic.php?f=1&t=10539&p=48389)
@@ -216,10 +216,10 @@
   - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
   - **Installation**
     - Application Server
-      1.  Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-j-8.0.31.jar`
-      2.  Copy and replace the existing file in
-          - **v8.8**, `C:\AwareIM\lib`
-      3.  Restart AwareIM Server
+      1. Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-j-8.0.31.jar`
+      2. Copy and replace the existing file in
+         - **v8.8**, `C:\AwareIM\lib`
+      3. Restart AwareIM Server
 - 📉 [Connector/J 8.0](https://dev.mysql.com/downloads/connector/j/) - **Final version `v8.0.33`**. Archived.
 
 - [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.6.0`. Java 8 required.
