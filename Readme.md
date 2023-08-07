@@ -131,7 +131,7 @@
 
   > 📉 ActiveMQ `5.8.0` (06/02/2013) packaged with Aware IM.
 
-  - 📉 Latest version of ActiveMQ that works with out-of-box installation of Aware IM is `**5.12.1**` (13 Oct 2015).
+  - 📉 Latest version of ActiveMQ that works with out-of-box installation of Aware IM is **`5.12.1`** (13 Oct 2015).
 
   - **Reported issues in Aware IM** - Scalability, bugs, performance...
     - [Highly demand -- updates - security concerns](https://awareim.com/forum/viewtopic.php?f=1&t=10539&p=48389)
