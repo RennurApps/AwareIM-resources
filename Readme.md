@@ -139,8 +139,8 @@
   - [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab.
   - [**Bugs since `5.12.1`**](<https://issues.apache.org/jira/browse/AMQ-9279?jql=project%20%3D%20AMQ%20AND%20status%20in%20(Open%2C%20%22In%20Progress%22%2C%20Reopened)%20AND%20resolution%20%3D%20Unresolved%20AND%20affectedVersion%20in%20(5.12.2%2C%205.12.3%2C%205.13.0%2C%205.13.1%2C%205.13.2%2C%205.13.3%2C%205.13.4%2C%205.13.5%2C%205.14.0%2C%205.14.1%2C%205.14.2%2C%205.14.3%2C%205.14.4%2C%205.14.5%2C%205.15.0%2C%205.15.1%2C%205.15.10%2C%205.15.11%2C%205.15.12%2C%205.15.13%2C%205.15.14%2C%205.15.15%2C%205.15.2%2C%205.15.3%2C%205.15.4%2C%205.15.5%2C%205.15.6%2C%205.15.7%2C%205.15.8%2C%205.15.9%2C%205.16.0%2C%205.16.1%2C%205.16.2%2C%205.16.3%2C%205.16.4%2C%205.16.5%2C%205.16.6%2C%205.17.0%2C%205.17.1%2C%205.17.2%2C%205.17.3%2C%205.17.4%2C%205.17.5%2C%205.18.0%2C%205.18.1%2C%205.18.2)%20ORDER%20BY%20affectedVersion%20DESC%2C%20priority%20DESC%2C%20updated%20DESC>)
   - **Releases**:
-    - ⚠️ [5.18.2 Release](https://activemq.apache.org/activemq-5018002-release) - 2 July, 2023. Java compatibility: 11+. **Not tested with Aware IM**.
-    - ⚠️ [5.17.5 Release](https://activemq.apache.org/activemq-5017005-release) - 2 July, 2023. Java compatibility: 11+. **Not tested with Aware IM**.
+    - ⚠️ [5.18.2 Release](https://activemq.apache.org/activemq-5018002-release) - 2 July, 2023. Java 11+ required.
+    - ⚠️ [5.17.5 Release](https://activemq.apache.org/activemq-5017005-release) - 25 February, 2023. Java 11+ required.
     - ⚠️ [5.12.2+ Problem](https://activemq.apache.org/activemq-5016004-release) - **Inconsistent vector internals** Aware IM error.
       - ERROR:
         - `org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
@@ -148,8 +148,6 @@
         - This release enables ActiveMQ client TLS hostname validation by default which can cause a client connection failure for server certificates that do not match the server hostname. Please refer to SSL Transport Reference for configuration and [AMQ-7047](https://issues.apache.org/jira/browse/AMQ-7047) for more information.
         - Java 8 Required - The minimum Java version has been upgraded to Java 8.
         - This release affects applications using ObjectMessages.
-        - Configurator won't start
-        - Browser won't load the app
     - ✔️ [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html)
       - Installation
         - In **v8.3 and above**, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\lib`
