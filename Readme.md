@@ -182,23 +182,22 @@
         *   [Apache Derby 10.11.1.1](http://db.apache.org/derby/releases/release-10.11.1.1.cgi) - (August 26, 2014)
     *   Downloads [http://db.apache.org/derby/derby_downloads.html](http://db.apache.org/derby/derby_downloads.html)
 -->
-- **PostgreSQL** - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
+- **PostgreSQL**
 
-  - Download PostgreSQL
-    - [Windows installers](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `15.3`
+  - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
+  - [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `15.3`
 
 - **Maria DB**
 
-  - [**MariaDB Server**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
-    - [**Download**](https://mariadb.org/download/) - Version `11.0.2`.
+  - [**MariaDB**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
+  - [Download](https://mariadb.org/download/) - Version `11.0.2`.
 
-- **SQL Server** - [Microsoft Data Platforms](https://www.microsoft.com/en-in/sql-server/)
+- [**SQL Server**](https://www.microsoft.com/en-in/sql-server/)
 
-  - [SQL Server Downloads](https://www.microsoft.com/en-in/sql-server/sql-server-downloads)
+  - [Download](https://www.microsoft.com/en-in/sql-server/sql-server-downloads)
 
-- **Oracle** - [Oracle Database Enterprise Edition](https://www.oracle.com/database/)
-
-  - [Oracle Database Software Downloads](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database version `21c` (`21.3`)
+- [**Oracle**](https://www.oracle.com/database/)
+  - [Download](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database version `21c` (`21.3`)
 
 #### Database Connectors
 
