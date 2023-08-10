@@ -71,7 +71,7 @@
   - [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
   - [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
   - **Installation**
-      <details>
+     <details>
       <summary>Microsoft Windows Based Systems</summary>
 
     - **IMPORTANT**: Ensure any prior modification of existing _`web.xml`_ and _`server.xml`_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.
@@ -96,13 +96,7 @@
   - ✔️ [**Oracle OpenJDK `20`**](https://jdk.java.net/20/)
   - 👍 [Oracle OpenJDK `19`](https://jdk.java.net/19/)
   - 📉 [Oracle OpenJDK `17`](https://jdk.java.net/17/)
-      <details>
-      <summary>8.5 Server Error</summary>
-
-    - **Aware IM `8.5 2836`** server error: > Server unknown error javax/activation/DataSource exiting... > java.lang.NoClassDefFoundError: javax/activation/DataSource > at com.bas.basserver.channels.ChannelManager.startupEntity(Unknown Source) > at com.bas.basserver.domainmanager.DomainManager.A(Unknown Source) > at com.bas.basserver.domainmanager.DomainManager.<init>(Unknown Source) > at com.bas.basserver.bsmanager.E.A(Unknown Source) > at com.bas.newcp.ServerStarterECP.K(Unknown Source) > at com.bas.newcp.ServerStarterECP.main(Unknown Source) > Caused by: java.lang.ClassNotFoundException: javax.activation.DataSource > at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:636) > at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:182) > at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:519) > ... 6 more
-    </details>
-
-  - [Archived Versions](https://jdk.java.net/archive/)
+  - 📉 [Archived Versions](https://jdk.java.net/archive/)
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
 
@@ -282,7 +276,7 @@
     - `onEnd` - (function) Callback when stroke end.
   - [Video Tutorial (approx. 3min)](http://www.awareim.com/tutorials/59/New%20In%205,9.html) - from 00:38min
 
-### [](#integrations-custom-components-connectors-and-plugins)Interoperability: Integrations, custom components, connectors and plugins
+### Interoperability: Integrations, custom components, connectors and plugins
 
 Any application offering an API for developers makes it possible to integrate with Aware IM by writing a plugin.
 
