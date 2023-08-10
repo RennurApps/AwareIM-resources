@@ -44,6 +44,7 @@
   - ✔️ Tested and working with `Aware IM` `6.x`, `7.x` & **`8.x`**
   - [**Security**](https://tomcat.apache.org/security-9.html)
       <details>
+
       <summary>Important fixes</summary>
 
     - `9.0.75` Important: Information disclosure [CVE-2023-34981](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-34981) - Affects: 9.0.74
@@ -71,7 +72,8 @@
   - [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
   - [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
   - **Installation**
-     <details>
+      <details>
+
       <summary>Microsoft Windows Based Systems</summary>
 
     - **IMPORTANT**: Ensure any prior modification of existing _`web.xml`_ and _`server.xml`_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.
