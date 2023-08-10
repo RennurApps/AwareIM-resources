@@ -21,15 +21,13 @@
 
 #### Apache Tomcat
 
-> Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation.
+**Disclaimer: Use this information and instructions at your own risk. There is no support provided for any of the updates performed outside of default Aware IM installation.**
 
 > Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete.
 
-> 📉 **Tomcat 9.0.44** 32bit is the default version packaged in the **Aware IM 8.6 and above** server installation.
-
-> Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
-
-> Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
+- **Tomcat 9.0.44** 32bit is the default version packaged in the **Aware IM 8.6 and above** server installation.
+- Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
+- Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
 #### [**:warning: Tomcat 10.1.11**](http://tomcat.apache.org/) - Tomcat 10 is designed to run on **`Java SE 8`** or later
 
