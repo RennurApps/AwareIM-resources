@@ -185,12 +185,12 @@
 - **PostgreSQL**
 
   - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
-  - [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `15.3`
+  - [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `15.4`
 
 - **Maria DB**
 
   - [**MariaDB**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
-  - [Download](https://mariadb.org/download/) - Version `11.0.2`.
+  - [Download](https://mariadb.org/download/) - Version `11.0.3`.
 
 - [**SQL Server**](https://www.microsoft.com/en-in/sql-server/)
 
@@ -198,6 +198,7 @@
 
 - [**Oracle**](https://www.oracle.com/database/)
   - [Download](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database version `21c` (`21.3`)
+    g
 
 #### Database Connectors
 
