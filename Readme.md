@@ -198,7 +198,6 @@
 
 - [**Oracle**](https://www.oracle.com/database/)
   - [Download](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database version `21c` (`21.3`)
-    g
 
 #### Database Connectors
 
