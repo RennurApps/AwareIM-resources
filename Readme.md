@@ -275,7 +275,7 @@
     - `onEnd` - (function) Callback when stroke end.
   - [Video Tutorial (approx. 3min)](http://www.awareim.com/tutorials/59/New%20In%205,9.html) - from 00:38min
 
-### Interoperability: Integrations, custom components, connectors and plugins
+### Interoperability: Integrations, custom components, connected apps and plugins
 
 Any application offering an API for developers makes it possible to integrate with Aware IM by writing a plugin.
 
