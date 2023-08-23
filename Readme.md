@@ -203,7 +203,7 @@
 
 #### [**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
-- ✔️ [**Connector/J 8.1**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.1.0`**. Requires `Java 8` and `above`.
+- ✔️ [**Connector/J 8.1**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.1.0`**. Requires `Java 8` and `above`. Connector/J 8.1 supports MySQL `5.7`, `8.0`, and `8.1`.
   - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
   - **Installation**
     - Application Server
