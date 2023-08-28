@@ -31,8 +31,6 @@
 
 #### [**:warning: Tomcat 10.1.13**](http://tomcat.apache.org/) - Tomcat 10 is designed to run on **`Java SE 11 or later`**
 
-- :warning: **Few java exceptions `Aware IM 8.5 and above`**
-- :warning: **Not compatible with `Aware IM 6.0 and below`**
 - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
 
 #### [**✔️ Tomcat 9.0.80**](http://tomcat.apache.org/) - 23 August, 2023. Tomcat 9 is designed to run on **`Java SE 8 or later`**
