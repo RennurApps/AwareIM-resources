@@ -186,7 +186,7 @@
 - **Maria DB**
 
   - [**MariaDB**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
-  - [Download](https://mariadb.org/download/) - Version `11.0.3`.
+  - [Download](https://mariadb.org/download/) - Version `11.1.2`.
 
 - [**SQL Server**](https://www.microsoft.com/en-in/sql-server/)
 
