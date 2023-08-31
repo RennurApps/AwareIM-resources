@@ -264,7 +264,7 @@
     - `minWidth` - (float) Minimum width of a line. Defaults to 0.5.
     - `maxWidth` - (float) Maximum width of a line. Defaults to 2.5.
     - **`backgroundColor`** - (string) Color used to clear the background. Can be any color format accepted by context.fillStyle. Defaults to `rgba(0,0,0,0)` (transparent black).
-      - I prefer a `**white background "rgb(255,255,255)"**` for the signatures since there are issues with transparent images in the Report Designer and PDF document export.
+      - I prefer a **white background `rgb(255,255,255)`** for the signatures since there are issues with transparent images in the Report Designer and PDF document export.
     - `penColor` - (string) Color used to draw the lines. Can be any color format accepted by context.fillStyle. Defaults to "black".
     - `velocityFilterWeight` - (float) Weight used to modify new velocity based on the previous velocity. Defaults to 0.7.
     - `onBegin` - (function) Callback when stroke begin.
