@@ -207,7 +207,7 @@
       2. Copy and replace the existing file in
          - **v8.8**, `C:\AwareIM\lib`
       3. Restart AwareIM Server
-- 📉 [Connector/J 8.0](https://dev.mysql.com/downloads/connector/j/) - **Final version `v8.0.33`**. Archived.
+- 📉 [Connector/J 8.0](https://downloads.mysql.com/archives/c-j/) - **Final version `v8.0.33`**. Archived.
 
 - [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.6.0`. Java 8 required.
 
