@@ -89,8 +89,9 @@
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
 
-  - ✔️ [**Oracle OpenJDK `20`**](https://jdk.java.net/20/)
-  - 👍 [Oracle OpenJDK `19`](https://jdk.java.net/19/)
+  - ✔️ [**Oracle OpenJDK `21`**](https://jdk.java.net/21/)
+  - 👍 [Oracle OpenJDK `20`](https://jdk.java.net/20/)
+  - 📉 [Oracle OpenJDK `19`](https://jdk.java.net/19/)
   - 📉 [Oracle OpenJDK `17`](https://jdk.java.net/17/)
   - 📉 [Archived Versions](https://jdk.java.net/archive/)
 
