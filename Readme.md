@@ -96,7 +96,7 @@
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
 
-  - ✔️ [**JDK Version `21`**](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.8`**. 19 September 2023.
+  - ✔️ [**JDK Version `21`**](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.8`**. [19 September 2023](https://www.oracle.com/java/technologies/javase/21-relnote-issues.html)
   - 👍 [JDK Version `20.0.2`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.8`**.
   - 📉 [JDK Version `17.0.8`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6 and above`**.
   - 📉 [**JDK Version `12.0.2` Final**](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html) - **Bundled with Aware IM `8.6 and above`** - Archived.
