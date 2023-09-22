@@ -186,7 +186,8 @@
         - Min Requirement: Win 11, Windows Server 2016, macOS 13, Oracle Linux 7 / Red Hat Enterprise Linux 7 / CentOS 7
       - ✔️ [**MySQL Community Server 8.0.34**](http://dev.mysql.com/downloads/mysql/)
       - 📉 [MySQL Community Server 5.7.43](https://dev.mysql.com/downloads/mysql/5.7.html)
-    - [**Visual Studio 2015, 2017, 2019, and 2022**](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads) - Required by MySQL `8.0` and `5.7`.
+    - [**Visual Studio 2015, 2017, 2019, and 2022**](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `8.0` and `5.7.38 - 5.7.40`.
+    - [**Visual Studio 2013**](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `5.7.37 - 5.7.39`.
 
 - **Apache Derby** - [Home](http://db.apache.org/derby/)
 <!--
