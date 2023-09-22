@@ -27,11 +27,11 @@
 - Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
 - Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
-#### [**✔️ Tomcat 10.1.13**](http://tomcat.apache.org/) - **23 August, 2023. Tomcat 10 is designed to run on `Java SE 11 or later`**
+#### [**⚠️ Tomcat 10.1.13**](http://tomcat.apache.org/) - **23 August, 2023. Tomcat 10 is designed to run on `Java SE 11 or later`**
 
 - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
 
-  - Tested and working with `Aware IM` **`8.8`**
+  - ⚠️ Testing `Aware IM` **`8.8`** produced a "HTTP Status 500 – Internal Server Error" when trying to load the login url (http://localhost:8080/AwareIM/logonAdmin.jsp).
   - [**Security**](https://tomcat.apache.org/security-10.html)
 
   - [Tomcat 10 Documentation](https://tomcat.apache.org/tomcat-10.1-doc/index.html).
