@@ -32,7 +32,7 @@
 - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
 
   - ⚠️ Testing `Aware IM` **`8.8`** produced a "HTTP Status 500 – Internal Server Error" when trying to load the login url (http://localhost:8080/AwareIM/logonAdmin.jsp).
-    - According to Bard:
+    - According to Bard:<br>
       `The stack trace you provided indicates that the server is unable to find the javax.servlet.ServletResponse class. This can happen for a few reasons, but it is most likely because you are using an older version of the javax.servlet JAR file than the one that is required by Tomcat 10.1.13.`
   - [**Security**](https://tomcat.apache.org/security-10.html)
 
