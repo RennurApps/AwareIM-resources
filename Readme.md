@@ -185,9 +185,8 @@
       - ⚠️ [MySQL Community Server 8.1.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/relnotes/mysql/8.1/en/) 18 July 2023.
         - Min Requirement: Win 11, Windows Server 2016, macOS 13, Oracle Linux 7 / Red Hat Enterprise Linux 7 / CentOS 7
       - ✔️ [**MySQL Community Server 8.0.34**](http://dev.mysql.com/downloads/mysql/)
-        - [Visual Studio 2015, 2017, 2019, and 2022](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads) - Visual C++ Redistributable.
       - 📉 [MySQL Community Server 5.7.43](https://dev.mysql.com/downloads/mysql/5.7.html)
-        - [Microsoft Visual C++ 2013](https://support.microsoft.com/en-us/help/3179560) MySQL 5.7 requires the Microsoft Visual C++ 2013 Redistributable.
+    - [**Visual Studio 2015, 2017, 2019, and 2022**](https://support.microsoft.com/en-au/help/2977003/the-latest-supported-visual-c-downloads) - Required by MySQL `8.0` and `5.7`.
 
 - **Apache Derby** - [Home](http://db.apache.org/derby/)
 <!--
