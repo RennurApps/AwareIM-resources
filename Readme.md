@@ -34,8 +34,8 @@
   - Tested and working with `Aware IM` **`8.8`**
   - [**Security**](https://tomcat.apache.org/security-10.html)
 
-  - [Tomcat 10 Documentation](https://tomcat.apache.org/tomcat-10.0-doc/index.html).
-  - [Tomcat 10 Changelog](https://tomcat.apache.org/tomcat-10.0-doc/changelog.html).
+  - [Tomcat 10 Documentation](https://tomcat.apache.org/tomcat-10.1-doc/index.html).
+  - [Tomcat 10 Changelog](https://tomcat.apache.org/tomcat-10.1-doc/changelog.html).
   - **Installation**
       <details>
 
