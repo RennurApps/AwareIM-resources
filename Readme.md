@@ -312,13 +312,16 @@ Any application offering an API for developers makes it possible to integrate wi
   - **Install wkhtmltopdf**
     - Windows OS
       - Extract `*.exe` file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM
-  - **Aware IM Process Rules** - **Step 1** - Export Aware IM HTML Document to a HTML file - `EXPORT DOCUMENT 'Your HTML Document' TO FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html'` - **Step 2** - Convert exported HTML file to PDF - `EXECUTE PROGRAM 'C:\AwareIM\wkhtmltopdf\bin\wkhtmltopdf.exe file:///C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.pdf'` - **Step 3** - Import PDF document to your myBO.DocumentPDF attribute - `IMPORT DOCUMENT myBO.DocumentPDF FROM 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.pdf'` - **Optional** - Delete exported HTML file - `DELETE FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html'`
-  <!--
+  - **Aware IM Process Rules**
+    - **Step 1** - Export Aware IM HTML Document to a HTML file
+      - `EXPORT DOCUMENT 'Your HTML Document' TO FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html'`
+    - **Step 2** - Convert exported HTML file to PDF
+      - `EXECUTE PROGRAM 'C:\AwareIM\wkhtmltopdf\bin\wkhtmltopdf.exe file:///C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.pdf'`
+    - **Step 3** - Import PDF document to your myBO.DocumentPDF attribute
+      - `IMPORT DOCUMENT myBO.DocumentPDF FROM 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.pdf'`
+    - **Optional** - Delete exported HTML file
+      - `DELETE FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html'`
 
-- [**Pandoc - a universal document converter**](https://pandoc.org/) - If you need to convert files from one markup format into another, pandoc is your swiss-army knife.
-
-- [**WeasyPrint**](https://weasyprint.org/) Smart solution helping web developers to create PDF documents. It’s free and open source software that can be easily plugged to your applications and websites and turns simple HTML pages into gorgeous Invoices, Reports, Posters, Letters and Tickets.
-  -->
 - **Business Intelligence, Report Writer/Server**
 
   - **Power BI Interactive Data Visualization** - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
