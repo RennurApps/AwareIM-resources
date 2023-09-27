@@ -301,7 +301,7 @@
 
 ### Interoperability: Integrations, custom components, connected apps and plugins
 
-Any application offering an API for developers makes it possible to integrate with Aware IM by writing a plugin.
+Developers can integrate any application with Aware IM by writing a plugin, as long as the application offers an API.
 
 - ✔️ [**wkhtmltopdf**](https://github.com/wkhtmltopdf/wkhtmltopdf) - wkhtmltopdf is a command line tool to render HTML into PDF using the QT Webkit rendering engine. These run entirely "headless" and do not require a display or display service.
 
@@ -321,6 +321,12 @@ Any application offering an API for developers makes it possible to integrate wi
       - `IMPORT DOCUMENT myBO.DocumentPDF FROM 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.pdf'`
     - **Optional** - Delete exported HTML file
       - `DELETE FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html'`
+  - Some Alternatives to wkhtmltopdf:
+    - [WeasyPrint](https://github.com/Kozea/WeasyPrint) - For Python 3.7+.
+    - [Total HTML Converter](https://www.coolutils.com/TotalHTMLConverter)
+    - [Prince XML](http://www.princexml.com/) - Commercial.
+    - [PDFreactor](https://www.pdfreactor.com/) - Commercial. Works with any language.
+    - [xhtml2pdf](https://pypi.org/project/xhtml2pdf/) - Python project.
 
 - **Business Intelligence, Report Writer/Server**
 
