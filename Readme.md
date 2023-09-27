@@ -321,7 +321,7 @@ Developers can integrate any application with Aware IM by writing a plugin, as l
       - `IMPORT DOCUMENT myBO.DocumentPDF FROM 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.pdf'`
     - **Optional** - Delete exported HTML file
       - `DELETE FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html'`
-  - Some Alternatives to wkhtmltopdf:
+  - Some alternatives to wkhtmltopdf:
     - [WeasyPrint](https://github.com/Kozea/WeasyPrint) - For Python 3.7+.
     - [Total HTML Converter](https://www.coolutils.com/TotalHTMLConverter)
     - [Prince XML](http://www.princexml.com/) - Commercial.
