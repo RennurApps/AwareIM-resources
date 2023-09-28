@@ -286,7 +286,7 @@
   - [**DEMO - Github**](http://szimek.github.io/signature_pad/)
   - [✔️ **Signature Pad v1.5.3**](https://www.jsdelivr.com/package/npm/signature_pad?version=1.5.3) - Tested and working in all versions `5.9 - 8.x`
   - **Installation**:
-    - Replace ../AwareIM/signature/signature/\_pad.js with the new version.
+    - Replace ../AwareIM/signature/signature_pad.js with the new version.
   - **Options** - Edit **signature_pad.js** found in **C:\AwareIM\Tomcat\webapps\AwareIM\signature**
     - `dotSize` - (float or function) Radius of a single dot.
     - `minWidth` - (float) Minimum width of a line. Defaults to 0.5.
