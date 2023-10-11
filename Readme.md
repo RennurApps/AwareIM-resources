@@ -64,6 +64,9 @@
 
       <summary>Important fixes</summary>
 
+    - `9.0.81` Important: Request smuggling [CVE-2023-45648](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-45648) - Affects: 9.0.0-M1 to 9.0.80
+    - `9.0.81` Important: Denial of Service [CVE-2023-44487](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-44487) - Affects: 9.0.0-M1 to 9.0.80
+    - `9.0.81` Important: Information Disclosure [CVE-2023-42795](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-42795) - Affects: 9.0.0-M1 to 9.0.80
     - `9.0.75` Important: Information disclosure [CVE-2023-34981](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-34981) - Affects: 9.0.74
     - `9.0.72` Important: Apache Tomcat information disclosure [CVE-2023-28708](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-28708) - Affects: 9.0.0-M1 to 9.0.71
     - `9.0.71` Important: Apache Tomcat denial of service `CVE-2023-24998` - Affects: 9.0.0-M1 to 9.0.70
