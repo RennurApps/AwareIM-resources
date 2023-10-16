@@ -54,7 +54,7 @@
       - 6. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
         </details>
 
-#### [**👍 Tomcat 9.0.81**](http://tomcat.apache.org/) - **9 October, 2023. Tomcat 9 is designed to run on `Java SE 8 or later`**
+#### [**👍 Tomcat 9.0.82**](http://tomcat.apache.org/) - **11 October, 2023. Tomcat 9 is designed to run on `Java SE 8 or later`**
 
 - [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install.
 
