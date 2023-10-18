@@ -27,7 +27,7 @@
 - Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
 - Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
-#### [**⚠️ Tomcat 10.1.14**](http://tomcat.apache.org/) - **9 October, 2023. Tomcat 10 is designed to run on `Java SE 11 or later`**
+#### [**⚠️ Tomcat 10.1.15**](http://tomcat.apache.org/) - **11 October, 2023. Tomcat 10 is designed to run on `Java SE 11 or later`**
 
 - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
 
