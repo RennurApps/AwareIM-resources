@@ -188,9 +188,9 @@
   - [**MySQL Community Server**](http://www.mysql.com/products/community/)
     - [Supported Platforms: MySQL Database](https://www.mysql.com/support/supportedplatforms/database.html)
     - **Download MySQL**
-      - ⚠️ [MySQL Community Server 8.1.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/relnotes/mysql/8.1/en/) 18 July 2023.
+      - ⚠️ [MySQL Community Server 8.2.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/relnotes/mysql/8.2/en/) 26 October 2023.
         - Min Requirement: Win 11, Windows Server 2016, macOS 13, Oracle Linux 7 / Red Hat Enterprise Linux 7 / CentOS 7
-      - ✔️ [**MySQL Community Server 8.0.34**](http://dev.mysql.com/downloads/mysql/)
+      - ✔️ [**MySQL Community Server 8.0.35**](http://dev.mysql.com/downloads/mysql/)
       - 📉 [MySQL Community Server 5.7.43](https://dev.mysql.com/downloads/mysql/5.7.html)
     - Installation on Windows requires:
       - [**Visual Studio 2015, 2017, 2019, and 2022**](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `8.0` and `5.7.38 and above`
@@ -231,7 +231,7 @@
 
 #### [**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
-- ✔️ [**Connector/J 8.1**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.1.0`**. Requires `Java 8` and `above`. Connector/J 8.1 supports MySQL `5.7`, `8.0`, and `8.1`.
+- ✔️ [**Connector/J 8.2**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.2.0`**. Requires `Java 8` and `above`. Connector/J 8.1 supports MySQL `5.7`, `8.0`, and `8.1`.
   - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
   - **Installation**
     - Application Server
