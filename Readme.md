@@ -192,7 +192,7 @@
       - ✔️ [**MySQL Community Server 8.0.35**](http://dev.mysql.com/downloads/mysql/)
       - 📉 [MySQL Community Server 5.7.44](https://dev.mysql.com/downloads/mysql/5.7.html)
     - Installation on Windows requires:
-      - [**Visual Studio 2015, 2017, 2019, and 2022**](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `8.0` and `5.7.38 and above`
+      - [**Visual Studio 2015, 2017, 2019, and 2022**](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `8.0`, `8.2` and `5.7.38 and above`
       - [**Visual Studio 2013**](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `5.7.9 - 5.7.39`
 
 - **Apache Derby** - [Home](http://db.apache.org/derby/)
