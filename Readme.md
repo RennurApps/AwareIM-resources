@@ -212,7 +212,7 @@
 - **PostgreSQL**
 
   - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
-  - [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `16`
+  - [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `16.1`
 
 - **Maria DB**
 
