@@ -8,11 +8,11 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✅ [Next Release `8.9`] - January 2024.
+✅ Next Release `8.9` - January 2024.
 
   <details>
 
-  <summary>New Features</summary>
+   <summary>New Features</summary>
 
 - New Java
 - Latest Kendo UI library with new themes (new preview browser engine for Windows based on Edge). Two themes are show-cased in the CRM (Bootstrap 3) and Library apps (Aqua Dark theme)
