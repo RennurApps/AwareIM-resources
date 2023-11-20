@@ -8,6 +8,130 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
+✅ [Next Release `8.9`] - January 2024.
+
+  <details>
+
+  <summary>New Features</summary>
+
+- New Java
+- Latest Kendo UI library with new themes (new preview browser engine for Windows based on Edge). Two themes are show-cased in the CRM (Bootstrap 3) and Library apps (Aqua Dark theme)
+- Support for high resolution in dialogs of the Configuration Tool
+- Redesign of outgoing emails (they are now specified in business version properties just like incoming emails
+- Support for OAuth in emails
+- Redesign of filters:
+- Generic filter control that filters for all specified attributes using OR (showcased in the CRM app)
+- "User defined" filter (new)
+- "Value list" filter (new) - showcased in the Issue Resolution Issues page ("Issue All" query)
+- Ability to combine different forms of filters
+- Filters are fully supported for standard, custom queries, charts and calendars
+- Support for QRCodes in forms and custom queries.
+In custom queries:
+<div class="aw-qrcode-settings" border-width="2px" border-color="#ff0000" color=#00ff00" padding="15px">
+{B,qrcode}
+</div>
+- Support for Barcodes in forms and custom queries (showcased in the SalesPortal app).
+In custom queries:
+<div class="aw-barcode-settings" type="code39" width="280" height="100">
+{B,barcode}
+</div>
+- Support for Line Icons font (free) - when any icon in the Config. Tool is selected there is a button to select from the Line Icons font or from Font Awesome font
+
+- Support for tiles.
+  Tiles are boxes often used in dashboards. You can put content into a tile on a grid.
+  Each of the 9 possible locations can have text or icon or chart (Kendo sparkline). A tile can be chosen as content of
+  a content panel (like GM, HTML etc). You can export a tile into XML and import it - thus copying/pasting into different VPs.
+  Tiles can be selected from templates. You can also add your own tile to the list of templates if you export a tile and put it in the
+  new folder under AwareIM/TileTemplates. When a new tab is created in a VP you can initialise it with tiles
+  Same when creating a new business space (in Themes, tiles and font size link). When adding text or charts you can specify tag
+  expressions <<COUNT SystemUser>>. This is how you specify data for bullet and pie charts. For other charts data is collected using a query.
+  There is also the Add Tiles button in the VP's toolbar that replaces the content of the current tab with selected tiles
+  (showcased in the Dashboard in the CRM, Issue Resolution and Library apps)
+
+- Button Group widget for text attributes with static choices (showcased in the CRM app in forms for OutgoingLetter and OutgoingEmail objects)
+
+- Support for special editing widgets in standard queries - switches, rating, toggle button, button group. They work
+  in the inline editing mode - if a column is not editable, they are displayed as read-only widgets. If the column is editable
+  clicking on them immediately changes the value in the database and recalculates the current record. Toggle button works for Yes/No
+  attributes and for text with choices, where it toggles through possible choices. Styling presentation rules of the corresponding
+  attribute may determine the colors of the Toggle Button and buttons of a Button Group.
+  These can be specified if you select a column of the grid and choose Display/Editing property. Or if you go to the properties of
+  the column from Displayed Columns and click on the Column Display button
+  (showcased in the CRM "Unsent Letters" query, also Issue Resolution - "Issues All" query, "Issues Closed" query)
+
+- Support for WorkSheets (new node in the tree - can drag and drop into a WorkSheet, go to element, add items from Find References)
+- Redesign of a Duration attribute - new widget to edit the format of duration (also supports the initial value) - showcased in CRM (
+  forms of all objects that are members of the Communication group) (zeroes are not allowed)
+
+Improvements:
+
+- Default for Yes/No switch is Yes/No
+- Improvements for Google Maps
+- ability to specify marker shape and color (and custom marker) in presentation rules (new element type there Google Maps Marker)
+- Presentation rules for labels can be used to display a label on the marker
+- Get Directions operation can be used in Operations with Records for a query (if this query is used by a Google Map in a VP)
+  Also, has an option to display detailed directions in a separate window
+- Ablity to specify panel caption separately from Panel Header, which allows to use captions in popup wwindows, for example, when there is no panel header
+- Panel Operations can now be allowed on forms when a new object is being created. A special flag when defining a panel operation
+- YESNAME and NONAME keys for the DISPLAY QUESTION action: DISPLAY QUESTION 'Do you want to continue' YESNAME 'I do' NONAME 'I do not'
+- Tree improvements (multi-column only)
+- Item display rules are supported,
+- Grouping of operations on records
+- Checkbox selection (pick from)
+- Trees now support business object groups
+- If a tree is expanded, sorting and filtering is supported (including filter row).
+- Stylistical improvements to the bootstrap theme (showcased in the CRM sample app)
+- Modern and classic left menu style (showcased in the Library sample app, which has a Modern style left menu)
+- FORCE POPUP option for ENTER NEW and EDIT actions to override "single tab mode"
+- Scaling issue with ID_GEN and MySQL. New setting in BASServer.props MULTISERVER=true
+- Select All/Deselect All for a multi-attribute cell dialog
+- Label style available for pictures
+- While consuming REST service it is possible to encode Yes/No as boolean (a new drop down in Request Body details.
+- "Absolute positioning" property when editing forms to solve the problem of "tall" controls in forms - showcased in CRM (Customer Photo, Interests checkboxes)
+- Support for grouping in combo boxes of references and multi-selectors (showcased in Issue Resolution - form of the Issue object (Assigned To)
+- Scheduler improvements
+- Yearly view with the ability to specify number of months to show (showcased in CRM - "Company Diary" query)
+- Maximum events per day for monthly view
+- Adaptive slot height for monthly view(showcased in CRM - Company Diary)
+- Control of allocation of 'all day' slot
+- Html Editor improvements
+- Images can be scaled
+- Ability to control which tools of the editor are available
+- UI style for calendar widgets - classic and modern
+- Compact size flag for standard queries
+- Ability to add "chip" widget to custom queries:
+<div class="aw-chip-settings" fill_mode="outline" icon="check"0>
+{AttrName,chip}
+</div>
+- Process diagram - selected expression is now displayed on the right and supports context assistant
+- Invisibility condition for content panels in visual perspectives
+- Ability to set a style to a reference grid in the Form Designer
+- Chart improvements:
+- Ability to combine more chart types in series
+- Area charts - stacked, show markers, smooth and stepped (Library sample app - dashboard)
+- New chart types:
+- Vertical bullet
+- Range Bar
+- Range Area
+- Bubble
+- Scatter
+- Funnel
+- Bullet (in a visual perspective only)(showcased in SalesPortal in the TeamEfficiency tab, also in Library - inside tiles)
+- Circular and Arc gauge (showcased in tthe Issue Resolution dashboard)
+- Gauges in visual perspective
+- More properties for gauges
+- Visibility of major and minor ticks of an axis
+- Color ranges support for axis in charts and gauges (Issue Resolution dashboard)
+- Support for start angle, 'explode' and auto fit content for pie and donuts (explode is showcased in the Library dashboard)
+- Support for stepped line
+- Radar - area and bar
+- SUpport for multiple Y axes and axis crossing values (usually specified as X crossing value) - showcased in the CRM chart)
+- Menu command to toggle visibility of the left menu (Library sample app - dashboard)
+- DQ() function to generate double quotation marks
+- Ability to specify settings for popup windows of processes and Add New Reference operations. Also menu items
+- Ability to specify different choices in different forms
+</details>
+
 ✔️ [**v8.8 build 3137**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8/3137) - 23 May, 2023.
 
 - New Features and improvements in version 8.8
