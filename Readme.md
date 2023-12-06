@@ -8,7 +8,7 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✅ Next Release `8.9` - January 2024.
+✅ Next Release `9.0` - January 2024.
 
   <details>
 
