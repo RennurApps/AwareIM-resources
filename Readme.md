@@ -151,7 +151,7 @@ Improvements:
 - Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
 - Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
-#### [**⚠️ Tomcat 10.1.17**](http://tomcat.apache.org/) - **7 December, 2023. Tomcat 10 is designed to run on `Java SE 11 or later`**
+#### [**⚠️ Tomcat 10.1.18**](http://tomcat.apache.org/) - **5 January, 2024. Tomcat 10 is designed to run on `Java SE 11 or later`**
 
 - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
 
@@ -178,7 +178,7 @@ Improvements:
       - 6. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
         </details>
 
-#### [**✔️ Tomcat 9.0.84**](http://tomcat.apache.org/) - **7 December, 2023. Tomcat 9 is designed to run on `Java SE 8 or later`**
+#### [**✔️ Tomcat 9.0.85**](http://tomcat.apache.org/) - **5 January, 2024. Tomcat 9 is designed to run on `Java SE 8 or later`**
 
 - [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install.
 
