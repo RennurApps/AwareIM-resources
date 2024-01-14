@@ -354,16 +354,17 @@ Improvements:
 
 #### Database Connectors
 
-#### [**MySQL Connectors**](https://www.mysql.com/products/connector/)
+- [**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
-- ✔️ [**Connector/J 8.2**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.2.0`**. Requires `Java 8` and `above`. Connector/J 8.1 supports MySQL `5.7`, `8.0`, and `8.1`.
-  - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
-  - **Installation**
-    - Application Server
-      1. Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-j-8.0.31.jar`
-      2. Copy and replace the existing file in
-      - **v8.8**, `C:\AwareIM\lib`
-      3. Restart AwareIM Server
+  - ✔️ [**Connector/J 8.2**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.2.0`**. Requires `Java 8` and `above`. Connector/J 8.1 supports MySQL `5.7`, `8.0`, and `8.1`.
+    - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
+    - **Installation**
+      - Application Server
+        1. Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-j-8.0.31.jar`
+        2. Copy and replace the existing file in
+        - **v8.8**, `C:\AwareIM\lib`
+        3. Restart AwareIM Server
+
 - 📉 [Connector/J 8.0](https://downloads.mysql.com/archives/c-j/) - **Final version `v8.0.33`**. Archived.
 
 - [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.0`. Java 8 required.
