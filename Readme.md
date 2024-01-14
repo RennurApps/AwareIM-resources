@@ -284,7 +284,7 @@ Improvements:
   - [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab.
   - [**Bugs since `5.12.1`**](<https://issues.apache.org/jira/browse/AMQ-9279?jql=project%20%3D%20AMQ%20AND%20status%20in%20(Open%2C%20%22In%20Progress%22%2C%20Reopened)%20AND%20resolution%20%3D%20Unresolved%20AND%20affectedVersion%20in%20(5.12.2%2C%205.12.3%2C%205.13.0%2C%205.13.1%2C%205.13.2%2C%205.13.3%2C%205.13.4%2C%205.13.5%2C%205.14.0%2C%205.14.1%2C%205.14.2%2C%205.14.3%2C%205.14.4%2C%205.14.5%2C%205.15.0%2C%205.15.1%2C%205.15.10%2C%205.15.11%2C%205.15.12%2C%205.15.13%2C%205.15.14%2C%205.15.15%2C%205.15.2%2C%205.15.3%2C%205.15.4%2C%205.15.5%2C%205.15.6%2C%205.15.7%2C%205.15.8%2C%205.15.9%2C%205.16.0%2C%205.16.1%2C%205.16.2%2C%205.16.3%2C%205.16.4%2C%205.16.5%2C%205.16.6%2C%205.17.0%2C%205.17.1%2C%205.17.2%2C%205.17.3%2C%205.17.4%2C%205.17.5%2C%205.18.0%2C%205.18.1%2C%205.18.2)%20ORDER%20BY%20affectedVersion%20DESC%2C%20priority%20DESC%2C%20updated%20DESC>)
   - **Releases**:
-    - ⚠️ [6.0.0 Release](https://activemq.apache.org/activemq-6000000-release) - 17 November, 2023. Java 17+ required.
+    - ⚠️ [6.0.1 Release](https://activemq.apache.org/activemq-6000001-release) - 3 December, 2023. Java 17+ required.
     - ⚠️ [5.18.3 Release](https://activemq.apache.org/activemq-5018003-release) - 25 October, 2023. Java 11+ required.
     - ⚠️ [5.17.6 Release](https://activemq.apache.org/activemq-5017006-release) - 25 October, 2023. Java 11+ required.
     - ⚠️ [5.12.2+ Problem](https://activemq.apache.org/activemq-5016004-release) - **Inconsistent vector internals** Aware IM error.
@@ -362,7 +362,7 @@ Improvements:
     - Application Server
       1. Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-j-8.0.31.jar`
       2. Copy and replace the existing file in
-         - **v8.8**, `C:\AwareIM\lib`
+      - **v8.8**, `C:\AwareIM\lib`
       3. Restart AwareIM Server
 - 📉 [Connector/J 8.0](https://downloads.mysql.com/archives/c-j/) - **Final version `v8.0.33`**. Archived.
 
