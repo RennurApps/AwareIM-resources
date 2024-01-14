@@ -357,6 +357,7 @@ Improvements:
 - [**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
   - ✔️ [**Connector/J 8.2**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.2.0`**. Requires `Java 8` and `above`. Connector/J 8.1 supports MySQL `5.7`, `8.0`, and `8.1`.
+
     - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
     - **Installation**
       - Application Server
@@ -365,7 +366,7 @@ Improvements:
         - **v8.8**, `C:\AwareIM\lib`
         3. Restart AwareIM Server
 
-- 📉 [Connector/J 8.0](https://downloads.mysql.com/archives/c-j/) - **Final version `v8.0.33`**. Archived.
+  - 📉 [Connector/J 8.0](https://downloads.mysql.com/archives/c-j/) - **Final version `v8.0.33`**. Archived.
 
 - [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.0`. Java 8 required.
 
