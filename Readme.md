@@ -251,7 +251,7 @@ Improvements:
 
   - ✔️ [**JDK Version `21.0.1`**](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.8`**. 17 October 2023.
   <!--  - 👍 [JDK Version `20.0.2`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.8`**. -->
-  - 👍 [JDK Version `17.0.9`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6 and above`**.
+  - 👍 [JDK Version `17.0.9`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6-8.8`. Default for version `9.0`.**
   - ✔️ [JDK Version `8, Update 391`](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - **Compatible with Aware IM versions `6.0` - `8.5`**. 17 October 2023.
   - Versions bundled with Aware IM:
     - Aware IM `v8.6 and above` - [JDK `12.0.2` Final](https://docs.oracle.com/en/java/javase/12/) - Archived.
