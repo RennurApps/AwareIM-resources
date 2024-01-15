@@ -370,10 +370,10 @@ Improvements:
 
 - [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.0`. Java 8 required.
 
-#### [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
+- [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
 
-- ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.com/kb/en/about-mariadb-connector-j/) - Out-of-the-box support in Aware IM `v8.3`+. Java `8+`
-- :warning: [MariaDB Connector/J `3.3.1`](https://mariadb.com/kb/en/mariadb-connector-j-3-3-1-release-notes/)
+  - ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.com/kb/en/about-mariadb-connector-j/) - Out-of-the-box support in Aware IM `v8.3`+. Java `8+`
+  - :warning: [MariaDB Connector/J `3.3.1`](https://mariadb.com/kb/en/mariadb-connector-j-3-3-1-release-notes/)
 
 ### **Web Application Framework**
 
