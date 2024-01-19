@@ -240,7 +240,7 @@ Improvements:
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
 
-  - ✔️ [**Oracle OpenJDK `21.0.1`**](https://jdk.java.net/21/) - Production-ready open-source builds of the Java Development Kit
+  - ✔️ [**Oracle OpenJDK `21.0.2`**](https://jdk.java.net/21/) - Production-ready open-source builds of the Java Development Kit
   - Superseded versions:
     - 📉 [Oracle OpenJDK `20`](https://jdk.java.net/20/)
     - 📉 [Oracle OpenJDK `19`](https://jdk.java.net/19/)
@@ -249,10 +249,10 @@ Improvements:
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
 
-  - ✔️ [**JDK Version `21.0.1`**](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.8`**. 17 October 2023.
+  - ✔️ [**JDK Version `21.0.2`**](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.8`**. 16 January 2024.
   <!--  - 👍 [JDK Version `20.0.2`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.8`**. -->
-  - 👍 [JDK Version `17.0.9`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6-8.8`. Default in version `9.0`.**
-  - ✔️ [JDK Version `8, Update 391`](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - **Compatible with Aware IM versions `6.0` - `8.5`**. 17 October 2023.
+  - 👍 [JDK Version `17.0.10`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6-8.8`. Default in version `9.0`.**
+  - ✔️ [JDK Version `8, Update 401`](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - **Compatible with Aware IM versions `6.0` - `8.5`**. 16 January 2024.
   - Versions bundled with Aware IM:
     - Aware IM `v8.6 and above` - [JDK `12.0.2` Final](https://docs.oracle.com/en/java/javase/12/) - Archived.
     - Aware IM `v8.0 - 8.5` - JDK 8 Update 91 `1.8.0_91-b15`
@@ -313,12 +313,12 @@ Improvements:
   - [**MySQL Community Server**](http://www.mysql.com/products/community/)
     - [Supported Platforms: MySQL Database](https://www.mysql.com/support/supportedplatforms/database.html)
     - **Download MySQL**
-      - ⚠️ [MySQL Community Server 8.2.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/relnotes/mysql/8.2/en/) 26 October 2023.
+      - ⚠️ [MySQL Community Server 8.3.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/relnotes/mysql/8.3/en/) 16 January 2024.
         - Min Requirement: `Win 11`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - ✔️ [**MySQL Community Server 8.0.35**](http://dev.mysql.com/downloads/mysql/)
+      - ✔️ [**MySQL Community Server 8.0.36**](http://dev.mysql.com/downloads/mysql/)
       - 📉 [MySQL Community Server 5.7.44](https://dev.mysql.com/downloads/mysql/5.7.html)
     - Installation on Windows requires:
-      - [**Visual Studio 2015, 2017, 2019, and 2022**](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `8.0`, `8.2` and `5.7.38 and above`
+      - [**Visual Studio 2015, 2017, 2019, and 2022**](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `8.0`, `8.3` and `5.7.38 and above`
       - [**Visual Studio 2013**](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `5.7.9 - 5.7.39`
 
 - **Apache Derby** - [Home](http://db.apache.org/derby/)
@@ -356,7 +356,7 @@ Improvements:
 
 - [**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
-  - ✔️ [**Connector/J 8.2**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.2.0`**. Requires `Java 8` and `above`. Connector/J 8.1 supports MySQL `5.7`, `8.0`, and `8.1`.
+  - ✔️ [**Connector/J 8.3**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.3.0`**. Requires `Java 8` and `above`. Connector/J 8.1 supports MySQL `5.7`, `8.0`, and `8.3`.
 
     - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
     - **Installation**
@@ -368,12 +368,12 @@ Improvements:
 
   - 📉 [Connector/J 8.0](https://downloads.mysql.com/archives/c-j/) - **Final version `v8.0.33`**. Archived.
 
-- [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.0`. Java 8 required.
+- [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.1`. Java 8 required.
 
 - [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
 
   - ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.com/kb/en/about-mariadb-connector-j/) - Out-of-the-box support in Aware IM `v8.3`+. Java `8+`
-  - :warning: [MariaDB Connector/J `3.3.1`](https://mariadb.com/kb/en/mariadb-connector-j-3-3-1-release-notes/)
+  - :warning: [MariaDB Connector/J `3.3.2`](https://mariadb.com/kb/en/mariadb-connector-j-3-3-2-release-notes/)
 
 ### **Web Application Framework**
 
