@@ -6,140 +6,12 @@
 
 > Aware IM is a rapid low-code application development tool that lets you create powerful aesthetically appealing web applications quickly.
 
-[**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
+[**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✅ Next Release `version 9.0` - January 2024.
+✔️ [**v9.0 build 3232**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3232) - 28 January, 2024.
 
-  <details>
-
-   <summary>New Features</summary>
-
-- New Java
-- Latest Kendo UI library with new themes (new preview browser engine for Windows based on Edge). Two themes are show-cased in the CRM (Bootstrap 3) and Library apps (Aqua Dark theme)
-- Support for high resolution in dialogs of the Configuration Tool
-- Redesign of outgoing emails (they are now specified in business version properties just like incoming emails
-- Support for OAuth in emails
-- Redesign of filters:
-- Generic filter control that filters for all specified attributes using OR (showcased in the CRM app)
-- "User defined" filter (new)
-- "Value list" filter (new) - showcased in the Issue Resolution Issues page ("Issue All" query)
-- Ability to combine different forms of filters
-- Filters are fully supported for standard, custom queries, charts and calendars
-- Support for QRCodes in forms and custom queries.
-In custom queries:
-<div class="aw-qrcode-settings" border-width="2px" border-color="#ff0000" color=#00ff00" padding="15px">
-{B,qrcode}
-</div>
-- Support for Barcodes in forms and custom queries (showcased in the SalesPortal app).
-In custom queries:
-<div class="aw-barcode-settings" type="code39" width="280" height="100">
-{B,barcode}
-</div>
-- Support for Line Icons font (free) - when any icon in the Config. Tool is selected there is a button to select from the Line Icons font or from Font Awesome font
-
-- Support for tiles.
-  Tiles are boxes often used in dashboards. You can put content into a tile on a grid.
-  Each of the 9 possible locations can have text or icon or chart (Kendo sparkline). A tile can be chosen as content of
-  a content panel (like GM, HTML etc). You can export a tile into XML and import it - thus copying/pasting into different VPs.
-  Tiles can be selected from templates. You can also add your own tile to the list of templates if you export a tile and put it in the
-  new folder under AwareIM/TileTemplates. When a new tab is created in a VP you can initialise it with tiles
-  Same when creating a new business space (in Themes, tiles and font size link). When adding text or charts you can specify tag
-  expressions <<COUNT SystemUser>>. This is how you specify data for bullet and pie charts. For other charts data is collected using a query.
-  There is also the Add Tiles button in the VP's toolbar that replaces the content of the current tab with selected tiles
-  (showcased in the Dashboard in the CRM, Issue Resolution and Library apps)
-
-- Button Group widget for text attributes with static choices (showcased in the CRM app in forms for OutgoingLetter and OutgoingEmail objects)
-
-- Support for special editing widgets in standard queries - switches, rating, toggle button, button group. They work
-  in the inline editing mode - if a column is not editable, they are displayed as read-only widgets. If the column is editable
-  clicking on them immediately changes the value in the database and recalculates the current record. Toggle button works for Yes/No
-  attributes and for text with choices, where it toggles through possible choices. Styling presentation rules of the corresponding
-  attribute may determine the colors of the Toggle Button and buttons of a Button Group.
-  These can be specified if you select a column of the grid and choose Display/Editing property. Or if you go to the properties of
-  the column from Displayed Columns and click on the Column Display button
-  (showcased in the CRM "Unsent Letters" query, also Issue Resolution - "Issues All" query, "Issues Closed" query)
-
-- Support for WorkSheets (new node in the tree - can drag and drop into a WorkSheet, go to element, add items from Find References)
-- Redesign of a Duration attribute - new widget to edit the format of duration (also supports the initial value) - showcased in CRM (
-  forms of all objects that are members of the Communication group) (zeroes are not allowed)
-
-Improvements:
-
-- Default for Yes/No switch is Yes/No
-- Improvements for Google Maps
-- ability to specify marker shape and color (and custom marker) in presentation rules (new element type there Google Maps Marker)
-- Presentation rules for labels can be used to display a label on the marker
-- Get Directions operation can be used in Operations with Records for a query (if this query is used by a Google Map in a VP)
-  Also, has an option to display detailed directions in a separate window
-- Ablity to specify panel caption separately from Panel Header, which allows to use captions in popup wwindows, for example, when there is no panel header
-- Panel Operations can now be allowed on forms when a new object is being created. A special flag when defining a panel operation
-- YESNAME and NONAME keys for the DISPLAY QUESTION action: DISPLAY QUESTION 'Do you want to continue' YESNAME 'I do' NONAME 'I do not'
-- Tree improvements (multi-column only)
-- Item display rules are supported,
-- Grouping of operations on records
-- Checkbox selection (pick from)
-- Trees now support business object groups
-- If a tree is expanded, sorting and filtering is supported (including filter row).
-- Stylistical improvements to the bootstrap theme (showcased in the CRM sample app)
-- Modern and classic left menu style (showcased in the Library sample app, which has a Modern style left menu)
-- FORCE POPUP option for ENTER NEW and EDIT actions to override "single tab mode"
-- Scaling issue with ID_GEN and MySQL. New setting in BASServer.props MULTISERVER=true
-- Select All/Deselect All for a multi-attribute cell dialog
-- Label style available for pictures
-- While consuming REST service it is possible to encode Yes/No as boolean (a new drop down in Request Body details.
-- "Absolute positioning" property when editing forms to solve the problem of "tall" controls in forms - showcased in CRM (Customer Photo, Interests checkboxes)
-- Support for grouping in combo boxes of references and multi-selectors (showcased in Issue Resolution - form of the Issue object (Assigned To)
-- Scheduler improvements
-- Yearly view with the ability to specify number of months to show (showcased in CRM - "Company Diary" query)
-- Maximum events per day for monthly view
-- Adaptive slot height for monthly view(showcased in CRM - Company Diary)
-- Control of allocation of 'all day' slot
-- Html Editor improvements
-- Images can be scaled
-- Ability to control which tools of the editor are available
-- UI style for calendar widgets - classic and modern
-- Compact size flag for standard queries
-- Ability to add "chip" widget to custom queries:
-<div class="aw-chip-settings" fill_mode="outline" icon="check"0>
-{AttrName,chip}
-</div>
-- Process diagram - selected expression is now displayed on the right and supports context assistant
-- Invisibility condition for content panels in visual perspectives
-- Ability to set a style to a reference grid in the Form Designer
-- Chart improvements:
-- Ability to combine more chart types in series
-- Area charts - stacked, show markers, smooth and stepped (Library sample app - dashboard)
-- New chart types:
-- Vertical bullet
-- Range Bar
-- Range Area
-- Bubble
-- Scatter
-- Funnel
-- Bullet (in a visual perspective only)(showcased in SalesPortal in the TeamEfficiency tab, also in Library - inside tiles)
-- Circular and Arc gauge (showcased in tthe Issue Resolution dashboard)
-- Gauges in visual perspective
-- More properties for gauges
-- Visibility of major and minor ticks of an axis
-- Color ranges support for axis in charts and gauges (Issue Resolution dashboard)
-- Support for start angle, 'explode' and auto fit content for pie and donuts (explode is showcased in the Library dashboard)
-- Support for stepped line
-- Radar - area and bar
-- SUpport for multiple Y axes and axis crossing values (usually specified as X crossing value) - showcased in the CRM chart)
-- Menu command to toggle visibility of the left menu (Library sample app - dashboard)
-- DQ() function to generate double quotation marks
-- Ability to specify settings for popup windows of processes and Add New Reference operations. Also menu items
-- Ability to specify different choices in different forms
-</details>
-
-✔️ [**v8.8 build 3137**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8/3137) - 23 May, 2023.
-
-- New Features and improvements in version 8.8
-  - 3132 - Support for max file size, total max file size and allowed extensions for multi-file upload
-  - 3127 - [“Resolve Shortcuts”](https://www.awareim.com/dokuwiki/doku.php/docs/2500_config_apps/1100_add_edit_queries/0100_query_props#resolve_shortcuts) property when defining a query (performance booster)
-  - 3126 - Support for non-iterated property in reports
-  - 3126 - [GET_ATTR_VALUE](https://www.awareim.com/dokuwiki/doku.php/a_f/f/af/get_attr_value) function
-  - 3123 - [**List of `8.8` release improvements**](https://www.awareim.com/dokuwiki/doku.php/changelog/8.8/3123)
+- New Features and improvements in version 9.0
+  - 3232 - [**`9.0` release**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3232)
 
 ### Application Server
 
@@ -182,7 +54,7 @@ Improvements:
 
 - [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install.
 
-  - Tested and working with `Aware IM` `6.x`, `7.x` & **`8.x`**
+  - Tested and working with Aware IM `6.x` - **`8.x`**
   - [**Security**](https://tomcat.apache.org/security-9.html)
       <details>
 
@@ -230,7 +102,7 @@ Improvements:
       - 4. Open you AwareIM installation Tomcat folder **`C:\AwareIM\Tomcat`**
       - 5. Press `Ctrl+v` to paste and replace all files and folders.
       - 6. Java JDK `tools.jar`:
-           - **In v8.6-8.8**, `tools.jar` is not required.
+           - **In v8.6-9.0**, `tools.jar` is not required.
            - **In v8.3-8.5**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\lib_ folder to replace the old one.
            - **In v8.2 and below**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\Tomcat\lib_ folder to replace the old one.
       - 7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
@@ -254,17 +126,19 @@ Improvements:
   - 👍 [JDK Version `17.0.10`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6-8.8`. Default in version `9.0`.**
   - ✔️ [JDK Version `8, Update 401`](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - **Compatible with Aware IM versions `6.0` - `8.5`**. 16 January 2024.
   - Versions bundled with Aware IM:
-    - Aware IM `v8.6 and above` - [JDK `12.0.2` Final](https://docs.oracle.com/en/java/javase/12/) - Archived.
-    - Aware IM `v8.0 - 8.5` - JDK 8 Update 91 `1.8.0_91-b15`
+    - Aware IM `v9.0` - [JDK `17.0.6`](https://docs.oracle.com/en/java/javase/17/)
+    - Aware IM `v8.6 - v8.8` - [JDK `12.0.2` Final](https://docs.oracle.com/en/java/javase/12/) - Archived.
+    - Aware IM `v8.0 - v8.5` - JDK 8 Update 91 `1.8.0_91-b15`
   - [**All previous JDK versions archive**](https://www.oracle.com/java/technologies/downloads/archive/)
     - [Manual Downloads](https://java.com/en/download/manual.jsp)
 
 #### Java Servlets
 
 - ✔️ [**Jakarta Mail**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/) - **`1.6.7`** - April 8, 2021 Final Release. (formerly JavaMail)
+  <!-->
 
-  - ⚠️ Jakarta Mail 2.0.x - Incompatible with Aware IM `8.8`
-
+  - ⚠️ Jakarta Mail 2.0.x - Incompatible with Aware IM `8.8`.
+    -->
   - [**Download jakarta.mail-1.6.7.jar**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/1.6.7)
     - **Installation**
       - In Aware IM **v8.3 and above**, rename _`jakarta.mail-x.x.x.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\lib`_
@@ -381,7 +255,8 @@ Improvements:
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
     - Latest Kendo UI Release [**Kendo UI R3 2023 SP1**](<https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2023-sp1-(version-2023-3-1114)>) - November 13, 2023
-    - 📉 **Aware IM `8.6 - 8.8`** Kendo UI version [**Kendo UI R3 2020 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - **October 21, 2020**
+    - 📉 **Aware IM `9.0` Kendo UI version** [**Kendo UI R2 2023 SP1**](<https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-sp1-(version-2023-2-718)>) - July 19, 2023
+    - 📉 Aware IM `8.6 - 8.8` Kendo UI version [Kendo UI R3 2020 SP1](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
     - 📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
     - 📉 Aware IM `7.0 - 8.0` Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
   - [**jQuery Demos & Examples**](https://demos.telerik.com/kendo-ui/) - Kendo UI jQuery Components
@@ -392,7 +267,7 @@ Improvements:
 
   - ❔ [Bootstrap v5.3.2](https://getbootstrap.com/)
   - ❔ [Bootstrap v4.6.2](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
-  - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**. Bootstrap `3.3.4` bundled with Aware IM v `8.8`.
+  - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**. Bootstrap `3.3.4` bundled with Aware IM `v9.0`.
     - [Download v3.4.1](https://getbootstrap.com/docs/3.4/getting-started/#download)
     - [Bootstrap v3.4 CDN](https://getbootstrap.com/docs/3.4/getting-started/#download-cdn)
   - [All Bootstrap Versions](https://getbootstrap.com/docs/versions/)
@@ -404,7 +279,7 @@ Improvements:
 
 - [**Font Awesome 5**](https://fontawesome.com/) - Icon library.
   - ❔ Font Awesome `5.15.4 For The Web` - Latest version [Download](https://fontawesome.com/v5/download)
-  - ✔️ Aware IM `8.8` bundles [Font Awesome version `5.6.3 Free For Web`](https://fontawesome.com/v5/download).
+  - ✔️ Aware IM `9.0` bundles [Font Awesome version `5.6.3 Free For Web`](https://fontawesome.com/v5/download).
   - [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks
   - [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time.
 
@@ -412,10 +287,10 @@ Improvements:
 
 - **Integration with Stripe Multi-Payment** - Stripe is a very well-known payment platform and it supports multi-party payments. <!-- [Video](https://youtu.be/4m9YNPrpsvk%22) -->
 
-- **Electronic Signature Capture** - For Aware IM `5.9 - 8.x`
+- **Electronic Signature Capture** - For Aware IM `5.9 - 9.x`
   - [**Signature Pad**](https://github.com/szimek/signature_pad) - Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers.
   - [**DEMO - Github**](http://szimek.github.io/signature_pad/)
-  - [✔️ **Signature Pad v1.5.3**](https://www.jsdelivr.com/package/npm/signature_pad?version=1.5.3) - Tested and working in all versions `5.9 - 8.x`
+  - [✔️ **Signature Pad v1.5.3**](https://www.jsdelivr.com/package/npm/signature_pad?version=1.5.3) - Tested and working in all versions `5.9 - 9.x`
   - **Installation**:
     - Replace ../AwareIM/signature/signature_pad.js with the new version.
   - **Options** - Edit **signature_pad.js** found in **C:\AwareIM\Tomcat\webapps\AwareIM\signature**
