@@ -11,7 +11,7 @@
 ✔️ [**v9.0 build 3232**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3232) - 28 January, 2024.
 
 - New Features and improvements in version 9.0
-  - 3232 - [**`9.0` release**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3232)
+  - 3232 - [**`9.0` New Release**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3232)
 
 ### Application Server
 
