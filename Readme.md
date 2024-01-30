@@ -45,7 +45,7 @@
       - 1. **Extract** the archive and open the folder.
       - 2. Open the extracted **Tomcat** folder.
       - 3. Select all files and folders and press `Crl+c` to copy
-      - 4. Open you AwareIM v8.8 installation Tomcat folder **`C:\AwareIM\Tomcat`**
+      - 4. Open you AwareIM v9.0 installation Tomcat folder **`C:\AwareIM\Tomcat`**
       - 5. Press `Ctrl+v` to paste and replace all files and folders.
       - 6. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
         </details>
@@ -121,9 +121,9 @@
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
 
-  - ✔️ [**JDK Version `21.0.2`**](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.8`**. 16 January 2024.
+  - ✔️ [**JDK Version `21.0.2`**](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `9.0`**. 16 January 2024.
   <!--  - 👍 [JDK Version `20.0.2`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.8`**. -->
-  - 👍 [JDK Version `17.0.10`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6-8.8`. Default in version `9.0`.**
+  - 👍 [JDK Version `17.0.10`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6-8.8`. Default in AwareIM version `9.0`.**
   - ✔️ [JDK Version `8, Update 401`](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - **Compatible with Aware IM versions `6.0` - `8.5`**. 16 January 2024.
   - Versions bundled with Aware IM:
     - Aware IM `v9.0` - [JDK `17.0.6`](https://docs.oracle.com/en/java/javase/17/)
@@ -237,7 +237,7 @@
       - Application Server
         1. Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-j-8.0.31.jar`
         2. Copy and replace the existing file in
-        - **v8.8**, `C:\AwareIM\lib`
+        - **v9.0**, `C:\AwareIM\lib`
         3. Restart AwareIM Server
 
   - 📉 [Connector/J 8.0](https://downloads.mysql.com/archives/c-j/) - **Final version `v8.0.33`**. Archived.
