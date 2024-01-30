@@ -122,7 +122,6 @@
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
 
   - ✔️ [**JDK Version `21.0.2`**](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `9.0`**. 16 January 2024.
-  <!--  - 👍 [JDK Version `20.0.2`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.8`**. -->
   - 👍 [JDK Version `17.0.10`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6-8.8`. Default in AwareIM version `9.0`.**
   - ✔️ [JDK Version `8, Update 401`](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - **Compatible with Aware IM versions `6.0` - `8.5`**. 16 January 2024.
   - Versions bundled with Aware IM:
@@ -135,10 +134,7 @@
 #### Java Servlets
 
 - ✔️ [**Jakarta Mail**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/) - **`1.6.7`** - April 8, 2021 Final Release. (formerly JavaMail)
-  <!-->
 
-  - ⚠️ Jakarta Mail 2.0.x - Incompatible with Aware IM `8.8`.
-    -->
   - [**Download jakarta.mail-1.6.7.jar**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/1.6.7)
     - **Installation**
       - In Aware IM **v8.3 and above**, rename _`jakarta.mail-x.x.x.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\lib`_
