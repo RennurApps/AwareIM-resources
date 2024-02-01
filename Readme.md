@@ -119,10 +119,10 @@
     - 📉 [Oracle OpenJDK `17`](https://jdk.java.net/17/)
     - 📉 [Archived Versions](https://jdk.java.net/archive/)
 
-- [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) - [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
+- [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) <!-- [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) -->
 
   - ✔️ [**JDK Version `21.0.2`**](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `9.0`**. 16 January 2024.
-  - 👍 [JDK Version `17.0.10`](https://www.oracle.com/java/technologies/downloads/) - **Works with Aware IM version `8.6-8.8`. Default in AwareIM version `9.0`.**
+  - 👍 [JDK Version `17.0.10`](https://www.oracle.com/java/technologies/downloads/) - \*\*Works with Aware IM version `8.6-8.8`. 16 January 2024.
   - ✔️ [JDK Version `8, Update 401`](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - **Compatible with Aware IM versions `6.0` - `8.5`**. 16 January 2024.
   - Versions bundled with Aware IM:
     - Aware IM `v9.0` - [JDK `17.0.6`](https://docs.oracle.com/en/java/javase/17/)
