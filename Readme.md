@@ -312,7 +312,7 @@ Developers can integrate any application with Aware IM by writing a plugin, as l
       - **`v0.12.6 Final`** Tested and working in Aware IM **6.0+**. Released June 11, 2020. Archived.
   - **Install wkhtmltopdf**
     - Windows OS
-      - Extract `*.exe` file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste wkhtmltopdf folder to c:/AwareIM
+      - Extract `*.exe` file to a folder (you can use [7-Zip](http://www.7-zip.org/)), copy+paste `wkhtmltopdf` folder to `c:/AwareIM/`
   - **Aware IM Process Rules**
     - **Step 1** - Export Aware IM HTML Document to a HTML file
       - `EXPORT DOCUMENT 'Your HTML Document' TO FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html'`
