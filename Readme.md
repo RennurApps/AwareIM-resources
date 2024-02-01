@@ -232,8 +232,7 @@
     - **Installation**
       - Application Server
         1. Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-j-8.0.31.jar`
-        2. Copy and replace the existing file in
-        - **v9.0**, `C:\AwareIM\lib`
+        2. Copy and replace the existing file in `C:\AwareIM\lib`
         3. Restart AwareIM Server
 
   - 📉 [Connector/J 8.0](https://downloads.mysql.com/archives/c-j/) - **Final version `v8.0.33`**. Archived.
