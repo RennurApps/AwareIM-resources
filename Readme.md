@@ -8,10 +8,13 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✔️ [**v9.0 build 3232**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3232) - 28 January, 2024.
+✔️ [**v9.0 build 3237**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3237) - 7 February, 2024.
 
 - New Features and improvements in version 9.0
-  - 3232 - [**`9.0` New Release**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3232)
+  - 3237 - Tile dialog has better layout and supports Preview
+  - 3237 - Tree queries support paging (multi-column only)
+  - 3237 - Custom queries support paging options
+  - 3232 - [**`9.0` New Release**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3232) - 28 Jan 2024
 
 ### Application Server
 
