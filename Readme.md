@@ -8,7 +8,7 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✔️ [**v9.0 build 3238**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3238) - 7 February, 2024.
+✔️ [**v9.0 build 3238**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3238) - 9 February, 2024.
 
 - New Features and improvements in version 9.0
   - 3237 - Tile dialog has better layout and supports Preview
