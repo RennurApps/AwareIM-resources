@@ -28,7 +28,7 @@
 
 #### [**⚠️ Tomcat 10.1.18**](http://tomcat.apache.org/) - **5 January, 2024. Tomcat 10 is designed to run on `Java SE 11 or later`**
 
-- [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
+- [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi) - Untested.
 
   <!-- - ⚠️ Testing `Aware IM` **`8.8`** produced a "HTTP Status 500 – Internal Server Error" when trying to load the login url (http://localhost:8080/AwareIM/logonAdmin.jsp).
     - According to [Gemini](https://gemini.google.com/app):<br>
