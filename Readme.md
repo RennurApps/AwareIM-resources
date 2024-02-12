@@ -28,12 +28,9 @@
 
 #### [**✔️ Tomcat 10.1.18**](http://tomcat.apache.org/) - **5 January, 2024. Tomcat 10 is designed to run on `Java SE 11 or later`**
 
-- [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi) - Works with AwareIM version `9.0`.
+- [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
 
-  <!-- - ⚠️ Testing `Aware IM` **`8.8`** produced a "HTTP Status 500 – Internal Server Error" when trying to load the login url (http://localhost:8080/AwareIM/logonAdmin.jsp).
-    - According to [Gemini](https://gemini.google.com/app):<br>
-      `The stack trace you provided indicates that the server is unable to find the javax.servlet.ServletResponse class. This can happen for a few reasons, but it is most likely because you are using an older version of the javax.servlet JAR file than the one that is required by Tomcat 10.1.13.` -->
-
+  - Works with AwareIM version `9.0`.
   - [**Security**](https://tomcat.apache.org/security-10.html)
 
   - [Tomcat 10 Documentation](https://tomcat.apache.org/tomcat-10.1-doc/index.html).
@@ -58,7 +55,7 @@
 
 - [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install.
 
-  - Tested and working with Aware IM `6.x` - **`8.x`**
+  - Working with Aware IM versions `6.x` - `8.x`
   - [**Security**](https://tomcat.apache.org/security-9.html)
 
   - [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
