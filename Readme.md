@@ -55,7 +55,7 @@
 
 - [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install.
 
-  - Working with Aware IM versions `6.x` - `8.x`
+  - Workis with AwareIM versions `6.x` - `8.x`
   - [**Security**](https://tomcat.apache.org/security-9.html)
 
   - [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
