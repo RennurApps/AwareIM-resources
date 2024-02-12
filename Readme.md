@@ -14,7 +14,7 @@
   - 3237 - Tile dialog has better layout and supports Preview
   - 3237 - Tree queries support paging (multi-column only)
   - 3237 - Custom queries support paging options
-  - 3232 - [**`9.0` New Release**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3232) - 28 Jan 2024
+  - 3232 - [**`9.0` New Release**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3232) - 28 Jan 2024.
 
 ### Application Server
 
@@ -277,7 +277,7 @@
 
 - [**Font Awesome 5**](https://fontawesome.com/) - Icon library.
   - ❔ Font Awesome `5.15.4 For The Web` - Latest version [Download](https://fontawesome.com/v5/download)
-  - ✔️ Aware IM `9.0` bundles [Font Awesome version `5.6.3 Free For Web`](https://fontawesome.com/v5/download).
+  - ✔️ Aware IM `9.0` bundles [Font Awesome version `5.6.3 For The Web`](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.6.3).
   - [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks
   - [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time.
 
