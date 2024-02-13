@@ -180,7 +180,7 @@
 - **PostgreSQL**
 
   - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
-  - [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `16.1`
+  - [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `16.2` <!-- https://endoflife.date/postgresql -->
 
 - **Maria DB**
 
@@ -192,7 +192,7 @@
   - [Download](https://www.microsoft.com/en-in/sql-server/sql-server-downloads)
 
 - [**Oracle**](https://www.oracle.com/database/)
-  - [Download](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database version `21c` (`21.3`)
+  - [Download](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database version `23c` (`23c`) <!-- https://endoflife.date/oracle-database -->
 
 #### Database Connectors
 
