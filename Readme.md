@@ -28,7 +28,7 @@
 
 #### [**✔️ Tomcat 10.1.18**](http://tomcat.apache.org/) - **5 January, 2024. Tomcat 10 is designed to run on `Java SE 11 or later`**
 
-- [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi)
+- [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi) - 64bit recommended. Manual Install required.
 
   - Works with AwareIM version `9.0`.
   - [**Security**](https://tomcat.apache.org/security-10.html)
@@ -53,32 +53,13 @@
 
 #### [**👍 Tomcat 9.0.85**](http://tomcat.apache.org/) - **5 January, 2024. Tomcat 9 is designed to run on `Java SE 8 or later`**
 
-- [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi) - 64bit recommended. Manual Install.
+- [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi)
 
   - Works with AwareIM versions `6.0` - `9.0`
   - [**Security**](https://tomcat.apache.org/security-9.html)
 
   - [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
   - [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-  - **Installation**
-      <details>
-
-      <summary>Microsoft Windows Based Systems</summary>
-
-    - **IMPORTANT**: Ensure any prior modification of existing _`web.xml`_ and _`server.xml`_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.
-    - **Installation Steps**
-      - Stop the Aware IM server before updating Tomcat. Do **not** delete your current _C:\AwareIM\Tomcat_ folder.
-      - 1. **Extract** the archive and open the folder.
-      - 2. Open the extracted **Tomcat** folder.
-      - 3. Select all files and folders and press `Crl+c` to copy
-      - 4. Open you AwareIM installation Tomcat folder **`C:\AwareIM\Tomcat`**
-      - 5. Press `Ctrl+v` to paste and replace all files and folders.
-      - 6. Java JDK `tools.jar`:
-           - **In v8.6-9.0**, `tools.jar` is not required.
-           - **In v8.3-8.5**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\lib_ folder to replace the old one.
-           - **In v8.2 and below**, if you have updated Java JDK, copy the latest version of `tools.jar` to the _C:\Awareim\Tomcat\lib_ folder to replace the old one.
-      - 7. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
-        </details>
 
 #### Java JDK
 
