@@ -42,6 +42,17 @@
 
 - [Tomcat 10 Documentation](https://tomcat.apache.org/tomcat-10.1-doc/index.html).
 - [Tomcat 10 Changelog](https://tomcat.apache.org/tomcat-10.1-doc/changelog.html).
+
+#### [**✔️ Tomcat 9.0.85**](http://tomcat.apache.org/) - **5 January, 2024. Tomcat 9 is designed to run on `Java SE 8 or later`**
+
+- [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi)
+
+  - Works with AwareIM versions `6.0` - `9.0`
+  - [**Security**](https://tomcat.apache.org/security-9.html)
+
+  - [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
+  - [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
+
 - **Installation**
     <details>
 
@@ -57,16 +68,6 @@
     - 5. Press `Ctrl+v` to paste and replace all files and folders.
     - 6. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
       </details>
-
-#### [**✔️ Tomcat 9.0.85**](http://tomcat.apache.org/) - **5 January, 2024. Tomcat 9 is designed to run on `Java SE 8 or later`**
-
-- [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi)
-
-  - Works with AwareIM versions `6.0` - `9.0`
-  - [**Security**](https://tomcat.apache.org/security-9.html)
-
-  - [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
-  - [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
 
 #### Java JDK
 
