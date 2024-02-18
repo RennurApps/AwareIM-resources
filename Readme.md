@@ -36,7 +36,7 @@
 
 - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi) - 64bit recommended. Manual Install required.
 
- <!--> - Works with AwareIM version `9.0`. -->
+ <!-- - Works with AwareIM version `9.0`. -->
 
 - [**Security**](https://tomcat.apache.org/security-10.html)
 
