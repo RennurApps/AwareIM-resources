@@ -8,9 +8,12 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✔️ [**v9.0 build 3240**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3240) - 13 February, 2024.
+✔️ [**v9.0 build 3240**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3241) - 16 February, 2024.
 
 - New Features and improvements in version 9.0
+  - 3241 - Support for alignment in tiles
+  - 3241 - Minor improvments of dialogs on a Mac
+  - 3241 - It should now be possible to explicitly indicate if a visual perspective can be used as a URL parameter
   - 3237 - Tile dialog has better layout and supports Preview
   - 3237 - Tree queries support paging (multi-column only)
   - 3237 - Custom queries support paging options
