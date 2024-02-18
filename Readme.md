@@ -29,30 +29,34 @@
 - Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
 - Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
-#### [**✔️ Tomcat 10.1.18**](http://tomcat.apache.org/) - **5 January, 2024. Tomcat 10 is designed to run on `Java SE 11 or later`**
+#### [**⚠️ Tomcat 10.1.18**](http://tomcat.apache.org/) - **5 January, 2024. Tomcat 10 is designed to run on `Java SE 11 or later`**
+
+> ⚠️ SEVERE: Servlet [action] in web application [/AwareIM] threw load() exception
+> java.lang.ClassNotFoundException: javax.servlet.http.HttpServlet
 
 - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi) - 64bit recommended. Manual Install required.
 
-  - Works with AwareIM version `9.0`.
-  - [**Security**](https://tomcat.apache.org/security-10.html)
+ <!--> - Works with AwareIM version `9.0`. -->
 
-  - [Tomcat 10 Documentation](https://tomcat.apache.org/tomcat-10.1-doc/index.html).
-  - [Tomcat 10 Changelog](https://tomcat.apache.org/tomcat-10.1-doc/changelog.html).
-  - **Installation**
-      <details>
+- [**Security**](https://tomcat.apache.org/security-10.html)
 
-      <summary>Microsoft Windows Based Systems</summary>
+- [Tomcat 10 Documentation](https://tomcat.apache.org/tomcat-10.1-doc/index.html).
+- [Tomcat 10 Changelog](https://tomcat.apache.org/tomcat-10.1-doc/changelog.html).
+- **Installation**
+    <details>
 
-    - **IMPORTANT**: Ensure any prior modification of existing _`web.xml`_ and _`server.xml`_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.
-    - **Installation Steps - Windows**
-      - Stop the Aware IM server before updating Tomcat. Do **not** delete your current _C:\AwareIM\Tomcat_ folder.
-      - 1. **Extract** the archive and open the folder.
-      - 2. Open the extracted **Tomcat** folder.
-      - 3. Select all files and folders and press `Crl+c` to copy
-      - 4. Open you AwareIM v9.0 installation Tomcat folder **`C:\AwareIM\Tomcat`**
-      - 5. Press `Ctrl+v` to paste and replace all files and folders.
-      - 6. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
-        </details>
+    <summary>Microsoft Windows Based Systems</summary>
+
+  - **IMPORTANT**: Ensure any prior modification of existing _`web.xml`_ and _`server.xml`_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.
+  - **Installation Steps - Windows**
+    - Stop the Aware IM server before updating Tomcat. Do **not** delete your current _C:\AwareIM\Tomcat_ folder.
+    - 1. **Extract** the archive and open the folder.
+    - 2. Open the extracted **Tomcat** folder.
+    - 3. Select all files and folders and press `Crl+c` to copy
+    - 4. Open you AwareIM v9.0 installation Tomcat folder **`C:\AwareIM\Tomcat`**
+    - 5. Press `Ctrl+v` to paste and replace all files and folders.
+    - 6. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
+      </details>
 
 #### [**👍 Tomcat 9.0.85**](http://tomcat.apache.org/) - **5 January, 2024. Tomcat 9 is designed to run on `Java SE 8 or later`**
 
