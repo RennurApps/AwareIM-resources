@@ -75,8 +75,8 @@
 
   - ✔️ [**Oracle OpenJDK `21.0.2`**](https://jdk.java.net/21/) - Production-ready open-source builds of the Java Development Kit
   - Superseded versions:
-    - 📉 [Oracle OpenJDK `20`](https://jdk.java.net/20/)
-    - 📉 [Oracle OpenJDK `19`](https://jdk.java.net/19/)
+    <!-- - 📉 [Oracle OpenJDK `20`](https://jdk.java.net/20/)
+     - 📉 [Oracle OpenJDK `19`](https://jdk.java.net/19/) -->
     - 📉 [Oracle OpenJDK `17`](https://jdk.java.net/17/)
     - 📉 [Archived Versions](https://jdk.java.net/archive/)
 
