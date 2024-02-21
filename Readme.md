@@ -222,7 +222,7 @@
 
 - **Bootstrap** - Frontend toolkit.
 
-  - ❔ [Bootstrap v5.3.2](https://getbootstrap.com/)
+  - ❔ [Bootstrap v5.3.3](https://getbootstrap.com/)
   - ❔ [Bootstrap v4.6.2](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
   - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**. Bootstrap `3.3.4` bundled with Aware IM `v9.0`.
     - [Download v3.4.1](https://getbootstrap.com/docs/3.4/getting-started/#download)
