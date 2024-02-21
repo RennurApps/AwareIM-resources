@@ -31,7 +31,7 @@
 
 #### [**⚠️ Tomcat 10.1.19**](http://tomcat.apache.org/) - **14 February, 2024. Tomcat 10 is designed to run on `Java SE 11 or later`**
 
-> ⚠️Tomcat output:
+> ⚠️Tomcat output: <br>
 > SEVERE: Servlet [action] in web application [/AwareIM] threw load() exception
 > java.lang.ClassNotFoundException: javax.servlet.http.HttpServlet
 
