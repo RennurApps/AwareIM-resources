@@ -31,7 +31,8 @@
 
 #### [**⚠️ Tomcat 10.1.19**](http://tomcat.apache.org/) - **14 February, 2024. Tomcat 10 is designed to run on `Java SE 11 or later`**
 
-> ⚠️ SEVERE: Servlet [action] in web application [/AwareIM] threw load() exception
+> ⚠️Tomcat output:
+> SEVERE: Servlet [action] in web application [/AwareIM] threw load() exception
 > java.lang.ClassNotFoundException: javax.servlet.http.HttpServlet
 
 - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi) - 64bit recommended. Manual Install required.
