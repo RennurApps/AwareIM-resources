@@ -234,11 +234,17 @@
         - disable **`legend`** style as it seems to be in conflict with the ExtJS style
           - `/* legend { display: block; width: 100%; padding: 0; margin-bottom: 20px; font-size: 21px; line-height: inherit; color: #333; border: 0; border-bottom: 1px solid #e5e5e5; } */` -->
 
+##### Icons
+
 - [**Font Awesome 5**](https://fontawesome.com/) - Icon library.
+
   - ❔ Font Awesome `5.15.4 For The Web` - Latest version [Download](https://fontawesome.com/v5/download)
   - ✔️ Aware IM `9.0` bundles [Font Awesome version `5.6.3 For The Web`](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.6.3).
-  - [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks
-  - [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time.
+
+- [**Lineicons**](https://lineicons.com/icons/) - An extensive library of over 8400 professionally designed SVG icons
+
+<!--   - [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks -->
+<!-->  - [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time. -->
 
 ### Out-of-the-box Features
 
