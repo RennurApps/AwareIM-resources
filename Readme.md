@@ -243,6 +243,8 @@
 
 - [**Lineicons**](https://lineicons.com/icons/) - An extensive library of over 8400 professionally designed SVG icons
 
+  - Lineicons Free `4.0 basic` included.
+
 <!--   - [Front-end Frameworks with comparison](http://bit.ly/RAfrontend) - Collection of best front-end frameworks -->
 <!-->  - [Front End Development Bookmarks](http://bit.ly/FrontEndList) - A huge list of frontend development resources collected over time. -->
 
