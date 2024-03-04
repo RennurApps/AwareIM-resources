@@ -8,7 +8,7 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✔️ [**v9.0 build 3243**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3243) - 29 February, 2024.
+✔️ [**v9.0 build 3244**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3244) - 3 March, 2024.
 
 - New Features and improvements in version 9.0
   - 3243 - Custom row filter now supports attributes with dynamic choices
