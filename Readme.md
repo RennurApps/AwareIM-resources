@@ -31,7 +31,7 @@
 - Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
 - Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
-#### [**⚠️ Tomcat 10.1.19**](http://tomcat.apache.org/) - **14 February, 2024. Tomcat 10 is designed to run on `Java SE 11 or later`**
+#### [**⚠️ Tomcat `10.1.19`**](http://tomcat.apache.org/) - **14 February, 2024. Tomcat 10 is designed to run on `Java SE 11 or later`**
 
 > ⚠️Tomcat output: <br>
 > SEVERE: Servlet [action] in web application [/AwareIM] threw load() exception
@@ -46,7 +46,7 @@
 - [Tomcat 10 Documentation](https://tomcat.apache.org/tomcat-10.1-doc/index.html).
 - [Tomcat 10 Changelog](https://tomcat.apache.org/tomcat-10.1-doc/changelog.html).
 
-#### [**✔️ Tomcat 9.0.86**](http://tomcat.apache.org/) - **14 February, 2024. Tomcat 9 is designed to run on `Java SE 8 or later`**
+#### [**✔️ Tomcat `9.0.86`**](http://tomcat.apache.org/) - **14 February, 2024. Tomcat 9 is designed to run on `Java SE 8 or later`**
 
 - [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi)
 
@@ -97,7 +97,7 @@
 
 #### Java Servlets
 
-- ✔️ [**Jakarta Mail**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/) - **`1.6.7`** - April 8, 2021 Final Release. (formerly JavaMail)
+- ✔️ [**Jakarta Mail `1.6.7`**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/) - April 8, 2021 Final Release. (formerly JavaMail)
 
   - [**Download jakarta.mail-1.6.7.jar**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/1.6.7)
     - **Installation**
@@ -147,9 +147,9 @@
   - [**MySQL Community Server**](http://www.mysql.com/products/community/)
     - [Supported Platforms: MySQL Database](https://www.mysql.com/support/supportedplatforms/database.html)
     - **Download MySQL**
-      - ⚠️ [MySQL Community Server 8.3.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/relnotes/mysql/8.3/en/) 16 January 2024.
+      - ⚠️ [MySQL Community Server `8.3.0` Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/relnotes/mysql/8.3/en/) 16 January 2024.
         - Min Requirement: `Win 11`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - ✔️ [**MySQL Community Server 8.0.36**](http://dev.mysql.com/downloads/mysql/)
+      - ✔️ [**MySQL Community Server `8.0.36`**](http://dev.mysql.com/downloads/mysql/)
       - 📉 [MySQL Community Server 5.7.44](https://dev.mysql.com/downloads/mysql/5.7.html)
     - Installation on Windows requires:
       - [**Visual Studio 2015, 2017, 2019, and 2022**](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `8.0`, `8.3` and `5.7.38 and above`
