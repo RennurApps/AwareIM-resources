@@ -150,7 +150,7 @@
       - ⚠️ [MySQL Community Server `8.3.0` Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/relnotes/mysql/8.3/en/) 16 January 2024.
         - Min Requirement: `Win 11`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
       - ✔️ [**MySQL Community Server `8.0.36`**](http://dev.mysql.com/downloads/mysql/)
-      - 📉 [MySQL Community Server 5.7.44](https://dev.mysql.com/downloads/mysql/5.7.html)
+      - 📉 [MySQL Community Server `5.7.44`](https://dev.mysql.com/downloads/mysql/5.7.html)
     - Installation on Windows requires:
       - [**Visual Studio 2015, 2017, 2019, and 2022**](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `8.0`, `8.3` and `5.7.38 and above`
       - [**Visual Studio 2013**](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `5.7.9 - 5.7.39`
@@ -190,7 +190,7 @@
 
 - [**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
-  - ✔️ [**Connector/J 8.3**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.3.0`**. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
+  - ✔️ [**Connector/J `8.3`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.3.0`**. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
 
     - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
     - **Installation**
@@ -199,7 +199,7 @@
         2. Copy and replace the existing file in `C:\AwareIM\lib`
         3. Restart AwareIM Server
 
-  - 📉 [Connector/J 8.0](https://downloads.mysql.com/archives/c-j/) - **Final version `v8.0.33`**. Archived.
+  - 📉 [Connector/J `8.0`](https://downloads.mysql.com/archives/c-j/) - **Final version `v8.0.33`**. Archived.
 
 - [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.2`. Java 8 required.
 
@@ -224,11 +224,11 @@
 
 - **Bootstrap** - Frontend toolkit.
 
-  - ❔ [Bootstrap v5.3.3](https://getbootstrap.com/)
-  - ❔ [Bootstrap v4.6.2](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+  - ❔ [Bootstrap `v5.3.3`](https://getbootstrap.com/)
+  - ❔ [Bootstrap `v4.6.2`](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
   - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**. Bootstrap `3.3.4` bundled with Aware IM `v9.0`.
-    - [Download v3.4.1](https://getbootstrap.com/docs/3.4/getting-started/#download)
-    - [Bootstrap v3.4 CDN](https://getbootstrap.com/docs/3.4/getting-started/#download-cdn)
+    - [Download `v3.4.1`](https://getbootstrap.com/docs/3.4/getting-started/#download)
+    - [Bootstrap `v3.4` CDN](https://getbootstrap.com/docs/3.4/getting-started/#download-cdn)
   - [All Bootstrap Versions](https://getbootstrap.com/docs/versions/)
   - [List of 300+ bootstrap resources](https://expeditedsecurity.com/the-big-badass-list-of-bootstrap-resources/)
   <!--    - **Plug into Aware IM**
