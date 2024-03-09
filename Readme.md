@@ -14,7 +14,7 @@
   - 3243 - Custom row filter now supports attributes with dynamic choices
   - 3243 - Placeholders for Line Icons PRO font
   - 3241 - Support for alignment in tiles
-  - 3241 - Minor improvments of dialogs on a Mac
+  - 3241 - Minor improvements of dialogs on a Mac
   - 3241 - It should now be possible to explicitly indicate if a visual perspective can be used as a URL parameter
   - 3237 - Tile dialog has better layout and supports Preview
   - 3237 - Tree queries support paging (multi-column only)
