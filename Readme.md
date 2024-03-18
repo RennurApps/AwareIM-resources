@@ -180,7 +180,7 @@
 - **Maria DB**
 
   - [**MariaDB**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
-  - [Download](https://mariadb.org/download/) - Version `11.2.3`.
+  - [Download](https://mariadb.org/download/) - Version `11.3.2`.
 
 - [**SQL Server**](https://www.microsoft.com/en-in/sql-server/)
 
@@ -209,7 +209,7 @@
 - [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
 
   - ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.com/kb/en/about-mariadb-connector-j/) - Out-of-the-box support in Aware IM `v8.3`+. Java `8+`
-  - :warning: [MariaDB Connector/J `3.3.2`](https://mariadb.com/kb/en/mariadb-connector-j-3-3-2-release-notes/)
+  - :warning: [MariaDB Connector/J `3.3.3`](https://mariadb.com/kb/en/mariadb-connector-j-3-3-3-release-notes/)
 
 ### **Web Application Framework**
 
