@@ -13,7 +13,7 @@
 - New Features and improvements in version 9.0
   - 3246 - Date, time and duration widgets support mobile rendering
   - 3246 - Multi-selection calendar widget - [Demo](https://demos.telerik.com/kendo-ui/calendar/selection)
-  - 3246 - CREATE FOR EACH DATE IN …
+  - 3246 - [CREATE FOR EACH DATE IN …](https://awareim.com/forum/viewtopic.php?f=1&t=12893)
   - 3243 - Custom row filter now supports attributes with dynamic choices
   - 3243 - Placeholders for Line Icons PRO font
   - 3241 - Support for alignment in tiles
