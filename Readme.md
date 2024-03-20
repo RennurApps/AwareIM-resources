@@ -79,7 +79,7 @@
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
 
-  - ✔️ [**Oracle OpenJDK `21.0.2`**](https://jdk.java.net/21/) - Production-ready open-source builds of the Java Development Kit
+  - ✔️ [**Oracle OpenJDK `22`**](https://jdk.java.net/22/) - Production-ready open-source builds of the Java Development Kit
   - Superseded versions:
     <!-- - 📉 [Oracle OpenJDK `20`](https://jdk.java.net/20/)
      - 📉 [Oracle OpenJDK `19`](https://jdk.java.net/19/) -->
@@ -88,7 +88,8 @@
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/technetwork/java/javase/overview/index.html) <!-- [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) -->
 
-  - ✔️ [**JDK Version `21.0.2`**](https://www.oracle.com/java/technologies/downloads/) - Works with Aware IM version `9.0`. 16 January 2024.
+  - ✔️ [**JDK Version `22`**](https://www.oracle.com/java/technologies/downloads/) - Works with Aware IM version `9.0`. 19 March 2024.
+  - 👍 [**JDK Version `21`**](https://www.oracle.com/java/technologies/downloads/) - Works with Aware IM version `9.0`. 16 January 2024.
   - 👍 [JDK Version `17.0.10`](https://www.oracle.com/java/technologies/downloads/) - Works with Aware IM version `8.6` - `9.0`. 16 January 2024.
   <!--  - 👍 [JDK Version `8, Update 401`](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - Aware IM versions `6.0` - `8.5`. 16 January 2024. -->
   - Versions bundled with Aware IM:
