@@ -8,7 +8,7 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✔️ [**v9.0 build 3246**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3246) - 12 March, 2024.
+✔️ [**v9.0 build 3247**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3247) - 22 March, 2024.
 
 - New Features and improvements in version 9.0
   - 3246 - Date, time and duration widgets support mobile rendering
