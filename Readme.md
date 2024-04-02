@@ -8,9 +8,12 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✔️ [**v9.0 build 3247**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3247) - 22 March, 2024.
+✔️ [**v9.0 build 3249**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3249) - 1 April, 2024.
 
 - New Features and improvements in version 9.0
+  - 3249 - New library for rendering HTML inside a PDF
+  - 3249 - Scaling image option for tags representing images in the Report Designer
+  - 3249 - Changing size and orientation of the report is now visually supported.
   - 3246 - Date, time and duration widgets support mobile rendering
   - 3246 - Multi-selection calendar widget - [Demo](https://demos.telerik.com/kendo-ui/calendar/selection)
   - 3246 - [CREATE FOR EACH DATE IN …](https://awareim.com/forum/viewtopic.php?f=1&t=12893)
