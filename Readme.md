@@ -302,8 +302,8 @@ Developers can integrate any application with Aware IM by writing a plugin, as l
     - **Optional** - Delete exported HTML file
       - `DELETE FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html'`
   - Some alternatives to wkhtmltopdf:
-    - [Playwright](https://playwright.dev/) - Java / Node.js / Python / .Net
-    - [WeasyPrint](https://github.com/Kozea/WeasyPrint) - For Python 3.7+.
+    - [Playwright](https://playwright.dev/) - Java / Node.js / Python `3.8+` / .Net <!-- https://nagasudhir.blogspot.com/2023/09/html-to-pdf-conversion-in-python-with.html -->
+    - [WeasyPrint](https://github.com/Kozea/WeasyPrint) - For Python `3.7+`.
     - [Total HTML Converter](https://www.coolutils.com/TotalHTMLConverter)
     - [Prince XML](http://www.princexml.com/) - Commercial.
     - [PDFreactor](https://www.pdfreactor.com/) - Commercial. Works with any language.
