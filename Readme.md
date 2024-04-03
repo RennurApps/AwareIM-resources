@@ -125,21 +125,21 @@
   - [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab. -->
 
   - **Releases**:
-    - ⚠️ [6.0.1 Release](https://activemq.apache.org/activemq-6000001-release) - 3 December, 2023. Java 17+ required.
-    - ⚠️ [5.18.3 Release](https://activemq.apache.org/activemq-5018003-release) - 25 October, 2023. Java 11+ required.
-    - ⚠️ [5.17.6 Release](https://activemq.apache.org/activemq-5017006-release) - 25 October, 2023. Java 11+ required.
-    - ⚠️ [5.12.2+ Problem](https://activemq.apache.org/activemq-5016004-release) - **Inconsistent vector internals** Aware IM error.
+    - ⚠️ [6.1.0 Release](https://activemq.apache.org/components/classic/download/classic-06-01-00) - 3 December, 2023. Java 17+ required.
+    - ⚠️ [5.18.3 Release](https://activemq.apache.org/components/classic/download/classic-05-18-03) - 25 October, 2023. Java 11+ required.
+    - ⚠️ [5.17.6 Release](https://activemq.apache.org/components/classic/download/classic-05-17-06) - 25 October, 2023. Java 11+ required.
+    - ⚠️ [5.12.2+ Problem](https://activemq.apache.org/components/classic/download/classic-05-12-02) - **Inconsistent vector internals** Aware IM error.
       - ERROR:
         - `org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
       - Changelog
         - This release enables ActiveMQ client TLS hostname validation by default which can cause a client connection failure for server certificates that do not match the server hostname. Please refer to SSL Transport Reference for configuration and [AMQ-7047](https://issues.apache.org/jira/browse/AMQ-7047) for more information.
         - Java 8 Required - The minimum Java version has been upgraded to Java 8.
         - This release affects applications using ObjectMessages.
-    - ✔️ [**5.12.1 Release**](http://activemq.apache.org/activemq-5121-release.html)
+    - ✔️ [**5.12.1 Release**](https://activemq.apache.org/components/classic/download/classic-05-12-01)
       - Installation
         - In **v8.3 and above**, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\lib`
         <!--  - In v8.2 and below, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\Tomcat\lib` -->
-    - 📉 [**5.8.0 Release**](http://activemq.apache.org/activemq-580-release.html) - Default version packaged with the server installation.
+    - 📉 [**5.8.0 Release**](https://activemq.apache.org/components/classic/download/classic-05-08-00) - Default version packaged with the server installation.
 
 - [**Java Service Wrapper** -](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.54** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition.
 
