@@ -208,7 +208,7 @@
 
   - 📉 [Connector/J `8.0`](https://downloads.mysql.com/archives/c-j/) - **Final version `v8.0.33`**. Archived.
 
-- [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.2`. Java 8 required.
+- [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.3`. Java 8 required.
 
 - [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
 
