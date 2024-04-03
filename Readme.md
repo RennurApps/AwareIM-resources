@@ -191,7 +191,7 @@
   - [Download](https://www.microsoft.com/en-in/sql-server/sql-server-downloads)
 
 - [**Oracle**](https://www.oracle.com/database/)
-  - [Download](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database version `23c` (`23c`) <!-- https://endoflife.date/oracle-database -->
+  - [Download](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database version `23c` <!-- https://endoflife.date/oracle-database -->
 
 #### Database Connectors
 
