@@ -125,7 +125,7 @@
   - [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab. -->
 
   - **Releases**:
-    - ⚠️ [6.1.0 Release](https://activemq.apache.org/components/classic/download/classic-06-01-00) - 3 December, 2023. Java 17+ required.
+    - ⚠️ [6.1.0 Release](https://activemq.apache.org/components/classic/download/classic-06-01-00) - 15 March, 2024. Java 17+ required.
     - ⚠️ [5.18.3 Release](https://activemq.apache.org/components/classic/download/classic-05-18-03) - 25 October, 2023. Java 11+ required.
     - ⚠️ [5.17.6 Release](https://activemq.apache.org/components/classic/download/classic-05-17-06) - 25 October, 2023. Java 11+ required.
     - ⚠️ [5.12.2+ Problem](https://activemq.apache.org/components/classic/download/classic-05-12-02) - **Inconsistent vector internals** Aware IM error.
