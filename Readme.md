@@ -264,7 +264,7 @@
 - **Electronic Signature Capture** - For Aware IM `5.9 - 9.x`
   - [**Signature Pad**](https://github.com/szimek/signature_pad) - Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers.
   - [**DEMO - Github**](http://szimek.github.io/signature_pad/)
-  - [✔️ **Signature Pad v1.5.3**](https://www.jsdelivr.com/package/npm/signature_pad?version=1.5.3) - Tested and working in all versions `5.9 - 9.x`
+  - [✔️ **Signature Pad `v1.5.3`**](https://www.jsdelivr.com/package/npm/signature_pad?version=1.5.3) - Tested and working in all versions `5.9 - 9.x`
   - **Installation**:
     - Replace ../AwareIM/signature/signature_pad.js with the new version.
   - **Options** - Edit **signature_pad.js** found in **C:\AwareIM\Tomcat\webapps\AwareIM\signature**
@@ -302,7 +302,7 @@ Developers can integrate any application with Aware IM by writing a plugin, as l
     - **Optional** - Delete exported HTML file
       - `DELETE FILE 'C:/YourFileLocation/<<myBO.Name>>_No<<myBO.ID>>.html'`
   - Some alternatives to wkhtmltopdf:
-    - [Playwright](https://playwright.dev/) - [Java `8+`](https://playwright.dev/java/) / Node.js / [Python `3.8+`](https://playwright.dev/python/) / .Net <!-- https://nagasudhir.blogspot.com/2023/09/html-to-pdf-conversion-in-python-with.html -->
+    - [**Playwright**](https://playwright.dev/) - [Java `8+`](https://playwright.dev/java/) / Node.js / [Python `3.8+`](https://playwright.dev/python/) / .Net <!-- https://nagasudhir.blogspot.com/2023/09/html-to-pdf-conversion-in-python-with.html VIDEO: https://www.youtube.com/watch?v=_L6ELUJN-9Q -->
     - [WeasyPrint](https://github.com/Kozea/WeasyPrint) - For Python `3.7+`.
     - [Total HTML Converter](https://www.coolutils.com/TotalHTMLConverter)
     - [Prince XML](http://www.princexml.com/) - Commercial.
