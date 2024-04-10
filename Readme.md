@@ -125,7 +125,7 @@
   - [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab. -->
 
   - **Releases**:
-    - ⚠️ [6.1.0 Release](https://activemq.apache.org/components/classic/download/classic-06-01-00) - 15 March, 2024. Java 17+ required.
+    - ⚠️ [6.1.1 Release](https://activemq.apache.org/components/classic/download/classic-06-01-01) - 5 April, 2024. Java 17+ required.
     - ⚠️ [5.18.3 Release](https://activemq.apache.org/components/classic/download/classic-05-18-03) - 25 October, 2023. Java 11+ required.
     - ⚠️ [5.17.6 Release](https://activemq.apache.org/components/classic/download/classic-05-17-06) - 25 October, 2023. Java 11+ required.
     - ⚠️ [5.12.2+ Problem](https://activemq.apache.org/components/classic/download/classic-05-12-02) - **Inconsistent vector internals** Aware IM error.
@@ -141,7 +141,7 @@
         <!--  - In v8.2 and below, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\Tomcat\lib` -->
     - 📉 [**5.8.0 Release**](https://activemq.apache.org/components/classic/download/classic-05-08-00) - Default version packaged with the server installation.
 
-- [**Java Service Wrapper** -](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.54** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition.
+- [**Java Service Wrapper** -](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.5.56** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition.
 
   - [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
 
