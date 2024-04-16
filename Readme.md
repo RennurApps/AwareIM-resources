@@ -8,9 +8,18 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✔️ [**v9.0 build 3249**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3249) - 1 April, 2024.
+✔️ [**v9.0 build 3254**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3254) - 16 April, 2024.
 
 - New Features and improvements in version 9.0
+  - 3254 - Grouping now calculates summaries correctly even for big data sets
+  - 3254 - Support for group direction
+  - 3254 - Support for displaying group summaries in the group header column
+  - 3254 - Query preview is now supported for queries with grouping
+  - 3254 - Support for aggregates for all group levels
+  - 3254 - Ability to initially collapse any group
+  - 3254 - Ability to hide aggregates in column headers when a group is expanded
+  - 3254 - Auto refresh didn't work when calendar events were moved or resized
+  - 3254 - Left menu toggle command didn't work correctly when the top menu ran across the entire screen
   - 3249 - New library for rendering HTML inside a PDF
   - 3249 - Scaling image option for tags representing images in the Report Designer
   - 3249 - Changing size and orientation of the report is now visually supported.
