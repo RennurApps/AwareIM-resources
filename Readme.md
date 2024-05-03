@@ -8,9 +8,10 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✔️ [**v9.0 build 3254**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3254) - 16 April, 2024.
+✔️ [**v9.0 build 3257**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3257) - 2 May, 2024.
 
 - New Features and improvements in version 9.0
+  - 3257 - Loading content on demand for grouped queries - very useful for larger sets of data
   - 3254 - Grouping now calculates summaries correctly even for big data sets
   - 3254 - Support for group direction
   - 3254 - Support for displaying group summaries in the group header column
@@ -163,9 +164,9 @@
   - [**MySQL Community Server**](http://www.mysql.com/products/community/)
     - [Supported Platforms: MySQL Database](https://www.mysql.com/support/supportedplatforms/database.html)
     - **Download MySQL**
-      - ⚠️ [MySQL Community Server `8.3.0` Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/relnotes/mysql/8.3/en/) 16 January 2024.
+      - ⚠️ [MySQL Community Server 8.4.0 LTS](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/relnotes/mysql/8.4/en/) 30 April 2024.
         - Min Requirement: `Win 11`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - ✔️ [**MySQL Community Server `8.0.36`**](http://dev.mysql.com/downloads/mysql/)
+      - ✔️ [**MySQL Community Server `8.0.37`**](http://dev.mysql.com/downloads/mysql/)
       - 📉 [MySQL Community Server `5.7.44`](https://downloads.mysql.com/archives/community/) - Archived.
     - Installation on Windows requires:
       - [**Visual Studio 2015, 2017, 2019, and 2022**](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `8.0`, `8.3` and `5.7.38 and above`
