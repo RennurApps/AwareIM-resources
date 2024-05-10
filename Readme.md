@@ -62,6 +62,8 @@
 - [Tomcat 10 Documentation](https://tomcat.apache.org/tomcat-10.1-doc/index.html).
 - [Tomcat 10 Changelog](https://tomcat.apache.org/tomcat-10.1-doc/changelog.html).
 
+#### [**⚠️ Tomcat `9.0.89`**](http://tomcat.apache.org/) - Aware IM v`6.0` broken with this Tomcat version.
+
 #### [**✔️ Tomcat `9.0.88`**](http://tomcat.apache.org/) - **9 April, 2024. Tomcat 9 is designed to run on `Java SE 8 or later`**
 
 - [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi)
