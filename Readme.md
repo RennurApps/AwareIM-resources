@@ -8,9 +8,10 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✔️ [**v9.0 build 3257**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3257) - 2 May, 2024.
+✔️ [**v9.0 build 3259**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3259) - 10 May, 2024.
 
 - New Features and improvements in version 9.0
+  - 3259 - Ability to save all REST communication details in a log (business object)
   - 3257 - Loading content on demand for grouped queries - very useful for larger sets of data
   - 3254 - Grouping now calculates summaries correctly even for big data sets
   - 3254 - Support for group direction
