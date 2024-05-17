@@ -8,9 +8,12 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✔️ [**v9.0 build 3259**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3259) - 10 May, 2024.
+✔️ [**v9.0 build 3260**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3260) - 16 May, 2024.
 
 - New Features and improvements in version 9.0
+  - 3260 - [CREATE FOR EACH STRING](https://www.awareim.com/dokuwiki/doku.php/a_f/a/create)
+  - 3260 - [PARSE_JSON2 function](https://www.awareim.com/dokuwiki/doku.php/a_f/f/af/parse_json2)
+  - 3260 - Ability to direct actions in the template builder of a custom query to a `<DIV>`
   - 3259 - Ability to save all REST communication details in a log (business object)
   - 3257 - Loading content on demand for grouped queries - very useful for larger sets of data
   - 3254 - Grouping now calculates summaries correctly even for big data sets
@@ -27,7 +30,7 @@
   - 3249 - Changing size and orientation of the report is now visually supported.
   - 3246 - Date, time and duration widgets support mobile rendering
   - 3246 - Multi-selection calendar widget - [Demo](https://demos.telerik.com/kendo-ui/calendar/selection)
-  - 3246 - [CREATE FOR EACH DATE IN …](https://awareim.com/forum/viewtopic.php?f=1&t=12893)
+  - 3246 - [CREATE FOR EACH DATE IN …](https://www.awareim.com/dokuwiki/doku.php/a_f/a/create) - [Forum Post](https://awareim.com/forum/viewtopic.php?f=1&t=12893)
   - 3243 - Custom row filter now supports attributes with dynamic choices
   - 3243 - Placeholders for Line Icons PRO font
   - 3241 - Support for alignment in tiles
