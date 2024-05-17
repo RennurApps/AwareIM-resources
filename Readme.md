@@ -12,7 +12,7 @@
 
 - New Features and improvements in version 9.0
   - 3260 - [CREATE FOR EACH STRING](https://www.awareim.com/dokuwiki/doku.php/a_f/a/create)
-  - 3260 - [PARSE_JSON2 function](https://www.awareim.com/dokuwiki/doku.php/a_f/f/af/parse_json2)
+  - 3260 - [PARSE_JSON2 function](https://www.awareim.com/dokuwiki/doku.php/a_f/f/af/parse_json2) - Returns the value of the specified attribute in the same node
   - 3260 - Ability to direct actions in the template builder of a custom query to a `<DIV>`
   - 3259 - Ability to save all REST communication details in a log (business object)
   - 3257 - Loading content on demand for grouped queries - very useful for larger sets of data
