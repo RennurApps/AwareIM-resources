@@ -196,12 +196,12 @@
 - **PostgreSQL**
 
   - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
-  - [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `16.2` <!-- https://endoflife.date/postgresql -->
+  - [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `16.3` <!-- https://endoflife.date/postgresql -->
 
 - **Maria DB**
 
   - [**MariaDB**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
-  - [Download](https://mariadb.org/download/) - Version `11.3.2`.
+  - [Download](https://mariadb.org/download/) - Version `11.4.2`.
 
 - [**SQL Server**](https://www.microsoft.com/en-in/sql-server/)
 
