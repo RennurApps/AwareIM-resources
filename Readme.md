@@ -237,7 +237,7 @@ java.lang.IllegalArgumentException
 
 - [**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
-  - ✔️ [**Connector/J `8.4`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v8.4.0`**. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
+  - ✔️ [**Connector/J `9.0`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v9.0`**. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
 
     - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
     - **Installation**
@@ -246,7 +246,7 @@ java.lang.IllegalArgumentException
         2. Copy and replace the existing file in `C:\AwareIM\lib`
         3. Restart AwareIM Server
 
-  - 📉 [Connector/J `8.0`](https://downloads.mysql.com/archives/c-j/) - **Final version `v8.0.33`**. Archived.
+  - 📉 [Connector/J `8.4`](https://downloads.mysql.com/archives/c-j/) - Final version `v8.4`. Archived.
 
 - [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.3`. Java 8 required.
 
