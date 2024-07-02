@@ -52,7 +52,7 @@
 - Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
 - Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
-#### [**⚠️ Tomcat `10.1.24`**](http://tomcat.apache.org/) - 9 May, 2024. Tomcat 10 is designed to run on `Java SE 11 or later`
+#### [**⚠️ Tomcat `10.1.25`**](http://tomcat.apache.org/) - 9 May, 2024. Tomcat 10 is designed to run on `Java SE 11 or later`
 
 > ⚠️Tomcat output: <br>
 > SEVERE: Servlet [action] in web application [/AwareIM] threw load() exception
@@ -67,9 +67,28 @@
 - [Tomcat 10 Documentation](https://tomcat.apache.org/tomcat-10.1-doc/index.html).
 - [Tomcat 10 Changelog](https://tomcat.apache.org/tomcat-10.1-doc/changelog.html).
 
-#### [**⚠️ Tomcat `9.0.89`**](http://tomcat.apache.org/) - Aware IM v`6.0` broken with this Tomcat version.
+#### [**✔️ Tomcat `9.0.90`**](http://tomcat.apache.org/) - **9 April, 2024. Tomcat 9 is designed to run on `Java SE 8 or later`** <!-- [**⚠️ Tomcat `9.0.89+`**](http://tomcat.apache.org/) Has issues processing SSL:
 
-#### [**✔️ Tomcat `9.0.88`**](http://tomcat.apache.org/) - **9 April, 2024. Tomcat 9 is designed to run on `Java SE 8 or later`**
+<!-- Jun 20, 2024 7:40:09 PM org.apache.coyote.AbstractProtocol$ConnectionHandler process
+SEVERE: Error reading request, ignored
+java.lang.IllegalArgumentException
+	at java.nio.ByteBuffer.allocate(ByteBuffer.java:334)
+	at org.apache.coyote.http11.filters.ChunkedInputFilter.<init>(ChunkedInputFilter.java:120)
+	at org.apache.coyote.http11.Http11Processor.<init>(Http11Processor.java:172)
+	at org.apache.coyote.http11.AbstractHttp11Protocol.createProcessor(AbstractHttp11Protocol.java:1358)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:924)
+	at org.apache.tomcat.util.net.Nio2Endpoint$SocketProcessor.doRun(Nio2Endpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.net.AbstractEndpoint.processSocket(AbstractEndpoint.java:1333)
+	at org.apache.tomcat.util.net.SecureNio2Channel$HandshakeWriteCompletionHandler.completed(SecureNio2Channel.java:124)
+	at org.apache.tomcat.util.net.SecureNio2Channel$HandshakeWriteCompletionHandler.completed(SecureNio2Channel.java:117)
+	at sun.nio.ch.Invoker.invokeUnchecked(Invoker.java:126)
+	at sun.nio.ch.Invoker$2.run(Invoker.java:218)
+	at sun.nio.ch.AsynchronousChannelGroupImpl$1.run(AsynchronousChannelGroupImpl.java:112)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.lang.Thread.run(Thread.java:750) -->
 
 - [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi)
 
