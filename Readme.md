@@ -8,7 +8,7 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✔️ [**v9.0 build 3264**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3264.) - 11 June, 2024.
+✔️ [**v9.0 build 3265**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3264.) - 3 July, 2024.
 
 - New Features and improvements in version 9.0
   - 3263 - [Multi-checkbox filter for standard queries](https://www.awareim.com/dokuwiki/doku.php/docs/2500_config_apps/1100_add_edit_queries/0200_display_results/0700_query_filters#multi-checkbox_filter)
