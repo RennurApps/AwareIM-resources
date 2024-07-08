@@ -195,7 +195,7 @@ java.lang.IllegalArgumentException
     - **Download MySQL**
       - ⚠️ [MySQL Community Server 9.0.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/refman/9.0/en/) 1 July 2024.
         - Min Requirement: `Win 11`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - ⚠️ [MySQL Community Server 8.4.1 LTS](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/relnotes/mysql/8.4/en/) 1 July 2024.
+      - ⚠️ [MySQL Community Server 8.4.1 LTS](http://dev.mysql.com/downloads/mysql/) - 1 July 2024.
         - Min Requirement: `Win 11`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
       - ✔️ [**MySQL Community Server `8.0.38`**](http://dev.mysql.com/downloads/mysql/)
       - 📉 [MySQL Community Server `5.7.44`](https://downloads.mysql.com/archives/community/) - Archived.
@@ -254,7 +254,7 @@ java.lang.IllegalArgumentException
 - [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
 
   - ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.com/kb/en/about-mariadb-connector-j/) - Out-of-the-box support in Aware IM `v8.3`+. Java `8+`
-  - :warning: [MariaDB Connector/J `3.3.3`](https://mariadb.com/kb/en/mariadb-connector-j-3-3-3-release-notes/)
+  - :warning: [MariaDB Connector/J `3.4.0`](https://mariadb.com/kb/en/mariadb-connector-j-3-4-0-release-notes/)
 
 ### **Web Application Framework**
 
