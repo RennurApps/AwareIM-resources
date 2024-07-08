@@ -8,9 +8,10 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✔️ [**v9.0 build 3265**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3264.) - 3 July, 2024.
+✔️ [**v9.0 build 3265**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3265) - 3 July, 2024.
 
 - New Features and improvements in version 9.0
+  - 3265 - [[DISPLAY](https://www.awareim.com/dokuwiki/doku.php/a_f/a/display)]/[[PICK FROM](https://www.awareim.com/dokuwiki/doku.php/a_f/a/pick_from)] … [USING QueryName]
   - 3263 - [Multi-checkbox filter for standard queries](https://www.awareim.com/dokuwiki/doku.php/docs/2500_config_apps/1100_add_edit_queries/0200_display_results/0700_query_filters#multi-checkbox_filter)
   - 3260 - [CREATE FOR EACH STRING](https://www.awareim.com/dokuwiki/doku.php/a_f/a/create)
   - 3260 - [PARSE_JSON2 function](https://www.awareim.com/dokuwiki/doku.php/a_f/f/af/parse_json2) - Returns the value of the specified attribute in the same node
