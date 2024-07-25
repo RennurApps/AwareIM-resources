@@ -8,7 +8,7 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✔️ [**v9.0 build 3265**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3265) - 3 July, 2024.
+✔️ [**v9.0 build 3269**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3269) - 23 July, 2024.
 
 - New Features and improvements in version 9.0
   - 3265 - [[DISPLAY](https://www.awareim.com/dokuwiki/doku.php/a_f/a/display)]/[[PICK FROM](https://www.awareim.com/dokuwiki/doku.php/a_f/a/pick_from)] … [USING QueryName]
