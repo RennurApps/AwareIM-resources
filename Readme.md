@@ -8,9 +8,18 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✔️ [**v9.0 build 3272**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3272) - 5 August, 2024.
+✔️ [**v9.0 build 3273**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3272) - 18 August, 2024.
 
 - New Features and improvements in version 9.0
+  - 3273 - 'load on demand' in grouped queries supports sorting and paging properly
+  - 3273 - Performance improvements for big complicated forms with many presentation rules
+  - 3273 - Improvements to Scroll View in custom queries
+    - new UI
+    - allow displaying several items per page
+    - preview fixes
+    - example in CRM
+  - 3273 - Support for client credentials flow in OAuth
+  - 3273 - “name field for binary REST part
   - 3271 - ['load on demand' for grouped queries supports filtering and paging](https://www.awareim.com/dokuwiki/doku.php/docs/2500_config_apps/1100_add_edit_queries/0200_display_results/0100_standard_view#load_data_on_demand)
   - 3265 - [[DISPLAY](https://www.awareim.com/dokuwiki/doku.php/a_f/a/display)]/[[PICK FROM](https://www.awareim.com/dokuwiki/doku.php/a_f/a/pick_from)] … [USING QueryName]
   - 3263 - [Multi-checkbox filter for standard queries](https://www.awareim.com/dokuwiki/doku.php/docs/2500_config_apps/1100_add_edit_queries/0200_display_results/0700_query_filters#multi-checkbox_filter)
@@ -262,7 +271,7 @@ java.lang.IllegalArgumentException
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - Kendo UI for jQuery delivers everything you need for data handling, data grids, forms, navigation, performance, UX, design, accessibility, and so much more.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
-    - Latest Kendo UI Release [**Kendo UI for jQuery 2024.3.806 (2024 Q3)**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-for-jquery-2024-3-806-(2024-q3)) - August 7, 2024
+    - Latest Kendo UI Release [**Kendo UI for jQuery 2024.3.806 (2024 Q3)**](<https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-for-jquery-2024-3-806-(2024-q3)>) - August 7, 2024
     - 👍 **Aware IM `9.0` Kendo UI version** [**Kendo UI R2 2023 SP1**](<https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-sp1-(version-2023-2-718)>) - July 19, 2023
     - 📉 Aware IM `8.6 - 8.8` Kendo UI version [Kendo UI R3 2020 SP1](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
     - 📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
