@@ -8,7 +8,7 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✔️ [**v9.0 build 3273**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3272) - 18 August, 2024.
+✔️ [**v9.0 build 3274**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3272) - 20 August, 2024.
 
 - New Features and improvements in version 9.0
   - 3273 - 'load on demand' in grouped queries supports sorting and paging properly
