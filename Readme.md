@@ -230,25 +230,25 @@ java.lang.IllegalArgumentException
 - **PostgreSQL**
 
   - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
-  - [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `16.3` <!-- https://endoflife.date/postgresql -->
+  - [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `16.4` <!-- https://endoflife.date/postgresql -->
 
 - **Maria DB**
 
   - [**MariaDB**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
-  - [Download](https://mariadb.org/download/) - Version `11.4.2`.
+  - [Download](https://mariadb.org/download/) - Version `11.5.2`.
 
 - [**SQL Server**](https://www.microsoft.com/en-in/sql-server/)
 
   - [Download](https://www.microsoft.com/en-in/sql-server/sql-server-downloads)
 
 - [**Oracle**](https://www.oracle.com/database/)
-  - [Download](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database version `23c` <!-- https://endoflife.date/oracle-database -->
+  - [Download](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - Oracle Database. <!-- https://endoflife.date/oracle-database -->
 
 #### Database Connectors
 
 - [**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
-  - ✔️ [**Connector/J `9.0`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v9.0`**. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
+  - ✔️ [**Connector/J `9.0.0`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v9.0.0`**. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
 
     - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
     - **Installation**
@@ -259,12 +259,12 @@ java.lang.IllegalArgumentException
 
   - 📉 [Connector/J `8.4`](https://downloads.mysql.com/archives/c-j/) - Final version `v8.4`. Archived.
 
-- [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.3`. Java 8 required.
+- [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.4`. Java 8 required.
 
 - [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
 
   - ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.com/kb/en/about-mariadb-connector-j/) - Out-of-the-box support in Aware IM `v8.3`+. Java `8+`
-  - :warning: [MariaDB Connector/J `3.4.0`](https://mariadb.com/kb/en/mariadb-connector-j-3-4-0-release-notes/)
+  - :warning: [MariaDB Connector/J `3.4.1`](https://mariadb.com/kb/en/mariadb-connector-j-3-4-0-release-notes/)
 
 ### **Web Application Framework**
 
