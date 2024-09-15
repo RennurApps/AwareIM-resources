@@ -8,9 +8,12 @@
 
 [**Changelog**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0) <!--(http://www.awareim.com/changelog/?C=M;O=D) -->
 
-✔️ [**v9.0 build 3275**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3275) - 23 August, 2024.
+✔️ [**v9.0 build 3279**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3275) - 14 September, 2024.
 
 - New Features and improvements in version 9.0
+  - 3279 - Using standard CSV export now creates unique file names, so there is no conflict when people export at the same time
+  - 3279 - New options for EXPORT action - do not export a line with column descriptions, do not export attribute format and use labels in the column descriptions
+  - 3279 - Ability to specify selection mechanism for custom queries
   - 3273 - 'load on demand' in grouped queries supports sorting and paging properly
   - 3273 - Performance improvements for big complicated forms with many presentation rules
   - 3273 - Improvements to Scroll View in custom queries
