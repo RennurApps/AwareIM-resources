@@ -206,11 +206,11 @@ java.lang.IllegalArgumentException
   - [**MySQL Community Server**](http://www.mysql.com/products/community/)
     - [Supported Platforms: MySQL Database](https://www.mysql.com/support/supportedplatforms/database.html)
     - **Download MySQL**
-      - ⚠️ [MySQL Community Server 9.0.1 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/refman/9.0/en/) 23 July 2024.
+      - ⚠️ [MySQL Community Server 9.1.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/refman/9.1/en/) 15 October 2024.
         - Min Requirement: `Win 11`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - ⚠️ [MySQL Community Server 8.4.2 LTS](http://dev.mysql.com/downloads/mysql/) - 23 July 2024.
+      - ⚠️ [MySQL Community Server 8.4.3 LTS](http://dev.mysql.com/downloads/mysql/) - 15 October 2024.
         - Min Requirement: `Win 11`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - ✔️ [**MySQL Community Server `8.0.39`**](http://dev.mysql.com/downloads/mysql/)
+      - ✔️ [**MySQL Community Server `8.0.40`**](http://dev.mysql.com/downloads/mysql/) - 15 October 2024.
       - 📉 [MySQL Community Server `5.7.44`](https://downloads.mysql.com/archives/community/) - Archived.
     - Installation on Windows requires:
       - [**Visual Studio 2015, 2017, 2019, and 2022**](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `8.0`, `8.3` and `5.7.38 and above`
@@ -251,12 +251,12 @@ java.lang.IllegalArgumentException
 
 - [**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
-  - ✔️ [**Connector/J `9.0`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v9.0.0`**. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
+  - ✔️ [**Connector/J `9.1`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v9.1.0`**. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
 
     - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
     - **Installation**
       - Application Server
-        1. Extract the files and rename `mysql-connector-java-8.x.xx-bin.jar` to `mysql-connector-j-8.0.31.jar`
+        1. Extract the files and rename `mysql-connector-java-9.x.xx-bin.jar` to `mysql-connector-j-8.0.31.jar`
         2. Copy and replace the existing file in `C:\AwareIM\lib`
         3. Restart AwareIM Server
 
