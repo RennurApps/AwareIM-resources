@@ -138,15 +138,15 @@ java.lang.IllegalArgumentException
   - Superseded versions:
     <!-- - 📉 [Oracle OpenJDK `20`](https://jdk.java.net/20/)
      - 📉 [Oracle OpenJDK `19`](https://jdk.java.net/19/) -->
-    <!-- - 📉 [Oracle OpenJDK `17`](https://jdk.java.net/17/) --> 
+    <!-- - 📉 [Oracle OpenJDK `17`](https://jdk.java.net/17/) -->
     - 📉 [Archived Versions](https://jdk.java.net/archive/)
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/au/java/technologies/downloads/) <!-- [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) -->
 
-  - ✔️ [**JDK Version `23.0.1`**](https://www.oracle.com/au/java/technologies/downloads/#java23) - Works with Aware IM version `9.0`. 15 October 2024.
-  - 👍 [JDK Version `21.0.5`](https://www.oracle.com/au/java/technologies/downloads/#java21) - Works with Aware IM version `9.0`. 15 October 2024.
-  - 👍 [JDK Version `17.0.13`](https://www.oracle.com/au/java/technologies/downloads/#java17) - Works with Aware IM version `8.6` - `9.0`. 15 October 2024.
-  - 👍 [JDK Version `8, Update 431`](https://www.oracle.com/au/java/technologies/downloads/#java8) - Aware IM versions `6.0` - `8.5`. 15 October 2024. 
+  - ✔️ [**JDK Version `23.0.2`**](https://www.oracle.com/au/java/technologies/downloads/#java23) - Works with Aware IM version `9.0`. 21 January 2025.
+  - 👍 [JDK Version `21.0.6`](https://www.oracle.com/au/java/technologies/downloads/#java21) - Works with Aware IM version `9.0`. 21 January 2025.
+  - 👍 [JDK Version `17.0.14`](https://www.oracle.com/au/java/technologies/downloads/#java17) - Works with Aware IM version `8.6` - `9.0`. 21 January 2025.
+  - 👍 [JDK Version `8, Update 441`](https://www.oracle.com/au/java/technologies/downloads/#java8) - Aware IM versions `6.0` - `8.5`. 21 January 2025.
   - Versions bundled with Aware IM:
     - Aware IM `v9.0` - [JDK `17.0.6`](https://docs.oracle.com/en/java/javase/17/)
     - Aware IM `v8.6 - v8.8` - [JDK `12.0.2` Final](https://docs.oracle.com/en/java/javase/12/) - Archived.
@@ -206,11 +206,11 @@ java.lang.IllegalArgumentException
   - [**MySQL Community Server**](http://www.mysql.com/products/community/)
     - [Supported Platforms: MySQL Database](https://www.mysql.com/support/supportedplatforms/database.html)
     - **Download MySQL**
-      - ⚠️ [MySQL Community Server 9.1.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/refman/9.1/en/) 15 October 2024.
+      - ⚠️ [MySQL Community Server 9.2.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/refman/9.2/en/) 21 January 2025.
         - Min Requirement: `Win 11`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - ⚠️ [MySQL Community Server 8.4.3 LTS](http://dev.mysql.com/downloads/mysql/) - 15 October 2024.
+      - ⚠️ [MySQL Community Server 8.4.4 LTS](http://dev.mysql.com/downloads/mysql/) - 21 January 2025.
         - Min Requirement: `Win 11`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - ✔️ [**MySQL Community Server `8.0.40`**](http://dev.mysql.com/downloads/mysql/) - 15 October 2024.
+      - ✔️ [**MySQL Community Server `8.0.41`**](http://dev.mysql.com/downloads/mysql/) - 21 January 2025.
       - 📉 [MySQL Community Server `5.7.44`](https://downloads.mysql.com/archives/community/) - Archived.
     - Installation on Windows requires:
       - [**Visual Studio 2015, 2017, 2019, and 2022**](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `8.0`, `8.3` and `5.7.38 and above`
@@ -274,7 +274,7 @@ java.lang.IllegalArgumentException
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - Kendo UI for jQuery delivers everything you need for data handling, data grids, forms, navigation, performance, UX, design, accessibility, and so much more.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
-    - Latest Kendo UI Release [**Kendo UI for jQuery 2024.4.1112 (2024 Q4)**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-for-jquery-2024-4-1112-(2024-q4)) - November 11, 2024
+    - Latest Kendo UI Release [**Kendo UI for jQuery 2024.4.1112 (2024 Q4)**](<https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-for-jquery-2024-4-1112-(2024-q4)>) - November 11, 2024
     - 👍 **Aware IM `9.0` Kendo UI version** [**Kendo UI R2 2023 SP1**](<https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-sp1-(version-2023-2-718)>) - July 19, 2023
     - 📉 Aware IM `8.6 - 8.8` Kendo UI version [Kendo UI R3 2020 SP1](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
     - 📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
