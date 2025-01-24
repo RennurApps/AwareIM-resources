@@ -301,8 +301,9 @@ java.lang.IllegalArgumentException
 
 - [**Font Awesome 5**](https://fontawesome.com/) - Icon library.
 
-  - ❔ Font Awesome `5.15.4 For The Web` - Latest version [Download](https://fontawesome.com/v5/download)
-  - ✔️ Aware IM `9.0` bundles [Font Awesome version `5.6.3 For The Web`](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.6.3).
+  - ❔ Font Awesome `6.7.2 For The Web` - Latest version [Download](https://fontawesome.com/) - Released December 2024.
+  - ❔📉 Font Awesome `5.15.4 For The Web` - [Download](https://fontawesome.com/v5/download) - Released August 2021.
+  - ✔️ Aware IM `9.0` bundles [Font Awesome version `5.6.3 For The Web`](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.6.3) - Released December 2018.
 
 - [**Lineicons**](https://lineicons.com/icons/) - An extensive library of over 8400 professionally designed SVG icons
 
