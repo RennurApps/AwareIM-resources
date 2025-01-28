@@ -134,7 +134,7 @@ java.lang.IllegalArgumentException
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
 
-  - ✔️ [**Oracle OpenJDK `23.0.1`**](https://jdk.java.net/23/) - Production-ready open-source builds of the Java Development Kit
+  - ✔️ [**Oracle OpenJDK `23.0.2`**](https://jdk.java.net/23/) - Production-ready open-source builds of the Java Development Kit
   - Superseded versions:
     <!-- - 📉 [Oracle OpenJDK `20`](https://jdk.java.net/20/)
      - 📉 [Oracle OpenJDK `19`](https://jdk.java.net/19/) -->
