@@ -66,7 +66,11 @@
 - Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
 - Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
-#### [**⚠️ Tomcat `10.1.36`**](http://tomcat.apache.org/) - 13 Feb, 2025. Tomcat 10 is designed to run on `Java SE 11 or later`
+#### [**⚠️ Tomcat `11.0.5`**](http://tomcat.apache.org/) - 28 Feb, 2025. Tomcat 10 is designed to run on `Java SE 11 or later`
+
+- [**Download Tomcat v11**](https://tomcat.apache.org/download-11.cgi) - 64bit recommended. Manual Install required.
+
+#### [**⚠️ Tomcat `10.1.39`**](http://tomcat.apache.org/) - 4 Mar, 2025. Tomcat 10 is designed to run on `Java SE 11 or later`
 
 > ⚠️Tomcat output: <br>
 > SEVERE: Servlet [action] in web application [/AwareIM] threw load() exception
@@ -81,7 +85,7 @@
 - [Tomcat 10 Documentation](https://tomcat.apache.org/tomcat-10.1-doc/index.html).
 - [Tomcat 10 Changelog](https://tomcat.apache.org/tomcat-10.1-doc/changelog.html).
 
-#### [**✔️ Tomcat `9.0.100`**](http://tomcat.apache.org/) - **13 Feb, 2025. Tomcat 9 is designed to run on `Java SE 8 or later`**
+#### [**✔️ Tomcat `9.0.102`**](http://tomcat.apache.org/) - **3 Mar, 2025. Tomcat 9 is designed to run on `Java SE 8 or later`**
 
 <!-- ** Tomcat `9.0.89+`** (http://tomcat.apache.org/) Has issues processing SSL:
 
@@ -134,7 +138,7 @@ java.lang.IllegalArgumentException
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
 
-  - ✔️ [**Oracle OpenJDK `23.0.2`**](https://jdk.java.net/23/) - Production-ready open-source builds of the Java Development Kit
+  - ✔️ [**Oracle OpenJDK `24.0.4`**](https://jdk.java.net/24/) - Production-ready open-source builds of the Java Development Kit
   - Superseded versions:
     <!-- - 📉 [Oracle OpenJDK `20`](https://jdk.java.net/20/)
      - 📉 [Oracle OpenJDK `19`](https://jdk.java.net/19/) -->
@@ -143,9 +147,10 @@ java.lang.IllegalArgumentException
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/au/java/technologies/downloads/) <!-- [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) -->
 
-  - ✔️ [**JDK Version `23.0.2`**](https://www.oracle.com/au/java/technologies/downloads/#java23) - Works with Aware IM version `9.0`. 21 January 2025.
-  - 👍 [JDK Version `21.0.6`](https://www.oracle.com/au/java/technologies/downloads/#java21) - Works with Aware IM version `9.0`. 21 January 2025.
-  - 👍 [JDK Version `17.0.14`](https://www.oracle.com/au/java/technologies/downloads/#java17) - Works with Aware IM version `8.6` - `9.0`. 21 January 2025.
+  - ✔️ [**JDK Version `24.0.0`**](https://www.oracle.com/au/java/technologies/downloads/#java24) - Works with Aware IM version `9.0`. 21 January 2025.
+  - 👍 [`23.0.2`](https://www.oracle.com/au/java/technologies/downloads/#java23) - Works with Aware IM version `9.0`. 21 January 2025.
+  - 📉 [JDK Version `21.0.6`](https://www.oracle.com/au/java/technologies/downloads/#java21) - Works with Aware IM version `9.0`. 21 January 2025.
+  - 📉 [JDK Version `17.0.14`](https://www.oracle.com/au/java/technologies/downloads/#java17) - Works with Aware IM version `8.6` - `9.0`. 21 January 2025.
   - 👍 [JDK Version `8, Update 441`](https://www.oracle.com/au/java/technologies/downloads/#java8) - Aware IM versions `6.0` - `8.5`. 21 January 2025.
   - Versions bundled with Aware IM:
     - Aware IM `v9.0` - [JDK `17.0.6`](https://docs.oracle.com/en/java/javase/17/)
@@ -274,7 +279,7 @@ java.lang.IllegalArgumentException
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - Kendo UI for jQuery delivers everything you need for data handling, data grids, forms, navigation, performance, UX, design, accessibility, and so much more.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
-    - Latest Kendo UI Release [**Kendo UI for jQuery (2025 Q1)**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-for-jquery-2025-1-211-(2025-q1)) - February 10, 2025
+    - Latest Kendo UI Release [**Kendo UI for jQuery (2025 Q1)**](<https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-for-jquery-2025-1-211-(2025-q1)>) - February 10, 2025
     - 👍 **Aware IM `9.0` Kendo UI version** [**Kendo UI R2 2023 SP1**](<https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-sp1-(version-2023-2-718)>) - July 19, 2023
     - 📉 Aware IM `8.6 - 8.8` Kendo UI version [Kendo UI R3 2020 SP1](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
     - 📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
