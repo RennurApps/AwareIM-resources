@@ -255,7 +255,7 @@ java.lang.IllegalArgumentException
 
 - [**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
-  - ✔️ [**Connector/J `9.2`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v9.2.0`**. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
+  - ✔️ [**Connector/J `9.3`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v9.3.0`**. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
 
     - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
     - **Installation**
