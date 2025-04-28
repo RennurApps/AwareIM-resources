@@ -66,11 +66,11 @@
 - Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
 - Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
-#### [**⚠️ Tomcat `11.0.5`**](http://tomcat.apache.org/) - 28 Feb, 2025. Tomcat 10 is designed to run on `Java SE 11 or later`
+#### [**⚠️ Tomcat `11.0.6`**](http://tomcat.apache.org/) - 1 Apr, 2025. Tomcat 10 is designed to run on `Java SE 11 or later`
 
 - [**Download Tomcat v11**](https://tomcat.apache.org/download-11.cgi) - 64bit recommended. Manual Install required.
 
-#### [**⚠️ Tomcat `10.1.39`**](http://tomcat.apache.org/) - 4 Mar, 2025. Tomcat 10 is designed to run on `Java SE 11 or later`
+#### [**⚠️ Tomcat `10.1.40`**](http://tomcat.apache.org/) - 1 Apr, 2025. Tomcat 10 is designed to run on `Java SE 11 or later`
 
 > ⚠️Tomcat output: <br>
 > SEVERE: Servlet [action] in web application [/AwareIM] threw load() exception
@@ -85,7 +85,7 @@
 - [Tomcat 10 Documentation](https://tomcat.apache.org/tomcat-10.1-doc/index.html).
 - [Tomcat 10 Changelog](https://tomcat.apache.org/tomcat-10.1-doc/changelog.html).
 
-#### [**✔️ Tomcat `9.0.102`**](http://tomcat.apache.org/) - **3 Mar, 2025. Tomcat 9 is designed to run on `Java SE 8 or later`**
+#### [**✔️ Tomcat `9.0.104`**](http://tomcat.apache.org/) - **4 Apr, 2025. Tomcat 9 is designed to run on `Java SE 8 or later`**
 
 <!-- ** Tomcat `9.0.89+`** (http://tomcat.apache.org/) Has issues processing SSL:
 
@@ -138,7 +138,7 @@ java.lang.IllegalArgumentException
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
 
-  - ✔️ [**Oracle OpenJDK `24.0.4`**](https://jdk.java.net/24/) - Production-ready open-source builds of the Java Development Kit
+  - ✔️ [**Oracle OpenJDK `24.0.1`**](https://jdk.java.net/24/) - Production-ready open-source builds of the Java Development Kit
   - Superseded versions:
     <!-- - 📉 [Oracle OpenJDK `20`](https://jdk.java.net/20/)
      - 📉 [Oracle OpenJDK `19`](https://jdk.java.net/19/) -->
@@ -147,11 +147,10 @@ java.lang.IllegalArgumentException
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/au/java/technologies/downloads/) <!-- [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) -->
 
-  - ✔️ [**JDK Version `24.0.0`**](https://www.oracle.com/au/java/technologies/downloads/#java24) - Works with Aware IM version `9.0`. 21 January 2025.
-  - 👍 [`23.0.2`](https://www.oracle.com/au/java/technologies/downloads/#java23) - Works with Aware IM version `9.0`. 21 January 2025.
-  - 📉 [JDK Version `21.0.6`](https://www.oracle.com/au/java/technologies/downloads/#java21) - Works with Aware IM version `9.0`. 21 January 2025.
-  - 📉 [JDK Version `17.0.14`](https://www.oracle.com/au/java/technologies/downloads/#java17) - Works with Aware IM version `8.6` - `9.0`. 21 January 2025.
-  - 👍 [JDK Version `8, Update 441`](https://www.oracle.com/au/java/technologies/downloads/#java8) - Aware IM versions `6.0` - `8.5`. 21 January 2025.
+  - ✔️ [**JDK Version `24.0.1`**](https://www.oracle.com/au/java/technologies/downloads/#java24) - Works with Aware IM version `9.0`. 15 April 2025.
+  - 📉 [JDK Version `21.0.7`](https://www.oracle.com/au/java/technologies/downloads/#java21) - Works with Aware IM version `9.0`. 15 April 2025.
+  - 📉 [JDK Version `17.0.15`](https://www.oracle.com/au/java/technologies/downloads/#java17) - Works with Aware IM version `8.6` - `9.0`. 15 April 2025.
+  - 👍 [JDK Version `8, Update 451`](https://www.oracle.com/au/java/technologies/downloads/#java8) - Aware IM versions `6.0` - `8.5`. 15 April 2025.
   - Versions bundled with Aware IM:
     - Aware IM `v9.0` - [JDK `17.0.6`](https://docs.oracle.com/en/java/javase/17/)
     - Aware IM `v8.6 - v8.8` - [JDK `12.0.2` Final](https://docs.oracle.com/en/java/javase/12/) - Archived.
@@ -211,11 +210,11 @@ java.lang.IllegalArgumentException
   - [**MySQL Community Server**](http://www.mysql.com/products/community/)
     - [Supported Platforms: MySQL Database](https://www.mysql.com/support/supportedplatforms/database.html)
     - **Download MySQL**
-      - ⚠️ [MySQL Community Server 9.2.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/refman/9.2/en/) 21 January 2025.
+      - ⚠️ [MySQL Community Server 9.3.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/refman/9.3/en/) 15 April 2025.
         - Min Requirement: `Win 11`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - ✔️ [MySQL Community Server 8.4.4 LTS](http://dev.mysql.com/downloads/mysql/) - 21 January 2025.
+      - ✔️ [MySQL Community Server 8.4.5 LTS](http://dev.mysql.com/downloads/mysql/) - 15 April 2025.
         - Min Requirement: `Win 10`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - 📉 [**MySQL Community Server `8.0.41`**](http://dev.mysql.com/downloads/mysql/) - 21 January 2025.
+      - 📉 [**MySQL Community Server `8.0.42`**](http://dev.mysql.com/downloads/mysql/) - 15 April 2025.
       - 📉 [MySQL Community Server `5.7.44`](https://downloads.mysql.com/archives/community/) - Archived.
     - Installation on Windows requires:
       - [**Visual Studio 2015, 2017, 2019, and 2022**](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `8.0`, `8.3` and `5.7.38 and above`
