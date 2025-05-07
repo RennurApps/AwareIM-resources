@@ -169,7 +169,7 @@ java.lang.IllegalArgumentException
       - Restart Aware IM server
   - 📉 [JavaMail 1.6.2](https://javaee.github.io/javamail/) - August 30, 2018 Final Release. (superseded by JakartaMail)
 
-- [**Apache ActiveMQ™**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
+- [**Apache ActiveMQ Classic**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
 
   > 📉 ActiveMQ `5.8.0` (06/02/2013) packaged with Aware IM.
 
@@ -181,10 +181,10 @@ java.lang.IllegalArgumentException
   - [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab. -->
 
   - **Releases**:
-    - ⚠️ [6.1.3 Release](https://activemq.apache.org/components/classic/download/classic-06-01-03) - 8 August, 2024. Java 17+ required.
-    - ⚠️ [5.18.5 Release](https://activemq.apache.org/components/classic/download/classic-05-18-05) - 24 August, 2024. Java 11+ required.
-    - ⚠️ [5.17.6 Release](https://activemq.apache.org/components/classic/download/classic-05-17-06) - 25 October, 2023. Java 11+ required.
-    - ⚠️ [5.12.2+ Problem](https://activemq.apache.org/components/classic/download/classic-05-12-02) - **Inconsistent vector internals** Aware IM error.
+    - ⚠️ [6.1.6 Release](https://activemq.apache.org/components/classic/download/classic-06-01-06) - 7 March, 2025. Java 17+ required.
+    - ⚠️ [5.19.0 Release](https://activemq.apache.org/components/classic/download/classic-05-19-00) - 11 March, 2025. Java 11+ required.
+    - ⚠️ [5.16.8 Release](https://activemq.apache.org/components/classic/download/classic-05-16-08) - 11 March, 2025. Java 8+ required. Deprecated.
+    - ⚠️ [5.12.2+ Problem](hhttps://activemq.apache.org/components/classic/download/classic-05-12-02) - Deprecated. **Inconsistent vector internals** Aware IM error.
       - ERROR:
         - `org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
       - Changelog
