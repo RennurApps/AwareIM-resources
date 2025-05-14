@@ -271,7 +271,7 @@ java.lang.IllegalArgumentException
 - [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
 
   - ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.com/kb/en/about-mariadb-connector-j/) - Out-of-the-box support in Aware IM `v8.3`+. Java `8+`
-  - :warning: [MariaDB Connector/J `3.5.`](https://mariadb.com/kb/en/mariadb-connector-j-3-4-0-release-notes/)
+  - :warning: [MariaDB Connector/J `3.5.3`](https://mariadb.com/kb/en/mariadb-connector-j-3-5-3-release-notes/)
 
 ### **Web Application Framework**
 
