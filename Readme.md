@@ -138,19 +138,15 @@ java.lang.IllegalArgumentException
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
 
-  - ✔️ [**Oracle OpenJDK `24.0.2`**](https://jdk.java.net/24/) - Production-ready open-source builds of the Java Development Kit
-  - Superseded versions:
-    <!-- - 📉 [Oracle OpenJDK `20`](https://jdk.java.net/20/)
-     - 📉 [Oracle OpenJDK `19`](https://jdk.java.net/19/) -->
-    <!-- - 📉 [Oracle OpenJDK `17`](https://jdk.java.net/17/) -->
+  - ✔️ [**Oracle OpenJDK `25.0.1`**](https://jdk.java.net/25/) - Production-ready open-source builds of the Java Development Kit
     - 📉 [Archived Versions](https://jdk.java.net/archive/)
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/au/java/technologies/downloads/) <!-- [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) -->
 
-  - ✔️ [**JDK Version `24.0.2`**](https://www.oracle.com/au/java/technologies/downloads/#java24) - Works with Aware IM version `9.0`. 15 July 2025.
-  - 📉 [JDK Version `21.0.8`](https://www.oracle.com/au/java/technologies/downloads/#java21) - Works with Aware IM version `9.0`. 15 July 2025.
-  - 📉 [JDK Version `17.0.16`](https://www.oracle.com/au/java/technologies/downloads/#java17) - Works with Aware IM version `8.6` - `9.0`. 15 July 2025.
-  - 👍 [JDK Version `8, Update 461`](https://www.oracle.com/au/java/technologies/downloads/#java8) - Aware IM versions `6.0` - `8.5`. 15 July 2025.
+  - ✔️ [**JDK Version `25.0.1`**](https://www.oracle.com/au/java/technologies/downloads/#java25) - Works with Aware IM version `9.0`. 21 October 2025.
+  - 📉 [JDK Version `21.0.9`](https://www.oracle.com/au/java/technologies/downloads/#java21) - Works with Aware IM version `9.0`. 21 October 2025.
+  - 📉 [JDK Version `17.0.17`](https://www.oracle.com/au/java/technologies/downloads/#java17) - Works with Aware IM version `8.6` - `9.0`. 21 October 2025.
+  - 👍 [JDK Version `8, Update 471`](https://www.oracle.com/au/java/technologies/downloads/#java8) - Aware IM versions `6.0` - `8.5`. 21 October 2025. 
   - Versions bundled with Aware IM:
     - Aware IM `v9.0` - [JDK `17.0.6`](https://docs.oracle.com/en/java/javase/17/)
     - Aware IM `v8.6 - v8.8` - [JDK `12.0.2` Final](https://docs.oracle.com/en/java/javase/12/) - Archived.
@@ -181,6 +177,7 @@ java.lang.IllegalArgumentException
   - [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab. -->
 
   - **Releases**:
+    - ⚠️ [6.2.0 Release](https://activemq.apache.org/components/classic/download/classic-06-02-00) - 14 November, 2025. Java 17+ required.
     - ⚠️ [6.1.6 Release](https://activemq.apache.org/components/classic/download/classic-06-01-06) - 7 March, 2025. Java 17+ required.
     - ⚠️ [5.19.0 Release](https://activemq.apache.org/components/classic/download/classic-05-19-00) - 11 March, 2025. Java 11+ required.
     - ⚠️ [5.16.8 Release](https://activemq.apache.org/components/classic/download/classic-05-16-08) - 11 March, 2025. Java 8+ required. Deprecated.
@@ -197,7 +194,7 @@ java.lang.IllegalArgumentException
         <!--  - In v8.2 and below, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\Tomcat\lib` -->
     - 📉 [**5.8.0 Release**](https://activemq.apache.org/components/classic/download/classic-05-08-00) - Default version packaged with the server installation.
 
-- [**Java Service Wrapper** -](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.6.00** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition.
+- [**Java Service Wrapper** -](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.6.4** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition.
 
   - [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
 
@@ -210,11 +207,11 @@ java.lang.IllegalArgumentException
   - [**MySQL Community Server**](http://www.mysql.com/products/community/)
     - [Supported Platforms: MySQL Database](https://www.mysql.com/support/supportedplatforms/database.html)
     - **Download MySQL**
-      - ⚠️ [MySQL Community Server 9.4.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/refman/9.3/en/) July 2025.
+      - ⚠️ [MySQL Community Server 9.5.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/refman/9.5/en/) October 2025.
         - Min Requirement: `Win 11`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - ✔️ [MySQL Community Server 8.4.6 LTS](http://dev.mysql.com/downloads/mysql/) - July 2025.
+      - ✔️ [MySQL Community Server 8.4.7 LTS](http://dev.mysql.com/downloads/mysql/) - October 2025.
         - Min Requirement: `Win 10`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - 📉 [**MySQL Community Server `8.0.43`**](http://dev.mysql.com/downloads/mysql/) - July 2025.
+      - 📉 [**MySQL Community Server `8.0.44`**](http://dev.mysql.com/downloads/mysql/) - October 2025.
       - 📉 [MySQL Community Server `5.7.44`](https://downloads.mysql.com/archives/community/) - Archived.
     - Installation on Windows requires:
       - [**Visual Studio 2015, 2017, 2019, and 2022**](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `8.0`, `8.3` and `5.7.38 and above`
@@ -237,12 +234,12 @@ java.lang.IllegalArgumentException
 - **PostgreSQL**
 
   - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
-  - [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `17.5` <!-- https://endoflife.date/postgresql -->
+  - [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `18.1` <!-- https://endoflife.date/postgresql -->
 
 - **Maria DB**
 
   - [**MariaDB**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
-  - [Download](https://mariadb.org/download/) - Version `11.8.2`.
+  - [Download](https://mariadb.org/download/) - Version `12.1.2`.
 
 - [**SQL Server**](https://www.microsoft.com/en-in/sql-server/)
 
@@ -255,7 +252,7 @@ java.lang.IllegalArgumentException
 
 - [**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
-  - ✔️ [**Connector/J `9.4`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v9.4.0`**. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
+  - ✔️ [**Connector/J `9.5`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v9.5.0`**. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
 
     - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
     - **Installation**
@@ -266,19 +263,19 @@ java.lang.IllegalArgumentException
 
   - 📉 [Connector/J `8.4`](https://downloads.mysql.com/archives/c-j/) - Final version `v8.4`. Archived.
 
-- [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.7`. Java 8 required.
+- [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.8`. Java 8 required.
 
 - [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
 
   - ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.com/kb/en/about-mariadb-connector-j/) - Out-of-the-box support in Aware IM `v8.3`+. Java `8+`
-  - :warning: [MariaDB Connector/J `3.5.3`](https://mariadb.com/kb/en/mariadb-connector-j-3-5-3-release-notes/)
+  - :warning: [MariaDB Connector/J `3.5.7`](https://mariadb.com/docs/release-notes/connectors/java)
 
 ### **Web Application Framework**
 
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - Kendo UI for jQuery delivers everything you need for data handling, data grids, forms, navigation, performance, UX, design, accessibility, and so much more.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
-    - Latest Kendo UI Release [**Kendo UI for jQuery 2025.3.812 (2025 Q3)**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-for-jquery-2025-3-812-(2025-q3)) - August 13, 2025.
+    - Latest Kendo UI Release [**Kendo UI for jQuery 2025.4.1217**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-for-jquery-2025-4-1217) - December 17, 2025.
     - 👍 **Aware IM `9.0` Kendo UI version** [**Kendo UI R2 2023 SP1**](<https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-sp1-(version-2023-2-718)>) - July 19, 2023
     - 📉 Aware IM `8.6 - 8.8` Kendo UI version [Kendo UI R3 2020 SP1](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
     - 📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
@@ -289,7 +286,7 @@ java.lang.IllegalArgumentException
 
 - **Bootstrap** - Frontend toolkit.
 
-  - ❔ [Bootstrap `v5.3.7`](https://getbootstrap.com/)
+  - ❔ [Bootstrap `v5.3.8`](https://getbootstrap.com/)
   - ❔ [Bootstrap `v4.6.2`](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
   - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**. Bootstrap `3.3.4` bundled with Aware IM `v9.0`.
     - [Download `v3.4.1`](https://getbootstrap.com/docs/3.4/getting-started/#download)
