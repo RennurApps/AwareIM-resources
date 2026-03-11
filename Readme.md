@@ -207,11 +207,11 @@ java.lang.IllegalArgumentException
   - [**MySQL Community Server**](http://www.mysql.com/products/community/)
     - [Supported Platforms: MySQL Database](https://www.mysql.com/support/supportedplatforms/database.html)
     - **Download MySQL**
-      - ⚠️ [MySQL Community Server 9.5.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/refman/9.5/en/) October 2025.
+      - ⚠️ [MySQL Community Server 9.6.0 Innovation](http://dev.mysql.com/downloads/mysql/) - [New Release](https://dev.mysql.com/doc/refman/9.5/en/) January 2026.
         - Min Requirement: `Win 11`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - ✔️ [MySQL Community Server 8.4.7 LTS](http://dev.mysql.com/downloads/mysql/) - October 2025.
+      - ✔️ [MySQL Community Server 8.4.8 LTS](http://dev.mysql.com/downloads/mysql/) - January 2026.
         - Min Requirement: `Win 10`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - 📉 [**MySQL Community Server `8.0.44`**](http://dev.mysql.com/downloads/mysql/) - October 2025.
+      - 📉 [**MySQL Community Server `8.0.45`**](http://dev.mysql.com/downloads/mysql/) - January 2026.
       - 📉 [MySQL Community Server `5.7.44`](https://downloads.mysql.com/archives/community/) - Archived.
     - Installation on Windows requires:
       - [**Visual Studio 2015, 2017, 2019, and 2022**](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `8.0`, `8.3` and `5.7.38 and above`
