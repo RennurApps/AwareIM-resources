@@ -143,10 +143,11 @@ java.lang.IllegalArgumentException
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/au/java/technologies/downloads/) <!-- [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) -->
 
-  - ✔️ [**JDK Version `25.0.2`**](https://www.oracle.com/au/java/technologies/downloads/#java25) - Works with Aware IM version `9.0`. 20 January 2026.
-  - 📉 [JDK Version `21.0.10`](https://www.oracle.com/au/java/technologies/downloads/#java21) - Works with Aware IM version `9.0`. 20 January 2026.
-  - 📉 [JDK Version `17.0.18`](https://www.oracle.com/au/java/technologies/downloads/#java17) - Works with Aware IM version `8.6` - `9.0`. 20 January 2026.
-  - 👍 [JDK Version `8, Update 491`](https://www.oracle.com/au/java/technologies/downloads/#java8) - Aware IM versions `6.0` - `8.5`. 20 January 2026. 
+  - ✔️ [**JDK Version `26.0.1`**](https://www.oracle.com/anz/java/technologies/downloads/#java26) - Works with Aware IM version `9.0`. 21 April 2026.
+  - 📉 [JDK Version `25.0.03`](https://www.oracle.com/anz/java/technologies/downloads/#java25) - Works with Aware IM version `9.0`. 29 May 2026.
+  - 📉 [JDK Version `21.0.11`](https://www.oracle.com/anz/java/technologies/downloads/#java21) - Works with Aware IM version `9.0`. 21 April 2026.
+  - 📉 [JDK Version `17.0.19`](https://www.oracle.com/anz/java/technologies/downloads/#java17) - Works with Aware IM version `8.6` - `9.0`. 21 April 2026.
+  - 👍 [JDK Version `8, Update 491`](https://www.oracle.com/anz/java/technologies/downloads/#java8) - Aware IM versions `6.0` - `8.5`. 21 April 2026. 
   - Versions bundled with Aware IM:
     - Aware IM `v9.0` - [JDK `17.0.6`](https://docs.oracle.com/en/java/javase/17/)
     - Aware IM `v8.6 - v8.8` - [JDK `12.0.2` Final](https://docs.oracle.com/en/java/javase/12/) - Archived.
