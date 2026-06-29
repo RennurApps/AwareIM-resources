@@ -320,7 +320,7 @@ java.lang.IllegalArgumentException
 
 - **Integration with Stripe Multi-Payment** - Stripe is a very well-known payment platform and it supports multi-party payments. <!-- [Video](https://youtu.be/4m9YNPrpsvk%22) -->
 
-- **Electronic Signature Capture** - For Aware IM `5.9 - 9.x`
+- **Sign-on Glass / Electronic Signature Capture** - For Aware IM `5.9 - 9.x`
   - [**Signature Pad**](https://github.com/szimek/signature_pad) - Implement and store electronic signatures out-of-the-box with Aware IM. HTML5 canvas based and works in all modern desktop and mobile browsers.
   - [**DEMO - Github**](http://szimek.github.io/signature_pad/)
   - [✔️ **Signature Pad `v1.5.3`**](https://www.jsdelivr.com/package/npm/signature_pad?version=1.5.3) - Tested and working in all versions `5.9 - 9.x`
@@ -344,7 +344,7 @@ Developers can integrate any application with Aware IM by writing a plugin, as l
 
 - ✔️ [**wkhtmltopdf**](https://github.com/wkhtmltopdf/wkhtmltopdf) - wkhtmltopdf is a command line tool to render HTML into PDF using the QT Webkit rendering engine. These run entirely "headless" and do not require a display or display service.
 
-  - **Requires** [**Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, 2019, and 2022**](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+  - **Requires** [**Visual C++ v14 Redistributable**](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
   - **Download wkhtmltopdf**:
     - [**Download wkhtmltopdf** Windows (MSVC)](https://wkhtmltopdf.org/downloads.html) - **v`0.12.6`** released on June 11, 2020 for Windows, Linux and OS X.
       - **`v0.12.6 Final`** Tested and working in Aware IM **6.0+**. Released June 11, 2020. Archived.
