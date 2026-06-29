@@ -215,7 +215,7 @@ java.lang.IllegalArgumentException
       - 📉 [MySQL Community Server `8.0.46`](http://dev.mysql.com/downloads/mysql/) - April 2026.
       - 📉 [MySQL Community Server `5.7.44`](https://downloads.mysql.com/archives/community/) - Archived.
     - Installation on Windows requires:
-      - [**Visual Studio 2015, 2017, 2019, and 2022**](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `8.0`, `8.3` and `5.7.38 and above`
+      - [**Visual C++ v14 Redistributable**](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `8.0`, `8.3` and `5.7.38 and above`
       - [**Visual Studio 2013**](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) - Required by MySQL `5.7.9 - 5.7.39`
 
 - **Apache Derby** - [Home](http://db.apache.org/derby/)
