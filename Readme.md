@@ -23,11 +23,11 @@
     - example in CRM
   - 3273 - Support for client credentials flow in OAuth
   - 3273 - “name field for binary REST part
-  - 3271 - ['load on demand' for grouped queries supports filtering and paging](https://www.awareim.com/dokuwiki/doku.php/docs/2500_config_apps/1100_add_edit_queries/0200_display_results/0100_standard_view#load_data_on_demand)
-  - 3265 - [[DISPLAY](https://www.awareim.com/dokuwiki/doku.php/a_f/a/display)]/[[PICK FROM](https://www.awareim.com/dokuwiki/doku.php/a_f/a/pick_from)] … [USING QueryName]
-  - 3263 - [Multi-checkbox filter for standard queries](https://www.awareim.com/dokuwiki/doku.php/docs/2500_config_apps/1100_add_edit_queries/0200_display_results/0700_query_filters#multi-checkbox_filter)
-  - 3260 - [CREATE FOR EACH STRING](https://www.awareim.com/dokuwiki/doku.php/a_f/a/create)
-  - 3260 - [PARSE_JSON2 function](https://www.awareim.com/dokuwiki/doku.php/a_f/f/af/parse_json2) - Returns the value of the specified attribute in the same node
+  - 3271 - 'load on demand' for grouped queries supports filtering and paging
+  - 3265 - DISPLAY/PICK FROM … USING QueryName
+  - 3263 - Multi-checkbox filter for standard queries
+  - 3260 - CREATE FOR EACH STRING
+  - 3260 - PARSE_JSON2 function - Returns the value of the specified attribute in the same node
   - 3260 - Ability to direct actions in the template builder of a custom query to a `<DIV>`
   - 3259 - Ability to save all REST communication details in a log (business object)
   - 3257 - Loading content on demand for grouped queries - very useful for larger sets of data
@@ -45,7 +45,7 @@
   - 3249 - Changing size and orientation of the report is now visually supported.
   - 3246 - Date, time and duration widgets support mobile rendering
   - 3246 - Multi-selection calendar widget - [Demo](https://demos.telerik.com/kendo-ui/calendar/selection)
-  - 3246 - [CREATE FOR EACH DATE IN …](https://www.awareim.com/dokuwiki/doku.php/a_f/a/create) - [Forum Post](https://awareim.com/forum/viewtopic.php?f=1&t=12893)
+  - 3246 - CREATE FOR EACH DATE IN …
   - 3243 - Custom row filter now supports attributes with dynamic choices
   - 3243 - Placeholders for Line Icons PRO font
   - 3241 - Support for alignment in tiles
@@ -54,7 +54,7 @@
   - 3237 - Tile dialog has better layout and supports Preview
   - 3237 - Tree queries support paging (multi-column only)
   - 3237 - Custom queries support paging options
-  - 3232 - [**`9.0` New Release**](https://www.awareim.com/dokuwiki/doku.php/changelog/9.0/3232) - 28 Jan 2024.
+  - 3232 - [**`9.0` New Release**](https://docs.awareim.com/ref/changelog/0000/9.n/9.0/3232) - 28 Jan 2024.
 
 ### Application Server
 
