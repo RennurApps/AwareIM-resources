@@ -6,7 +6,7 @@
 
 > Aware IM is a rapid low-code application development tool that lets you create powerful aesthetically appealing web applications quickly.
 
-[**Changelog**](https://www.awareim.com/dokuwiki/docs/9000_changelog/0000_start) 
+[**Changelog**](https://docs.awareim.com/ref/changelog/0000/9.n/9.0) 
 
 ✔️ [**v9.0 build 3280**](https://docs.awareim.com/ref/changelog/0000/9.n/9.0/3280) - 23 September, 2024.
 
