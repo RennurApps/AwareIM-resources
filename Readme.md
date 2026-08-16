@@ -191,8 +191,6 @@ java.lang.IllegalArgumentException
         - In **BASServer.props**:
           - EDIT: DirectoryServiceProvider=tcp\://localhost\:61616?jms.trustAllPackages\=true
           - ADD LINE: connection.ConnectionFactory.trustAllPackages=true
-      - Changelog
-        - Java 8 Required 
     - 📉 [**5.12.1 Release**](https://activemq.apache.org/components/classic/download/classic-05-12-01) - No extra config required. Direct replacement to v5.8.0. 
     - 📉 [5.8.0 Release](https://activemq.apache.org/components/classic/download/classic-05-08-00) - Default version packaged with the server installation.
     - 📉 [Download Archichives](https://activemq.apache.org/components/classic/documentation/download-archives) 
