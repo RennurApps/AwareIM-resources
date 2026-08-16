@@ -19,10 +19,6 @@
 
 > Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete.
 
-- **Tomcat 9.0.44** 32bit is the default version packaged in the **Aware IM 8.6 and above** server installation.
-- Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
-- Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
-
 #### [**👍 Tomcat `11.0.24`**](http://tomcat.apache.org/) - 3 Jul, 2026. Tomcat 11 is designed to run on `Java SE 11 or later`
 
 - [**Download Tomcat v11**](https://tomcat.apache.org/download-11.cgi) - 64bit recommended. Manual Install required.
