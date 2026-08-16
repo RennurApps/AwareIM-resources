@@ -178,9 +178,9 @@ java.lang.IllegalArgumentException
   - [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab. -->
 
   - **Releases**:
-    - ⚠️ [6.2.0 Release](https://activemq.apache.org/components/classic/download/classic-06-02-00) - 14 November, 2025. Java 17+ required.
+<!--    - ⚠️ [6.2.0 Release](https://activemq.apache.org/components/classic/download/classic-06-02-00) - 14 November, 2025. Java 17+ required.
     - ⚠️ [6.1.6 Release](https://activemq.apache.org/components/classic/download/classic-06-01-06) - 7 March, 2025. Java 17+ required.
-    - ⚠️ [5.19.0 Release](https://activemq.apache.org/components/classic/download/classic-05-19-00) - 11 March, 2025. Java 11+ required.
+    - ⚠️ [5.19.0 Release](https://activemq.apache.org/components/classic/download/classic-05-19-00) - 11 March, 2025. Java 11+ required. -->
     - ✔️ [5.16.8 Release](https://activemq.apache.org/components/classic/download/classic-05-16-08) - 11 March, 2025. Java 8+ required. 
       - Installation
         - In **v8.3 and above**, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\lib`
