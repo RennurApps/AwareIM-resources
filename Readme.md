@@ -184,15 +184,15 @@ java.lang.IllegalArgumentException
         <!--  - In v8.2 and below, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\Tomcat\lib` -->
       - ERROR:
         - `org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
-      - **FIX**: 
+      - **FIX - AwareIM v6.0**: 
         - In **startupOptions.props**: 
           - ADD TO: TOMCAT_STARTUP=..\\JDK\\bin\\java 
            `-Dorg.apache.activemq.SERIALIZABLE_PACKAGES=org.openadaptor,com.bas,java.lang,java.util,java.math,java.sql,javax.jms,org.apache.activemq`
         - In **BASServer.props**:
           - EDIT: DirectoryServiceProvider=tcp\://localhost\:61616?jms.trustAllPackages\=true
           - ADD LINE: connection.ConnectionFactory.trustAllPackages=true
-    - 📉 [**5.12.1 Release**](https://activemq.apache.org/components/classic/download/classic-05-12-01) - No extra config required. Direct replacement to v5.8.0. 
-    - 📉 [5.8.0 Release](https://activemq.apache.org/components/classic/download/classic-05-08-00) - Default version packaged with the server installation.
+    - 👍 [**5.12.1 Release**](https://activemq.apache.org/components/classic/download/classic-05-12-01) - No extra config required. Direct replacement to v5.8.0. 
+    - 👍 [5.8.0 Release](https://activemq.apache.org/components/classic/download/classic-05-08-00) - Default version packaged with the server installation.
     - 📉 [Download Archichives](https://activemq.apache.org/components/classic/documentation/download-archives) 
 
 - [**Java Service Wrapper** -](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.6.5** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition.
@@ -253,15 +253,14 @@ java.lang.IllegalArgumentException
 
 - [**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
-  - ✔️ [**Connector/J `9.7`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v9.7.0`**. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
-
+  - ✔️ [**Connector/J `26.7.0`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `26.7.0`**. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
     - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
     - **Installation**
       - Application Server
-        1. Extract the files and rename `mysql-connector-java-9.x.xx-bin.jar` to `mysql-connector-j-8.0.31.jar`
+        1. Extract the files and rename `mysql-connector-java-26.x.x-bin.jar` to `mysql-connector-j-8.0.31.jar`
         2. Copy and replace the existing file in `C:\AwareIM\lib`
         3. Restart AwareIM Server
-
+  - 📉 [**Connector/J `9.7`**](https://downloads.mysql.com/archives/c-j/) - Archived. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
   - 📉 [Connector/J `8.4`](https://downloads.mysql.com/archives/c-j/) - Final version `v8.4`. Archived.
 
 - [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.8`. Java 8 required.
