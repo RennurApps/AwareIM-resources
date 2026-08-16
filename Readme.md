@@ -190,7 +190,7 @@ java.lang.IllegalArgumentException
       - **FIX**: 
         - In **startupOptions.props**: 
           - ADD TO: TOMCAT_STARTUP=..\\JDK\\bin\\java 
-           -Dorg.apache.activemq.SERIALIZABLE_PACKAGES=org.openadaptor,com.bas,java.lang,java.util,java.math,java.sql,javax.jms,org.apache.activemq
+           `-Dorg.apache.activemq.SERIALIZABLE_PACKAGES=org.openadaptor,com.bas,java.lang,java.util,java.math,java.sql,javax.jms,org.apache.activemq`
         - In **BASServer.props**:
           - EDIT: DirectoryServiceProvider=tcp\://localhost\:61616?jms.trustAllPackages\=true
           - ADD LINE: connection.ConnectionFactory.trustAllPackages=true
