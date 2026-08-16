@@ -180,7 +180,7 @@ java.lang.IllegalArgumentException
 <!-- - ⚠️ [6.2.0 Release](https://activemq.apache.org/components/classic/download/classic-06-02-00) - 14 November, 2025. Java 17+ required. - ⚠️ [6.1.6 Release](https://activemq.apache.org/components/classic/download/classic-06-01-06) - 7 March, 2025. Java 17+ required. - ⚠️ [5.19.0 Release](https://activemq.apache.org/components/classic/download/classic-05-19-00) - 11 March, 2025. Java 11+ required. -->
 
   - **Releases**:
-    - ✔️ [5.16.8 Release](https://activemq.apache.org/components/classic/download/classic-05-16-08) - 11 March, 2025. Java 8+ required. 
+    - ✔️ [5.16.8 Release](https://activemq.apache.org/components/classic/download/classic-05-16-08) - 22 March, 2025. Java 8+ required. 
       - Installation
         - In **v8.3 and above**, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\lib`
         <!--  - In v8.2 and below, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\Tomcat\lib` -->
@@ -194,9 +194,10 @@ java.lang.IllegalArgumentException
           - EDIT: DirectoryServiceProvider=tcp\://localhost\:61616?jms.trustAllPackages\=true
           - ADD LINE: connection.ConnectionFactory.trustAllPackages=true
       - Changelog
-        - Java 8 Required - The minimum Java version has been upgraded to Java 8.
+        - Java 8 Required 
     - 📉 [**5.12.1 Release**](https://activemq.apache.org/components/classic/download/classic-05-12-01) - No extra config required. Direct replacement to v5.8.0. 
-    - 📉 [**5.8.0 Release**](https://activemq.apache.org/components/classic/download/classic-05-08-00) - Default version packaged with the server installation.
+    - 📉 [5.8.0 Release](https://activemq.apache.org/components/classic/download/classic-05-08-00) - Default version packaged with the server installation.
+    - 📉 [Download Archichives](https://activemq.apache.org/components/classic/documentation/download-archives) 
 
 - [**Java Service Wrapper** -](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.6.5** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition.
 
