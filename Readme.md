@@ -1,4 +1,4 @@
-# Aware IM Server v9.0 Stack
+# Aware IM Server v10.0 Stack
 
 ## Application Server, Database Servers, Components, Frameworks, Dependencies, Microservices and other resources
 
@@ -8,53 +8,10 @@
 
 [**Changelog**](https://docs.awareim.com/ref/changelog/0000/9.n/9.0) 
 
-✔️ [**v9.0 build 3280**](https://docs.awareim.com/ref/changelog/0000/9.n/9.0/3280) - 23 September, 2024.
+✔️ [**v9.0 build 3530**](https://docs.awareim.com/ref/changelog/0000/9.n/9.0/3280) - 24 Nov 2025.
 
 - New Features and improvements in version 9.0
-  - 3279 - Using standard CSV export now creates unique file names, so there is no conflict when people export at the same time
-  - 3279 - New options for EXPORT action - do not export a line with column descriptions, do not export attribute format and use labels in the column descriptions
-  - 3279 - Ability to specify selection mechanism for custom queries
-  - 3273 - 'load on demand' in grouped queries supports sorting and paging properly
-  - 3273 - Performance improvements for big complicated forms with many presentation rules
-  - 3273 - Improvements to Scroll View in custom queries
-    - new UI
-    - allow displaying several items per page
-    - preview fixes
-    - example in CRM
-  - 3273 - Support for client credentials flow in OAuth
-  - 3273 - “name field for binary REST part
-  - 3271 - 'load on demand' for grouped queries supports filtering and paging
-  - 3265 - DISPLAY/PICK FROM … USING QueryName
-  - 3263 - Multi-checkbox filter for standard queries
-  - 3260 - CREATE FOR EACH STRING
-  - 3260 - PARSE_JSON2 function - Returns the value of the specified attribute in the same node
-  - 3260 - Ability to direct actions in the template builder of a custom query to a `<DIV>`
-  - 3259 - Ability to save all REST communication details in a log (business object)
-  - 3257 - Loading content on demand for grouped queries - very useful for larger sets of data
-  - 3254 - Grouping now calculates summaries correctly even for big data sets
-  - 3254 - Support for group direction
-  - 3254 - Support for displaying group summaries in the group header column
-  - 3254 - Query preview is now supported for queries with grouping
-  - 3254 - Support for aggregates for all group levels
-  - 3254 - Ability to initially collapse any group
-  - 3254 - Ability to hide aggregates in column headers when a group is expanded
-  - 3254 - Auto refresh didn't work when calendar events were moved or resized
-  - 3254 - Left menu toggle command didn't work correctly when the top menu ran across the entire screen
-  - 3249 - New library for rendering HTML inside a PDF
-  - 3249 - Scaling image option for tags representing images in the Report Designer
-  - 3249 - Changing size and orientation of the report is now visually supported.
-  - 3246 - Date, time and duration widgets support mobile rendering
-  - 3246 - Multi-selection calendar widget - [Demo](https://demos.telerik.com/kendo-ui/calendar/selection)
-  - 3246 - CREATE FOR EACH DATE IN …
-  - 3243 - Custom row filter now supports attributes with dynamic choices
-  - 3243 - Placeholders for Line Icons PRO font
-  - 3241 - Support for alignment in tiles
-  - 3241 - Minor improvements of dialogs on a Mac
-  - 3241 - It should now be possible to explicitly indicate if a visual perspective can be used as a URL parameter
-  - 3237 - Tile dialog has better layout and supports Preview
-  - 3237 - Tree queries support paging (multi-column only)
-  - 3237 - Custom queries support paging options
-  - 3232 - [**`9.0` New Release**](https://docs.awareim.com/ref/changelog/0000/9.n/9.0/3232) - 28 Jan 2024.
+  - 3479 - [**`10.0` New Release**](https://docs.awareim.com/ref/changelog/10.0/3479) - 19 Jun 2025.
 
 ### Application Server
 
@@ -66,88 +23,27 @@
 - Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
 - Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
-#### [**⚠️ Tomcat `11.0.24`**](http://tomcat.apache.org/) - 3 Jul, 2026. Tomcat 11 is designed to run on `Java SE 11 or later`
+#### [**👍 Tomcat `11.0.24`**](http://tomcat.apache.org/) - 3 Jul, 2026. Tomcat 11 is designed to run on `Java SE 11 or later`
 
 - [**Download Tomcat v11**](https://tomcat.apache.org/download-11.cgi) - 64bit recommended. Manual Install required.
 
-#### [**⚠️ Tomcat `10.1.57`**](http://tomcat.apache.org/) - 3 Jul, 2026. Tomcat 10 is designed to run on `Java SE 11 or later`
+#### [**✔️ Tomcat `10.1.57`**](http://tomcat.apache.org/) - 3 Jul, 2026. v10.1.18 is the default version. Tomcat 10 is designed to run on `Java SE 11 or later`
 
-<!-- >> ⚠️Tomcat output: <br>
-> SEVERE: Servlet [action] in web application [/AwareIM] threw load() exception
-> java.lang.ClassNotFoundException: javax.servlet.http.HttpServlet -->
+<!-- #### [**📉 Tomcat `9.0.120`**](http://tomcat.apache.org/) - **3 Jul, 2026. Tomcat 9 is designed to run on `Java SE 8 or later`** -->
 
-- [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi) - 64bit recommended. Manual Install required.
-
- <!-- - Works with AwareIM version `9.0`. -->
-
-- [**Security**](https://tomcat.apache.org/security-10.html)
-
-- [Tomcat 10 Documentation](https://tomcat.apache.org/tomcat-10.1-doc/index.html).
-- [Tomcat 10 Changelog](https://tomcat.apache.org/tomcat-10.1-doc/changelog.html).
-
-#### [**✔️ Tomcat `9.0.120`**](http://tomcat.apache.org/) - **3 Jul, 2026. Tomcat 9 is designed to run on `Java SE 8 or later`**
-
-<!-- ** Tomcat `9.0.89+`** (http://tomcat.apache.org/) Has issues processing SSL:
-
-<!-- Jun 20, 2024 7:40:09 PM org.apache.coyote.AbstractProtocol$ConnectionHandler process
-SEVERE: Error reading request, ignored
-java.lang.IllegalArgumentException
-	at java.nio.ByteBuffer.allocate(ByteBuffer.java:334)
-	at org.apache.coyote.http11.filters.ChunkedInputFilter.<init>(ChunkedInputFilter.java:120)
-	at org.apache.coyote.http11.Http11Processor.<init>(Http11Processor.java:172)
-	at org.apache.coyote.http11.AbstractHttp11Protocol.createProcessor(AbstractHttp11Protocol.java:1358)
-	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:924)
-	at org.apache.tomcat.util.net.Nio2Endpoint$SocketProcessor.doRun(Nio2Endpoint.java:1734)
-	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
-	at org.apache.tomcat.util.net.AbstractEndpoint.processSocket(AbstractEndpoint.java:1333)
-	at org.apache.tomcat.util.net.SecureNio2Channel$HandshakeWriteCompletionHandler.completed(SecureNio2Channel.java:124)
-	at org.apache.tomcat.util.net.SecureNio2Channel$HandshakeWriteCompletionHandler.completed(SecureNio2Channel.java:117)
-	at sun.nio.ch.Invoker.invokeUnchecked(Invoker.java:126)
-	at sun.nio.ch.Invoker$2.run(Invoker.java:218)
-	at sun.nio.ch.AsynchronousChannelGroupImpl$1.run(AsynchronousChannelGroupImpl.java:112)
-	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
-	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
-	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
-	at java.lang.Thread.run(Thread.java:750) -->
-
-- [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi)
-
-  - Works with AwareIM versions `6.0` - `9.0`
-  - [**Security**](https://tomcat.apache.org/security-9.html)
-
-  - [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
-  - [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-
-- **Installation**
-    <details>
-
-    <summary>Microsoft Windows Based Systems</summary>
-
-  - **IMPORTANT**: Ensure any prior modification of existing _`web.xml`_ and _`server.xml`_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.
-  - **Installation Steps - Windows**
-    - Stop the Aware IM server before updating Tomcat. Do **not** delete your current _C:\AwareIM\Tomcat_ folder.
-    - 1. **Extract** the archive and open the folder.
-    - 2. Open the extracted **Tomcat** folder.
-    - 3. Select all files and folders and press `Crl+c` to copy
-    - 4. Open you AwareIM v9.0 installation Tomcat folder **`C:\AwareIM\Tomcat`**
-    - 5. Press `Ctrl+v` to paste and replace all files and folders.
-    - 6. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
-      </details>
 
 #### Java JDK
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
 
-  - ✔️ [**Oracle OpenJDK `26.0.1`**](https://jdk.java.net/26/) - Production-ready open-source builds of the Java Development Kit
+  - ✔️ [**Oracle OpenJDK `26.0.2`**](https://jdk.java.net/26/) - Production-ready open-source builds of the Java Development Kit
     - 📉 [Archived Versions](https://jdk.java.net/archive/)
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/au/java/technologies/downloads/) <!-- [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) -->
 
-  - ✔️ [**JDK Version `26.0.1`**](https://www.oracle.com/anz/java/technologies/downloads/#java26) - Works with Aware IM version `9.0`. 21 April 2026.
-  - 📉 [JDK Version `25.0.03`](https://www.oracle.com/anz/java/technologies/downloads/#java25) - Works with Aware IM version `9.0`. 29 May 2026.
-  - 📉 [JDK Version `21.0.11`](https://www.oracle.com/anz/java/technologies/downloads/#java21) - Works with Aware IM version `9.0`. 21 April 2026.
-  - 📉 [JDK Version `17.0.19`](https://www.oracle.com/anz/java/technologies/downloads/#java17) - Works with Aware IM version `8.6` - `9.0`. 21 April 2026.
-  - 👍 [JDK Version `8, Update 491`](https://www.oracle.com/anz/java/technologies/downloads/#java8) - Aware IM versions `6.0` - `8.5`. 21 April 2026. 
+  - ✔️ [**JDK Version `26.02`**](https://www.oracle.com/anz/java/technologies/downloads/#java26) - Works with Aware IM version `10.0`.
+  - 📉 [JDK Version `25.0.04`](https://www.oracle.com/anz/java/technologies/downloads/#java25) - Works with Aware IM version `10.0`. 
+  - 👍 [JDK Version `21.0.12`](https://www.oracle.com/anz/java/technologies/downloads/#java21) - 21.0.6 is default for `10.0`. 
   - Versions bundled with Aware IM:
     - Aware IM `v9.0` - [JDK `17.0.6`](https://docs.oracle.com/en/java/javase/17/)
     - Aware IM `v8.6 - v8.8` - [JDK `12.0.2` Final](https://docs.oracle.com/en/java/javase/12/) - Archived.
