@@ -182,6 +182,9 @@ java.lang.IllegalArgumentException
     - ⚠️ [6.1.6 Release](https://activemq.apache.org/components/classic/download/classic-06-01-06) - 7 March, 2025. Java 17+ required.
     - ⚠️ [5.19.0 Release](https://activemq.apache.org/components/classic/download/classic-05-19-00) - 11 March, 2025. Java 11+ required.
     - ✔️ [5.16.8 Release](https://activemq.apache.org/components/classic/download/classic-05-16-08) - 11 March, 2025. Java 8+ required. 
+      - Installation
+        - In **v8.3 and above**, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\lib`
+        <!--  - In v8.2 and below, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\Tomcat\lib` -->
       - ERROR:
         - `org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
       - **FIX**: 
@@ -192,13 +195,8 @@ java.lang.IllegalArgumentException
           - EDIT: DirectoryServiceProvider=tcp\://localhost\:61616?jms.trustAllPackages\=true
           - ADD LINE: connection.ConnectionFactory.trustAllPackages=true
       - Changelog
-        - This release enables ActiveMQ client TLS hostname validation by default which can cause a client connection failure for server certificates that do not match the server hostname. Please refer to SSL Transport Reference for configuration and [AMQ-7047](https://issues.apache.org/jira/browse/AMQ-7047) for more information.
         - Java 8 Required - The minimum Java version has been upgraded to Java 8.
-        - This release affects applications using ObjectMessages.
     - 📉 [**5.12.1 Release**](https://activemq.apache.org/components/classic/download/classic-05-12-01)
-      - Installation
-        - In **v8.3 and above**, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\lib`
-        <!--  - In v8.2 and below, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\Tomcat\lib` -->
     - 📉 [**5.8.0 Release**](https://activemq.apache.org/components/classic/download/classic-05-08-00) - Default version packaged with the server installation.
 
 - [**Java Service Wrapper** -](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.6.5** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition.
