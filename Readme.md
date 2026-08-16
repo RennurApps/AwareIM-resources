@@ -188,7 +188,7 @@ java.lang.IllegalArgumentException
             - In **startupOptions.props**: 
               - ADD: TOMCAT_STARTUP=..\\JDK\\bin\\java **-Dorg.apache.activemq.SERIALIZABLE_PACKAGES=org.openadaptor,com.bas,java.lang,java.util,java.math,java.sql,javax.jms,org.apache.activemq** 
             - In **BASServer.props**:
-              - EDIT: DirectoryServiceProvider=tcp\://localhost\:61616**?jms.trustAllPackages\=true**
+              - EDIT: DirectoryServiceProvider=tcp\://localhost\:61616?jms.trustAllPackages\=true
               - ADD LINE: connection.ConnectionFactory.trustAllPackages=true
       - Changelog
         - This release enables ActiveMQ client TLS hostname validation by default which can cause a client connection failure for server certificates that do not match the server hostname. Please refer to SSL Transport Reference for configuration and [AMQ-7047](https://issues.apache.org/jira/browse/AMQ-7047) for more information.
