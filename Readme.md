@@ -19,11 +19,11 @@
 
 <!--  Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete. -->
 
-#### [**👍 Tomcat `11.0.24`**](http://tomcat.apache.org/) - 3 Jul, 2026. Tomcat 11 is designed to run on `Java SE 11 or later`
+#### [**✔️ Tomcat `11.0.24`**](http://tomcat.apache.org/) - 3 Jul, 2026. Tomcat 11 is designed to run on `Java SE 11 or later`
 
 - [**Download Tomcat v11**](https://tomcat.apache.org/download-11.cgi) - 64bit recommended. Manual Install required.
 
-#### [**✔️ Tomcat `10.1.57`**](http://tomcat.apache.org/) - 3 Jul, 2026. v10.1.18 is the default version. Tomcat 10 is designed to run on `Java SE 11 or later`
+#### [**👍 Tomcat `10.1.57`**](http://tomcat.apache.org/) - 3 Jul, 2026. v10.1.18 is the default version. Tomcat 10 is designed to run on `Java SE 11 or later`
 
 <!-- #### [**📉 Tomcat `9.0.120`**](http://tomcat.apache.org/) - **3 Jul, 2026. Tomcat 9 is designed to run on `Java SE 8 or later`** -->
 
