@@ -66,15 +66,15 @@
 - Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
 - Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
 
-#### [**⚠️ Tomcat `11.0.15`**](http://tomcat.apache.org/) - 2 Dec, 2025. Tomcat 11 is designed to run on `Java SE 11 or later`
+#### [**⚠️ Tomcat `11.0.24`**](http://tomcat.apache.org/) - 3 Jul, 2026. Tomcat 11 is designed to run on `Java SE 11 or later`
 
 - [**Download Tomcat v11**](https://tomcat.apache.org/download-11.cgi) - 64bit recommended. Manual Install required.
 
-#### [**⚠️ Tomcat `10.1.50`**](http://tomcat.apache.org/) - 2 Dec, 2025. Tomcat 10 is designed to run on `Java SE 11 or later`
+#### [**⚠️ Tomcat `10.1.57`**](http://tomcat.apache.org/) - 3 Jul, 2026. Tomcat 10 is designed to run on `Java SE 11 or later`
 
-> ⚠️Tomcat output: <br>
+<!-- >> ⚠️Tomcat output: <br>
 > SEVERE: Servlet [action] in web application [/AwareIM] threw load() exception
-> java.lang.ClassNotFoundException: javax.servlet.http.HttpServlet
+> java.lang.ClassNotFoundException: javax.servlet.http.HttpServlet -->
 
 - [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi) - 64bit recommended. Manual Install required.
 
@@ -85,7 +85,7 @@
 - [Tomcat 10 Documentation](https://tomcat.apache.org/tomcat-10.1-doc/index.html).
 - [Tomcat 10 Changelog](https://tomcat.apache.org/tomcat-10.1-doc/changelog.html).
 
-#### [**✔️ Tomcat `9.0.19.0.113`**](http://tomcat.apache.org/) - **2 Dec, 2025. Tomcat 9 is designed to run on `Java SE 8 or later`**
+#### [**✔️ Tomcat `9.0.120`**](http://tomcat.apache.org/) - **3 Jul, 2026. Tomcat 9 is designed to run on `Java SE 8 or later`**
 
 <!-- ** Tomcat `9.0.89+`** (http://tomcat.apache.org/) Has issues processing SSL:
 
