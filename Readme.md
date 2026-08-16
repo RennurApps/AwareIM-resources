@@ -62,27 +62,17 @@
 
   > 📉 ActiveMQ `5.8.0` (06/02/2013) packaged with Aware IM.
 
-  <!-- - **Reported issues in Aware IM** - Scalability, bugs, performance...
-    - [Highly demand -- updates - security concerns](https://awareim.com/forum/viewtopic.php?f=1&t=10539&p=48389)
-    - [How many Communication driven apps can we host on 1 serv](https://awareim.com/forum/viewtopic.php?f=1&p=51529)
-  - [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab. -->
-
-<!-- - ⚠️ [6.2.0 Release](https://activemq.apache.org/components/classic/download/classic-06-02-00) - 14 November, 2025. Java 17+ required. - ⚠️ [6.1.6 Release](https://activemq.apache.org/components/classic/download/classic-06-01-06) - 7 March, 2025. Java 17+ required. - ⚠️ [5.19.0 Release](https://activemq.apache.org/components/classic/download/classic-05-19-00) - 11 March, 2025. Java 11+ required. -->
-
   - **Releases**:
-    - ✔️ [5.16.8 Release](https://activemq.apache.org/components/classic/download/classic-05-16-08) - 22 March, 2025. Java 8+ required. 
+    - ✔️ [**5.19.10 Release**](https://activemq.apache.org/components/classic/download/classic-05-19-10) - 10 Aug, 2026. Java 11+ required. 
       - Installation
-        - In AwareIM **v8.3 and above**, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\lib`
-        <!--  - In v8.2 and below, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\Tomcat\lib` -->
-      - ERROR:
-        - `org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
-      - **FIX - AwareIM v6.0**: 
-        - In **startupOptions.props**: 
-          - ADD TO: TOMCAT_STARTUP=..\\JDK\\bin\\java 
-           `-Dorg.apache.activemq.SERIALIZABLE_PACKAGES=org.openadaptor,com.bas,java.lang,java.util,java.math,java.sql,javax.jms,org.apache.activemq`
-        - In **BASServer.props**:
-          - EDIT: DirectoryServiceProvider=tcp\://localhost\:61616?jms.trustAllPackages\=true
-          - ADD LINE: connection.ConnectionFactory.trustAllPackages=true
+        - In AwareIM **v8.3 and above**, extract, rename `activemq-all-5.19.10.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\lib`
+        - **APPLY FIX**: 
+          - In **startupOptions.props**: 
+            - ADD TO: TAWAREIM_SERVER_STARTUP=..\\JDK\\bin\\java 
+            `-Dorg.apache.activemq.SERIALIZABLE_PACKAGES\=org.openadaptor.dataobjects,java.lang,java.util,java.io,java.time`
+        - **Required log4j-1.2.17.jar** 
+          - [Download Apache log4j](https://logging.apache.org/log4j/1.x/download.html) 
+          - Extract to `C:\AwareIM\lib`
     - 👍 [**5.12.1 Release**](https://activemq.apache.org/components/classic/download/classic-05-12-01) - No extra config required. Direct replacement to v5.8.0. 
     - 👍 [5.8.0 Release](https://activemq.apache.org/components/classic/download/classic-05-08-00) - Default version packaged with the server installation.
     - 📉 [Download Archichives](https://activemq.apache.org/components/classic/documentation/download-archives) 
