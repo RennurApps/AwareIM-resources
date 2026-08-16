@@ -10,7 +10,7 @@
 
 ✔️ [**v10.0 build 3530**](https://docs.awareim.com/ref/changelog/0000/9.n/9.0/3280) - 24 Nov 2025.
 
-- New Features and improvements in version 9.0
+- New Features and improvements in version 10.0
   - 3479 - [**`10.0` New Release**](https://docs.awareim.com/ref/changelog/10.0/3479) - 19 Jun 2025.
 
 ### Application Server
