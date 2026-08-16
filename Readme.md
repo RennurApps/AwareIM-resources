@@ -17,7 +17,7 @@
 
 #### Apache Tomcat
 
-> Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete.
+<!--  Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete. -->
 
 #### [**👍 Tomcat `11.0.24`**](http://tomcat.apache.org/) - 3 Jul, 2026. Tomcat 11 is designed to run on `Java SE 11 or later`
 
