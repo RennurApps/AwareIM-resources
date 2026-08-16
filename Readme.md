@@ -68,7 +68,7 @@
         - In AwareIM **v8.3 and above**, extract, rename `activemq-all-5.19.10.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\lib`
         - **APPLY FIX**: 
           - In **startupOptions.props**: 
-            - ADD TO: TAWAREIM_SERVER_STARTUP=..\\JDK\\bin\\java 
+            - ADD TO: AWAREIM_SERVER_STARTUP=..\\JDK\\bin\\java 
             `-Dorg.apache.activemq.SERIALIZABLE_PACKAGES\=org.openadaptor.dataobjects,java.lang,java.util,java.io,java.time`
         - **Required log4j-1.2.17.jar** 
           - [Download Apache log4j](https://logging.apache.org/log4j/1.x/download.html) 
