@@ -69,7 +69,7 @@
         - **APPLY FIX**: 
           - In **startupOptions.props**: 
             - ADD TO: AWAREIM_SERVER_STARTUP=..\\JDK\\bin\\java 
-            `-Dorg.apache.activemq.SERIALIZABLE_PACKAGES\=org.openadaptor.dataobjects,java.lang,java.util,java.io,java.time`
+            `-Dorg.apache.activemq.SERIALIZABLE_PACKAGES=org.openadaptor,com.bas,java.lang,java.util,java.io,java.time`
         - **Required log4j-1.2.17.jar** 
           - [Download Apache log4j](https://logging.apache.org/log4j/1.x/download.html) 
           - Extract to `C:\AwareIM\lib`
