@@ -145,7 +145,7 @@
   - 📉 [**Connector/J `9.7`**](https://downloads.mysql.com/archives/c-j/) - Archived. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
   - 📉 [Connector/J `8.4`](https://downloads.mysql.com/archives/c-j/) - Final version `v8.4`. Archived.
 
-- [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.8`. Java 8 required.
+- [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.13`. Java 8 required.
 
 - [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
 
