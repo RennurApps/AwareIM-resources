@@ -60,21 +60,25 @@
 
 - [**Apache ActiveMQ Classic**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
 
-  > 📉 ActiveMQ `5.8.0` (06/02/2013) packaged with Aware IM.
+  > 📉 ActiveMQ `6.1.7` (22/06/2025) packaged with Aware IM.
 
   - **Releases**:
-    - ✔️ [**5.19.10 Release**](https://activemq.apache.org/components/classic/download/classic-05-19-10) - 10 Aug, 2026. Java 11+ required. 
+    -   [6.3.1 Release](https://activemq.apache.org/components/classic/download/classic-06-03-01) - Works with latest version 10.1. 
       - Installation
-        - In AwareIM **v8.3 and above**, extract, rename `activemq-all-5.19.10.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\lib`
+        - Rxtract and rename `activemq-all-6.3.1.jar` to `activemq-all-6.1.7.jar` and replace the one in `C:\AwareIM\lib`
+        - **APPLY FIX**: 
+<!-->          - In **startupOptions.props**: 
+            - ADD TO: AWAREIM_SERVER_STARTUP=..\\JDK\\bin\\java 
+            `-Dorg.apache.activemq.SERIALIZABLE_PACKAGES=org.openadaptor,com.bas,java.lang,java.util,java.io,java.time` -->
+    - 👍 [6.1.7 Release](https://activemq.apache.org/components/classic/download/classic-06-01-07) - Default version packaged with 10.1.
+    - 📉 [**5.19.10 Release**](https://activemq.apache.org/components/classic/download/classic-05-19-10) - 10 Aug, 2026. Java 11+ required. 
+      - Installation
+        - In AwareIM **v8.3 and above**, extract, rename `activemq-all-5.19.10.jar` to `activemq-all-6.1.7.jar` and replace the one in `C:\AwareIM\lib`
         - **APPLY FIX**: 
           - In **startupOptions.props**: 
             - ADD TO: AWAREIM_SERVER_STARTUP=..\\JDK\\bin\\java 
             `-Dorg.apache.activemq.SERIALIZABLE_PACKAGES=org.openadaptor,com.bas,java.lang,java.util,java.io,java.time`
-        - **Required log4j-1.2.17.jar** 
-          - [Download Apache log4j](https://logging.apache.org/log4j/1.x/download.html) 
-          - Extract to `C:\AwareIM\lib`
-    - 👍 [**5.12.1 Release**](https://activemq.apache.org/components/classic/download/classic-05-12-01) - No extra config required. Direct replacement to v5.8.0. 
-    - 👍 [5.8.0 Release](https://activemq.apache.org/components/classic/download/classic-05-08-00) - Default version packaged with the server installation.
+
     - 📉 [Download Archichives](https://activemq.apache.org/components/classic/documentation/download-archives) 
 
 - [**Java Service Wrapper** -](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.6.5** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition.
