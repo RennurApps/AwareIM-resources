@@ -65,9 +65,9 @@
   - **Releases**:
     -   [6.3.1 Release](https://activemq.apache.org/components/classic/download/classic-06-03-01) - Works with latest version 10.1. 
       - Installation
-        - Rxtract and rename `activemq-all-6.3.1.jar` to `activemq-all-6.1.7.jar` and replace the one in `C:\AwareIM\lib`
-        - **APPLY FIX**: 
-<!-->          - In **startupOptions.props**: 
+        - Extract and rename `activemq-all-6.3.1.jar` to `activemq-all-6.1.7.jar` and replace the one in `C:\AwareIM\lib`
+<!--         - **APPLY FIX**: 
+         - In **startupOptions.props**: 
             - ADD TO: AWAREIM_SERVER_STARTUP=..\\JDK\\bin\\java 
             `-Dorg.apache.activemq.SERIALIZABLE_PACKAGES=org.openadaptor,com.bas,java.lang,java.util,java.io,java.time` -->
     - 👍 [6.1.7 Release](https://activemq.apache.org/components/classic/download/classic-06-01-07) - Default version packaged with 10.1.
