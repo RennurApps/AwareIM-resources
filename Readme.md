@@ -149,8 +149,8 @@
 
 - [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
 
-  - ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.com/kb/en/about-mariadb-connector-j/) - Out-of-the-box support in Aware IM `v8.3`+. Java `8+`
-  - :warning: [MariaDB Connector/J `3.5.7`](https://mariadb.com/docs/release-notes/connectors/java)
+  - ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.org/connector-java/all-releases/) - Out-of-the-box support in Aware IM `v8.3`+. Java `8+`
+  - :warning: [MariaDB Connector/J `3.5.10`](https://mariadb.org/download/?t=connector&p=connector-java&r=3.5.10&os=source)
 
 ### **Web Application Framework**
 
