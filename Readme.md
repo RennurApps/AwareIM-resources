@@ -60,7 +60,7 @@
 
 - [**Apache ActiveMQ Classic**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
 
-  > 📉 ActiveMQ `6.1.7` (22/06/2025) packaged with Aware IM.
+  > 👍 ActiveMQ `6.1.7` (22/06/2025) packaged with Aware IM.
 
   - **Releases**:
     - ✔️ [6.3.1 Release](https://activemq.apache.org/components/classic/download/classic-06-03-01) - Works with latest version 10.1. 
