@@ -1,4 +1,4 @@
-# Aware IM Server v10.0 Stack
+# Aware IM Server v10.1 Stack
 
 ## Application Server, Database Servers, Components, Frameworks, Dependencies, Microservices and other resources
 
@@ -6,12 +6,12 @@
 
 > Aware IM is a rapid low-code application development tool that lets you create powerful aesthetically appealing web applications quickly.
 
-[**Changelog**](https://docs.awareim.com/ref/changelog/10.0) 
+[**Changelog**](https://docs.awareim.com/ref/changelog/10.1) 
 
-✔️ [**v10.0 build 3530**](https://docs.awareim.com/ref/changelog/10.0/3530) - 24 Nov 2025.
+✔️ [**v10.1 build 3718**](https://docs.awareim.com/ref/changelog/10.1/3718) - 19 Aug 2026.
 
-- New Features and improvements in version 10.0
-  - 3479 - [**`10.0` New Release**](https://docs.awareim.com/ref/changelog/10.0/3479) - 19 Jun 2025.
+- New Features and improvements in version 10.1
+  - 3718 - [**`10.1` New Release**](https://docs.awareim.com/ref/changelog/10.1/3718) - 19 Aug 2026.
 
 ### Application Server
 
@@ -19,11 +19,11 @@
 
 <!--  Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete. -->
 
-#### [**✔️ Tomcat `11.0.24`**](http://tomcat.apache.org/) - 3 Jul, 2026. Tomcat 11 is designed to run on `Java SE 11 or later`
+#### [**👍 Tomcat `11.0.24`**](http://tomcat.apache.org/) - 3 Jul, 2026. 11.0.6 bundled with the latest Aware IM. Tomcat 11 is designed to run on `Java 17 or later`. 
 
 - [**Download Tomcat v11**](https://tomcat.apache.org/download-11.cgi) - 64bit recommended. Manual Install required.
 
-#### [**👍 Tomcat `10.1.57`**](http://tomcat.apache.org/) - 3 Jul, 2026. v10.1.18 is the default version. Tomcat 10 is designed to run on `Java SE 11 or later`
+#### [** 📉Tomcat `10.1.57`**](http://tomcat.apache.org/) - 3 Jul, 2026. Tomcat 10 is designed to run on `Java SE 11 or later`
 
 <!-- #### [**📉 Tomcat `9.0.120`**](http://tomcat.apache.org/) - **3 Jul, 2026. Tomcat 9 is designed to run on `Java SE 8 or later`** -->
 
@@ -37,9 +37,9 @@
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/au/java/technologies/downloads/) <!-- [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) -->
 
-  - ✔️ [**JDK Version `26.02`**](https://www.oracle.com/anz/java/technologies/downloads/#java26) - Works with Aware IM version `10.0`.
-  - 📉 [JDK Version `25.0.04`](https://www.oracle.com/anz/java/technologies/downloads/#java25) - Works with Aware IM version `10.0`. 
-  - 👍 [JDK Version `21.0.12`](https://www.oracle.com/anz/java/technologies/downloads/#java21) - 21.0.6 is default for `10.0`. 
+  - ✔️ [**JDK Version `26.02`**](https://www.oracle.com/anz/java/technologies/downloads/#java26) - Works with Aware IM version `10.1`.
+  - 📉 [JDK Version `25.0.04`](https://www.oracle.com/anz/java/technologies/downloads/#java25) - Works with Aware IM version `10.1`. 
+  - 👍 [JDK Version `21.0.12`](https://www.oracle.com/anz/java/technologies/downloads/#java21) - 21.0.5 is default for `10.1`. 
   - Versions bundled with Aware IM:
     - Aware IM `v9.0` - [JDK `17.0.6`](https://docs.oracle.com/en/java/javase/17/)
     - Aware IM `v8.6 - v8.8` - [JDK `12.0.2` Final](https://docs.oracle.com/en/java/javase/12/) - Archived.
@@ -158,7 +158,7 @@
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
     - Latest Kendo UI Release [**Kendo UI for jQuery 2026.3.811 (2026 Q3)**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-for-jquery-2026-3-811-(2026-q3)) - August 12, 2026.
-    - 👍 **Aware IM `10.0` Kendo UI version** [**Kendo UI R2 2023 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-sp1-(version-2023-2-718)) - July 19, 2023
+    - 👍 **Aware IM `10.1` Kendo UI version** [**Kendo UI R2 2023 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-sp1-(version-2023-2-718)) - July 19, 2023
     - 👍 Aware IM `9.0` Kendo UI version [**Kendo UI R2 2023 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-sp1-(version-2023-2-718)) - July 19, 2023
     - 📉 Aware IM `8.6 - 8.8` Kendo UI version [Kendo UI R3 2020 SP1](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
     - 📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
@@ -171,7 +171,7 @@
 
   - ❔ [Bootstrap `v5.3.8`](https://getbootstrap.com/)
   - ❔ [Bootstrap `v4.6.2`](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
-  - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**. Bootstrap `3.3.4` bundled with Aware IM `v10.0`.
+  - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**. Bootstrap `3.3.4` bundled with Aware IM `v10.1`.
     - [Download `v3.4.1`](https://getbootstrap.com/docs/3.4/getting-started/#download)
     - [Bootstrap `v3.4` CDN](https://getbootstrap.com/docs/3.4/getting-started/#download-cdn)
   - [All Bootstrap Versions](https://getbootstrap.com/docs/versions/)
@@ -187,7 +187,7 @@
 
   - ❔ Font Awesome `7.3.1 For The Web` - Latest version [Download](https://fontawesome.com/) - Released  July 2026.
   - ✔️ [Font Awesome version `6.7.2 For The Web`](https://github.com/FortAwesome/Font-Awesome/releases/tag/6.7.2) - Final. Released December 2024.
-  - 👍 Aware IM `10.0` bundles [Font Awesome version `6.7.1 For The Web`](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.6.3) - Released November 2024.
+  - 👍 Aware IM `10.1` bundles [Font Awesome version `6.7.1 For The Web`](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.6.3) - Released November 2024.
 
 - [**Lineicons**](https://lineicons.com/icons/) - An extensive library of over 8400 professionally designed SVG icons
 
