@@ -19,7 +19,7 @@
 
 <!--  Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete. -->
 
-#### [**👍 Tomcat `11.0.24`**](http://tomcat.apache.org/) - 3 Jul, 2026. 11.0.6 bundled with the latest Aware IM. Tomcat 11 is designed to run on `Java 17 or later`. 
+#### [**👍 Tomcat `11.0.25`**](http://tomcat.apache.org/) - 12 Aug, 2026. 11.0.6 bundled with the latest Aware IM. Tomcat 11 is designed to run on `Java 17 or later`. 
 
 - [**Download Tomcat v11**](https://tomcat.apache.org/download-11.cgi) - 64bit recommended. Manual Install required.
 
@@ -49,14 +49,14 @@
 
 #### Java Servlets
 
-- ✔️ [**Jakarta Mail `1.6.8`**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/) - Jul 23, 2025 Final Release. (formerly JavaMail)
+<!-- - ✔️ [**Jakarta Mail `1.6.8`**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/) - Jul 23, 2025 Final Release. (formerly JavaMail)
 
   - [**Download jakarta.mail-1.6.8.jar**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/1.6.8) or [here](https://repo1.maven.org/maven2/com/sun/mail/jakarta.mail)
     - **Installation**
       - In Aware IM **v8.3 and above**, rename _`jakarta.mail-x.x.x.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\lib`_
       - In Aware IM **v8.2 and below**, rename _`jakarta.mail-x.x.x.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_
       - Restart Aware IM server
-  - 📉 [JavaMail 1.6.2](https://javaee.github.io/javamail/) - August 30, 2018 Final Release. (superseded by JakartaMail)
+  - 📉 [JavaMail 1.6.2](https://javaee.github.io/javamail/) - August 30, 2018 Final Release. (superseded by JakartaMail) -->
 
 - [**Apache ActiveMQ Classic**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
 
