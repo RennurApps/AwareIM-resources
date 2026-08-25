@@ -85,7 +85,7 @@
     - **Download MySQL**
       - ✔️ [**MySQL Community Server 9.7.2 LTS**](http://dev.mysql.com/downloads/mysql/) July 2026.
         - Min Requirement: `Win 11`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - 👍 [*ySQL Community Server 8.4.11 LTS](http://dev.mysql.com/downloads/mysql/) - July 2026.
+      - 👍 [MySQL Community Server 8.4.11 LTS](http://dev.mysql.com/downloads/mysql/) - July 2026.
         - Min Requirement: `Win 10`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
       - 📉 [MySQL Community Server `8.0.46`](http://dev.mysql.com/downloads/mysql/) - April 2026.
       - 📉 [MySQL Community Server `5.7.44`](https://downloads.mysql.com/archives/community/) - Archived.
