@@ -8,7 +8,7 @@
 
 [**Changelog**](https://docs.awareim.com/ref/changelog/10.1) 
 
-✔️ [**v10.1 build 3720**](https://docs.awareim.com/ref/changelog/10.1/3720) - 22 Aug 2026.
+✔️ [**v10.1 build 3723**](https://docs.awareim.com/ref/changelog/10.1/3723) - 27 Aug 2026.
 
 - New Features and improvements in version 10.1
   - 3718 - [**`10.1` New Release**](https://docs.awareim.com/ref/changelog/10.1/3718) - 19 Aug 2026.
