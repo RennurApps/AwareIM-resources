@@ -1,4 +1,4 @@
-# Aware IM Server v9.0 Stack
+# Aware IM Server v10.1 Stack
 
 ## Application Server, Database Servers, Components, Frameworks, Dependencies, Microservices and other resources
 
@@ -6,148 +6,40 @@
 
 > Aware IM is a rapid low-code application development tool that lets you create powerful aesthetically appealing web applications quickly.
 
-[**Changelog**](https://docs.awareim.com/ref/changelog/0000/9.n/9.0) 
+[**Changelog**](https://docs.awareim.com/ref/changelog/10.1) 
 
-✔️ [**v9.0 build 3280**](https://docs.awareim.com/ref/changelog/0000/9.n/9.0/3280) - 23 September, 2024.
+✔️ [**v10.1 build 3726**](https://docs.awareim.com/ref/changelog/10.1/3726) - 29 Aug 2026.
 
-- New Features and improvements in version 9.0
-  - 3279 - Using standard CSV export now creates unique file names, so there is no conflict when people export at the same time
-  - 3279 - New options for EXPORT action - do not export a line with column descriptions, do not export attribute format and use labels in the column descriptions
-  - 3279 - Ability to specify selection mechanism for custom queries
-  - 3273 - 'load on demand' in grouped queries supports sorting and paging properly
-  - 3273 - Performance improvements for big complicated forms with many presentation rules
-  - 3273 - Improvements to Scroll View in custom queries
-    - new UI
-    - allow displaying several items per page
-    - preview fixes
-    - example in CRM
-  - 3273 - Support for client credentials flow in OAuth
-  - 3273 - “name field for binary REST part
-  - 3271 - 'load on demand' for grouped queries supports filtering and paging
-  - 3265 - DISPLAY/PICK FROM … USING QueryName
-  - 3263 - Multi-checkbox filter for standard queries
-  - 3260 - CREATE FOR EACH STRING
-  - 3260 - PARSE_JSON2 function - Returns the value of the specified attribute in the same node
-  - 3260 - Ability to direct actions in the template builder of a custom query to a `<DIV>`
-  - 3259 - Ability to save all REST communication details in a log (business object)
-  - 3257 - Loading content on demand for grouped queries - very useful for larger sets of data
-  - 3254 - Grouping now calculates summaries correctly even for big data sets
-  - 3254 - Support for group direction
-  - 3254 - Support for displaying group summaries in the group header column
-  - 3254 - Query preview is now supported for queries with grouping
-  - 3254 - Support for aggregates for all group levels
-  - 3254 - Ability to initially collapse any group
-  - 3254 - Ability to hide aggregates in column headers when a group is expanded
-  - 3254 - Auto refresh didn't work when calendar events were moved or resized
-  - 3254 - Left menu toggle command didn't work correctly when the top menu ran across the entire screen
-  - 3249 - New library for rendering HTML inside a PDF
-  - 3249 - Scaling image option for tags representing images in the Report Designer
-  - 3249 - Changing size and orientation of the report is now visually supported.
-  - 3246 - Date, time and duration widgets support mobile rendering
-  - 3246 - Multi-selection calendar widget - [Demo](https://demos.telerik.com/kendo-ui/calendar/selection)
-  - 3246 - CREATE FOR EACH DATE IN …
-  - 3243 - Custom row filter now supports attributes with dynamic choices
-  - 3243 - Placeholders for Line Icons PRO font
-  - 3241 - Support for alignment in tiles
-  - 3241 - Minor improvements of dialogs on a Mac
-  - 3241 - It should now be possible to explicitly indicate if a visual perspective can be used as a URL parameter
-  - 3237 - Tile dialog has better layout and supports Preview
-  - 3237 - Tree queries support paging (multi-column only)
-  - 3237 - Custom queries support paging options
-  - 3232 - [**`9.0` New Release**](https://docs.awareim.com/ref/changelog/0000/9.n/9.0/3232) - 28 Jan 2024.
+- New Features and improvements in version 10.1
+  - 3718 - [**`10.1` New Release**](https://docs.awareim.com/ref/changelog/10.1/3718) - 19 Aug 2026.
 
 ### Application Server
 
 #### Apache Tomcat
 
-> Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete.
+<!--  Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete. -->
 
-- **Tomcat 9.0.44** 32bit is the default version packaged in the **Aware IM 8.6 and above** server installation.
-- Tomcat 8.5.58 32bit is the default version packaged in the **Aware IM 8.5** server installation.
-- Tomcat 8.5.24 32bit is the default version packaged in the **Aware IM 8.4 and below** server installation.
-
-#### [**⚠️ Tomcat `11.0.24`**](http://tomcat.apache.org/) - 3 Jul, 2026. Tomcat 11 is designed to run on `Java SE 11 or later`
+#### [**👍 Tomcat `11.0.25`**](http://tomcat.apache.org/) - 12 Aug, 2026. 11.0.6 bundled with the latest Aware IM. Tomcat 11 is designed to run on `Java 17 or later`. 
 
 - [**Download Tomcat v11**](https://tomcat.apache.org/download-11.cgi) - 64bit recommended. Manual Install required.
 
-#### [**⚠️ Tomcat `10.1.57`**](http://tomcat.apache.org/) - 3 Jul, 2026. Tomcat 10 is designed to run on `Java SE 11 or later`
+#### [**📉 Tomcat `10.1.57`**](http://tomcat.apache.org/) - 3 Jul, 2026. Tomcat 10 is designed to run on `Java SE 11 or later`
 
-<!-- >> ⚠️Tomcat output: <br>
-> SEVERE: Servlet [action] in web application [/AwareIM] threw load() exception
-> java.lang.ClassNotFoundException: javax.servlet.http.HttpServlet -->
+<!-- #### [**📉 Tomcat `9.0.120`**](http://tomcat.apache.org/) - **3 Jul, 2026. Tomcat 9 is designed to run on `Java SE 8 or later`** -->
 
-- [**Download Tomcat v10**](https://tomcat.apache.org/download-10.cgi) - 64bit recommended. Manual Install required.
-
- <!-- - Works with AwareIM version `9.0`. -->
-
-- [**Security**](https://tomcat.apache.org/security-10.html)
-
-- [Tomcat 10 Documentation](https://tomcat.apache.org/tomcat-10.1-doc/index.html).
-- [Tomcat 10 Changelog](https://tomcat.apache.org/tomcat-10.1-doc/changelog.html).
-
-#### [**✔️ Tomcat `9.0.120`**](http://tomcat.apache.org/) - **3 Jul, 2026. Tomcat 9 is designed to run on `Java SE 8 or later`**
-
-<!-- ** Tomcat `9.0.89+`** (http://tomcat.apache.org/) Has issues processing SSL:
-
-<!-- Jun 20, 2024 7:40:09 PM org.apache.coyote.AbstractProtocol$ConnectionHandler process
-SEVERE: Error reading request, ignored
-java.lang.IllegalArgumentException
-	at java.nio.ByteBuffer.allocate(ByteBuffer.java:334)
-	at org.apache.coyote.http11.filters.ChunkedInputFilter.<init>(ChunkedInputFilter.java:120)
-	at org.apache.coyote.http11.Http11Processor.<init>(Http11Processor.java:172)
-	at org.apache.coyote.http11.AbstractHttp11Protocol.createProcessor(AbstractHttp11Protocol.java:1358)
-	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:924)
-	at org.apache.tomcat.util.net.Nio2Endpoint$SocketProcessor.doRun(Nio2Endpoint.java:1734)
-	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
-	at org.apache.tomcat.util.net.AbstractEndpoint.processSocket(AbstractEndpoint.java:1333)
-	at org.apache.tomcat.util.net.SecureNio2Channel$HandshakeWriteCompletionHandler.completed(SecureNio2Channel.java:124)
-	at org.apache.tomcat.util.net.SecureNio2Channel$HandshakeWriteCompletionHandler.completed(SecureNio2Channel.java:117)
-	at sun.nio.ch.Invoker.invokeUnchecked(Invoker.java:126)
-	at sun.nio.ch.Invoker$2.run(Invoker.java:218)
-	at sun.nio.ch.AsynchronousChannelGroupImpl$1.run(AsynchronousChannelGroupImpl.java:112)
-	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
-	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
-	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
-	at java.lang.Thread.run(Thread.java:750) -->
-
-- [**Download Tomcat v9**](https://tomcat.apache.org/download-90.cgi)
-
-  - Works with AwareIM versions `6.0` - `9.0`
-  - [**Security**](https://tomcat.apache.org/security-9.html)
-
-  - [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/index.html).
-  - [Tomcat 9 Changelog](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html).
-
-- **Installation**
-    <details>
-
-    <summary>Microsoft Windows Based Systems</summary>
-
-  - **IMPORTANT**: Ensure any prior modification of existing _`web.xml`_ and _`server.xml`_ configurations are not overwritten with the new version. There are configuration changes in the latest version of Tomcat relating to those two files.
-  - **Installation Steps - Windows**
-    - Stop the Aware IM server before updating Tomcat. Do **not** delete your current _C:\AwareIM\Tomcat_ folder.
-    - 1. **Extract** the archive and open the folder.
-    - 2. Open the extracted **Tomcat** folder.
-    - 3. Select all files and folders and press `Crl+c` to copy
-    - 4. Open you AwareIM v9.0 installation Tomcat folder **`C:\AwareIM\Tomcat`**
-    - 5. Press `Ctrl+v` to paste and replace all files and folders.
-    - 6. Rename or delete **ROOT** folder - _This is optional_. You can use this folder to store your own favicon.ico, error pages and other HTML/CSS/JS home page files.
-      </details>
 
 #### Java JDK
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
 
-  - ✔️ [**Oracle OpenJDK `26.0.1`**](https://jdk.java.net/26/) - Production-ready open-source builds of the Java Development Kit
+  - ✔️ [**Oracle OpenJDK `26.0.2.1`**](https://jdk.java.net/26/) - Production-ready open-source builds of the Java Development Kit
     - 📉 [Archived Versions](https://jdk.java.net/archive/)
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/au/java/technologies/downloads/) <!-- [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) -->
 
-  - ✔️ [**JDK Version `26.0.1`**](https://www.oracle.com/anz/java/technologies/downloads/#java26) - Works with Aware IM version `9.0`. 21 April 2026.
-  - 📉 [JDK Version `25.0.03`](https://www.oracle.com/anz/java/technologies/downloads/#java25) - Works with Aware IM version `9.0`. 29 May 2026.
-  - 📉 [JDK Version `21.0.11`](https://www.oracle.com/anz/java/technologies/downloads/#java21) - Works with Aware IM version `9.0`. 21 April 2026.
-  - 📉 [JDK Version `17.0.19`](https://www.oracle.com/anz/java/technologies/downloads/#java17) - Works with Aware IM version `8.6` - `9.0`. 21 April 2026.
-  - 👍 [JDK Version `8, Update 491`](https://www.oracle.com/anz/java/technologies/downloads/#java8) - Aware IM versions `6.0` - `8.5`. 21 April 2026. 
+  - ✔️ [**JDK Version `26.0.2.1`**](https://www.oracle.com/anz/java/technologies/downloads/#java26) - Works with Aware IM version `10.1`.
+  - 📉 [JDK Version `25.0.4.1`](https://www.oracle.com/anz/java/technologies/downloads/#java25) - Works with Aware IM version `10.1`. 
+  - 👍 [JDK Version `21.0.12.1`](https://www.oracle.com/anz/java/technologies/downloads/#java21) - 21.0.5 is default for `10.1`. 
   - Versions bundled with Aware IM:
     - Aware IM `v9.0` - [JDK `17.0.6`](https://docs.oracle.com/en/java/javase/17/)
     - Aware IM `v8.6 - v8.8` - [JDK `12.0.2` Final](https://docs.oracle.com/en/java/javase/12/) - Archived.
@@ -157,49 +49,32 @@ java.lang.IllegalArgumentException
 
 #### Java Servlets
 
-- ✔️ [**Jakarta Mail `1.6.8`**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/) - Jul 23, 2025 Final Release. (formerly JavaMail)
+<!-- - ✔️ [**Jakarta Mail `1.6.8`**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/) - Jul 23, 2025 Final Release. (formerly JavaMail)
 
   - [**Download jakarta.mail-1.6.8.jar**](https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail/1.6.8) or [here](https://repo1.maven.org/maven2/com/sun/mail/jakarta.mail)
     - **Installation**
       - In Aware IM **v8.3 and above**, rename _`jakarta.mail-x.x.x.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\lib`_
       - In Aware IM **v8.2 and below**, rename _`jakarta.mail-x.x.x.jar`_ to **_`mail.jar`_** and replace the one in _`C:\AwareIM\Tomcat\lib`_
       - Restart Aware IM server
-  - 📉 [JavaMail 1.6.2](https://javaee.github.io/javamail/) - August 30, 2018 Final Release. (superseded by JakartaMail)
+  - 📉 [JavaMail 1.6.2](https://javaee.github.io/javamail/) - August 30, 2018 Final Release. (superseded by JakartaMail) -->
 
 - [**Apache ActiveMQ Classic**](http://activemq.apache.org/) - The most popular and powerful open source messaging and Integration Patterns server. Apache [ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ) is an open source message broker written in Java together with a full Java Message Service (JMS) client.
 
-  > 📉 ActiveMQ `5.8.0` (06/02/2013) packaged with Aware IM.
-
-  <!-- - **Reported issues in Aware IM** - Scalability, bugs, performance...
-    - [Highly demand -- updates - security concerns](https://awareim.com/forum/viewtopic.php?f=1&t=10539&p=48389)
-    - [How many Communication driven apps can we host on 1 serv](https://awareim.com/forum/viewtopic.php?f=1&p=51529)
-  - [**Issues**](https://github.com/RennurApps/AwareIM-resources/issues) - Refer to the Issues tab. -->
-
-<!-- - ⚠️ [6.2.0 Release](https://activemq.apache.org/components/classic/download/classic-06-02-00) - 14 November, 2025. Java 17+ required. - ⚠️ [6.1.6 Release](https://activemq.apache.org/components/classic/download/classic-06-01-06) - 7 March, 2025. Java 17+ required. - ⚠️ [5.19.0 Release](https://activemq.apache.org/components/classic/download/classic-05-19-00) - 11 March, 2025. Java 11+ required. -->
+  > 👍 ActiveMQ `6.1.7` (22/06/2025) packaged with Aware IM.
 
   - **Releases**:
-    - ✔️ [5.16.8 Release](https://activemq.apache.org/components/classic/download/classic-05-16-08) - 22 March, 2025. Java 8+ required. 
+    - ✔️ [6.3.1 Release](https://activemq.apache.org/components/classic/download/classic-06-03-01) - Works with latest version 10.1. 
       - Installation
-        - In AwareIM **v8.3 and above**, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\lib`
-        <!--  - In v8.2 and below, extract, rename `activemq-all-x.xx.x.jar` to `activemq-all-5.8.0.jar` and replace the one in `C:\AwareIM\Tomcat\lib` -->
-      - ERROR:
-        - `org.openadaptor.adaptor.jms.JMSListener - onMessage: JMSException: [javax.jms.JMSException: Failed to build body from bytes. Reason: java.io.StreamCorruptedException: Inconsistent vector internals [java.io.StreamCorruptedException: Inconsistent vector internals]]`
-      - **FIX**: 
-        - In **startupOptions.props**: 
-          - ADD TO: TOMCAT_STARTUP=..\\JDK\\bin\\java 
-           `-Dorg.apache.activemq.SERIALIZABLE_PACKAGES=org.openadaptor,com.bas,java.lang,java.util,java.math,java.sql,javax.jms,org.apache.activemq`
-        - In **BASServer.props**:
-          - EDIT: DirectoryServiceProvider=tcp\://localhost\:61616?jms.trustAllPackages\=true
-          - ADD LINE: connection.ConnectionFactory.trustAllPackages=true
-    - 📉 [**5.12.1 Release**](https://activemq.apache.org/components/classic/download/classic-05-12-01) - No extra config required. Direct replacement to v5.8.0. 
-    - 📉 [5.8.0 Release](https://activemq.apache.org/components/classic/download/classic-05-08-00) - Default version packaged with the server installation.
+        - Extract and rename `activemq-all-6.3.1.jar` to `activemq-all-6.1.7.jar` and replace the one in `C:\AwareIM\lib`
+    - 👍 [6.1.7 Release](https://activemq.apache.org/components/classic/download/classic-06-01-07) - Default version packaged with 10.1.
+    - 📉 [**5.19.10 Release**](https://activemq.apache.org/components/classic/download/classic-05-19-10) - 10 Aug, 2026. Java 11+ required. 
     - 📉 [Download Archichives](https://activemq.apache.org/components/classic/documentation/download-archives) 
 
 - [**Java Service Wrapper** -](http://wrapper.tanukisoftware.com/doc/english/download.jsp) - **32bit v3.6.5** 64-bit Windows versions of the Java Service Wrapper are not currently being made available in the Community Edition.
 
   - [**Licensing Overview**](https://wrapper.tanukisoftware.com/doc/english/licenseOverview.html) - Choosing an Appropriate License.
 
-- [**Apache Axis2/Java**](https://axis.apache.org/axis2/java/core/) - Apache Axis2 Web Services JSON / SOAP / WSDL engine.
+<!-- - [**Apache Axis2/Java**](https://axis.apache.org/axis2/java/core/) - Apache Axis2 Web Services JSON / SOAP / WSDL engine. -->
 
 ### Database Servers
 
@@ -208,9 +83,9 @@ java.lang.IllegalArgumentException
   - [**MySQL Community Server**](http://www.mysql.com/products/community/)
     - [Supported Platforms: MySQL Database](https://www.mysql.com/support/supportedplatforms/database.html)
     - **Download MySQL**
-      - ✔️ [MySQL Community Server 9.7.2 LTS](http://dev.mysql.com/downloads/mysql/) July 2026.
+      - ✔️ [**MySQL Community Server 9.7.2 LTS**](http://dev.mysql.com/downloads/mysql/) July 2026.
         - Min Requirement: `Win 11`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - 👍 [**MySQL Community Server 8.4.11 LTS**](http://dev.mysql.com/downloads/mysql/) - July 2026.
+      - 👍 [MySQL Community Server 8.4.11 LTS](http://dev.mysql.com/downloads/mysql/) - July 2026.
         - Min Requirement: `Win 10`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
       - 📉 [MySQL Community Server `8.0.46`](http://dev.mysql.com/downloads/mysql/) - April 2026.
       - 📉 [MySQL Community Server `5.7.44`](https://downloads.mysql.com/archives/community/) - Archived.
@@ -235,12 +110,12 @@ java.lang.IllegalArgumentException
 - **PostgreSQL**
 
   - [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system.
-  - [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Version `18.4` <!-- https://endoflife.date/postgresql -->
+  - [Download](https://www.postgresql.org/download/) - Version `18.6` <!-- https://endoflife.date/postgresql -->
 
 - **Maria DB**
 
   - [**MariaDB**](https://mariadb.org/) - Free and open-source software under the GNU General Public License.
-  - [Download](https://mariadb.org/download/) - Version `12.1.2`.
+  - [Download](https://mariadb.org/download/) - Version `12.3.2`.
 
 - [**SQL Server**](https://www.microsoft.com/en-in/sql-server/)
 
@@ -253,31 +128,31 @@ java.lang.IllegalArgumentException
 
 - [**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
-  - ✔️ [**Connector/J `9.7`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `v9.7.0`**. Requires `Java 8` and `above`. Connector/J 8.3 supports MySQL `5.7`, `8.0`, and `8.3`.
-
+  - ✔️ [**Connector/J `26.7.0`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `26.7.0`**. Requires `Java 8` and `above`. 
     - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
     - **Installation**
       - Application Server
-        1. Extract the files and rename `mysql-connector-java-9.x.xx-bin.jar` to `mysql-connector-j-8.0.31.jar`
+        1. Extract the files and rename `mysql-connector-java-26.x.x-bin.jar` to `mysql-connector-j-8.0.31.jar`
         2. Copy and replace the existing file in `C:\AwareIM\lib`
         3. Restart AwareIM Server
+  - 📉 [**Connector/J `9.7`**](https://downloads.mysql.com/archives/c-j/) - Archived. Requires `Java 8` and `above`. 
+  - 📉 [Connector/J `8.4`](https://downloads.mysql.com/archives/c-j/) - Final version. Archived.
 
-  - 📉 [Connector/J `8.4`](https://downloads.mysql.com/archives/c-j/) - Final version `v8.4`. Archived.
-
-- [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.8`. Java 8 required.
+- [**PostgreSQL JDBC Connector**](https://jdbc.postgresql.org/download/) - Current version `42.7.13`. Java 8 required.
 
 - [**MariaDB Connectors**](https://mariadb.com/kb/en/library/connectors/)
 
-  - ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.com/kb/en/about-mariadb-connector-j/) - Out-of-the-box support in Aware IM `v8.3`+. Java `8+`
-  - :warning: [MariaDB Connector/J `3.5.7`](https://mariadb.com/docs/release-notes/connectors/java)
+  - ✔️ [**MariaDB Connector/J `2.3.0`**](https://mariadb.org/connector-java/all-releases/) - Out-of-the-box support in Aware IM `v8.3`+. Java `8+`
+  - :warning: [MariaDB Connector/J `3.5.10`](https://mariadb.org/download/?t=connector&p=connector-java&r=3.5.10&os=source)
 
 ### **Web Application Framework**
 
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - Kendo UI for jQuery delivers everything you need for data handling, data grids, forms, navigation, performance, UX, design, accessibility, and so much more.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
-    - Latest Kendo UI Release [**Kendo UI for jQuery 2026.2.520 (2026 Q2)**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-for-jquery-2026-2-520-(2026-q2)) - May 20, 2026.
-    - 👍 **Aware IM `9.0` Kendo UI version** [**Kendo UI R2 2023 SP1**](<https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-sp1-(version-2023-2-718)>) - July 19, 2023
+    - Latest Kendo UI Release [**Kendo UI for jQuery 2026.3.811 (2026 Q3)**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-for-jquery-2026-3-811-(2026-q3)) - August 12, 2026.
+    - 👍 **Aware IM `10.1` Kendo UI version** [**Kendo UI R2 2023 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-sp1-(version-2023-2-718)) - July 19, 2023
+    - 👍 Aware IM `9.0` Kendo UI version [**Kendo UI R2 2023 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-sp1-(version-2023-2-718)) - July 19, 2023
     - 📉 Aware IM `8.6 - 8.8` Kendo UI version [Kendo UI R3 2020 SP1](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
     - 📉 Aware IM `8.1 - 8.5` Kendo UI version [Kendo UI R3 2017](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2017) - September 13, 2017
     - 📉 Aware IM `7.0 - 8.0` Kendo UI version [Kendo UI Q1 2016](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-q1-2016) - January 12, 2016
@@ -289,7 +164,7 @@ java.lang.IllegalArgumentException
 
   - ❔ [Bootstrap `v5.3.8`](https://getbootstrap.com/)
   - ❔ [Bootstrap `v4.6.2`](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
-  - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**. Bootstrap `3.3.4` bundled with Aware IM `v9.0`.
+  - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**. Bootstrap `3.3.4` bundled with Aware IM `v10.1`.
     - [Download `v3.4.1`](https://getbootstrap.com/docs/3.4/getting-started/#download)
     - [Bootstrap `v3.4` CDN](https://getbootstrap.com/docs/3.4/getting-started/#download-cdn)
   - [All Bootstrap Versions](https://getbootstrap.com/docs/versions/)
@@ -303,9 +178,9 @@ java.lang.IllegalArgumentException
 
 - [**Font Awesome 5**](https://fontawesome.com/) - Icon library.
 
-  - ❔ Font Awesome `6.7.2 For The Web` - Latest version [Download](https://fontawesome.com/) - Released December 2024.
-  - ❔📉 Font Awesome `5.15.4 For The Web` - [Download](https://fontawesome.com/v5/download) - Released August 2021.
-  - ✔️ Aware IM `9.0` bundles [Font Awesome version `5.6.3 For The Web`](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.6.3) - Released December 2018.
+  - ❔ Font Awesome `7.3.1 For The Web` - Latest version [Download](https://fontawesome.com/) - Released  July 2026.
+  - ✔️ [Font Awesome version `6.7.2 For The Web`](https://github.com/FortAwesome/Font-Awesome/releases/tag/6.7.2) - Final. Released December 2024.
+  - 👍 Aware IM `10.1` bundles [Font Awesome version `6.7.1 For The Web`](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.6.3) - Released November 2024.
 
 - [**Lineicons**](https://lineicons.com/icons/) - An extensive library of over 8400 professionally designed SVG icons
 
