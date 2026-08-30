@@ -176,7 +176,7 @@
 
 ##### Icons
 
-- [**Font Awesome 5**](https://fontawesome.com/) - Icon library.
+- [**Font Awesome**](https://fontawesome.com/) - Icon library.
 
   - ❔ Font Awesome `7.3.1 For The Web` - Latest version [Download](https://fontawesome.com/) - Released  July 2026.
   - ✔️ [Font Awesome version `6.7.2 For The Web`](https://github.com/FortAwesome/Font-Awesome/releases/tag/6.7.2) - Final. Released December 2024.
