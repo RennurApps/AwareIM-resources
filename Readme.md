@@ -8,7 +8,7 @@
 
 [**Changelog**](https://docs.awareim.com/ref/changelog/10.1) 
 
-✔️ [**v10.1 build 3723**](https://docs.awareim.com/ref/changelog/10.1/3723) - 27 Aug 2026.
+✔️ [**v10.1 build 3726**](https://docs.awareim.com/ref/changelog/10.1/3726) - 29 Aug 2026.
 
 - New Features and improvements in version 10.1
   - 3718 - [**`10.1` New Release**](https://docs.awareim.com/ref/changelog/10.1/3718) - 19 Aug 2026.
@@ -32,14 +32,14 @@
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
 
-  - ✔️ [**Oracle OpenJDK `26.0.2`**](https://jdk.java.net/26/) - Production-ready open-source builds of the Java Development Kit
+  - ✔️ [**Oracle OpenJDK `26.0.2.1`**](https://jdk.java.net/26/) - Production-ready open-source builds of the Java Development Kit
     - 📉 [Archived Versions](https://jdk.java.net/archive/)
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/au/java/technologies/downloads/) <!-- [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) -->
 
-  - ✔️ [**JDK Version `26.02`**](https://www.oracle.com/anz/java/technologies/downloads/#java26) - Works with Aware IM version `10.1`.
-  - 📉 [JDK Version `25.0.04`](https://www.oracle.com/anz/java/technologies/downloads/#java25) - Works with Aware IM version `10.1`. 
-  - 👍 [JDK Version `21.0.12`](https://www.oracle.com/anz/java/technologies/downloads/#java21) - 21.0.5 is default for `10.1`. 
+  - ✔️ [**JDK Version `26.0.2.1`**](https://www.oracle.com/anz/java/technologies/downloads/#java26) - Works with Aware IM version `10.1`.
+  - 📉 [JDK Version `25.0.4.1`](https://www.oracle.com/anz/java/technologies/downloads/#java25) - Works with Aware IM version `10.1`. 
+  - 👍 [JDK Version `21.0.12.1`](https://www.oracle.com/anz/java/technologies/downloads/#java21) - 21.0.5 is default for `10.1`. 
   - Versions bundled with Aware IM:
     - Aware IM `v9.0` - [JDK `17.0.6`](https://docs.oracle.com/en/java/javase/17/)
     - Aware IM `v8.6 - v8.8` - [JDK `12.0.2` Final](https://docs.oracle.com/en/java/javase/12/) - Archived.
