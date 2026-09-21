@@ -19,7 +19,7 @@
 
 <!--  Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete. -->
 
-#### [**👍 Tomcat `11.0.25`**](http://tomcat.apache.org/) - 12 Aug, 2026. 11.0.6 bundled with the latest Aware IM. Tomcat 11 is designed to run on `Java 17 or later`. 
+#### [**👍 Tomcat `11.0.26`**](http://tomcat.apache.org/) - 9 Sep, 2026. 11.0.6 bundled with the latest Aware IM. Tomcat 11 is designed to run on `Java 17 or later`. 
 
 - [**Download Tomcat v11**](https://tomcat.apache.org/download-11.cgi) - 64bit recommended. Manual Install required.
 
@@ -32,12 +32,12 @@
 
 - [**OpenJDK Java SE Releases**](https://jdk.java.net) - Oracle provides the latest **OpenJDK** releases under the open source.
 
-  - ✔️ [**Oracle OpenJDK `26.0.2.1`**](https://jdk.java.net/26/) - Production-ready open-source builds of the Java Development Kit
+  - ✔️ [**Oracle OpenJDK `27`**](https://jdk.java.net/27/) - Production-ready open-source builds of the Java Development Kit
     - 📉 [Archived Versions](https://jdk.java.net/archive/)
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/au/java/technologies/downloads/) <!-- [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) -->
 
-  - ✔️ [**JDK Version `26.0.2.1`**](https://www.oracle.com/anz/java/technologies/downloads/#java26) - Works with Aware IM version `10.1`.
+  - ✔️ [**JDK Version `27.0.0`**](https://www.oracle.com/anz/java/technologies/downloads/#java27) - Works with Aware IM version `10.1`.
   - 📉 [JDK Version `25.0.4.1`](https://www.oracle.com/anz/java/technologies/downloads/#java25) - Works with Aware IM version `10.1`. 
   - 👍 [JDK Version `21.0.12.1`](https://www.oracle.com/anz/java/technologies/downloads/#java21) - 21.0.5 is default for `10.1`. 
   - Versions bundled with Aware IM:
