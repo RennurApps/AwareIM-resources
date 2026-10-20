@@ -8,7 +8,7 @@
 
 [**Changelog**](https://docs.awareim.com/ref/changelog/10.1) 
 
-✔️ [**v10.1 build 3749**](https://docs.awareim.com/ref/changelog/10.1) - 12 Oct 2026.
+✔️ [**v10.1 build 3751**](https://docs.awareim.com/ref/changelog/10.1) - Oct 2026.
 
 - New Features and improvements in version 10.1
   - 3718 - [**`10.1` New Release**](https://docs.awareim.com/ref/changelog/10.1/3718) - 19 Aug 2026.
@@ -72,9 +72,9 @@
   - [**MySQL Community Server**](http://www.mysql.com/products/community/)
     - [Supported Platforms: MySQL Database](https://www.mysql.com/support/supportedplatforms/database.html)
     - **Download MySQL**
-      - ✔️ [**MySQL Community Server 9.7.2 LTS**](http://dev.mysql.com/downloads/mysql/) July 2026.
+      - ✔️ [**MySQL Community Server 9.7.4 LTS**](http://dev.mysql.com/downloads/mysql/) October 2026.
         - Min Requirement: `Win 11`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
-      - 👍 [MySQL Community Server 8.4.11 LTS](http://dev.mysql.com/downloads/mysql/) - July 2026.
+      - 👍 [MySQL Community Server 8.4.13 LTS](http://dev.mysql.com/downloads/mysql/) - October 2026.
         - Min Requirement: `Win 10`, `Windows Server 2016`, `macOS 13`, `Oracle Linux 7` / `Red Hat Enterprise Linux 7` / `CentOS 7`
       - 📉 [MySQL Community Server `8.0.46`](http://dev.mysql.com/downloads/mysql/) - April 2026.
       - 📉 [MySQL Community Server `5.7.44`](https://downloads.mysql.com/archives/community/) - Archived.
