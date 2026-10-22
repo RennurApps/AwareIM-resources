@@ -35,9 +35,9 @@
 
 - [**Commercial Java SE Development Kit (JDK)**](https://www.oracle.com/au/java/technologies/downloads/) <!-- [Important Oracle JDK License Update starting April 16, 2019](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html) -->
 
-  - ✔️ [**JDK Version `27.0.0`**](https://www.oracle.com/anz/java/technologies/downloads/#java27) - Works with Aware IM version `10.1`.
-  - 📉 [JDK Version `25.0.4.1`](https://www.oracle.com/anz/java/technologies/downloads/#java25) - Works with Aware IM version `10.1`. 
-  - 👍 [JDK Version `21.0.12.1`](https://www.oracle.com/anz/java/technologies/downloads/#java21) - 21.0.5 is default for `10.1`. 
+  - ✔️ [**JDK Version `27.0.1`**](https://www.oracle.com/anz/java/technologies/downloads/#java27) - Works with Aware IM version `10.1`.
+  - 📉 [JDK Version `25.0.5`](https://www.oracle.com/anz/java/technologies/downloads/#java25) - Works with Aware IM version `10.1`. 
+  - 👍 [JDK Version `21.0.13`](https://www.oracle.com/anz/java/technologies/downloads/#java21) - 21.0.5 is default for `10.1`. 
   - Versions bundled with Aware IM:
     - Aware IM `v9.0` - [JDK `17.0.6`](https://docs.oracle.com/en/java/javase/17/)
     - Aware IM `v8.6 - v8.8` - [JDK `12.0.2` Final](https://docs.oracle.com/en/java/javase/12/) - Archived.
@@ -117,7 +117,7 @@
 
 - [**MySQL Connectors**](https://www.mysql.com/products/connector/)
 
-  - ✔️ [**Connector/J `26.7.0`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `26.7.0`**. Requires `Java 8` and `above`. 
+  - ✔️ [**Connector/J `26.10.0`**](https://dev.mysql.com/downloads/connector/j/) - **Latest version `26.10.0`**. Requires `Java 8` and `above`. 
     - [**Download Platform Independent Version**](https://dev.mysql.com/downloads/connector/j/)
     - **Installation**
       - Application Server
