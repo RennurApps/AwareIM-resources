@@ -8,7 +8,7 @@
 
 [**Changelog**](https://docs.awareim.com/ref/changelog/10.1) 
 
-✔️ [**v10.1 build 3753**](https://docs.awareim.com/ref/changelog/10.1) - Oct 2026.
+✔️ [**v10.1 build 3767**](https://docs.awareim.com/ref/changelog/10.1) - Nov 2026.
 
 - New Features and improvements in version 10.1
   - 3718 - [**`10.1` New Release**](https://docs.awareim.com/ref/changelog/10.1/3718) - 19 Aug 2026.
@@ -52,7 +52,7 @@
   > 👍 ActiveMQ `6.1.7` (22/06/2025) packaged with Aware IM.
 
   - **Releases**:
-    - ✔️ [6.3.2 Release](https://activemq.apache.org/components/classic/download/classic-06-03-02) - 2 Sep, 2026. Works with latest version 10.1. 
+    - ✔️ [6.3.3 Release](https://activemq.apache.org/components/classic/download/classic-06-03-03) - 27 Oct, 2026. Works with latest version 10.1. 
       - Installation
         - Extract and rename `activemq-all-6.3.2.jar` to `activemq-all-6.1.7.jar` and replace the one in `C:\AwareIM\lib`
     - 👍 [6.1.7 Release](https://activemq.apache.org/components/classic/download/classic-06-01-07) - Default version packaged with 10.1.
@@ -139,7 +139,7 @@
 - [**Kendo UI®**](https://www.telerik.com/kendo-ui) - Kendo UI for jQuery delivers everything you need for data handling, data grids, forms, navigation, performance, UX, design, accessibility, and so much more.
   - [**Roadmap**](https://www.telerik.com/support/whats-new/kendo-jquery-ui/roadmap)
   - [**Release History - jQuery**](https://www.telerik.com/support/whats-new/kendo-ui/release-history)
-    - Latest Kendo UI Release [**Kendo UI for jQuery 2026.3.1015**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-for-jquery-2026-3-1015) - October 15, 2026.
+    - Latest Kendo UI Release [**Kendo UI for jQuery 2026.4.1111 (2026 Q4)**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-for-jquery-2026-4-1111-(2026-q4)) - November 11, 2026.
     - 👍 **Aware IM `10.1` Kendo UI version** [**Kendo UI R2 2023 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-sp1-(version-2023-2-718)) - July 19, 2023
     - 👍 Aware IM `9.0` Kendo UI version [**Kendo UI R2 2023 SP1**](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r2-2023-sp1-(version-2023-2-718)) - July 19, 2023
     - 📉 Aware IM `8.6 - 8.8` Kendo UI version [Kendo UI R3 2020 SP1](https://www.telerik.com/support/whats-new/kendo-ui/release-history/kendo-ui-r3-2020-sp1) - October 21, 2020
@@ -151,7 +151,7 @@
 
 - **Bootstrap** - Frontend toolkit.
 
-  - ❔ [Bootstrap `v5.3.8`](https://getbootstrap.com/)
+  - ❔ [Bootstrap `v5.3.9`](https://getbootstrap.com/)
   - ❔ [Bootstrap `v4.6.2`](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
   - ✔️ [**Bootstrap v3**](https://getbootstrap.com/docs/3.4/) - **`3.4.1` (final)**. Bootstrap `3.3.4` bundled with Aware IM `v10.1`.
     - [Download `v3.4.1`](https://getbootstrap.com/docs/3.4/getting-started/#download)
