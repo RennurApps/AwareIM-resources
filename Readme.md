@@ -52,9 +52,10 @@
   > 👍 ActiveMQ `6.1.7` (22/06/2025) packaged with Aware IM.
 
   - **Releases**:
+    - ✔️ [6.4.0 Release](https://activemq.apache.org/components/classic/download/classic-06-04-00) - 27 Oct, 2026. Works with latest version 10.1. 
+       - Installation
+        - Extract and rename `activemq-all-6.4.x.jar` to `activemq-all-6.1.7.jar` and replace the one in `C:\AwareIM\lib`
     - ✔️ [6.3.3 Release](https://activemq.apache.org/components/classic/download/classic-06-03-03) - 27 Oct, 2026. Works with latest version 10.1. 
-      - Installation
-        - Extract and rename `activemq-all-6.3.2.jar` to `activemq-all-6.1.7.jar` and replace the one in `C:\AwareIM\lib`
     - 👍 [6.1.7 Release](https://activemq.apache.org/components/classic/download/classic-06-01-07) - Default version packaged with 10.1.
     - 📉 [**5.19.11 Release**](https://activemq.apache.org/components/classic/download/classic-05-19-11) - 5 Sep, 2026. Java 11+ required. 
     - 📉 [Download Archichives](https://activemq.apache.org/components/classic/documentation/download-archives) 
