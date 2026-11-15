@@ -19,7 +19,7 @@
 
 <!--  Caution: Installing Aware IM update (Setup.exe), overwrites and resets Tomcat & JDK folders back to default. In fact, all files are replaced during update. Always keep all new and amended files incl. images separately and copy+paste them back once the install is complete. -->
 
-#### [**👍 Tomcat `11.0.27`**](http://tomcat.apache.org/) - 6 Oct, 2026. 11.0.6 bundled with the latest Aware IM. Tomcat 11 is designed to run on `Java 17 or later`. 
+#### [**👍 Tomcat `11.0.29`**](http://tomcat.apache.org/) - 9 Nov, 2026. 11.0.6 bundled with the latest Aware IM. Tomcat 11 is designed to run on `Java 17 or later`. 
 
 - [**Download Tomcat v11**](https://tomcat.apache.org/download-11.cgi) - 64bit recommended. Manual Install required.
 
